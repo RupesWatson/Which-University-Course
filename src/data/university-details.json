@@ -1493,5 +1493,658 @@
       "Kent's European campuses in Brussels and Paris offer unparalleled international study options",
       "High Speed 1 rail service puts Canterbury under 1 hour from central London"
     ]
+  },
+  "london-school-of-economics-and-political-science": {
+    "slug": "london-school-of-economics-and-political-science",
+    "name": "London School of Economics and Political Science",
+    "city": "London",
+    "overview": "LSE is one of the world's leading social science universities, consistently ranked in the global top ten for Economics and Finance. Founded in 1895, the school has shaped economic thinking, public policy, and financial markets across generations. Its Department of Accounting and its Finance faculty draw some of the most internationally distinguished academics in the field, and the LSE network opens doors to investment banks, global institutions, and government bodies worldwide.",
+    "founded": 1895,
+    "totalStudents": 12000,
+    "internationalStudents": "70%",
+    "campusType": "City campus",
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "LSE guarantees accommodation in a hall of residence to all first-year undergraduates who accept LSE as their firm choice and apply by the deadline. Halls are located across central London, with excellent transport links to the Holborn campus.",
+      "avgWeeklyCost": "£180–£270",
+      "halls": ["Bankside House", "Butcher's Row", "Carr-Saunders Hall", "High Holborn Residence"],
+      "privateRentAreas": "Bermondsey, Elephant and Castle, Borough, Brixton"
+    },
+    "openDays": [
+      { "date": "21 June 2025", "type": "Undergraduate Open Day" },
+      { "date": "4 October 2025", "type": "Undergraduate Open Day" }
+    ],
+    "application": {
+      "ucasCode": "NN34",
+      "contextualOffers": false,
+      "interviewRequired": false,
+      "personalStatementTips": [
+        "Demonstrate genuine intellectual engagement with economics and finance beyond the A-level syllabus — reference books, essays, or economists who have shaped your thinking",
+        "Show quantitative aptitude and comfort with mathematical rigour; LSE courses are highly analytical",
+        "Articulate clearly why LSE's research-led, social-science approach appeals over more vocational programmes"
+      ],
+      "typicalTimeline": "Apply via UCAS by 29 January; LSE typically makes offers by March-April; firm and insurance choices by May; results and Clearing in August"
+    },
+    "studentLife": {
+      "union": "LSE Students' Union (LSESU)",
+      "societiesCount": "200+",
+      "sportsTeams": "40+",
+      "highlights": [
+        "LSE Finance Society is among the most active in the UK, hosting major speaker events and trading competitions",
+        "The LSE100 interdisciplinary course equips all students with analytical tools for real-world problem solving",
+        "LSESU runs dedicated consulting, investment banking, and careers support alongside the Careers Service"
+      ]
+    },
+    "cityLife": {
+      "description": "LSE sits in the heart of London's legal and financial district, minutes from the City of London, Canary Wharf, and the West End. Students are immersed in the global capital's cultural, professional, and social offering from day one, with unparalleled internship and networking access.",
+      "avgRentPerMonth": "£900–£1,400",
+      "costOfLiving": "High",
+      "transport": "Holborn station (Central and Piccadilly lines) on the doorstep; Zone 1 access to all of London; St Pancras Eurostar terminal 10 minutes away",
+      "highlights": [
+        "Immediate proximity to the City of London and major financial institutions",
+        "South Bank cultural corridor: Tate Modern, National Theatre, and Southbank Centre",
+        "Covent Garden, Bloomsbury, and the West End all within walking distance"
+      ],
+      "nightlife": "London offers every conceivable nightlife option. Students frequent Shoreditch, Soho, and Brixton, with affordable student nights across the capital and world-class live music, theatre, and arts events."
+    },
+    "notableAlumni": [
+      "George Soros — investor and philanthropist",
+      "Mick Jagger — Rolling Stones frontman (studied at LSE)",
+      "Cherie Blair — barrister and author",
+      "Sir Mervyn King — former Governor of the Bank of England"
+    ],
+    "keyFacts": [
+      "Consistently ranked top 3 in the UK and top 10 globally for Economics and Finance",
+      "Over 20 current or former heads of state among its alumni",
+      "LSE graduates are among the highest-earning of any UK university within five years of graduation"
+    ]
+  },
+  "queen-s-university-belfast": {
+    "slug": "queen-s-university-belfast",
+    "name": "Queen's University Belfast",
+    "city": "Belfast",
+    "overview": "Queen's University Belfast is a founding member of the Russell Group and one of the UK's leading research-intensive universities, established by Royal Charter in 1845. Its Queen's Management School offers highly regarded Accounting and Finance degrees with a strong emphasis on professional accreditations and graduate employability. Belfast's growing fintech and financial services sector makes QUB graduates increasingly sought-after in the Northern Ireland and broader UK job market.",
+    "founded": 1845,
+    "totalStudents": 25000,
+    "internationalStudents": "17%",
+    "campusType": "Urban campus",
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "Queen's guarantees a place in university-managed accommodation to all first-year students who firm Queen's and apply before the deadline. Halls are located on or close to the main campus in the leafy university quarter of South Belfast.",
+      "avgWeeklyCost": "£115–£155",
+      "halls": ["Elms BT9", "Queen's Elms Village", "Stranmillis College residences"],
+      "privateRentAreas": "Stranmillis, Botanic, Lisburn Road, Malone"
+    },
+    "openDays": [
+      { "date": "21 June 2025", "type": "Undergraduate Open Day" },
+      { "date": "13 September 2025", "type": "Undergraduate Open Day" },
+      { "date": "18 October 2025", "type": "Undergraduate Open Day" }
+    ],
+    "application": {
+      "ucasCode": "NN43",
+      "contextualOffers": true,
+      "interviewRequired": false,
+      "personalStatementTips": [
+        "Reference Queen's Management School's links with the Big Four and Belfast's growing professional services sector",
+        "Highlight any awareness of Northern Ireland's fintech ecosystem, including Allstate, Citi, and Invest NI initiatives",
+        "Demonstrate numerical and analytical aptitude through your A-level subject choices and any relevant activities"
+      ],
+      "typicalTimeline": "Apply by 29 January; offers typically made February-April; firm/insurance deadline in May; results and Clearing in August"
+    },
+    "studentLife": {
+      "union": "Queen's Students' Union",
+      "societiesCount": "250+",
+      "sportsTeams": "50+",
+      "highlights": [
+        "QUB Finance and Investment Society connects students with Belfast-based banks and professional services firms",
+        "Strong placement year culture — the Management School has established links with Deloitte, PwC, and EY Belfast offices",
+        "Queen's Sport is one of the finest sports facilities of any UK university"
+      ]
+    },
+    "cityLife": {
+      "description": "Belfast has undergone a dramatic transformation since the 1990s and is now one of the UK's most exciting and affordable student cities, with a thriving arts and culture scene, world-class restaurants, and a rapidly expanding tech and financial services economy.",
+      "avgRentPerMonth": "£450–£600",
+      "costOfLiving": "Low",
+      "transport": "Compact, walkable city centre; good bus and rail links; Belfast International and Belfast City airports well-connected to UK and European destinations",
+      "highlights": [
+        "Titanic Quarter and the award-winning Titanic Belfast museum",
+        "Cathedral Quarter's independent bars, live music, and art galleries",
+        "Botanic Gardens and the Ulster Museum adjacent to the campus"
+      ],
+      "nightlife": "Belfast has a famously welcoming pub and bar culture centred on the Cathedral Quarter, Botanic Avenue, and the Linen Quarter, with live music a constant fixture."
+    },
+    "notableAlumni": [
+      "Seamus Heaney — Nobel Prize-winning poet",
+      "Mary McAleese — former President of Ireland",
+      "Phil Coulter — musician and songwriter"
+    ],
+    "keyFacts": [
+      "Russell Group member and one of the UK's top 25 universities for research quality",
+      "Belfast is the UK's most affordable major city for students — cost of living well below the national average",
+      "Queen's Management School is AACSB accredited with strong ties to Belfast's growing financial services sector"
+    ]
+  },
+  "glasgow": {
+    "slug": "glasgow",
+    "name": "University of Glasgow",
+    "city": "Glasgow",
+    "overview": "The University of Glasgow is one of the world's oldest universities, founded in 1451, and a proud member of the Russell Group. Its Adam Smith Business School — named after the father of modern economics, who studied and lectured here — is internationally recognised for research in accounting, finance, and economics. Glasgow's vibrant West End campus, world-class research output, and strong links to Scotland's financial services sector make it a compelling choice for ambitious finance students.",
+    "founded": 1451,
+    "totalStudents": 37000,
+    "internationalStudents": "29%",
+    "campusType": "City campus",
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "The University of Glasgow guarantees accommodation to all first-year undergraduate students who accept a place and apply before the deadline. Halls are located on and around the Gilmorehill campus in the West End, with a range of catered and self-catered options.",
+      "avgWeeklyCost": "£120–£175",
+      "halls": ["Queen Margaret Residence", "Cairncross House", "Kelvinhaugh Gate"],
+      "privateRentAreas": "West End, Partick, Hillhead, Hyndland, Finnieston"
+    },
+    "openDays": [
+      { "date": "21 June 2025", "type": "Undergraduate Open Day" },
+      { "date": "20 September 2025", "type": "Undergraduate Open Day" },
+      { "date": "11 October 2025", "type": "Undergraduate Open Day" }
+    ],
+    "application": {
+      "ucasCode": "N4N3",
+      "contextualOffers": true,
+      "interviewRequired": false,
+      "personalStatementTips": [
+        "Acknowledge the breadth of Glasgow's four-year Scottish degree — show you're enthused by the wider business and economics modules in Years 1 and 2",
+        "Reference the Adam Smith Business School's research reputation and any areas of accounting or finance theory that interest you",
+        "Highlight any awareness of Glasgow's role as Scotland's commercial capital and its growing fintech and financial services scene"
+      ],
+      "typicalTimeline": "Apply via UCAS by 29 January; offers made February-April; for Scottish students applying via SAAS, confirm funding early; results and Clearing August"
+    },
+    "studentLife": {
+      "union": "Glasgow University Union (GUU) and Queen Margaret Union (QMU)",
+      "societiesCount": "300+",
+      "sportsTeams": "60+",
+      "highlights": [
+        "Glasgow University Finance Society runs regular speaker events with Scottish and London-based finance professionals",
+        "The GUU is one of the oldest and most active students' unions in the UK with a strong debating tradition",
+        "Excellent placement year programme with links to Big Four firms in Glasgow and Edinburgh"
+      ]
+    },
+    "cityLife": {
+      "description": "Glasgow is Scotland's largest city and one of Europe's most exciting urban destinations, with a world-class food and drink scene, thriving arts culture, and a rapidly growing tech and financial services sector. Students benefit from a genuinely affordable cost of living alongside a city that punches well above its weight for nightlife, music, and culture.",
+      "avgRentPerMonth": "£550–£750",
+      "costOfLiving": "Low–Moderate",
+      "transport": "Extensive bus and subway network (the 'Clockwork Orange'); Glasgow Central and Queen Street stations connect to Edinburgh (50 min), London, and beyond; Glasgow Airport 15 minutes by taxi",
+      "highlights": [
+        "Kelvingrove Art Gallery and Museum and the Riverside Museum on the doorstep",
+        "Finnieston's acclaimed restaurant and bar strip — one of the UK's best eating-out destinations",
+        "The Barrowlands and SEC Armadillo for world-class live music"
+      ],
+      "nightlife": "Glasgow has one of the UK's most celebrated nightlife scenes, from the legendary Subclub to intimate jazz bars in the West End and student-friendly venues along Sauchiehall Street."
+    },
+    "notableAlumni": [
+      "Adam Smith — economist and author of The Wealth of Nations",
+      "James Watt — inventor of the steam engine (instrument maker to the university)",
+      "John Logie Baird — inventor of television",
+      "Sir Alex Ferguson — football manager (honorary degree)"
+    ],
+    "keyFacts": [
+      "Russell Group member; one of the world's top 100 universities; founded 1451 — the fourth oldest in the English-speaking world",
+      "Adam Smith Business School named after the university's most famous alumnus, the father of modern economics",
+      "Glasgow's Scottish four-year degree structure offers greater academic breadth than standard three-year UK programmes"
+    ]
+  },
+  "city-st-george-s-university-of-london": {
+    "slug": "city-st-george-s-university-of-london",
+    "name": "City St George's, University of London",
+    "city": "London",
+    "overview": "City St George's, University of London (formerly City, University of London) is home to Bayes Business School, one of the UK's leading business schools for finance, actuarial science, and quantitative programmes. Located in the heart of the City of London, students benefit from extraordinary proximity to the financial district, with major banks, insurance companies, and professional services firms all within walking distance. Bayes is triple-accredited and renowned for the quality and employability of its finance graduates.",
+    "founded": 1894,
+    "totalStudents": 25000,
+    "internationalStudents": "40%",
+    "campusType": "City campus",
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "City guarantees accommodation to all first-year students who firm City and apply before the deadline. Halls are located close to the main Islington campus and in other central London locations, providing easy access to both campus and the City of London.",
+      "avgWeeklyCost": "£185–£265",
+      "halls": ["Bastwick Street", "Finsbury Student Village", "Liberty Court"],
+      "privateRentAreas": "Islington, Clerkenwell, Hoxton, Bethnal Green, Hackney"
+    },
+    "openDays": [
+      { "date": "21 June 2025", "type": "Undergraduate Open Day" },
+      { "date": "27 September 2025", "type": "Undergraduate Open Day" },
+      { "date": "1 November 2025", "type": "Undergraduate Open Day" }
+    ],
+    "application": {
+      "ucasCode": "NN34",
+      "contextualOffers": false,
+      "interviewRequired": false,
+      "personalStatementTips": [
+        "Demonstrate awareness of Bayes Business School's specialist strengths in quantitative finance, actuarial science, and risk management",
+        "Reference City's location advantage — show that proximity to the City of London is a deliberate choice, not incidental",
+        "Highlight any interest in the strong professional accreditation pathways Bayes offers (ICAEW, ACCA, CIMA, IFoA)"
+      ],
+      "typicalTimeline": "Apply via UCAS by 29 January; offers typically made February-April; firm/insurance deadline May; results and Clearing August"
+    },
+    "studentLife": {
+      "union": "City St George's Students' Union",
+      "societiesCount": "150+",
+      "sportsTeams": "30+",
+      "highlights": [
+        "Bayes Finance Society runs trading simulations, Bloomberg Terminal workshops, and an annual careers fair",
+        "City's central London location means guest lectures from senior finance professionals are a regular feature",
+        "Strong alumni network in the City of London — over 60% of Bayes finance graduates go into financial services within six months"
+      ]
+    },
+    "cityLife": {
+      "description": "City St George's occupies a unique position on the edge of the City of London, giving students unrivalled access to the beating heart of global finance. Islington, Clerkenwell, and the wider East London creative scene are on the doorstep, offering a mix of professional opportunity and vibrant urban culture.",
+      "avgRentPerMonth": "£950–£1,400",
+      "costOfLiving": "High",
+      "transport": "Angel (Northern line) and Barbican (Circle/Metropolitan lines) stations within minutes; excellent bus links; the City of London is a 10-minute walk",
+      "highlights": [
+        "Islington's Upper Street — one of London's best restaurant and theatre destinations",
+        "Clerkenwell's world-class design, food, and independent bar scene",
+        "Barbican Centre for arts and culture, a five-minute walk from campus"
+      ],
+      "nightlife": "London's East End and City fringes offer some of the capital's most varied nightlife. Students mix City after-work bars in EC1 with the creative scene in Shoreditch and Dalston."
+    },
+    "notableAlumni": [
+      "Lord Norman Foster — architect (honorary degree)",
+      "Martin Sorrell — founder of WPP",
+      "Helena Morrissey — City of London financier and campaigner"
+    ],
+    "keyFacts": [
+      "Bayes Business School is triple-accredited (AACSB, AMBA, EQUIS) — one of only ~100 worldwide",
+      "City of London location puts students within walking distance of Goldman Sachs, JP Morgan, Lloyd's of London, and the Bank of England",
+      "Bayes actuarial science and quantitative finance programmes rank among the UK's best for professional exam exemptions"
+    ]
+  },
+  "king-s-college-london": {
+    "slug": "king-s-college-london",
+    "name": "King's College London",
+    "city": "London",
+    "overview": "King's College London is a world-leading research university and founding member of the University of London, established by Royal Charter in 1829. King's Business School offers rigorous Accounting and Finance programmes taught by internationally recognised academics, with a strong emphasis on analytical depth and global perspectives. Its location along the South Bank, with multiple campuses between Strand and Waterloo, gives students exceptional access to London's financial, legal, and policy institutions.",
+    "founded": 1829,
+    "totalStudents": 35000,
+    "internationalStudents": "45%",
+    "campusType": "City campus",
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "King's guarantees university accommodation to all first-year undergraduate students who firm King's and apply before the deadline. Halls are spread across central London locations including Waterloo, Borough, and Denmark Hill, with a mix of en-suite and shared bathroom options.",
+      "avgWeeklyCost": "£175–£255",
+      "halls": ["Great Dover Street Apartments", "Stamford Street Apartments", "Moonraker Point"],
+      "privateRentAreas": "Lambeth, Bermondsey, Camberwell, Peckham, Clapham"
+    },
+    "openDays": [
+      { "date": "14 June 2025", "type": "Undergraduate Open Day" },
+      { "date": "20 September 2025", "type": "Undergraduate Open Day" },
+      { "date": "25 October 2025", "type": "Undergraduate Open Day" }
+    ],
+    "application": {
+      "ucasCode": "NN34",
+      "contextualOffers": true,
+      "interviewRequired": false,
+      "personalStatementTips": [
+        "Show intellectual curiosity about the theoretical underpinnings of finance — King's Business School values academic rigour alongside professional ambition",
+        "Demonstrate awareness of King's global outlook; reference any international experience or interest in cross-border financial markets",
+        "Highlight why King's South Bank location and its proximity to government, law, and finance appeals to your career plans"
+      ],
+      "typicalTimeline": "Apply via UCAS by 29 January; offers made February-April; firm/insurance choices by May; results and Clearing in August"
+    },
+    "studentLife": {
+      "union": "King's College London Students' Union (KCLSU)",
+      "societiesCount": "300+",
+      "sportsTeams": "55+",
+      "highlights": [
+        "KCL Finance Society hosts an annual Investment Banking Bootcamp attracting students from across London",
+        "King's Entrepreneurship Institute runs startup programmes with ties to London's venture capital community",
+        "Multi-campus environment gives students access to a uniquely diverse and international student body"
+      ]
+    },
+    "cityLife": {
+      "description": "King's Strand campus faces the Thames with Somerset House and the Embankment on one side and the West End on the other. Students have unparalleled access to London's political, cultural, and financial institutions, while South Bank campuses offer a different view of the city's energy and creativity.",
+      "avgRentPerMonth": "£950–£1,350",
+      "costOfLiving": "High",
+      "transport": "Temple (Circle/District), Waterloo (multiple lines), Embankment, and London Bridge stations all within easy reach; Zone 1 access throughout London",
+      "highlights": [
+        "South Bank: Tate Modern, Globe Theatre, Borough Market, and Southbank Centre all on the doorstep",
+        "The Strand — walking distance to Covent Garden, Trafalgar Square, and Whitehall",
+        "Access to the UK's political heart: Parliament, Whitehall, and the Supreme Court all minutes away"
+      ],
+      "nightlife": "Students enjoy Waterloo and the Southbank for evening drinks and events, with Borough Market and Bermondsey Street offering excellent bars and restaurants, and easy access to the broader London scene."
+    },
+    "notableAlumni": [
+      "Archbishop Desmond Tutu — anti-apartheid activist (studied at King's)",
+      "John Keats — poet (studied medicine at Guy's Hospital, part of King's)",
+      "Florence Nightingale — founder of modern nursing (King's College Hospital links)"
+    ],
+    "keyFacts": [
+      "Russell Group member; top 40 globally; one of the oldest universities in England",
+      "King's Business School received AACSB accreditation and has rapidly risen in UK and global rankings",
+      "King's is ranked among the top 10 UK universities for graduate salary outcomes five years after graduation"
+    ]
+  },
+  "strathclyde": {
+    "slug": "strathclyde",
+    "name": "University of Strathclyde",
+    "city": "Glasgow",
+    "overview": "The University of Strathclyde is a leading technological university in the heart of Glasgow's city centre, founded in 1796 as Anderson's Institution — the world's first technical university. Its Strathclyde Business School is one of the largest business schools in the UK and holds triple accreditation, offering a wide range of highly employable finance degrees. Strathclyde is known for its strong industry partnerships, practical focus, and consistently high graduate employment rates.",
+    "founded": 1796,
+    "totalStudents": 27000,
+    "internationalStudents": "22%",
+    "campusType": "City campus",
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "Strathclyde guarantees accommodation to all first-year students who firm the university and apply before the deadline. Halls are located on and close to the city-centre campus in Glasgow's Merchant City, offering easy access to both academic buildings and the city centre.",
+      "avgWeeklyCost": "£115–£165",
+      "halls": ["Garnett Lodge", "Birkbeck Court", "Forbes Hall"],
+      "privateRentAreas": "Merchant City, Dennistoun, Shawlands, West End, Pollokshields"
+    },
+    "openDays": [
+      { "date": "21 June 2025", "type": "Undergraduate Open Day" },
+      { "date": "27 September 2025", "type": "Undergraduate Open Day" },
+      { "date": "18 October 2025", "type": "Undergraduate Open Day" }
+    ],
+    "application": {
+      "ucasCode": "NN43",
+      "contextualOffers": true,
+      "interviewRequired": false,
+      "personalStatementTips": [
+        "Reference Strathclyde's practical, industry-focused approach — show you understand this distinguishes SBS from more traditional research-led business schools",
+        "Highlight any interest in the Scottish professional services sector, or in Strathclyde's strong links to KPMG, PwC, and Deloitte Scotland",
+        "Demonstrate awareness of the four-year Scottish degree structure and its breadth advantages"
+      ],
+      "typicalTimeline": "Apply via UCAS by 29 January; offers made February-April; for Scottish-domiciled students arrange SAAS funding early; Clearing in August"
+    },
+    "studentLife": {
+      "union": "Strathclyde Students' Association",
+      "societiesCount": "150+",
+      "sportsTeams": "40+",
+      "highlights": [
+        "SBS Finance Society runs Bloomberg Terminal training and annual stock-picking competitions",
+        "Strong co-operative education (sandwich year) culture — a significant proportion of students complete a paid placement year",
+        "The Students' Association is a hub for entrepreneurship events and startup competitions linked to Strathclyde's Techscaler network"
+      ]
+    },
+    "cityLife": {
+      "description": "Strathclyde's campus is at the heart of Glasgow city centre, placing students steps from the commercial, cultural, and nightlife buzz of one of Europe's most energetic cities. Glasgow's affordability relative to other major UK cities is a major draw, and its growing financial services and tech ecosystem creates strong local graduate opportunities.",
+      "avgRentPerMonth": "£550–£750",
+      "costOfLiving": "Low–Moderate",
+      "transport": "City-centre location with direct access to Glasgow Queen Street and Central stations; SPT subway links to the West End and south side; Glasgow Airport 15 minutes by taxi",
+      "highlights": [
+        "Merchant City's vibrant restaurant, bar, and arts scene directly adjacent to campus",
+        "SEC Campus, Hydro arena, and the Barrowlands for live music and major events",
+        "Easy day trips to Loch Lomond, the Trossachs, and the Scottish Highlands"
+      ],
+      "nightlife": "Glasgow city centre offers an extraordinary range of nightlife from student-friendly venues on Sauchiehall Street to craft beer bars in the Merchant City and world-class clubs including the legendary Sub Club."
+    },
+    "notableAlumni": [
+      "Charles Rennie Mackintosh — architect and designer (studied at Glasgow School of Art, adjacent to Strathclyde)",
+      "Jim McColl — industrialist and entrepreneur",
+      "John Anderson — MP and founder of the institution"
+    ],
+    "keyFacts": [
+      "Triple-accredited Strathclyde Business School (AACSB, AMBA, EQUIS) — one of the UK's largest and most internationally connected",
+      "Founded 1796 as the world's first technical university — a 'place of useful learning' in Strathclyde's founding mission",
+      "Consistently among the top Scottish universities for graduate employment rates and starting salaries"
+    ]
+  },
+  "durham": {
+    "slug": "durham",
+    "name": "Durham University",
+    "city": "Durham",
+    "overview": "Durham University is a Russell Group research university of international distinction, founded in 1832 and consistently ranked among the UK's top five universities. Its collegiate structure, reminiscent of Oxford and Cambridge, creates an exceptionally tight-knit and supportive academic community. Durham University Business School offers highly regarded Finance and Accounting degrees with strong links to London's financial services sector, and Durham graduates are among the most sought-after by top employers in the UK.",
+    "founded": 1832,
+    "totalStudents": 22000,
+    "internationalStudents": "20%",
+    "campusType": "Historic city campus",
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "Durham guarantees college accommodation to all first-year undergraduates. Each student belongs to one of Durham's 17 colleges, which provide accommodation, catering, and a rich social and pastoral community. Colleges vary in character from castle-based to purpose-built modern.",
+      "avgWeeklyCost": "£130–£185",
+      "halls": ["Castle (University College)", "St Hild and St Bede", "Collingwood College", "Hatfield College"],
+      "privateRentAreas": "Gilesgate, Nevilles Cross, Claypath, Framwellgate Moor"
+    },
+    "openDays": [
+      { "date": "21 June 2025", "type": "Undergraduate Open Day" },
+      { "date": "27 September 2025", "type": "Undergraduate Open Day" },
+      { "date": "18 October 2025", "type": "Undergraduate Open Day" }
+    ],
+    "application": {
+      "ucasCode": "NN34",
+      "contextualOffers": false,
+      "interviewRequired": false,
+      "personalStatementTips": [
+        "Show academic breadth and intellectual curiosity — Durham values students who engage with economics, mathematics, and wider social sciences beyond exam preparation",
+        "Reference Durham Business School's research strengths, particularly in corporate governance, sustainable finance, and behavioural economics",
+        "Mention the college system positively — Durham selects partly on fit with its collegiate community ethos"
+      ],
+      "typicalTimeline": "Apply via UCAS by 29 January; offers typically made January-March; firm/insurance by May; results and Clearing in August"
+    },
+    "studentLife": {
+      "union": "Durham Students' Union (DSU)",
+      "societiesCount": "250+",
+      "sportsTeams": "60+",
+      "highlights": [
+        "Durham Finance Society runs an annual conference bringing City professionals to campus",
+        "The collegiate system means every student has a second community beyond the university — teams, balls, libraries, and bars within their own college",
+        "Durham's rowing clubs and sports teams are among the most competitive of any UK university outside Oxbridge"
+      ]
+    },
+    "cityLife": {
+      "description": "Durham is a compact and beautiful cathedral city whose UNESCO World Heritage Site dominates the skyline above the River Wear. It is one of the most picturesque university cities in England, with a strong sense of community and a high quality of life at a fraction of the cost of London or Edinburgh.",
+      "avgRentPerMonth": "£500–£700",
+      "costOfLiving": "Low–Moderate",
+      "transport": "Durham mainline station has direct services to London King's Cross (2h45) and Edinburgh (1h15); Newcastle Airport is 30 minutes; excellent local bus services",
+      "highlights": [
+        "Durham Cathedral and Castle — a UNESCO World Heritage Site and the most complete Norman architecture in England",
+        "River Wear walkways, rowing, and punting in the shadow of the cathedral",
+        "Newcastle-upon-Tyne is 20 minutes by train — a full city with major arts and nightlife"
+      ],
+      "nightlife": "Durham's nightlife is centred on the city centre bars and college events, with individual colleges hosting formal dinners and balls. Newcastle is a 15-minute train ride for a full urban nightlife experience."
+    },
+    "notableAlumni": [
+      "Rowan Atkinson — comedian and actor (Mr Bean)",
+      "Nick Clegg — former Deputy Prime Minister",
+      "Will Self — author and journalist",
+      "Imogen Heap — musician and producer"
+    ],
+    "keyFacts": [
+      "Russell Group member; consistently ranked 4th or 5th in the UK across multiple league tables",
+      "One of only two genuinely collegiate universities in England outside Oxbridge, with 17 colleges each with its own identity",
+      "Durham graduates have the highest rate of entry into Oxbridge graduate programmes of any non-Oxbridge UK university"
+    ]
+  },
+  "edinburgh": {
+    "slug": "edinburgh",
+    "name": "University of Edinburgh",
+    "city": "Edinburgh",
+    "overview": "The University of Edinburgh is one of the world's great research universities, founded in 1583 and a proud member of the Russell Group. Its Edinburgh Business School and Management School offer highly regarded Accounting, Finance, and Economics programmes within a broad and intellectually ambitious academic environment. Set in one of the world's most beautiful capital cities, Edinburgh provides a uniquely inspiring backdrop for study, with outstanding cultural, social, and professional opportunities.",
+    "founded": 1583,
+    "totalStudents": 45000,
+    "internationalStudents": "40%",
+    "campusType": "City campus",
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "Edinburgh guarantees accommodation to all first-year students who firm the university and apply before the deadline. Halls are spread across the city from central locations near Old College to sites in the south and east of Edinburgh, with a range of catered and self-catered options.",
+      "avgWeeklyCost": "£145–£210",
+      "halls": ["Pollock Halls of Residence", "Buccleuch Place", "Richmond Place", "Cairns Close"],
+      "privateRentAreas": "Marchmont, Newington, Morningside, Bruntsfield, Leith"
+    },
+    "openDays": [
+      { "date": "21 June 2025", "type": "Undergraduate Open Day" },
+      { "date": "20 September 2025", "type": "Undergraduate Open Day" },
+      { "date": "11 October 2025", "type": "Undergraduate Open Day" }
+    ],
+    "application": {
+      "ucasCode": "NN43",
+      "contextualOffers": true,
+      "interviewRequired": false,
+      "personalStatementTips": [
+        "Edinburgh values intellectual breadth — show engagement with economics, history, or philosophy as well as technical finance topics",
+        "Reference Edinburgh's four-year Scottish degree structure positively; demonstrate you're excited by the broader first and second year curriculum",
+        "Highlight any awareness of Edinburgh's growing fintech and financial services sector, including Standard Life Aberdeen, Baillie Gifford, and the Edinburgh finance cluster"
+      ],
+      "typicalTimeline": "Apply via UCAS by 29 January; offers made February-April; Scottish students apply for SAAS funding separately; Clearing in August"
+    },
+    "studentLife": {
+      "union": "Edinburgh University Students' Association (EUSA)",
+      "societiesCount": "350+",
+      "sportsTeams": "65+",
+      "highlights": [
+        "Edinburgh Finance and Investment Club runs annual speaker series with major Scottish and London fund managers",
+        "The Edinburgh Entrepreneurship Club (eClub) is one of the most active university startup ecosystems in the UK",
+        "The Edinburgh Festival Fringe creates an unparalleled cultural environment in the city every August"
+      ]
+    },
+    "cityLife": {
+      "description": "Edinburgh is regularly voted one of the world's most liveable cities — a compact, walkable capital with extraordinary architecture, a thriving arts scene, and a growing financial services cluster that includes some of the UK's largest asset managers and insurance groups. Students enjoy an unparalleled quality of life in a city that balances historic grandeur with modern energy.",
+      "avgRentPerMonth": "£700–£950",
+      "costOfLiving": "Moderate–High",
+      "transport": "Edinburgh has an excellent tram line, extensive bus network, and direct rail links to Glasgow (50 min), London Kings Cross (4h30), and other major UK cities; Edinburgh Airport is 30 minutes from the city centre",
+      "highlights": [
+        "The Royal Mile, Arthur's Seat, and Holyrood Palace — world-class heritage on the doorstep",
+        "Stockbridge and Leith for independent restaurants, galleries, and weekend markets",
+        "The Edinburgh Festival (August) brings the world's greatest performers to the city"
+      ],
+      "nightlife": "Edinburgh offers a wide range of student-friendly bars, live music venues, and clubs, from the Grassmarket's historic pubs to George Street's upmarket cocktail bars and the Cowgate's late-night scene."
+    },
+    "notableAlumni": [
+      "Gordon Brown — former Prime Minister and Chancellor of the Exchequer",
+      "Sir Arthur Conan Doyle — creator of Sherlock Holmes",
+      "David Hume — philosopher and economist",
+      "Tony Blair — former Prime Minister (studied at Oxford, but schooled in Edinburgh)"
+    ],
+    "keyFacts": [
+      "Russell Group member; consistently ranked in the global top 30 universities; one of Scotland's ancient universities, founded 1583",
+      "Edinburgh is Scotland's leading financial centre — home to Baillie Gifford, Standard Life Aberdeen, and over 30,000 financial services jobs",
+      "The University of Edinburgh is the largest employer in Edinburgh and a major driver of the city's knowledge economy"
+    ]
+  },
+  "aberdeen": {
+    "slug": "aberdeen",
+    "name": "University of Aberdeen",
+    "city": "Aberdeen",
+    "overview": "The University of Aberdeen is one of the UK's oldest universities, founded in 1495 and fifth in the English-speaking world, with a proud tradition of intellectual enquiry stretching over five centuries. Its Business School offers well-regarded Accounting and Finance degrees with strong professional accreditations and a close-knit academic community. Aberdeen's position as a global energy hub adds a distinctive dimension for finance students interested in commodities, energy finance, and international business.",
+    "founded": 1495,
+    "totalStudents": 16000,
+    "internationalStudents": "25%",
+    "campusType": "City campus",
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "Aberdeen guarantees university accommodation to all first-year undergraduate students who firm the university and apply before the deadline. Halls are predominantly on or close to the King's College campus in Old Aberdeen, a short distance from the city centre.",
+      "avgWeeklyCost": "£105–£145",
+      "halls": ["Hillhead Student Village", "MacRobert Halls", "Crombie and Johnston Hall"],
+      "privateRentAreas": "Old Aberdeen, Rosemount, Ferryhill, Torry, Bridge of Don"
+    },
+    "openDays": [
+      { "date": "21 June 2025", "type": "Undergraduate Open Day" },
+      { "date": "13 September 2025", "type": "Undergraduate Open Day" },
+      { "date": "18 October 2025", "type": "Undergraduate Open Day" }
+    ],
+    "application": {
+      "ucasCode": "N400",
+      "contextualOffers": true,
+      "interviewRequired": false,
+      "personalStatementTips": [
+        "Reference Aberdeen's distinctive position as a finance school at the heart of a global energy hub — show interest in energy finance, commodities, or resource economics if applicable",
+        "Highlight Aberdeen's four-year Scottish degree structure and its breadth across business and economics",
+        "Demonstrate awareness of Aberdeen's strong professional accreditation pathways (ICAS, ACCA, CIMA)"
+      ],
+      "typicalTimeline": "Apply via UCAS by 29 January; offers made February-April; Scottish students arrange SAAS funding; Clearing opens August"
+    },
+    "studentLife": {
+      "union": "Aberdeen University Students' Association (AUSA)",
+      "societiesCount": "130+",
+      "sportsTeams": "35+",
+      "highlights": [
+        "Aberdeen Finance and Investment Society links students to the city's energy finance and asset management community",
+        "Intimate university size creates strong staff-student relationships and accessible academic support",
+        "AUSA runs regular events connecting students to Aberdeen's growing tech and energy sectors"
+      ]
+    },
+    "cityLife": {
+      "description": "Aberdeen is Scotland's third city and one of the UK's most distinctive student destinations, known as the Granite City for its stunning silver-grey architecture. Its position as Europe's oil and energy capital creates unique opportunities in energy finance and international business, while the city offers a genuinely affordable, friendly, and uncrowded lifestyle.",
+      "avgRentPerMonth": "£450–£600",
+      "costOfLiving": "Low–Moderate",
+      "transport": "Good bus network across the city; Aberdeen station connects to Edinburgh (2h30), Glasgow (2h45), and London (7-8h) by rail; Aberdeen Airport flies to major UK and European hubs",
+      "highlights": [
+        "Union Terrace Gardens and the Beach Esplanade for outdoor recreation",
+        "Over 30 castles within an hour's drive — Dunnottar Castle and Balmoral nearby",
+        "Deeside and the Cairngorms National Park for weekend hiking and skiing"
+      ],
+      "nightlife": "Aberdeen's nightlife is centred on Union Street and the Belmont area, with a friendly student-oriented pub and bar culture complemented by the city's diverse international community."
+    },
+    "notableAlumni": [
+      "Robert Gordon — philanthropist and founder of Robert Gordon University",
+      "Lord Byron — poet (attended Aberdeen Grammar School)",
+      "Andrew Carnegie — industrialist and philanthropist (honorary degree)"
+    ],
+    "keyFacts": [
+      "Fifth oldest university in the English-speaking world, founded 1495 — a year before Columbus reached North America",
+      "Aberdeen Business School holds AACSB and AMBA accreditations, with strong ICAS professional exemption routes",
+      "Aberdeen's energy sector makes it unique among UK finance schools — graduates are well-placed in energy finance and commodity trading globally"
+    ]
+  },
+  "dundee": {
+    "slug": "dundee",
+    "name": "University of Dundee",
+    "city": "Dundee",
+    "overview": "The University of Dundee is a dynamic and research-active university in one of Scotland's most rapidly regenerating cities, known for its strengths in life sciences, art and design, and professional programmes including law and accountancy. Its School of Business offers Accounting and Finance degrees with strong professional accreditations and close links to Dundee's growing financial, professional, and tech services sector. The university prides itself on a welcoming, student-focused environment and excellent value for money.",
+    "founded": 1881,
+    "totalStudents": 19000,
+    "internationalStudents": "20%",
+    "campusType": "City campus",
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "Dundee guarantees accommodation to all first-year students who firm the university and apply before the deadline. Halls are located on and near the compact city-centre campus, with easy access to all academic buildings and the city's amenities.",
+      "avgWeeklyCost": "£100–£140",
+      "halls": ["West Park Villas", "Heathfield", "Belmont Hall"],
+      "privateRentAreas": "West End, Broughty Ferry, Lochee, Stobswell"
+    },
+    "openDays": [
+      { "date": "21 June 2025", "type": "Undergraduate Open Day" },
+      { "date": "13 September 2025", "type": "Undergraduate Open Day" },
+      { "date": "18 October 2025", "type": "Undergraduate Open Day" }
+    ],
+    "application": {
+      "ucasCode": "N420",
+      "contextualOffers": true,
+      "interviewRequired": false,
+      "personalStatementTips": [
+        "Reference Dundee's professional accreditation focus — show enthusiasm for the ICAS, ACCA, or CIMA routes embedded in the degree",
+        "Highlight any awareness of Dundee's city regeneration and growing professional services sector, including legal, accountancy, and NHS-linked financial roles",
+        "Demonstrate motivation for the four-year Scottish degree structure and its breadth across business and economics"
+      ],
+      "typicalTimeline": "Apply via UCAS by 29 January; offers made February-April; Scottish students arrange SAAS funding; Clearing in August"
+    },
+    "studentLife": {
+      "union": "Dundee University Students' Association (DUSA)",
+      "societiesCount": "100+",
+      "sportsTeams": "30+",
+      "highlights": [
+        "DUSA's compact, sociable environment creates strong student community and accessible academic support",
+        "Dundee Finance and Business Society links students to local professional services firms",
+        "Close student community means staff-student ratios are among the most favourable of any Scottish university"
+      ]
+    },
+    "cityLife": {
+      "description": "Dundee is undergoing one of the UK's most celebrated urban regenerations, with the V&A Museum of Design Dundee and the redeveloped waterfront having transformed the city's image. Students enjoy a compact, walkable city with low living costs, a friendly atmosphere, and easy access to both Edinburgh and St Andrews.",
+      "avgRentPerMonth": "£400–£550",
+      "costOfLiving": "Low",
+      "transport": "Dundee station has direct services to Edinburgh (1h20), Glasgow (1h30), and Aberdeen (1h20); Dundee Airport has links to London City; good bus network across the city",
+      "highlights": [
+        "V&A Dundee — Scotland's first design museum and one of the UK's most striking modern buildings",
+        "Broughty Castle and the Tay estuary for scenic walks and watersports",
+        "St Andrews and its world-famous golf courses are 12 miles away"
+      ],
+      "nightlife": "Dundee's nightlife is centred on the city centre, with a friendly and affordable student scene along Nethergate and South Tay Street — unpretentious, inclusive, and well-priced compared to Edinburgh or Glasgow."
+    },
+    "notableAlumni": [
+      "Brian Cox — physicist and broadcaster (studied at Dundee)",
+      "Billy Mackenzie — frontman of The Associates",
+      "Sir Peter Dowson — industrialist and founder of the Crichton Trust"
+    ],
+    "keyFacts": [
+      "Dundee's waterfront regeneration — anchored by the V&A Museum — has made it one of the UK's most transformed and exciting cities",
+      "Dundee School of Business holds AACSB accreditation with strong ICAS professional exemption pathways for accountancy students",
+      "The most affordable major Scottish university city — students get outstanding value alongside a genuinely improving quality of life"
+    ]
   }
 }

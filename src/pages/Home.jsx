@@ -1,4 +1,5 @@
 import { useMemo, useState } from 'react';
+import { useSearchParams } from 'react-router-dom';
 import { COURSES } from '../data/courses';
 import StatsBar from '../components/StatsBar';
 import Filters from '../components/Filters';
@@ -6,10 +7,11 @@ import CourseSelect from '../components/CourseSelect';
 import Table from '../components/Table';
 
 export default function Home() {
+  const [searchParams, setSearchParams] = useSearchParams();
   const [search, setSearch] = useState('');
   const [tier, setTier] = useState('All');
-  const [courseId, setCourseId] = useState(COURSES[0].id);
 
+  const courseId = searchParams.get('course') || COURSES[0].id;
   const course = COURSES.find(item => item.id === courseId) || COURSES[0];
 
   const filtered = useMemo(() => {
@@ -21,7 +23,7 @@ export default function Home() {
   }, [course, search, tier]);
 
   function handleCourseChange(id) {
-    setCourseId(id);
+    setSearchParams({ course: id }, { replace: true });
     setSearch('');
     setTier('All');
   }

@@ -1,4 +1,4 @@
-import { useParams, Link } from 'react-router-dom';
+import { useParams, Link, useNavigate } from 'react-router-dom';
 import universityDetails from '../data/university-details.json';
 
 function Section({ title, children }) {
@@ -37,6 +37,7 @@ function InfoGrid({ items }) {
 
 export default function UniversityPage() {
   const { slug } = useParams();
+  const navigate = useNavigate();
   const uni = universityDetails[slug];
 
   if (!uni) {
@@ -55,9 +56,9 @@ export default function UniversityPage() {
       <div className="max-w-screen-lg mx-auto px-4 sm:px-6 lg:px-8 py-8">
 
         {/* Nav */}
-        <Link to="/" className="inline-flex items-center gap-2 text-sm text-blue-400 hover:text-blue-300 transition-colors mb-6">
+        <button onClick={() => navigate(-1)} className="inline-flex items-center gap-2 text-sm text-blue-400 hover:text-blue-300 transition-colors mb-6">
           <span>←</span> Back to comparison
-        </Link>
+        </button>
 
         {/* Header */}
         <div className="mb-8">
@@ -206,9 +207,9 @@ export default function UniversityPage() {
         )}
 
         <div className="mt-6 text-center">
-          <Link to="/" className="inline-flex items-center gap-2 text-sm text-blue-400 hover:text-blue-300 transition-colors">
+          <button onClick={() => navigate(-1)} className="inline-flex items-center gap-2 text-sm text-blue-400 hover:text-blue-300 transition-colors">
             ← Back to comparison table
-          </Link>
+          </button>
         </div>
 
       </div>

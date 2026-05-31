@@ -1,4 +1,4 @@
-import { Link, useParams } from 'react-router-dom';
+import { Link, useParams, useNavigate } from 'react-router-dom';
 import courseDetails from '../data/course-details.json';
 import { COURSES } from '../data/courses';
 
@@ -35,6 +35,7 @@ const DEMAND_COLOR = {
 
 export default function CoursePage() {
   const { courseId } = useParams();
+  const navigate = useNavigate();
   const course = courseDetails[courseId];
   const courseMeta = COURSES.find(item => item.id === courseId);
 
@@ -43,9 +44,9 @@ export default function CoursePage() {
       <div className="flex min-h-screen items-center justify-center" style={{ background: '#050e1f' }}>
         <div className="text-center">
           <div className="mb-4 text-slate-400">Course details not found.</div>
-          <Link to="/" className="text-blue-400 underline hover:text-blue-300">
+          <button onClick={() => navigate(-1)} className="text-blue-400 underline hover:text-blue-300">
             {'<- Back to comparison'}
-          </Link>
+          </button>
         </div>
       </div>
     );
@@ -54,9 +55,9 @@ export default function CoursePage() {
   return (
     <div className="min-h-screen" style={{ background: 'linear-gradient(180deg, #050e1f 0%, #061428 100%)' }}>
       <div className="mx-auto max-w-screen-lg px-4 py-8 sm:px-6 lg:px-8">
-        <Link to="/" className="mb-6 inline-flex items-center gap-2 text-sm text-blue-400 transition-colors hover:text-blue-300">
-          <span>{'<-'}</span> Back to comparison
-        </Link>
+        <button onClick={() => navigate(-1)} className="mb-6 inline-flex items-center gap-2 text-sm text-blue-400 transition-colors hover:text-blue-300">
+          <span>←</span> Back to comparison
+        </button>
 
         <div className="mb-8">
           <div className="mb-3 flex flex-wrap gap-2">
@@ -184,9 +185,9 @@ export default function CoursePage() {
         </Section>
 
         <div className="mt-6 text-center">
-          <Link to="/" className="inline-flex items-center gap-2 text-sm text-blue-400 transition-colors hover:text-blue-300">
-            {'<- Back to comparison table'}
-          </Link>
+          <button onClick={() => navigate(-1)} className="inline-flex items-center gap-2 text-sm text-blue-400 transition-colors hover:text-blue-300">
+            ← Back to comparison table
+          </button>
         </div>
       </div>
     </div>
