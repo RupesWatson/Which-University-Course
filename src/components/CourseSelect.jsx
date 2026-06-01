@@ -3,16 +3,16 @@ import { COURSES } from '../data/courses';
 
 const GROUPS = [
   {
-    label: 'Core Finance',
-    ids: ['af', 'econFin', 'finMath', 'banking', 'actuarial'],
+    label: 'Core Sciences',
+    ids: ['biochemistry', 'chemistry', 'natSci'],
   },
   {
-    label: 'Finance & Technology',
-    ids: ['fintech', 'appliedAI', 'dataScience', 'techManagement'],
+    label: 'Life Sciences',
+    ids: ['biomedSci', 'pharmacology', 'molBiol', 'genetics', 'microbiology'],
   },
   {
-    label: 'Specialist & Emerging',
-    ids: ['investmentBanking', 'ventureCapital', 'intlFinance', 'esgFinance', 'financeLaw', 'behaviouralFinance', 'finInn'],
+    label: 'Specialist & Placement',
+    ids: ['medicinalChem', 'biochemIndustry'],
   },
 ];
 
