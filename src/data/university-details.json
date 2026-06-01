@@ -12,13 +12,24 @@
       "firstYearGuarantee": true,
       "description": "All first-year students are guaranteed accommodation in their college. Oxford's collegiate system means accommodation is arranged through the college you are assigned to, not centrally. All colleges provide catered or self-catered options within walking distance of the science area.",
       "avgWeeklyCost": "£145–£220",
-      "halls": ["Varies by college — all 39 colleges provide guaranteed first-year accommodation"],
+      "halls": [
+        "Varies by college — all 39 colleges provide guaranteed first-year accommodation"
+      ],
       "privateRentAreas": "Cowley, Headington, Jericho, East Oxford"
     },
     "openDays": [
-      { "date": "18 June 2025", "type": "Undergraduate Open Day" },
-      { "date": "19 June 2025", "type": "Undergraduate Open Day" },
-      { "date": "15 September 2025", "type": "Undergraduate Open Day" }
+      {
+        "date": "1 July 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "2 July 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "18 September 2026",
+        "type": "Undergraduate Open Day"
+      }
     ],
     "application": {
       "ucasCode": "C700",
@@ -36,18 +47,37 @@
       "union": "Oxford University Student Union (OUSU) — college JCRs are more active day-to-day",
       "societiesCount": "400+",
       "sportsTeams": "80+",
-      "highlights": ["Collegiate system creates tight-knit academic communities", "Rowing, punting and May Day traditions", "Oxford Union debating society", "World-class science seminars and Nobel lectures open to undergraduates"]
+      "highlights": [
+        "Collegiate system creates tight-knit academic communities",
+        "Rowing, punting and May Day traditions",
+        "Oxford Union debating society",
+        "World-class science seminars and Nobel lectures open to undergraduates"
+      ]
     },
     "cityLife": {
       "description": "Oxford is a historic university city with a thriving cultural scene, independent restaurants and pubs, and excellent transport links to London (1 hour by train). The city has a significant biotech and pharma cluster around the Oxford Science Park.",
       "avgRentPerMonth": "£750–£1,000",
       "costOfLiving": "High",
       "transport": "Oxford Tube and National Express coaches to London; Oxford rail station with services to London Paddington, Birmingham and the South West",
-      "highlights": ["Covered Market", "Bodleian Library", "Ashmolean Museum", "Botanic Garden"],
+      "highlights": [
+        "Covered Market",
+        "Bodleian Library",
+        "Ashmolean Museum",
+        "Botanic Garden"
+      ],
       "nightlife": "A varied pub and bar scene centred around Jericho and Cowley Road; quieter than major city universities but with strong college social scenes."
     },
-    "notableAlumni": ["Dorothy Hodgkin — Nobel Laureate, solved the structure of penicillin and vitamin B12 by X-ray crystallography", "Roger Penrose — Nobel Laureate, mathematical physicist", "Malala Yousafzai — Nobel Peace Laureate, studied PPE"],
-    "keyFacts": ["#1 in QS World University Rankings 2024–25", "Largest biochemistry department in the UK by research output", "Over 70 Nobel Prize-winning alumni and staff", "4-year MBiochem provides integrated Masters-level qualification"]
+    "notableAlumni": [
+      "Dorothy Hodgkin — Nobel Laureate, solved the structure of penicillin and vitamin B12 by X-ray crystallography",
+      "Roger Penrose — Nobel Laureate, mathematical physicist",
+      "Malala Yousafzai — Nobel Peace Laureate, studied PPE"
+    ],
+    "keyFacts": [
+      "#1 in QS World University Rankings 2024–25",
+      "Largest biochemistry department in the UK by research output",
+      "Over 70 Nobel Prize-winning alumni and staff",
+      "4-year MBiochem provides integrated Masters-level qualification"
+    ]
   },
   "cambridge": {
     "slug": "cambridge",
@@ -62,12 +92,24 @@
       "firstYearGuarantee": true,
       "description": "Accommodation is guaranteed for all first-year undergraduates through their college. All 31 colleges provide on-site accommodation in the first year, and many guarantee rooms for the full duration of the degree.",
       "avgWeeklyCost": "£150–£230",
-      "halls": ["Varies by college — Churchill, King's, Trinity, St John's and Fitzwilliam all have strong science communities"],
+      "halls": [
+        "Varies by college — Churchill, King's, Trinity, St John's and Fitzwilliam all have strong science communities"
+      ],
       "privateRentAreas": "Newnham, Mill Road, Romsey Town, Chesterton"
     },
     "openDays": [
-      { "date": "4 July 2025", "type": "Undergraduate Open Day" },
-      { "date": "5 July 2025", "type": "Undergraduate Open Day" }
+      {
+        "date": "9 July 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "10 July 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "11 September 2026",
+        "type": "Colleges Open Day"
+      }
     ],
     "application": {
       "ucasCode": "BC01",
@@ -85,18 +127,38 @@
       "union": "Cambridge SU; college JCRs are primary social hubs",
       "societiesCount": "700+",
       "sportsTeams": "100+",
-      "highlights": ["The Boat Race tradition", "May Balls", "Punting on the Cam", "Regular seminars by Nobel laureates", "Access to Cambridge University Press and Fitzwilliam Museum"]
+      "highlights": [
+        "The Boat Race tradition",
+        "May Balls",
+        "Punting on the Cam",
+        "Regular seminars by Nobel laureates",
+        "Access to Cambridge University Press and Fitzwilliam Museum"
+      ]
     },
     "cityLife": {
       "description": "Cambridge is a compact, bicycle-friendly city with an exceptional science and technology cluster — the 'Silicon Fen' biotech corridor around the Cambridge Biomedical Campus and the Wellcome Sanger Institute is one of the most productive life science hubs in the world.",
       "avgRentPerMonth": "£750–£950",
       "costOfLiving": "High",
       "transport": "45 minutes to London Kings Cross by train; Cambridge North and Cambridge stations",
-      "highlights": ["Cambridge Biomedical Campus (AstraZeneca HQ)", "Fitzwilliam Museum", "King's College Chapel", "Botanical Garden"],
+      "highlights": [
+        "Cambridge Biomedical Campus (AstraZeneca HQ)",
+        "Fitzwilliam Museum",
+        "King's College Chapel",
+        "Botanical Garden"
+      ],
       "nightlife": "Quieter than big-city universities but with a lively college social scene; the Mill Road area has excellent independent restaurants and bars."
     },
-    "notableAlumni": ["Francis Crick — co-discoverer of the double helix structure of DNA", "Fred Sanger — only person to win two Nobel Prizes in Chemistry", "Max Perutz — Nobel Laureate for haemoglobin structure"],
-    "keyFacts": ["#2 in QS World University Rankings 2024–25", "More Nobel Prize-winning scientists than any other institution outside the USA", "The MRC Laboratory of Molecular Biology is attached to the university", "AstraZeneca global HQ is based at the Cambridge Biomedical Campus"]
+    "notableAlumni": [
+      "Francis Crick — co-discoverer of the double helix structure of DNA",
+      "Fred Sanger — only person to win two Nobel Prizes in Chemistry",
+      "Max Perutz — Nobel Laureate for haemoglobin structure"
+    ],
+    "keyFacts": [
+      "#2 in QS World University Rankings 2024–25",
+      "More Nobel Prize-winning scientists than any other institution outside the USA",
+      "The MRC Laboratory of Molecular Biology is attached to the university",
+      "AstraZeneca global HQ is based at the Cambridge Biomedical Campus"
+    ]
   },
   "imperial-college-london": {
     "slug": "imperial-college-london",
@@ -111,12 +173,27 @@
       "firstYearGuarantee": true,
       "description": "Imperial guarantees accommodation to all first-year UK undergraduates who accept their place by the deadline. Halls are in South Kensington and Shepherd's Bush, all within easy reach of the main campus.",
       "avgWeeklyCost": "£175–£265",
-      "halls": ["Beit Hall", "Eastside Halls", "Woodward Buildings", "Prince's Gardens"],
+      "halls": [
+        "Beit Hall",
+        "Eastside Halls",
+        "Woodward Buildings",
+        "Prince's Gardens"
+      ],
       "privateRentAreas": "Shepherd's Bush, Hammersmith, Fulham, Battersea"
     },
     "openDays": [
-      { "date": "28 June 2025", "type": "Undergraduate Open Day" },
-      { "date": "27 September 2025", "type": "Undergraduate Open Day" }
+      {
+        "date": "24 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "25 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "12 September 2026",
+        "type": "Undergraduate Open Day"
+      }
     ],
     "application": {
       "ucasCode": "C700",
@@ -134,18 +211,36 @@
       "union": "Imperial College Union — student-run with excellent welfare and careers services",
       "societiesCount": "350+",
       "sportsTeams": "60+",
-      "highlights": ["Proximity to London's world-class museums and cultural institutions", "Strong STEM-focused student society scene", "Industry networking events through the careers service", "Access to NHS clinical research facilities"]
+      "highlights": [
+        "Proximity to London's world-class museums and cultural institutions",
+        "Strong STEM-focused student society scene",
+        "Industry networking events through the careers service",
+        "Access to NHS clinical research facilities"
+      ]
     },
     "cityLife": {
       "description": "South Kensington is one of London's most prestigious areas — home to the V&A, Natural History Museum and Science Museum, all within walking distance. London provides unrivalled internship, placement and networking opportunities for science students.",
       "avgRentPerMonth": "£950–£1,400",
       "costOfLiving": "Very High",
       "transport": "South Kensington and Hammersmith tube stations; excellent connections across London",
-      "highlights": ["Natural History Museum and Science Museum on the doorstep", "London's biotech and pharma cluster", "Francis Crick Institute and Wellcome Collection nearby"],
+      "highlights": [
+        "Natural History Museum and Science Museum on the doorstep",
+        "London's biotech and pharma cluster",
+        "Francis Crick Institute and Wellcome Collection nearby"
+      ],
       "nightlife": "London offers the UK's most varied nightlife and dining scene — South Kensington, Chelsea, and nearby Fulham and Shepherd's Bush cater to a range of budgets."
     },
-    "notableAlumni": ["Alexander Fleming — discovered penicillin (studied at St Mary's, affiliated with Imperial)", "H.G. Wells — studied biology at what became Imperial", "Brian May — completed his PhD in astrophysics at Imperial"],
-    "keyFacts": ["#8 in QS World University Rankings 2024–25", "100% research rated 'internationally excellent or world-leading' in REF 2021", "Located next to the Francis Crick Institute and the Hammersmith Hospital research campus", "Strong A*AA entry requirement reflects its position as one of the most selective science universities in the UK"]
+    "notableAlumni": [
+      "Alexander Fleming — discovered penicillin (studied at St Mary's, affiliated with Imperial)",
+      "H.G. Wells — studied biology at what became Imperial",
+      "Brian May — completed his PhD in astrophysics at Imperial"
+    ],
+    "keyFacts": [
+      "#8 in QS World University Rankings 2024–25",
+      "100% research rated 'internationally excellent or world-leading' in REF 2021",
+      "Located next to the Francis Crick Institute and the Hammersmith Hospital research campus",
+      "Strong A*AA entry requirement reflects its position as one of the most selective science universities in the UK"
+    ]
   },
   "university-college-london": {
     "slug": "university-college-london",
@@ -160,12 +255,23 @@
       "firstYearGuarantee": true,
       "description": "UCL guarantees accommodation to all first-year students who firmly accept their offer by the deadline and who live more than a defined distance from London. Multiple halls are available across Bloomsbury, Camden, and further afield.",
       "avgWeeklyCost": "£165–£260",
-      "halls": ["Ramsay Hall", "Campbell House", "Max Rayne House", "Astor College"],
+      "halls": [
+        "Ramsay Hall",
+        "Campbell House",
+        "Max Rayne House",
+        "Astor College"
+      ],
       "privateRentAreas": "Kentish Town, Camden, Islington, Hackney, Zones 2–3"
     },
     "openDays": [
-      { "date": "5 July 2025", "type": "Undergraduate Open Day" },
-      { "date": "6 September 2025", "type": "Undergraduate Open Day" }
+      {
+        "date": "26 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "27 June 2026",
+        "type": "Undergraduate Open Day"
+      }
     ],
     "application": {
       "ucasCode": "C700",
@@ -183,18 +289,36 @@
       "union": "UCL Students' Union — one of London's most active, with 250+ societies",
       "societiesCount": "250+",
       "sportsTeams": "50+",
-      "highlights": ["UCL Portico at the heart of the Bloomsbury campus", "Close proximity to British Museum", "Active science society scene including BioSoc and ChemSoc", "Access to Wellcome Collection and Francis Crick Institute"]
+      "highlights": [
+        "UCL Portico at the heart of the Bloomsbury campus",
+        "Close proximity to British Museum",
+        "Active science society scene including BioSoc and ChemSoc",
+        "Access to Wellcome Collection and Francis Crick Institute"
+      ]
     },
     "cityLife": {
       "description": "Bloomsbury is central London at its most academic — surrounded by the British Museum, Wellcome Collection, London Knowledge Quarter and the Francis Crick Institute. UCL's position makes it one of the best-connected science universities in the UK for industry networking and research.",
       "avgRentPerMonth": "£900–£1,300",
       "costOfLiving": "Very High",
       "transport": "Warren Street, Euston Square, Russell Square and Goodge Street tube stations; King's Cross and Euston mainline stations nearby",
-      "highlights": ["British Museum at the end of the road", "Wellcome Collection and Francis Crick Institute", "Regent's Park and Canal"],
+      "highlights": [
+        "British Museum at the end of the road",
+        "Wellcome Collection and Francis Crick Institute",
+        "Regent's Park and Canal"
+      ],
       "nightlife": "Fitzrovia, Soho and Covent Garden are within walking distance; excellent range of restaurants, bars and cultural venues across all budgets."
     },
-    "notableAlumni": ["Francis Galton — statistician and eugenicist (attended)", "Mahatma Gandhi — studied law at UCL", "Jonathan Ashworth — Secretary of State for Health (studied at Manchester but UCL-affiliated policy work)"],
-    "keyFacts": ["#9 in QS World University Rankings 2024–25", "The Francis Crick Institute, one of Europe's largest biomedical research centres, is a UCL partner institution", "Strong structural biology group led by leading cryo-EM researchers", "Contextual offer scheme lowers entry requirements for eligible applicants"]
+    "notableAlumni": [
+      "Francis Galton — statistician and eugenicist (attended)",
+      "Mahatma Gandhi — studied law at UCL",
+      "Jonathan Ashworth — Secretary of State for Health (studied at Manchester but UCL-affiliated policy work)"
+    ],
+    "keyFacts": [
+      "#9 in QS World University Rankings 2024–25",
+      "The Francis Crick Institute, one of Europe's largest biomedical research centres, is a UCL partner institution",
+      "Strong structural biology group led by leading cryo-EM researchers",
+      "Contextual offer scheme lowers entry requirements for eligible applicants"
+    ]
   },
   "edinburgh": {
     "slug": "edinburgh",
@@ -209,12 +333,27 @@
       "firstYearGuarantee": true,
       "description": "Edinburgh guarantees accommodation to all first-year students who hold Edinburgh as their firm choice and apply by the deadline. Students in the School of Biological Sciences are based at the King's Buildings campus, a short bus ride south of the city centre.",
       "avgWeeklyCost": "£135–£200",
-      "halls": ["Pollock Halls", "Hermits Croft", "KB House (King's Buildings)", "Salisbury Green"],
+      "halls": [
+        "Pollock Halls",
+        "Hermits Croft",
+        "KB House (King's Buildings)",
+        "Salisbury Green"
+      ],
       "privateRentAreas": "Marchmont, Morningside, Bruntsfield, Leith"
     },
     "openDays": [
-      { "date": "12 June 2025", "type": "Undergraduate Open Day" },
-      { "date": "16 September 2025", "type": "Undergraduate Open Day" }
+      {
+        "date": "22 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "26 September 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "24 October 2026",
+        "type": "Undergraduate Open Day"
+      }
     ],
     "application": {
       "ucasCode": "C700",
@@ -232,18 +371,37 @@
       "union": "Edinburgh University Students' Association (EUSA) — large, diverse and active",
       "societiesCount": "300+",
       "sportsTeams": "70+",
-      "highlights": ["Edinburgh Festival during August", "Arthur's Seat and Holyrood Park on the doorstep", "Active Biological Sciences Society and ChemSoc", "BioQuarter events and open lecture series"]
+      "highlights": [
+        "Edinburgh Festival during August",
+        "Arthur's Seat and Holyrood Park on the doorstep",
+        "Active Biological Sciences Society and ChemSoc",
+        "BioQuarter events and open lecture series"
+      ]
     },
     "cityLife": {
       "description": "Edinburgh is one of the UK's most beautiful and culturally rich cities. The Old Town, New Town, and the annual Edinburgh Festival make it a world-class destination. The Edinburgh BioQuarter — one of Europe's leading life science campuses — is close to King's Buildings, providing internship and research opportunities.",
       "avgRentPerMonth": "£650–£900",
       "costOfLiving": "Moderate-High",
       "transport": "Tram system, Lothian Buses and ScotRail; Edinburgh Waverley station; Edinburgh Airport",
-      "highlights": ["Edinburgh Old Town and Royal Mile", "Arthur's Seat volcano", "Edinburgh Fringe and International Festival", "Roslin Institute visitor centre"],
+      "highlights": [
+        "Edinburgh Old Town and Royal Mile",
+        "Arthur's Seat volcano",
+        "Edinburgh Fringe and International Festival",
+        "Roslin Institute visitor centre"
+      ],
       "nightlife": "Grassmarket, Cowgate and the Old Town have vibrant pub and nightlife scenes; Leith is the city's emerging restaurant quarter."
     },
-    "notableAlumni": ["Alexander Graham Bell — inventor of the telephone", "Charles Darwin — studied medicine but left for Cambridge", "Ian Wilmut — scientist who created Dolly the sheep (at Roslin Institute, affiliated with Edinburgh)"],
-    "keyFacts": ["#22 in QS World University Rankings 2024–25", "Home to the Roslin Institute (cloning and animal biotechnology)", "Edinburgh BioQuarter is a top 5 life sciences cluster in Europe", "Scottish 4-year Honours degree provides an additional year of breadth before specialisation"]
+    "notableAlumni": [
+      "Alexander Graham Bell — inventor of the telephone",
+      "Charles Darwin — studied medicine but left for Cambridge",
+      "Ian Wilmut — scientist who created Dolly the sheep (at Roslin Institute, affiliated with Edinburgh)"
+    ],
+    "keyFacts": [
+      "#22 in QS World University Rankings 2024–25",
+      "Home to the Roslin Institute (cloning and animal biotechnology)",
+      "Edinburgh BioQuarter is a top 5 life sciences cluster in Europe",
+      "Scottish 4-year Honours degree provides an additional year of breadth before specialisation"
+    ]
   },
   "durham": {
     "slug": "durham",
@@ -258,12 +416,20 @@
       "firstYearGuarantee": true,
       "description": "All first-year students are guaranteed accommodation in their allocated college. Durham's collegiate system means your social and academic life centres on your college, which is typically within walking distance of the science buildings.",
       "avgWeeklyCost": "£130–£190",
-      "halls": ["Varies by college — Hatfield, St Cuthbert's, Grey College and Van Mildert are popular for scientists"],
+      "halls": [
+        "Varies by college — Hatfield, St Cuthbert's, Grey College and Van Mildert are popular for scientists"
+      ],
       "privateRentAreas": "Gilesgate, Nevilles Cross, Crossgate Moor"
     },
     "openDays": [
-      { "date": "6 June 2025", "type": "Undergraduate Open Day" },
-      { "date": "26 September 2025", "type": "Undergraduate Open Day" }
+      {
+        "date": "26 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "27 June 2026",
+        "type": "Undergraduate Open Day"
+      }
     ],
     "application": {
       "ucasCode": "C700",
@@ -281,18 +447,37 @@
       "union": "Durham Students' Union — plus active JCRs in each college",
       "societiesCount": "200+",
       "sportsTeams": "60+",
-      "highlights": ["Collegiate rivalries and sports competitions", "Durham Cathedral and Castle (UNESCO World Heritage Site)", "Durham University Science Society", "Boat Club and rowing traditions on the River Wear"]
+      "highlights": [
+        "Collegiate rivalries and sports competitions",
+        "Durham Cathedral and Castle (UNESCO World Heritage Site)",
+        "Durham University Science Society",
+        "Boat Club and rowing traditions on the River Wear"
+      ]
     },
     "cityLife": {
       "description": "Durham is a compact, beautiful cathedral city in northeast England with a world-famous Romanesque cathedral and Norman castle at its heart. Newcastle upon Tyne is 20 minutes by train, providing access to a major city's nightlife and culture.",
       "avgRentPerMonth": "£500–£750",
       "costOfLiving": "Moderate",
       "transport": "Durham station with direct trains to London King's Cross (2h40), Newcastle (18 min) and Edinburgh (1h30)",
-      "highlights": ["Durham Cathedral and Castle UNESCO World Heritage Site", "River Wear walks", "Outdoor Durham activities", "Lumiere Durham light festival"],
+      "highlights": [
+        "Durham Cathedral and Castle UNESCO World Heritage Site",
+        "River Wear walks",
+        "Outdoor Durham activities",
+        "Lumiere Durham light festival"
+      ],
       "nightlife": "Durham itself has a compact pub and bar scene centred on Elvet Bridge; students frequently visit Newcastle for a larger nightlife offer."
     },
-    "notableAlumni": ["Rowan Atkinson — Mr Bean and Blackadder; studied Electrical Engineering", "Jopling Award winners in science and medicine", "Sir Peter Gluckman — former chief science advisor to New Zealand PM"],
-    "keyFacts": ["#4 in Complete University Guide 2026", "Collegiate system provides strong pastoral support and peer learning", "Chemistry department has particular strength in supramolecular and green chemistry", "Strong proximity to Newcastle's biomedical research cluster"]
+    "notableAlumni": [
+      "Rowan Atkinson — Mr Bean and Blackadder; studied Electrical Engineering",
+      "Jopling Award winners in science and medicine",
+      "Sir Peter Gluckman — former chief science advisor to New Zealand PM"
+    ],
+    "keyFacts": [
+      "#4 in Complete University Guide 2026",
+      "Collegiate system provides strong pastoral support and peer learning",
+      "Chemistry department has particular strength in supramolecular and green chemistry",
+      "Strong proximity to Newcastle's biomedical research cluster"
+    ]
   },
   "bristol": {
     "slug": "bristol",
@@ -307,12 +492,27 @@
       "firstYearGuarantee": true,
       "description": "Bristol guarantees accommodation to all first-year students who have Bristol as their firm choice. Halls are located across Stoke Bishop, Clifton and the city, connected by Bristol's bus network.",
       "avgWeeklyCost": "£140–£200",
-      "halls": ["Clifton Hill House", "Goldney Hall", "Durdham Hall", "University Hall"],
+      "halls": [
+        "Clifton Hill House",
+        "Goldney Hall",
+        "Durdham Hall",
+        "University Hall"
+      ],
       "privateRentAreas": "Clifton, Redland, Cotham, Montpelier, Bedminster"
     },
     "openDays": [
-      { "date": "21 June 2025", "type": "Undergraduate Open Day" },
-      { "date": "20 September 2025", "type": "Undergraduate Open Day" }
+      {
+        "date": "12 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "13 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "31 October 2026",
+        "type": "Undergraduate Open Day"
+      }
     ],
     "application": {
       "ucasCode": "C700",
@@ -330,18 +530,37 @@
       "union": "Bristol SU — active, award-winning students' union",
       "societiesCount": "300+",
       "sportsTeams": "70+",
-      "highlights": ["Bristol is consistently voted one of the best cities for students in the UK", "Active BioSoc and ChemSoc", "Suspension Bridge and harbourside life", "Close links to Clifton Village for student socialising"]
+      "highlights": [
+        "Bristol is consistently voted one of the best cities for students in the UK",
+        "Active BioSoc and ChemSoc",
+        "Suspension Bridge and harbourside life",
+        "Close links to Clifton Village for student socialising"
+      ]
     },
     "cityLife": {
       "description": "Bristol is one of the UK's most popular and vibrant cities for students. Known for its independent music scene, street art (Banksy's home city), and excellent food and drink culture. The harbourside and Clifton areas are particularly popular with students.",
       "avgRentPerMonth": "£600–£850",
       "costOfLiving": "Moderate-High",
       "transport": "Bristol Temple Meads station (1h40 to London Paddington); Bristol Airport; extensive bus network",
-      "highlights": ["Clifton Suspension Bridge", "SS Great Britain", "Harbourside", "Banksy street art"],
+      "highlights": [
+        "Clifton Suspension Bridge",
+        "SS Great Britain",
+        "Harbourside",
+        "Banksy street art"
+      ],
       "nightlife": "Stokes Croft, Clifton Triangle and the Old City are all vibrant entertainment areas; Bristol has a world-class independent music and food scene."
     },
-    "notableAlumni": ["Paul Dirac — Nobel Laureate, quantum mechanics (studied at Bristol)", "Tom Stoppard — playwright", "Dave Lee Travis — broadcaster"],
-    "keyFacts": ["#11 in Complete University Guide 2026", "Biochemistry is housed in the biomedical sciences building on the main campus", "Strong infection biology research group linked to Bristol NHS Trust", "Rated gold in TEF (Teaching Excellence Framework)"]
+    "notableAlumni": [
+      "Paul Dirac — Nobel Laureate, quantum mechanics (studied at Bristol)",
+      "Tom Stoppard — playwright",
+      "Dave Lee Travis — broadcaster"
+    ],
+    "keyFacts": [
+      "#11 in Complete University Guide 2026",
+      "Biochemistry is housed in the biomedical sciences building on the main campus",
+      "Strong infection biology research group linked to Bristol NHS Trust",
+      "Rated gold in TEF (Teaching Excellence Framework)"
+    ]
   },
   "warwick": {
     "slug": "warwick",
@@ -356,12 +575,31 @@
       "firstYearGuarantee": true,
       "description": "Warwick guarantees accommodation to all first-year UK undergraduates. The campus is largely self-contained with halls, shops, restaurants and recreational facilities on-site.",
       "avgWeeklyCost": "£135–£190",
-      "halls": ["Bluebell", "Heronbank", "Rootes", "Westwood"],
+      "halls": [
+        "Bluebell",
+        "Heronbank",
+        "Rootes",
+        "Westwood"
+      ],
       "privateRentAreas": "Canley, Earlsdon, Leamington Spa, Tile Hill"
     },
     "openDays": [
-      { "date": "5 July 2025", "type": "Undergraduate Open Day" },
-      { "date": "4 October 2025", "type": "Undergraduate Open Day" }
+      {
+        "date": "20 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "27 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "10 October 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "24 October 2026",
+        "type": "Undergraduate Open Day"
+      }
     ],
     "application": {
       "ucasCode": "C700",
@@ -379,18 +617,36 @@
       "union": "Warwick SU — one of the UK's best-resourced students' unions",
       "societiesCount": "250+",
       "sportsTeams": "60+",
-      "highlights": ["Warwick Arts Centre (one of the UK's best campus arts venues)", "Excellent campus facilities", "Active ChemSoc and BiologySoc", "Strong inter-departmental research culture"]
+      "highlights": [
+        "Warwick Arts Centre (one of the UK's best campus arts venues)",
+        "Excellent campus facilities",
+        "Active ChemSoc and BiologySoc",
+        "Strong inter-departmental research culture"
+      ]
     },
     "cityLife": {
       "description": "Warwick's campus sits between Coventry and Leamington Spa. Leamington Spa is a popular destination for students with a vibrant independent restaurant and bar scene; Coventry is a larger city with more nightlife options.",
       "avgRentPerMonth": "£550–£750",
       "costOfLiving": "Moderate",
       "transport": "Coventry station (1h to London Euston); campus bus and car are needed for the campus-to-city journey",
-      "highlights": ["Warwick Castle nearby", "Leamington Spa's independent restaurants and cafes", "Coventry Cathedral and cultural quarter"],
+      "highlights": [
+        "Warwick Castle nearby",
+        "Leamington Spa's independent restaurants and cafes",
+        "Coventry Cathedral and cultural quarter"
+      ],
       "nightlife": "Leamington Spa has a pleasant town centre with bars and restaurants; Coventry has a more traditional student nightlife; both are a bus or short drive from campus."
     },
-    "notableAlumni": ["Bafta-winning director Gurinder Chadha", "Zadie Smith (did not attend Warwick)", "Jonathan Ashworth — politician"],
-    "keyFacts": ["#7 in Complete University Guide 2026", "Warwick Integrative Synthetic Biology Centre is a leading UK synthetic biology research hub", "Chemistry department is member of the Midlands Chemical Biology Centre with Birmingham", "Campus model promotes inter-departmental collaboration in science and medicine"]
+    "notableAlumni": [
+      "Bafta-winning director Gurinder Chadha",
+      "Zadie Smith (did not attend Warwick)",
+      "Jonathan Ashworth — politician"
+    ],
+    "keyFacts": [
+      "#7 in Complete University Guide 2026",
+      "Warwick Integrative Synthetic Biology Centre is a leading UK synthetic biology research hub",
+      "Chemistry department is member of the Midlands Chemical Biology Centre with Birmingham",
+      "Campus model promotes inter-departmental collaboration in science and medicine"
+    ]
   },
   "bath": {
     "slug": "bath",
@@ -405,12 +661,27 @@
       "firstYearGuarantee": true,
       "description": "Bath guarantees accommodation to all first-year students who hold Bath as their firm choice. All halls are on or adjacent to the main campus on Claverton Down.",
       "avgWeeklyCost": "£140–£200",
-      "halls": ["Eastwood", "Westwood", "Brendon", "Polden Court"],
+      "halls": [
+        "Eastwood",
+        "Westwood",
+        "Brendon",
+        "Polden Court"
+      ],
       "privateRentAreas": "Oldfield Park, Twerton, Larkhall, Bear Flat"
     },
     "openDays": [
-      { "date": "14 June 2025", "type": "Undergraduate Open Day" },
-      { "date": "27 September 2025", "type": "Undergraduate Open Day" }
+      {
+        "date": "12 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "13 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "10 October 2026",
+        "type": "Undergraduate Open Day"
+      }
     ],
     "application": {
       "ucasCode": "C700",
@@ -428,18 +699,37 @@
       "union": "Bath SU — active and well-regarded",
       "societiesCount": "200+",
       "sportsTeams": "50+",
-      "highlights": ["Beautiful campus setting overlooking the city", "Strong industry connections and placement culture", "Active ChemSoc and BioSoc", "Access to Bath's UNESCO World Heritage city centre"]
+      "highlights": [
+        "Beautiful campus setting overlooking the city",
+        "Strong industry connections and placement culture",
+        "Active ChemSoc and BioSoc",
+        "Access to Bath's UNESCO World Heritage city centre"
+      ]
     },
     "cityLife": {
       "description": "Bath is a UNESCO World Heritage city — one of the most beautiful cities in England — with Georgian architecture, the Roman Baths and a thriving independent food and culture scene. Proximity to Bristol (15 min by train) gives access to a major city when needed.",
       "avgRentPerMonth": "£650–£900",
       "costOfLiving": "Moderate-High",
       "transport": "Bath Spa station (1h30 to London Paddington, 12 min to Bristol); buses connect campus to city centre",
-      "highlights": ["Roman Baths", "Royal Crescent", "Thermae Bath Spa", "Pulteney Bridge"],
+      "highlights": [
+        "Roman Baths",
+        "Royal Crescent",
+        "Thermae Bath Spa",
+        "Pulteney Bridge"
+      ],
       "nightlife": "Bath's city centre has a good range of bars, restaurants and music venues; the proximity to Bristol massively expands nightlife options for Bath students."
     },
-    "notableAlumni": ["Nick Clegg (attended; politician)", "Ed Davey (politician)", "Richard Saul Wurman (architect, TED founder)"],
-    "keyFacts": ["#9 in Complete University Guide 2026", "Biochemistry and Chemistry industrial placement record is consistently among the UK's best", "Bath Science Park enables industry partnerships for placements and collaborative research", "Chemistry MChem has mandatory placement year with AstraZeneca, GSK and Pfizer partnership placements"]
+    "notableAlumni": [
+      "Nick Clegg (attended; politician)",
+      "Ed Davey (politician)",
+      "Richard Saul Wurman (architect, TED founder)"
+    ],
+    "keyFacts": [
+      "#9 in Complete University Guide 2026",
+      "Biochemistry and Chemistry industrial placement record is consistently among the UK's best",
+      "Bath Science Park enables industry partnerships for placements and collaborative research",
+      "Chemistry MChem has mandatory placement year with AstraZeneca, GSK and Pfizer partnership placements"
+    ]
   },
   "manchester": {
     "slug": "manchester",
@@ -454,12 +744,31 @@
       "firstYearGuarantee": true,
       "description": "Manchester guarantees accommodation to all first-year undergraduates who apply by the deadline. A wide range of halls are available across the Oxford Road corridor.",
       "avgWeeklyCost": "£140–£195",
-      "halls": ["Oak House", "Whitworth Park", "Victoria Hall", "Piccadilly Place"],
+      "halls": [
+        "Oak House",
+        "Whitworth Park",
+        "Victoria Hall",
+        "Piccadilly Place"
+      ],
       "privateRentAreas": "Fallowfield, Withington, Rusholme, Didsbury"
     },
     "openDays": [
-      { "date": "21 June 2025", "type": "Undergraduate Open Day" },
-      { "date": "27 September 2025", "type": "Undergraduate Open Day" }
+      {
+        "date": "27 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "4 July 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "3 October 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "10 October 2026",
+        "type": "Undergraduate Open Day"
+      }
     ],
     "application": {
       "ucasCode": "C700",
@@ -477,18 +786,37 @@
       "union": "Manchester SU — one of the largest and most active in the UK",
       "societiesCount": "400+",
       "sportsTeams": "80+",
-      "highlights": ["One of the most vibrant student cities in the UK", "The Manchester Museum and Whitworth Art Gallery on campus", "Active BioSoc and ChemSoc with strong research lecture series", "Manchester's music and arts scene is world-class"]
+      "highlights": [
+        "One of the most vibrant student cities in the UK",
+        "The Manchester Museum and Whitworth Art Gallery on campus",
+        "Active BioSoc and ChemSoc with strong research lecture series",
+        "Manchester's music and arts scene is world-class"
+      ]
     },
     "cityLife": {
       "description": "Manchester is a major, cosmopolitan city with world-class music, food, sport and culture. The Oxford Road corridor — running through the campus — has more students than any other in Europe. Manchester's vibrant Fallowfield student suburb is one of the most popular student residential areas in the UK.",
       "avgRentPerMonth": "£550–£750",
       "costOfLiving": "Moderate",
       "transport": "Metrolink tram system; Manchester Piccadilly and Victoria stations (2h to London); Manchester Airport",
-      "highlights": ["Northern Quarter", "Manchester Art Gallery", "Old Trafford and Etihad Stadium", "Spinningfields"],
+      "highlights": [
+        "Northern Quarter",
+        "Manchester Art Gallery",
+        "Old Trafford and Etihad Stadium",
+        "Spinningfields"
+      ],
       "nightlife": "Manchester has one of the UK's most celebrated nightlife scenes; the Northern Quarter, Deansgate Locks and Canal Street cater for all tastes."
     },
-    "notableAlumni": ["Ernest Rutherford — split the atom (worked at Manchester)", "Alan Turing — father of computing (worked at Manchester)", "Andre Geim and Kostya Novoselov — discovered graphene (Nobel Prize 2010)"],
-    "keyFacts": ["Over 25 Nobel Prize-winning researchers associated with Manchester", "Graphene discovered at Manchester in 2004 (Geim and Novoselov)", "Manchester Institute of Biotechnology is a world-leading drug discovery and synthetic biology centre", "UK's largest single-site student population"]
+    "notableAlumni": [
+      "Ernest Rutherford — split the atom (worked at Manchester)",
+      "Alan Turing — father of computing (worked at Manchester)",
+      "Andre Geim and Kostya Novoselov — discovered graphene (Nobel Prize 2010)"
+    ],
+    "keyFacts": [
+      "Over 25 Nobel Prize-winning researchers associated with Manchester",
+      "Graphene discovered at Manchester in 2004 (Geim and Novoselov)",
+      "Manchester Institute of Biotechnology is a world-leading drug discovery and synthetic biology centre",
+      "UK's largest single-site student population"
+    ]
   },
   "sheffield": {
     "slug": "sheffield",
@@ -503,12 +831,31 @@
       "firstYearGuarantee": true,
       "description": "Sheffield guarantees accommodation to all first-year students who hold Sheffield as their firm choice. Multiple halls are available within walking distance of the main campus.",
       "avgWeeklyCost": "£110–£165",
-      "halls": ["Endcliffe Village", "Ranmoor Village", "Sorby House", "Murray Hall"],
+      "halls": [
+        "Endcliffe Village",
+        "Ranmoor Village",
+        "Sorby House",
+        "Murray Hall"
+      ],
       "privateRentAreas": "Broomhill, Ecclesall Road, Crookes, Walkley"
     },
     "openDays": [
-      { "date": "27 June 2025", "type": "Undergraduate Open Day" },
-      { "date": "20 September 2025", "type": "Undergraduate Open Day" }
+      {
+        "date": "20 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "4 July 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "5 September 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "17 October 2026",
+        "type": "Undergraduate Open Day"
+      }
     ],
     "application": {
       "ucasCode": "C700",
@@ -526,18 +873,37 @@
       "union": "Sheffield SU — consistently ranked one of the UK's best by the National Student Survey",
       "societiesCount": "300+",
       "sportsTeams": "60+",
-      "highlights": ["Sheffield SU has won the 'Best SU' award multiple times", "Peak District National Park accessible in 30 minutes", "Active BioSoc and ChemSoc", "Strong welfare and pastoral support culture"]
+      "highlights": [
+        "Sheffield SU has won the 'Best SU' award multiple times",
+        "Peak District National Park accessible in 30 minutes",
+        "Active BioSoc and ChemSoc",
+        "Strong welfare and pastoral support culture"
+      ]
     },
     "cityLife": {
       "description": "Sheffield is a friendly, affordable northern city with a strong music scene, excellent food and drink, and easy access to the Peak District for outdoor activities. It offers the best of city life with a lower cost of living than London or Bristol.",
       "avgRentPerMonth": "£450–£650",
       "costOfLiving": "Low-Moderate",
       "transport": "Sheffield station (2h to London St Pancras); Supertram network; M1 motorway",
-      "highlights": ["Peak District 30 minutes away", "Kelham Island industrial museum", "Botanical Gardens", "Meadowhall shopping centre"],
+      "highlights": [
+        "Peak District 30 minutes away",
+        "Kelham Island industrial museum",
+        "Botanical Gardens",
+        "Meadowhall shopping centre"
+      ],
       "nightlife": "West Street and Division Street are the main nightlife areas; Sheffield has a vibrant live music scene and strong independent restaurant culture."
     },
-    "notableAlumni": ["Jessica Ennis-Hill — Olympic gold medallist", "Jarvis Cocker — Pulp frontman", "Ed Balls — economist and politician"],
-    "keyFacts": ["#19 in Complete University Guide 2026", "Sheffield SU consistently rated one of the best in the UK", "Krebs Institute is a world-leading centre for structural biology and biochemistry", "Affordable city with the lowest cost of living among major Russell Group universities"]
+    "notableAlumni": [
+      "Jessica Ennis-Hill — Olympic gold medallist",
+      "Jarvis Cocker — Pulp frontman",
+      "Ed Balls — economist and politician"
+    ],
+    "keyFacts": [
+      "#19 in Complete University Guide 2026",
+      "Sheffield SU consistently rated one of the best in the UK",
+      "Krebs Institute is a world-leading centre for structural biology and biochemistry",
+      "Affordable city with the lowest cost of living among major Russell Group universities"
+    ]
   },
   "southampton": {
     "slug": "southampton",
@@ -552,12 +918,31 @@
       "firstYearGuarantee": true,
       "description": "Southampton guarantees accommodation to all first-year students who hold Southampton as their firm choice. Halls are on and near the Highfield campus.",
       "avgWeeklyCost": "£125–£185",
-      "halls": ["Glen Eyre", "Erasmus Park", "Wessex Lane", "Mayflower Halls"],
+      "halls": [
+        "Glen Eyre",
+        "Erasmus Park",
+        "Wessex Lane",
+        "Mayflower Halls"
+      ],
       "privateRentAreas": "Portswood, Swaythling, Shirley, Bitterne Park"
     },
     "openDays": [
-      { "date": "14 June 2025", "type": "Undergraduate Open Day" },
-      { "date": "4 October 2025", "type": "Undergraduate Open Day" }
+      {
+        "date": "27 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "28 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "27 September 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "11 October 2026",
+        "type": "Undergraduate Open Day"
+      }
     ],
     "application": {
       "ucasCode": "C700",
@@ -575,18 +960,37 @@
       "union": "Southampton SU — active and well-resourced",
       "societiesCount": "200+",
       "sportsTeams": "50+",
-      "highlights": ["Proximity to the New Forest and South Coast beaches", "Active BioSoc and ChemSoc", "University Hospital Southampton NHS Trust for clinical exposure", "Southampton Science Park links for career development"]
+      "highlights": [
+        "Proximity to the New Forest and South Coast beaches",
+        "Active BioSoc and ChemSoc",
+        "University Hospital Southampton NHS Trust for clinical exposure",
+        "Southampton Science Park links for career development"
+      ]
     },
     "cityLife": {
       "description": "Southampton is a major port city on the south coast of England with easy access to the New Forest, the Isle of Wight and nearby Bournemouth. The city has a good student scene with affordable housing and pleasant coastal living.",
       "avgRentPerMonth": "£550–£750",
       "costOfLiving": "Moderate",
       "transport": "Southampton Central station (1h to London Waterloo); Southampton Airport; ferries to Isle of Wight and France",
-      "highlights": ["New Forest National Park 15 minutes away", "Isle of Wight ferry", "Mayflower Theatre", "SeaCity Museum"],
+      "highlights": [
+        "New Forest National Park 15 minutes away",
+        "Isle of Wight ferry",
+        "Mayflower Theatre",
+        "SeaCity Museum"
+      ],
       "nightlife": "Bedford Place and the West Quay area are the main entertainment zones; Southampton has a pleasant, affordable student social scene."
     },
-    "notableAlumni": ["Craig David — musician", "Matt Le Tissier — footballer", "Mark King — Level 42 bassist"],
-    "keyFacts": ["#12 in Complete University Guide 2026", "University Hospital Southampton is a major NHS research partner", "Southampton Science Park provides placement and research opportunities", "Strong electrochemistry group and Centre for Biological Sciences"]
+    "notableAlumni": [
+      "Craig David — musician",
+      "Matt Le Tissier — footballer",
+      "Mark King — Level 42 bassist"
+    ],
+    "keyFacts": [
+      "#12 in Complete University Guide 2026",
+      "University Hospital Southampton is a major NHS research partner",
+      "Southampton Science Park provides placement and research opportunities",
+      "Strong electrochemistry group and Centre for Biological Sciences"
+    ]
   },
   "nottingham": {
     "slug": "nottingham",
@@ -601,12 +1005,31 @@
       "firstYearGuarantee": true,
       "description": "Nottingham guarantees accommodation to all first-year students who hold Nottingham as their firm choice. University Park campus has extensive on-campus halls.",
       "avgWeeklyCost": "£120–£175",
-      "halls": ["Rutland Hall", "Cripps Hall", "Sherwood Hall", "Florence Boot Hall"],
+      "halls": [
+        "Rutland Hall",
+        "Cripps Hall",
+        "Sherwood Hall",
+        "Florence Boot Hall"
+      ],
       "privateRentAreas": "Lenton, Beeston, Dunkirk, Radford"
     },
     "openDays": [
-      { "date": "5 July 2025", "type": "Undergraduate Open Day" },
-      { "date": "20 September 2025", "type": "Undergraduate Open Day" }
+      {
+        "date": "26 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "27 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "3 July 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "12 September 2026",
+        "type": "Undergraduate Open Day"
+      }
     ],
     "application": {
       "ucasCode": "C700",
@@ -624,18 +1047,37 @@
       "union": "Nottingham SU — large, active and with a strong social programme",
       "societiesCount": "300+",
       "sportsTeams": "70+",
-      "highlights": ["Beautiful University Park campus", "Active BioSoc and ChemSoc", "Pharmaceutical Industry links via Boots Drug Discovery Unit", "Good value student city"]
+      "highlights": [
+        "Beautiful University Park campus",
+        "Active BioSoc and ChemSoc",
+        "Pharmaceutical Industry links via Boots Drug Discovery Unit",
+        "Good value student city"
+      ]
     },
     "cityLife": {
       "description": "Nottingham is a large, vibrant East Midlands city with a strong student culture, excellent nightlife, and a rapidly growing innovation economy. The Lace Market area and Castle Quarter are key cultural zones. Nottingham has a proud pharmaceutical heritage.",
       "avgRentPerMonth": "£500–£700",
       "costOfLiving": "Low-Moderate",
       "transport": "Nottingham station (2h to London St Pancras); tram network; East Midlands Airport",
-      "highlights": ["Nottingham Castle", "Sherwood Forest nearby", "Caves beneath the city", "Notting Hill Arts and Live Music"],
+      "highlights": [
+        "Nottingham Castle",
+        "Sherwood Forest nearby",
+        "Caves beneath the city",
+        "Notting Hill Arts and Live Music"
+      ],
       "nightlife": "Rock City (legendary music venue), Market Square and the Lace Market have excellent bars and nightlife; Nottingham is known for its affordable and varied student social scene."
     },
-    "notableAlumni": ["Jesse Boot (founder of Boots)", "Paul Smith — fashion designer", "Brian Clough (honorary degree)"],
-    "keyFacts": ["#17 in Complete University Guide 2026", "Boots Drug Discovery Unit and Almac in close proximity for placement opportunities", "Centre for Biomolecular Sciences is a state-of-the-art research facility", "Beautiful University Park campus with lake and sports facilities on site"]
+    "notableAlumni": [
+      "Jesse Boot (founder of Boots)",
+      "Paul Smith — fashion designer",
+      "Brian Clough (honorary degree)"
+    ],
+    "keyFacts": [
+      "#17 in Complete University Guide 2026",
+      "Boots Drug Discovery Unit and Almac in close proximity for placement opportunities",
+      "Centre for Biomolecular Sciences is a state-of-the-art research facility",
+      "Beautiful University Park campus with lake and sports facilities on site"
+    ]
   },
   "king-s-college-london": {
     "slug": "king-s-college-london",
@@ -650,12 +1092,23 @@
       "firstYearGuarantee": true,
       "description": "King's guarantees accommodation to first-year students. Halls are spread across central London locations including Stamford Street Apartments, Great Dover Street and Hampstead Campus.",
       "avgWeeklyCost": "£165–£260",
-      "halls": ["Stamford Street Apartments", "Great Dover Street", "Wolfson House", "King's Residences Hampstead"],
+      "halls": [
+        "Stamford Street Apartments",
+        "Great Dover Street",
+        "Wolfson House",
+        "King's Residences Hampstead"
+      ],
       "privateRentAreas": "Elephant and Castle, Borough, Lewisham, Deptford, Camberwell"
     },
     "openDays": [
-      { "date": "28 June 2025", "type": "Undergraduate Open Day" },
-      { "date": "27 September 2025", "type": "Undergraduate Open Day" }
+      {
+        "date": "27 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "5 September 2026",
+        "type": "Undergraduate Open Day"
+      }
     ],
     "application": {
       "ucasCode": "C700",
@@ -673,18 +1126,37 @@
       "union": "King's Students' Union — active across multiple campuses",
       "societiesCount": "200+",
       "sportsTeams": "50+",
-      "highlights": ["Location on the south bank of the Thames at the Strand", "Close to Somerset House and the Courtauld Gallery", "BioMedSoc and ChemSoc are active across campuses", "Access to NHS clinical research opportunities at Guy's Hospital"]
+      "highlights": [
+        "Location on the south bank of the Thames at the Strand",
+        "Close to Somerset House and the Courtauld Gallery",
+        "BioMedSoc and ChemSoc are active across campuses",
+        "Access to NHS clinical research opportunities at Guy's Hospital"
+      ]
     },
     "cityLife": {
       "description": "King's is one of London's most centrally located universities — the Strand campus overlooks the Thames and is minutes from Covent Garden, the City, Southwark and London Bridge. The Guy's Campus is adjacent to London Bridge station and Borough Market.",
       "avgRentPerMonth": "£900–£1,300",
       "costOfLiving": "Very High",
       "transport": "Strand campus served by Temple and Charing Cross tube/rail; Guy's served by London Bridge",
-      "highlights": ["Borough Market directly adjacent to Guy's Campus", "Somerset House and South Bank arts venues", "Thames Path walks", "Tower Bridge and Tower of London"],
+      "highlights": [
+        "Borough Market directly adjacent to Guy's Campus",
+        "Somerset House and South Bank arts venues",
+        "Thames Path walks",
+        "Tower Bridge and Tower of London"
+      ],
       "nightlife": "Bermondsey, Borough, and the South Bank are excellent for dining and bars; Soho, Covent Garden and the City are all walkable from the Strand."
     },
-    "notableAlumni": ["Florence Nightingale — nursing pioneer (associated with King's)", "Desmond Tutu — Nobel Peace Laureate (Honorary Doctorate)", "John Keats — poet (studied medicine at Guy's)"],
-    "keyFacts": ["#40 in QS World University Rankings 2024–25", "Guy's Hospital campus is one of Europe's largest clinical research sites", "Close proximity to NHS King's College Hospital and Guy's and St Thomas's NHS Trust", "Ranked among the top 5 UK universities for the quality of student experience in London"]
+    "notableAlumni": [
+      "Florence Nightingale — nursing pioneer (associated with King's)",
+      "Desmond Tutu — Nobel Peace Laureate (Honorary Doctorate)",
+      "John Keats — poet (studied medicine at Guy's)"
+    ],
+    "keyFacts": [
+      "#40 in QS World University Rankings 2024–25",
+      "Guy's Hospital campus is one of Europe's largest clinical research sites",
+      "Close proximity to NHS King's College Hospital and Guy's and St Thomas's NHS Trust",
+      "Ranked among the top 5 UK universities for the quality of student experience in London"
+    ]
   },
   "birmingham": {
     "slug": "birmingham",
@@ -699,12 +1171,31 @@
       "firstYearGuarantee": true,
       "description": "Birmingham guarantees accommodation to all first-year students who hold Birmingham as their firm choice. Multiple halls are available across the Edgbaston campus and nearby.",
       "avgWeeklyCost": "£115–£170",
-      "halls": ["Vale Village", "Tennis Court", "Maple Bank", "Shackleton"],
+      "halls": [
+        "Vale Village",
+        "Tennis Court",
+        "Maple Bank",
+        "Shackleton"
+      ],
       "privateRentAreas": "Selly Oak, Harborne, Stirchley, Moseley"
     },
     "openDays": [
-      { "date": "21 June 2025", "type": "Undergraduate Open Day" },
-      { "date": "20 September 2025", "type": "Undergraduate Open Day" }
+      {
+        "date": "26 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "27 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "10 October 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "14 November 2026",
+        "type": "Undergraduate Open Day"
+      }
     ],
     "application": {
       "ucasCode": "C700",
@@ -722,18 +1213,37 @@
       "union": "Birmingham Guild of Students — large and highly rated",
       "societiesCount": "300+",
       "sportsTeams": "70+",
-      "highlights": ["Active BioSoc and ChemSoc", "Barclaycard Arena and NEC nearby for events", "Large, diverse student population", "Selly Oak student suburb immediately adjacent to campus"]
+      "highlights": [
+        "Active BioSoc and ChemSoc",
+        "Barclaycard Arena and NEC nearby for events",
+        "Large, diverse student population",
+        "Selly Oak student suburb immediately adjacent to campus"
+      ]
     },
     "cityLife": {
       "description": "Birmingham is the UK's second-largest city, with a vibrant food scene (famous for Balti Triangle), excellent shopping and a major arts and music scene. The city is undergoing rapid regeneration and investment.",
       "avgRentPerMonth": "£500–£700",
       "costOfLiving": "Low-Moderate",
       "transport": "New Street station (1h20 to London Euston); Birmingham Airport; tram and bus network",
-      "highlights": ["Bullring and Grand Central shopping", "Cadbury World in nearby Bournville", "Museum and Art Gallery", "Digbeth arts and nightlife quarter"],
+      "highlights": [
+        "Bullring and Grand Central shopping",
+        "Cadbury World in nearby Bournville",
+        "Museum and Art Gallery",
+        "Digbeth arts and nightlife quarter"
+      ],
       "nightlife": "Broad Street and Digbeth are Birmingham's main entertainment districts; the Jewellery Quarter has excellent independent bars and restaurants."
     },
-    "notableAlumni": ["J.R.R. Tolkien — author (grew up in Birmingham, attended King Edward's School)", "Ozzy Osbourne — musician (Birmingham born)", "Timothy Spall — actor"],
-    "keyFacts": ["#23 in Complete University Guide 2026", "University Hospitals Birmingham NHS Foundation Trust is one of Europe's largest, providing exceptional clinical research links", "COMPARE Centre (joint with Nottingham) is a UK leader in membrane protein research", "Selly Oak provides one of the UK's most affordable, lively student suburbs"]
+    "notableAlumni": [
+      "J.R.R. Tolkien — author (grew up in Birmingham, attended King Edward's School)",
+      "Ozzy Osbourne — musician (Birmingham born)",
+      "Timothy Spall — actor"
+    ],
+    "keyFacts": [
+      "#23 in Complete University Guide 2026",
+      "University Hospitals Birmingham NHS Foundation Trust is one of Europe's largest, providing exceptional clinical research links",
+      "COMPARE Centre (joint with Nottingham) is a UK leader in membrane protein research",
+      "Selly Oak provides one of the UK's most affordable, lively student suburbs"
+    ]
   },
   "leeds": {
     "slug": "leeds",
@@ -748,12 +1258,23 @@
       "firstYearGuarantee": true,
       "description": "Leeds guarantees accommodation to all first-year students who hold Leeds as their firm choice. Multiple halls are on or near the campus.",
       "avgWeeklyCost": "£115–£175",
-      "halls": ["Leodis", "Lyddon Hall", "Devonshire Hall", "Henry Price"],
+      "halls": [
+        "Leodis",
+        "Lyddon Hall",
+        "Devonshire Hall",
+        "Henry Price"
+      ],
       "privateRentAreas": "Headingley, Hyde Park, Woodhouse, Burley"
     },
     "openDays": [
-      { "date": "21 June 2025", "type": "Undergraduate Open Day" },
-      { "date": "27 September 2025", "type": "Undergraduate Open Day" }
+      {
+        "date": "12 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "13 June 2026",
+        "type": "Undergraduate Open Day"
+      }
     ],
     "application": {
       "ucasCode": "C700",
@@ -771,18 +1292,37 @@
       "union": "Leeds SU — one of the largest in the UK and consistently well-rated",
       "societiesCount": "300+",
       "sportsTeams": "80+",
-      "highlights": ["Campus is practically in the city centre", "Headingley student suburb is one of the most popular in the UK", "Active BioSoc and ChemSoc", "Yorkshire Dales and Peak District accessible for outdoor activities"]
+      "highlights": [
+        "Campus is practically in the city centre",
+        "Headingley student suburb is one of the most popular in the UK",
+        "Active BioSoc and ChemSoc",
+        "Yorkshire Dales and Peak District accessible for outdoor activities"
+      ]
     },
     "cityLife": {
       "description": "Leeds is one of the UK's fastest-growing cities and a major economic hub. The campus blends almost seamlessly into the city centre, making Leeds one of the most integrated campus-city universities in the country. Headingley is a legendary student suburb.",
       "avgRentPerMonth": "£480–£680",
       "costOfLiving": "Low-Moderate",
       "transport": "Leeds station (2h to London King's Cross); airport coach; tram (coming soon)",
-      "highlights": ["Trinity Leeds shopping", "Corn Exchange", "West Yorkshire Playhouse", "Headingley Cricket and Rugby grounds"],
+      "highlights": [
+        "Trinity Leeds shopping",
+        "Corn Exchange",
+        "West Yorkshire Playhouse",
+        "Headingley Cricket and Rugby grounds"
+      ],
       "nightlife": "Leeds has one of the UK's most vibrant nightlife scenes; the Calls, Otley Run and Hyde Park are all popular student destinations."
     },
-    "notableAlumni": ["Erwin Schrödinger — physicist (honorary degree)", "Jim Carter — actor (Downton Abbey)", "Richard Whiteley — TV presenter"],
-    "keyFacts": ["#14 in Complete University Guide 2026", "Green Chemistry Centre of Excellence is a world-leading sustainable chemistry research group", "Astbury Centre for Structural Molecular Biology is an internationally recognised structural biology hub", "Headingley area is one of the most affordable and popular student neighbourhoods in the UK"]
+    "notableAlumni": [
+      "Erwin Schrödinger — physicist (honorary degree)",
+      "Jim Carter — actor (Downton Abbey)",
+      "Richard Whiteley — TV presenter"
+    ],
+    "keyFacts": [
+      "#14 in Complete University Guide 2026",
+      "Green Chemistry Centre of Excellence is a world-leading sustainable chemistry research group",
+      "Astbury Centre for Structural Molecular Biology is an internationally recognised structural biology hub",
+      "Headingley area is one of the most affordable and popular student neighbourhoods in the UK"
+    ]
   },
   "york": {
     "slug": "york",
@@ -797,12 +1337,23 @@
       "firstYearGuarantee": true,
       "description": "York guarantees accommodation to all first-year students. Both Heslington East and Heslington West campuses have on-campus halls surrounded by a beautiful lake environment.",
       "avgWeeklyCost": "£120–£175",
-      "halls": ["Alcuin", "Halifax", "Langwith", "Constantine"],
+      "halls": [
+        "Alcuin",
+        "Halifax",
+        "Langwith",
+        "Constantine"
+      ],
       "privateRentAreas": "Heslington, Fulford, Hull Road, Tang Hall"
     },
     "openDays": [
-      { "date": "6 June 2025", "type": "Undergraduate Open Day" },
-      { "date": "4 October 2025", "type": "Undergraduate Open Day" }
+      {
+        "date": "20 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "21 June 2026",
+        "type": "Undergraduate Open Day"
+      }
     ],
     "application": {
       "ucasCode": "C700",
@@ -820,18 +1371,37 @@
       "union": "University of York Students' Union (YUSU)",
       "societiesCount": "200+",
       "sportsTeams": "50+",
-      "highlights": ["Beautiful lake-side campus environment", "Historic city of York 2km away", "Active BioSoc and ChemSoc", "York Science Park for industry networking"]
+      "highlights": [
+        "Beautiful lake-side campus environment",
+        "Historic city of York 2km away",
+        "Active BioSoc and ChemSoc",
+        "York Science Park for industry networking"
+      ]
     },
     "cityLife": {
       "description": "York is one of England's most beautiful historic cities — a walled medieval city with the Minster at its heart and excellent independent shops, cafes and restaurants. The campus is a short cycle ride or bus journey from the city centre.",
       "avgRentPerMonth": "£520–£700",
       "costOfLiving": "Moderate",
       "transport": "York station (2h to London King's Cross, 25 min to Leeds); bus links to campus",
-      "highlights": ["York Minster", "The Shambles", "York Castle Museum", "National Railway Museum"],
+      "highlights": [
+        "York Minster",
+        "The Shambles",
+        "York Castle Museum",
+        "National Railway Museum"
+      ],
       "nightlife": "The city centre has numerous historic pubs, bars and restaurants across all budgets; Micklegate is the main bar street."
     },
-    "notableAlumni": ["Judi Dench — actress (honorary degree)", "Tom Pellereau — Apprentice winner (engineer)", "Ben Shephard — TV presenter (studied at Exeter but degree later honorary from York)"],
-    "keyFacts": ["#13 in Complete University Guide 2026", "Green Chemistry Centre is a world-leading sustainable and environmental chemistry research hub", "York Science Park is one of the UK's most productive science parks — excellent placement links", "Consistently high National Student Survey scores for teaching quality"]
+    "notableAlumni": [
+      "Judi Dench — actress (honorary degree)",
+      "Tom Pellereau — Apprentice winner (engineer)",
+      "Ben Shephard — TV presenter (studied at Exeter but degree later honorary from York)"
+    ],
+    "keyFacts": [
+      "#13 in Complete University Guide 2026",
+      "Green Chemistry Centre is a world-leading sustainable and environmental chemistry research hub",
+      "York Science Park is one of the UK's most productive science parks — excellent placement links",
+      "Consistently high National Student Survey scores for teaching quality"
+    ]
   },
   "cardiff": {
     "slug": "cardiff",
@@ -846,12 +1416,23 @@
       "firstYearGuarantee": true,
       "description": "Cardiff guarantees accommodation to all first-year students who hold Cardiff as their firm choice. Halls are available across several locations close to the main campus.",
       "avgWeeklyCost": "£110–£160",
-      "halls": ["Senghennydd Court", "Talybont South", "Cartwright Court", "Aberdare Hall"],
+      "halls": [
+        "Senghennydd Court",
+        "Talybont South",
+        "Cartwright Court",
+        "Aberdare Hall"
+      ],
       "privateRentAreas": "Cathays, Roath, Heath, Canton"
     },
     "openDays": [
-      { "date": "21 June 2025", "type": "Undergraduate Open Day" },
-      { "date": "27 September 2025", "type": "Undergraduate Open Day" }
+      {
+        "date": "26 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "27 June 2026",
+        "type": "Undergraduate Open Day"
+      }
     ],
     "application": {
       "ucasCode": "C700",
@@ -869,18 +1450,37 @@
       "union": "Cardiff University Students' Union — active and highly rated",
       "societiesCount": "200+",
       "sportsTeams": "50+",
-      "highlights": ["Cardiff is one of the most affordable capital cities for students in Europe", "Cathays student suburb is extremely popular", "Active BioSoc and ChemSoc", "Wales' national sporting events hosted in Cardiff"]
+      "highlights": [
+        "Cardiff is one of the most affordable capital cities for students in Europe",
+        "Cathays student suburb is extremely popular",
+        "Active BioSoc and ChemSoc",
+        "Wales' national sporting events hosted in Cardiff"
+      ]
     },
     "cityLife": {
       "description": "Cardiff is a vibrant, affordable capital city with excellent transport links, a strong music and arts scene and some of the best student value for money in the UK. The city has undergone major regeneration and is increasingly popular with UK and international students.",
       "avgRentPerMonth": "£450–£620",
       "costOfLiving": "Low-Moderate",
       "transport": "Cardiff Central station (2h to London Paddington); Cardiff Airport",
-      "highlights": ["Cardiff Castle and Bute Park", "Principality Stadium", "Cardiff Bay waterfront", "National Museum Cardiff"],
+      "highlights": [
+        "Cardiff Castle and Bute Park",
+        "Principality Stadium",
+        "Cardiff Bay waterfront",
+        "National Museum Cardiff"
+      ],
       "nightlife": "City Road, Roath and Cardiff city centre have excellent bars, restaurants and live music venues; Cardiff has one of the UK's most affordable student nightlife scenes."
     },
-    "notableAlumni": ["Neil Kinnock — former Labour Party leader", "Howard Marks — author (Mr Nice)", "Terry Jones — Monty Python member"],
-    "keyFacts": ["#18 in Complete University Guide 2026", "Only Russell Group member in Wales", "Neuroscience and Mental Health Research Institute is Wales's leading neuroscience research centre", "Highly affordable capital city lifestyle — one of the best value locations for UK students"]
+    "notableAlumni": [
+      "Neil Kinnock — former Labour Party leader",
+      "Howard Marks — author (Mr Nice)",
+      "Terry Jones — Monty Python member"
+    ],
+    "keyFacts": [
+      "#18 in Complete University Guide 2026",
+      "Only Russell Group member in Wales",
+      "Neuroscience and Mental Health Research Institute is Wales's leading neuroscience research centre",
+      "Highly affordable capital city lifestyle — one of the best value locations for UK students"
+    ]
   },
   "newcastle": {
     "slug": "newcastle",
@@ -895,12 +1495,31 @@
       "firstYearGuarantee": true,
       "description": "Newcastle guarantees accommodation to all first-year students. Multiple halls are available, including modern en-suite options in the city centre.",
       "avgWeeklyCost": "£110–£165",
-      "halls": ["Park View Student Village", "Castle Leazes", "Bowsden Court", "Lonsdale"],
+      "halls": [
+        "Park View Student Village",
+        "Castle Leazes",
+        "Bowsden Court",
+        "Lonsdale"
+      ],
       "privateRentAreas": "Jesmond, Heaton, Fenham, Arthurs Hill"
     },
     "openDays": [
-      { "date": "27 June 2025", "type": "Undergraduate Open Day" },
-      { "date": "4 October 2025", "type": "Undergraduate Open Day" }
+      {
+        "date": "26 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "27 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "3 October 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "21 November 2026",
+        "type": "Undergraduate Open Day"
+      }
     ],
     "application": {
       "ucasCode": "C700",
@@ -918,18 +1537,37 @@
       "union": "Newcastle SU — active and well-regarded",
       "societiesCount": "200+",
       "sportsTeams": "60+",
-      "highlights": ["Newcastle is consistently rated one of the UK's best student cities", "Jesmond student suburb is lively and affordable", "Active BioSoc and ChemSoc", "Newcastle Gateshead Quayside for arts and culture"]
+      "highlights": [
+        "Newcastle is consistently rated one of the UK's best student cities",
+        "Jesmond student suburb is lively and affordable",
+        "Active BioSoc and ChemSoc",
+        "Newcastle Gateshead Quayside for arts and culture"
+      ]
     },
     "cityLife": {
       "description": "Newcastle upon Tyne is one of the UK's most celebrated student cities — famous for its friendly people, legendary nightlife, excellent food scene and affordable cost of living. The Quayside and Jesmond are particularly popular with students.",
       "avgRentPerMonth": "£450–£620",
       "costOfLiving": "Low-Moderate",
       "transport": "Newcastle Central station (3h to London King's Cross, 20 min to Durham); Newcastle Airport; Metro system",
-      "highlights": ["Quayside and Sage Gateshead", "Angel of the North", "Hadrian's Wall nearby", "Grey Street architecture"],
+      "highlights": [
+        "Quayside and Sage Gateshead",
+        "Angel of the North",
+        "Hadrian's Wall nearby",
+        "Grey Street architecture"
+      ],
       "nightlife": "The Bigg Market, Quayside and Jesmond are Newcastle's nightlife heart; the city is famous for its welcoming atmosphere and strong pub culture."
     },
-    "notableAlumni": ["Alan Shearer — footballer", "Rowan Atkinson — studied at Durham nearby", "Jonathan Woodgate — footballer"],
-    "keyFacts": ["#22 in Complete University Guide 2026", "Newcastle Hospitals NHS Foundation Trust is one of the UK's leading clinical research sites", "Institute of Ageing and Ageing UK are Newcastle-based — major research area for biomedical graduates", "Consistently rated one of the UK's top cities for student experience"]
+    "notableAlumni": [
+      "Alan Shearer — footballer",
+      "Rowan Atkinson — studied at Durham nearby",
+      "Jonathan Woodgate — footballer"
+    ],
+    "keyFacts": [
+      "#22 in Complete University Guide 2026",
+      "Newcastle Hospitals NHS Foundation Trust is one of the UK's leading clinical research sites",
+      "Institute of Ageing and Ageing UK are Newcastle-based — major research area for biomedical graduates",
+      "Consistently rated one of the UK's top cities for student experience"
+    ]
   },
   "glasgow": {
     "slug": "glasgow",
@@ -944,12 +1582,31 @@
       "firstYearGuarantee": true,
       "description": "Glasgow guarantees accommodation to all first-year students who hold Glasgow as their firm choice. Multiple halls are on and near the Gilmorehill campus in the West End.",
       "avgWeeklyCost": "£115–£175",
-      "halls": ["Queen Margaret Halls", "Murano Street Student Village", "Kelvingrove Student Village", "Cairncross House"],
+      "halls": [
+        "Queen Margaret Halls",
+        "Murano Street Student Village",
+        "Kelvingrove Student Village",
+        "Cairncross House"
+      ],
       "privateRentAreas": "West End, Hillhead, Partick, Finnieston"
     },
     "openDays": [
-      { "date": "7 June 2025", "type": "Undergraduate Open Day" },
-      { "date": "20 September 2025", "type": "Undergraduate Open Day" }
+      {
+        "date": "18 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "2 September 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "3 October 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "24 October 2026",
+        "type": "Undergraduate Open Day"
+      }
     ],
     "application": {
       "ucasCode": "C700",
@@ -967,7 +1624,12 @@
       "union": "Glasgow University Union and Queen Margaret Union — two of Scotland's most famous and oldest student unions",
       "societiesCount": "200+",
       "sportsTeams": "60+",
-      "highlights": ["West End of Glasgow is one of the UK's best student neighbourhoods", "Active BioSoc and ChemSoc", "Centre for Virus Research open lecture series", "Byres Road restaurants and cafes"],
+      "highlights": [
+        "West End of Glasgow is one of the UK's best student neighbourhoods",
+        "Active BioSoc and ChemSoc",
+        "Centre for Virus Research open lecture series",
+        "Byres Road restaurants and cafes"
+      ],
       "nightlife": "Glasgow has one of the UK's best nightlife scenes; Sauchiehall Street, the West End and Finnieston are all popular student areas."
     },
     "cityLife": {
@@ -975,11 +1637,25 @@
       "avgRentPerMonth": "£550–£750",
       "costOfLiving": "Moderate",
       "transport": "Glasgow Central and Queen Street stations (45 min to Edinburgh, 4h30 to London); Glasgow Airport; Subway (the Clockwork Orange)",
-      "highlights": ["Kelvingrove Art Gallery and Museum", "Riverside Museum", "Byres Road independent scene", "Scottish Highlands 1 hour away"],
+      "highlights": [
+        "Kelvingrove Art Gallery and Museum",
+        "Riverside Museum",
+        "Byres Road independent scene",
+        "Scottish Highlands 1 hour away"
+      ],
       "nightlife": "West End, Finnieston and Merchant City are Glasgow's premium nightlife districts; the city is internationally famous for its music scene and hospitality."
     },
-    "notableAlumni": ["James Watt — engineer and inventor (studied and worked at Glasgow)", "Adam Smith — economist (studied at Glasgow)", "John Logie Baird — inventor of television"],
-    "keyFacts": ["#20 in Complete University Guide 2026", "Founded 1451 — one of the world's oldest universities", "Centre for Virus Research is a major UK virology and infectious disease research centre", "Scottish 4-year Honours degree provides a breadth of science before specialism in Year 3–4"]
+    "notableAlumni": [
+      "James Watt — engineer and inventor (studied and worked at Glasgow)",
+      "Adam Smith — economist (studied at Glasgow)",
+      "John Logie Baird — inventor of television"
+    ],
+    "keyFacts": [
+      "#20 in Complete University Guide 2026",
+      "Founded 1451 — one of the world's oldest universities",
+      "Centre for Virus Research is a major UK virology and infectious disease research centre",
+      "Scottish 4-year Honours degree provides a breadth of science before specialism in Year 3–4"
+    ]
   },
   "liverpool": {
     "slug": "liverpool",
@@ -994,12 +1670,31 @@
       "firstYearGuarantee": true,
       "description": "Liverpool guarantees accommodation to all first-year students who hold Liverpool as their firm choice. Multiple halls are on and near the campus.",
       "avgWeeklyCost": "£110–£160",
-      "halls": ["Carnatic Halls", "Vine Court", "John Foster Halls", "Liberty Park"],
+      "halls": [
+        "Carnatic Halls",
+        "Vine Court",
+        "John Foster Halls",
+        "Liberty Park"
+      ],
       "privateRentAreas": "Smithdown Road, Kensington, Wavertree, Penny Lane"
     },
     "openDays": [
-      { "date": "14 June 2025", "type": "Undergraduate Open Day" },
-      { "date": "20 September 2025", "type": "Undergraduate Open Day" }
+      {
+        "date": "19 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "20 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "26 September 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "10 October 2026",
+        "type": "Undergraduate Open Day"
+      }
     ],
     "application": {
       "ucasCode": "C700",
@@ -1017,18 +1712,37 @@
       "union": "Liverpool Guild of Students — active and student-focused",
       "societiesCount": "200+",
       "sportsTeams": "50+",
-      "highlights": ["Liverpool's music heritage and cultural scene", "Active BioSoc and ChemSoc", "Links to Liverpool School of Tropical Medicine", "Access to Merseyside's NHS research network"]
+      "highlights": [
+        "Liverpool's music heritage and cultural scene",
+        "Active BioSoc and ChemSoc",
+        "Links to Liverpool School of Tropical Medicine",
+        "Access to Merseyside's NHS research network"
+      ]
     },
     "cityLife": {
       "description": "Liverpool is one of the UK's most culturally rich cities — home of The Beatles, with a vibrant waterfront, excellent arts and music scene and a friendly, welcoming population. It offers exceptional student value for money.",
       "avgRentPerMonth": "£450–£600",
       "costOfLiving": "Low-Moderate",
       "transport": "Liverpool Lime Street station (2h to London Euston); Liverpool Airport; Merseyrail network",
-      "highlights": ["Albert Dock and Liverpool waterfront", "Tate Liverpool", "Mathew Street and Beatles Trail", "Smithdown Road's independent restaurants"],
+      "highlights": [
+        "Albert Dock and Liverpool waterfront",
+        "Tate Liverpool",
+        "Mathew Street and Beatles Trail",
+        "Smithdown Road's independent restaurants"
+      ],
       "nightlife": "Concert Square, Mathew Street and the Baltic Triangle are Liverpool's main entertainment areas; the city has a legendary music scene."
     },
-    "notableAlumni": ["John Lennon — attended Liverpool College of Art nearby", "Alexei Sayle — comedian", "Cherie Blair — barrister and author"],
-    "keyFacts": ["#24 in Complete University Guide 2026", "Chemistry department is developing one of the world's first fully robotic chemistry research labs", "Liverpool School of Tropical Medicine (adjacent, partnerships) is a world leader in parasitology and infectious diseases", "Affordable city with one of the best student nightlife reputations in the UK"]
+    "notableAlumni": [
+      "John Lennon — attended Liverpool College of Art nearby",
+      "Alexei Sayle — comedian",
+      "Cherie Blair — barrister and author"
+    ],
+    "keyFacts": [
+      "#24 in Complete University Guide 2026",
+      "Chemistry department is developing one of the world's first fully robotic chemistry research labs",
+      "Liverpool School of Tropical Medicine (adjacent, partnerships) is a world leader in parasitology and infectious diseases",
+      "Affordable city with one of the best student nightlife reputations in the UK"
+    ]
   },
   "exeter": {
     "slug": "exeter",
@@ -1043,12 +1757,27 @@
       "firstYearGuarantee": true,
       "description": "Exeter guarantees accommodation to all first-year students. Multiple halls are on the attractive Streatham Park campus.",
       "avgWeeklyCost": "£125–£185",
-      "halls": ["Holland Hall", "Lafrowda", "St Davids", "Birks Grange"],
+      "halls": [
+        "Holland Hall",
+        "Lafrowda",
+        "St Davids",
+        "Birks Grange"
+      ],
       "privateRentAreas": "St Davids, St James, Heavitree, Pennsylvania"
     },
     "openDays": [
-      { "date": "27 June 2025", "type": "Undergraduate Open Day" },
-      { "date": "20 September 2025", "type": "Undergraduate Open Day" }
+      {
+        "date": "29 May 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "30 May 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "Autumn 2026 - dates TBC",
+        "type": "Undergraduate Open Day"
+      }
     ],
     "application": {
       "ucasCode": "C700",
@@ -1066,18 +1795,37 @@
       "union": "Exeter SU — active and well-resourced",
       "societiesCount": "200+",
       "sportsTeams": "60+",
-      "highlights": ["Beautiful campus setting", "Active BioSoc and ChemSoc", "Living Systems Institute open seminars", "Dartmoor National Park 30 minutes away"]
+      "highlights": [
+        "Beautiful campus setting",
+        "Active BioSoc and ChemSoc",
+        "Living Systems Institute open seminars",
+        "Dartmoor National Park 30 minutes away"
+      ]
     },
     "cityLife": {
       "description": "Exeter is a lovely small city in Devon with a stunning Cathedral Quarter, medieval history and easy access to Dartmoor and the South Devon coast. It offers a high quality of life with moderate costs.",
       "avgRentPerMonth": "£550–£750",
       "costOfLiving": "Moderate",
       "transport": "Exeter St Davids station (2h to London Paddington); Exeter Airport",
-      "highlights": ["Exeter Cathedral and Cathedral Quarter", "Royal Albert Memorial Museum", "Dartmoor National Park", "South Devon beaches 30 minutes away"],
+      "highlights": [
+        "Exeter Cathedral and Cathedral Quarter",
+        "Royal Albert Memorial Museum",
+        "Dartmoor National Park",
+        "South Devon beaches 30 minutes away"
+      ],
       "nightlife": "Gandy Street and the city centre have an excellent independent bar and restaurant scene; the Cathedral Quarter is particularly atmospheric."
     },
-    "notableAlumni": ["J.K. Rowling — author of Harry Potter (studied French and Classics at Exeter)", "Angela Merkel (honorary doctorate)", "Adrian Edmondson — actor and comedian"],
-    "keyFacts": ["#10 in Complete University Guide 2026", "Living Systems Institute is a world-class multidisciplinary bioscience research facility", "Cornwall campus (Penryn) offers biology programmes in an exceptional coastal environment", "Consistent Gold rating in TEF (Teaching Excellence Framework)"]
+    "notableAlumni": [
+      "J.K. Rowling — author of Harry Potter (studied French and Classics at Exeter)",
+      "Angela Merkel (honorary doctorate)",
+      "Adrian Edmondson — actor and comedian"
+    ],
+    "keyFacts": [
+      "#10 in Complete University Guide 2026",
+      "Living Systems Institute is a world-class multidisciplinary bioscience research facility",
+      "Cornwall campus (Penryn) offers biology programmes in an exceptional coastal environment",
+      "Consistent Gold rating in TEF (Teaching Excellence Framework)"
+    ]
   },
   "sussex": {
     "slug": "sussex",
@@ -1092,12 +1840,27 @@
       "firstYearGuarantee": true,
       "description": "Sussex guarantees accommodation to all first-year students who hold Sussex as their firm choice. All halls are on or adjacent to the campus at Falmer.",
       "avgWeeklyCost": "£110–£165",
-      "halls": ["Park Village", "East Slope", "Lewes Court", "Norwich House"],
+      "halls": [
+        "Park Village",
+        "East Slope",
+        "Lewes Court",
+        "Norwich House"
+      ],
       "privateRentAreas": "Brighton (Hanover, Elm Grove, Preston Park), Falmer, Lewes"
     },
     "openDays": [
-      { "date": "21 June 2025", "type": "Undergraduate Open Day" },
-      { "date": "4 October 2025", "type": "Undergraduate Open Day" }
+      {
+        "date": "12 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "13 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "31 October 2026",
+        "type": "Undergraduate Open Day"
+      }
     ],
     "application": {
       "ucasCode": "C700",
@@ -1115,18 +1878,37 @@
       "union": "Sussex SU — well-regarded for welfare and student activism",
       "societiesCount": "150+",
       "sportsTeams": "40+",
-      "highlights": ["Brighton is one of the UK's most exciting student cities", "Active BioSoc and Life Sciences Society", "Genome Damage and Stability Centre events and seminars", "South Downs National Park on the doorstep"]
+      "highlights": [
+        "Brighton is one of the UK's most exciting student cities",
+        "Active BioSoc and Life Sciences Society",
+        "Genome Damage and Stability Centre events and seminars",
+        "South Downs National Park on the doorstep"
+      ]
     },
     "cityLife": {
       "description": "Brighton is the UK's most creative and vibrant coastal city — famous for its Lanes, its LGBTQ+ community, its festival culture, its food scene and its proximity to the sea. Sussex students have access to one of the best cities in the UK at an increasingly reasonable cost.",
       "avgRentPerMonth": "£600–£850",
       "costOfLiving": "Moderate-High",
       "transport": "Falmer station adjacent to campus (50 min to London Victoria); Brighton station (50 min to London Victoria)",
-      "highlights": ["Brighton Pier and the Lanes", "Royal Pavilion", "South Downs walks", "Brighton Beach and seafront"],
+      "highlights": [
+        "Brighton Pier and the Lanes",
+        "Royal Pavilion",
+        "South Downs walks",
+        "Brighton Beach and seafront"
+      ],
       "nightlife": "Brighton's nightlife is exceptional — from the Lanes' cocktail bars to the seafront clubs; the city is famous for its inclusive, vibrant social scene."
     },
-    "notableAlumni": ["Ian Michell — journalist", "Tony Slattery — comedian", "Des Lynam — broadcaster"],
-    "keyFacts": ["#29 in Complete University Guide 2026", "Genome Damage and Stability Centre is a world-leading DNA repair research centre", "Brighton provides one of the UK's most exciting and cosmopolitan student environments", "Strong research culture in life sciences despite not being a Russell Group member"]
+    "notableAlumni": [
+      "Ian Michell — journalist",
+      "Tony Slattery — comedian",
+      "Des Lynam — broadcaster"
+    ],
+    "keyFacts": [
+      "#29 in Complete University Guide 2026",
+      "Genome Damage and Stability Centre is a world-leading DNA repair research centre",
+      "Brighton provides one of the UK's most exciting and cosmopolitan student environments",
+      "Strong research culture in life sciences despite not being a Russell Group member"
+    ]
   },
   "leicester": {
     "slug": "leicester",
@@ -1141,12 +1923,31 @@
       "firstYearGuarantee": true,
       "description": "Leicester guarantees accommodation to all first-year students who hold Leicester as their firm choice.",
       "avgWeeklyCost": "£100–£155",
-      "halls": ["John Foster Hall", "Stamford Court", "Nixon Court", "Beaumont Hall"],
+      "halls": [
+        "John Foster Hall",
+        "Stamford Court",
+        "Nixon Court",
+        "Beaumont Hall"
+      ],
       "privateRentAreas": "Clarendon Park, Stoneygate, Knighton, West End"
     },
     "openDays": [
-      { "date": "14 June 2025", "type": "Undergraduate Open Day" },
-      { "date": "20 September 2025", "type": "Undergraduate Open Day" }
+      {
+        "date": "4 July 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "12 September 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "3 October 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "7 November 2026",
+        "type": "Undergraduate Open Day"
+      }
     ],
     "application": {
       "ucasCode": "C700",
@@ -1164,18 +1965,37 @@
       "union": "Leicester SU — active and student-focused",
       "societiesCount": "150+",
       "sportsTeams": "40+",
-      "highlights": ["Diverse, multicultural city", "DNA fingerprinting heritage on campus", "Active BioSoc", "Good value East Midlands city"]
+      "highlights": [
+        "Diverse, multicultural city",
+        "DNA fingerprinting heritage on campus",
+        "Active BioSoc",
+        "Good value East Midlands city"
+      ]
     },
     "cityLife": {
       "description": "Leicester is one of the UK's most diverse cities with outstanding food (particularly Indian food — some of the best in the UK), an active arts scene, and a strong sporting culture (Leicester City FC, Leicester Tigers rugby).",
       "avgRentPerMonth": "£420–£580",
       "costOfLiving": "Low",
       "transport": "Leicester station (1h to London St Pancras); good road links via M1/M69",
-      "highlights": ["Golden Mile (Indian food and culture)", "King Richard III Visitor Centre", "New Walk Museum", "National Space Centre"],
+      "highlights": [
+        "Golden Mile (Indian food and culture)",
+        "King Richard III Visitor Centre",
+        "New Walk Museum",
+        "National Space Centre"
+      ],
       "nightlife": "Leicester has an affordable, diverse student nightlife with the Cultural Quarter, Clarendon Park and Narborough Road as popular areas."
     },
-    "notableAlumni": ["Alec Jeffreys — invented DNA fingerprinting (worked at Leicester)", "Gary Lineker — footballer (born in Leicester)", "David Attenborough (born in Leicester)"],
-    "keyFacts": ["#28 in Complete University Guide 2026", "Birthplace of DNA fingerprinting — Alec Jeffreys, 1984", "One of the UK's most affordable university cities", "Strong clinical genetics links to Leicester Royal Infirmary and East Midlands NHS"]
+    "notableAlumni": [
+      "Alec Jeffreys — invented DNA fingerprinting (worked at Leicester)",
+      "Gary Lineker — footballer (born in Leicester)",
+      "David Attenborough (born in Leicester)"
+    ],
+    "keyFacts": [
+      "#28 in Complete University Guide 2026",
+      "Birthplace of DNA fingerprinting — Alec Jeffreys, 1984",
+      "One of the UK's most affordable university cities",
+      "Strong clinical genetics links to Leicester Royal Infirmary and East Midlands NHS"
+    ]
   },
   "reading": {
     "slug": "reading",
@@ -1190,12 +2010,31 @@
       "firstYearGuarantee": true,
       "description": "Reading guarantees accommodation to all first-year students who hold Reading as their firm choice. Halls are mainly on the Whiteknights campus.",
       "avgWeeklyCost": "£100–£155",
-      "halls": ["Sherfield Hall", "Bridges Hall", "Williams Hall", "Childs Hall"],
+      "halls": [
+        "Sherfield Hall",
+        "Bridges Hall",
+        "Williams Hall",
+        "Childs Hall"
+      ],
       "privateRentAreas": "Earley, Whitley, Woodley, Caversham"
     },
     "openDays": [
-      { "date": "21 June 2025", "type": "Undergraduate Open Day" },
-      { "date": "4 October 2025", "type": "Undergraduate Open Day" }
+      {
+        "date": "19 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "20 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "17 October 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "21 November 2026",
+        "type": "Undergraduate Open Day"
+      }
     ],
     "application": {
       "ucasCode": "C700",
@@ -1213,18 +2052,37 @@
       "union": "Reading SU — active and well-resourced",
       "societiesCount": "150+",
       "sportsTeams": "40+",
-      "highlights": ["Proximity to London (25 min by train)", "Met Office headquarters nearby for atmospheric chemistry links", "Active BioSoc", "Windsor and the surrounding area for outdoor activities"]
+      "highlights": [
+        "Proximity to London (25 min by train)",
+        "Met Office headquarters nearby for atmospheric chemistry links",
+        "Active BioSoc",
+        "Windsor and the surrounding area for outdoor activities"
+      ]
     },
     "cityLife": {
       "description": "Reading is a large, prosperous Berkshire town 25 minutes from London Paddington. It sits at the heart of the Thames Valley technology corridor — home to Microsoft, Oracle, Huawei UK, Roche and many more. This provides excellent internship and placement access for science students.",
       "avgRentPerMonth": "£650–£850",
       "costOfLiving": "Moderate-High",
       "transport": "Reading station (25 min to London Paddington); Elizabeth Line; Reading Airport (private)",
-      "highlights": ["Windsor Castle nearby", "Reading Festival site", "Thames Valley cycle paths", "Proximity to the Chilterns AONB"],
+      "highlights": [
+        "Windsor Castle nearby",
+        "Reading Festival site",
+        "Thames Valley cycle paths",
+        "Proximity to the Chilterns AONB"
+      ],
       "nightlife": "Reading town centre has a good student nightlife scene; the proximity to London means students often visit the capital for weekends."
     },
-    "notableAlumni": ["Ricky Gervais — comedian (studied philosophy at Reading)", "Mike Oldfield — musician", "Samuel Beckett (honorary doctorate)"],
-    "keyFacts": ["#26 in Complete University Guide 2026", "Met Office (world-leading weather and climate science) is headquartered near Reading — strong environmental chemistry links", "Thames Valley pharma corridor provides outstanding placement access (Roche UK, Pfizer Sandwich accessible)", "25 minutes from London Paddington — exceptional connectivity for a campus university"]
+    "notableAlumni": [
+      "Ricky Gervais — comedian (studied philosophy at Reading)",
+      "Mike Oldfield — musician",
+      "Samuel Beckett (honorary doctorate)"
+    ],
+    "keyFacts": [
+      "#26 in Complete University Guide 2026",
+      "Met Office (world-leading weather and climate science) is headquartered near Reading — strong environmental chemistry links",
+      "Thames Valley pharma corridor provides outstanding placement access (Roche UK, Pfizer Sandwich accessible)",
+      "25 minutes from London Paddington — exceptional connectivity for a campus university"
+    ]
   },
   "keele": {
     "slug": "keele",
@@ -1239,12 +2097,23 @@
       "firstYearGuarantee": true,
       "description": "Keele guarantees accommodation to all first-year students on a self-contained, 600-acre campus with halls of residence close to all teaching facilities.",
       "avgWeeklyCost": "£95–£145",
-      "halls": ["Barnes Hall", "Chancellor's Hall", "Horwood Hall", "Lindsay Hall"],
+      "halls": [
+        "Barnes Hall",
+        "Chancellor's Hall",
+        "Horwood Hall",
+        "Lindsay Hall"
+      ],
       "privateRentAreas": "Newcastle-under-Lyme, Stoke-on-Trent, Kidsgrove"
     },
     "openDays": [
-      { "date": "21 June 2025", "type": "Undergraduate Open Day" },
-      { "date": "27 September 2025", "type": "Undergraduate Open Day" }
+      {
+        "date": "26 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "27 June 2026",
+        "type": "Undergraduate Open Day"
+      }
     ],
     "application": {
       "ucasCode": "B210",
@@ -1262,18 +2131,37 @@
       "union": "Keele SU — the heart of a very close-knit campus community",
       "societiesCount": "100+",
       "sportsTeams": "30+",
-      "highlights": ["Self-contained 600-acre campus with its own post office, bank and pub", "Very close-knit student community", "Dual honours model for interdisciplinary learning", "Clinical Medical School on campus — rare for a science student"]
+      "highlights": [
+        "Self-contained 600-acre campus with its own post office, bank and pub",
+        "Very close-knit student community",
+        "Dual honours model for interdisciplinary learning",
+        "Clinical Medical School on campus — rare for a science student"
+      ]
     },
     "cityLife": {
       "description": "Keele sits in the Staffordshire countryside, adjacent to Newcastle-under-Lyme (not Newcastle upon Tyne). The campus is largely self-contained. Stoke-on-Trent is nearby for shopping and nightlife; the Peak District is accessible for outdoor activities.",
       "avgRentPerMonth": "£380–£520",
       "costOfLiving": "Very Low",
       "transport": "Stoke-on-Trent station (1h45 to London Euston); good road links; the campus itself is car-accessible",
-      "highlights": ["The Keele campus walled garden", "Peak District 45 minutes away", "Trentham Gardens nearby", "Stoke-on-Trent cultural quarter"],
+      "highlights": [
+        "The Keele campus walled garden",
+        "Peak District 45 minutes away",
+        "Trentham Gardens nearby",
+        "Stoke-on-Trent cultural quarter"
+      ],
       "nightlife": "On-campus social life is the primary focus at Keele; the SU provides events and activities that substitute for the city centre entertainment most universities offer."
     },
-    "notableAlumni": ["Nick Hancock — comedian and TV presenter", "Anthea Turner — TV presenter", "Barry Thomas — Emery Thomas — academic"],
-    "keyFacts": ["#35 in Complete University Guide 2026", "Unique dual honours model enables Chemistry or Biochemistry + another subject combination", "One of the UK's most affordable and close-knit campus universities", "School of Medicine on campus provides clinical exposure rare for science undergraduates"]
+    "notableAlumni": [
+      "Nick Hancock — comedian and TV presenter",
+      "Anthea Turner — TV presenter",
+      "Barry Thomas — Emery Thomas — academic"
+    ],
+    "keyFacts": [
+      "#35 in Complete University Guide 2026",
+      "Unique dual honours model enables Chemistry or Biochemistry + another subject combination",
+      "One of the UK's most affordable and close-knit campus universities",
+      "School of Medicine on campus provides clinical exposure rare for science undergraduates"
+    ]
   },
   "surrey": {
     "slug": "surrey",
@@ -1288,12 +2176,27 @@
       "firstYearGuarantee": true,
       "description": "Surrey guarantees accommodation to all first-year students who hold Surrey as their firm choice. Modern halls are on and adjacent to the Stag Hill campus.",
       "avgWeeklyCost": "£120–£175",
-      "halls": ["Tuke Court", "Stag Hill Court", "Manor Park", "International House"],
+      "halls": [
+        "Tuke Court",
+        "Stag Hill Court",
+        "Manor Park",
+        "International House"
+      ],
       "privateRentAreas": "Guildford town centre, Onslow Village, Park Barn"
     },
     "openDays": [
-      { "date": "14 June 2025", "type": "Undergraduate Open Day" },
-      { "date": "4 October 2025", "type": "Undergraduate Open Day" }
+      {
+        "date": "20 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "12 September 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "11 October 2026",
+        "type": "Undergraduate Open Day"
+      }
     ],
     "application": {
       "ucasCode": "C702",
@@ -1311,18 +2214,37 @@
       "union": "University of Surrey Students' Union — active and well-resourced",
       "societiesCount": "150+",
       "sportsTeams": "40+",
-      "highlights": ["Professional Training Year culture throughout the university", "Surrey Research Park adjacent to campus", "Active BioSoc and life science societies", "Good links to London (35 min by train)"]
+      "highlights": [
+        "Professional Training Year culture throughout the university",
+        "Surrey Research Park adjacent to campus",
+        "Active BioSoc and life science societies",
+        "Good links to London (35 min by train)"
+      ]
     },
     "cityLife": {
       "description": "Guildford is a prosperous Surrey market town with excellent transport links to London. Surrey's proximity to London enables students to access the capital's opportunities while enjoying lower rents and a smaller-town feel.",
       "avgRentPerMonth": "£650–£850",
       "costOfLiving": "Moderate-High",
       "transport": "Guildford station (35 min to London Waterloo); A3/M25 road links",
-      "highlights": ["Surrey Hills AONB walks", "Guildford Cathedral", "Guildford High Street", "Proximity to London"],
+      "highlights": [
+        "Surrey Hills AONB walks",
+        "Guildford Cathedral",
+        "Guildford High Street",
+        "Proximity to London"
+      ],
       "nightlife": "Guildford has a pleasant town centre with bars and restaurants; London is 35 minutes away for a wider nightlife offer."
     },
-    "notableAlumni": ["Ringo Starr (studied at nearby Liverpool)", "Tony Hadley — Spandau Ballet singer", "Dave Clark — Dave Clark Five"],
-    "keyFacts": ["#27 in Complete University Guide 2026", "Professional Training Year embedded in virtually all science degrees — one of the best placement records in UK higher education", "Surrey Research Park adjacent to campus with 140+ companies including major pharmaceutical firms", "35 minutes to London Waterloo — ideal for students wanting London access with lower rents"]
+    "notableAlumni": [
+      "Ringo Starr (studied at nearby Liverpool)",
+      "Tony Hadley — Spandau Ballet singer",
+      "Dave Clark — Dave Clark Five"
+    ],
+    "keyFacts": [
+      "#27 in Complete University Guide 2026",
+      "Professional Training Year embedded in virtually all science degrees — one of the best placement records in UK higher education",
+      "Surrey Research Park adjacent to campus with 140+ companies including major pharmaceutical firms",
+      "35 minutes to London Waterloo — ideal for students wanting London access with lower rents"
+    ]
   },
   "queen-mary-university-of-london": {
     "slug": "queen-mary-university-of-london",
@@ -1337,12 +2259,23 @@
       "firstYearGuarantee": true,
       "description": "Queen Mary guarantees accommodation to first-year students. Halls are on and near the Mile End campus in East London.",
       "avgWeeklyCost": "£145–£215",
-      "halls": ["Dawson Hall", "Feilden Hall", "Lindop House", "Beaumont Court"],
+      "halls": [
+        "Dawson Hall",
+        "Feilden Hall",
+        "Lindop House",
+        "Beaumont Court"
+      ],
       "privateRentAreas": "Bethnal Green, Bow, Stepney Green, Stratford, Forest Gate"
     },
     "openDays": [
-      { "date": "5 July 2025", "type": "Undergraduate Open Day" },
-      { "date": "20 September 2025", "type": "Undergraduate Open Day" }
+      {
+        "date": "12 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "13 June 2026",
+        "type": "Undergraduate Open Day"
+      }
     ],
     "application": {
       "ucasCode": "B940",
@@ -1360,18 +2293,37 @@
       "union": "Queen Mary Students' Union — active and diverse",
       "societiesCount": "200+",
       "sportsTeams": "40+",
-      "highlights": ["London's East End location with easy Tube access to central London", "Barts and the London NHS clinical environment", "Active BioMedSoc and strong life science societies", "Proximity to the City, Shoreditch and Canary Wharf"]
+      "highlights": [
+        "London's East End location with easy Tube access to central London",
+        "Barts and the London NHS clinical environment",
+        "Active BioMedSoc and strong life science societies",
+        "Proximity to the City, Shoreditch and Canary Wharf"
+      ]
     },
     "cityLife": {
       "description": "Mile End and Whitechapel are in London's vibrant East End — home to Shoreditch, Brick Lane, the Olympic Park, Canary Wharf and easy access to central London by Tube. East London offers better value for money than central London areas, with excellent cultural and social amenities.",
       "avgRentPerMonth": "£750–£1,000",
       "costOfLiving": "High",
       "transport": "Mile End (District, Hammersmith & City line); Whitechapel (Elizabeth Line); Stepney Green",
-      "highlights": ["Brick Lane and Spitalfields Market", "Victoria Park and Olympic Park", "Canary Wharf and Docklands", "Columbia Road Flower Market"],
+      "highlights": [
+        "Brick Lane and Spitalfields Market",
+        "Victoria Park and Olympic Park",
+        "Canary Wharf and Docklands",
+        "Columbia Road Flower Market"
+      ],
       "nightlife": "Shoreditch, Bethnal Green and Hackney are East London's thriving nightlife hubs; excellent for students who want London at a lower price point than central London areas."
     },
-    "notableAlumni": ["Bernard Katz — Nobel Laureate in Physiology (Queen Mary)", "Peter Higgs (studied at King's, honorary doctorate from QMUL)", "Helena Bonham Carter (grew up nearby)"],
-    "keyFacts": ["#21 in Complete University Guide 2026", "Barts and The London is one of the UK's oldest medical schools — world-class clinical research environment", "Blizard Institute is internationally recognised for infection and immunity research", "Strong widening participation mission — committed to recruiting talented students from underrepresented London communities"]
+    "notableAlumni": [
+      "Bernard Katz — Nobel Laureate in Physiology (Queen Mary)",
+      "Peter Higgs (studied at King's, honorary doctorate from QMUL)",
+      "Helena Bonham Carter (grew up nearby)"
+    ],
+    "keyFacts": [
+      "#21 in Complete University Guide 2026",
+      "Barts and The London is one of the UK's oldest medical schools — world-class clinical research environment",
+      "Blizard Institute is internationally recognised for infection and immunity research",
+      "Strong widening participation mission — committed to recruiting talented students from underrepresented London communities"
+    ]
   },
   "swansea": {
     "slug": "swansea",
@@ -1386,12 +2338,27 @@
       "firstYearGuarantee": true,
       "description": "Swansea guarantees accommodation to all first-year students. Halls are available on both the Singleton Park and Swansea Bay campuses.",
       "avgWeeklyCost": "£95–£145",
-      "halls": ["Hendrefoilan Student Village", "Preseli", "Beck Hall", "Horton"],
+      "halls": [
+        "Hendrefoilan Student Village",
+        "Preseli",
+        "Beck Hall",
+        "Horton"
+      ],
       "privateRentAreas": "Brynmill, Uplands, Sketty, Mumbles"
     },
     "openDays": [
-      { "date": "21 June 2025", "type": "Undergraduate Open Day" },
-      { "date": "4 October 2025", "type": "Undergraduate Open Day" }
+      {
+        "date": "28 February 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "28 March 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "Summer/Autumn 2026 - dates TBC",
+        "type": "Undergraduate Open Day"
+      }
     ],
     "application": {
       "ucasCode": "C400",
@@ -1409,18 +2376,37 @@
       "union": "Swansea SU — active and community-focused",
       "societiesCount": "100+",
       "sportsTeams": "40+",
-      "highlights": ["Stunning bay-side location with beach on the doorstep", "Gower Peninsula (Area of Outstanding Natural Beauty) 15 min away", "Active BioSoc", "Swansea Bay Digital Health Innovation Hub"]
+      "highlights": [
+        "Stunning bay-side location with beach on the doorstep",
+        "Gower Peninsula (Area of Outstanding Natural Beauty) 15 min away",
+        "Active BioSoc",
+        "Swansea Bay Digital Health Innovation Hub"
+      ]
     },
     "cityLife": {
       "description": "Swansea is a coastal city in South Wales with a beautiful bay, close proximity to the Gower Peninsula (UK's first Area of Outstanding Natural Beauty) and a growing cultural scene. It offers exceptional value for money for students.",
       "avgRentPerMonth": "£400–£550",
       "costOfLiving": "Very Low",
       "transport": "Swansea station (2h30 to London Paddington via Cardiff); good road links via M4",
-      "highlights": ["Swansea Bay beach", "Gower Peninsula walks", "Dylan Thomas Trail", "National Waterfront Museum"],
+      "highlights": [
+        "Swansea Bay beach",
+        "Gower Peninsula walks",
+        "Dylan Thomas Trail",
+        "National Waterfront Museum"
+      ],
       "nightlife": "Swansea has an active student nightlife scene centred on Wind Street and the city centre; the bay campus provides a beautiful evening setting."
     },
-    "notableAlumni": ["Dylan Thomas — poet (born in Swansea)", "Michael Sheen — actor (born in Newport but studied nearby)", "Richard Burton — actor"],
-    "keyFacts": ["#34 in Complete University Guide 2026", "Bay campus provides some of the most spectacular university views in the UK", "Growing digital health and bioinformatics research cluster at Swansea Bay Innovation Campus", "One of the UK's most affordable and scenic university locations"]
+    "notableAlumni": [
+      "Dylan Thomas — poet (born in Swansea)",
+      "Michael Sheen — actor (born in Newport but studied nearby)",
+      "Richard Burton — actor"
+    ],
+    "keyFacts": [
+      "#34 in Complete University Guide 2026",
+      "Bay campus provides some of the most spectacular university views in the UK",
+      "Growing digital health and bioinformatics research cluster at Swansea Bay Innovation Campus",
+      "One of the UK's most affordable and scenic university locations"
+    ]
   },
   "aberystwyth": {
     "slug": "aberystwyth",
@@ -1435,12 +2421,19 @@
       "firstYearGuarantee": true,
       "description": "Aberystwyth guarantees accommodation to all first-year students. The campus overlooks Cardigan Bay in a dramatic coastal setting.",
       "avgWeeklyCost": "£85–£130",
-      "halls": ["Penglais Hall", "Cwrt Mawr", "Rosser", "Trefloyne"],
+      "halls": [
+        "Penglais Hall",
+        "Cwrt Mawr",
+        "Rosser",
+        "Trefloyne"
+      ],
       "privateRentAreas": "Aberystwyth town centre, Penparcau"
     },
     "openDays": [
-      { "date": "21 June 2025", "type": "Undergraduate Open Day" },
-      { "date": "4 October 2025", "type": "Undergraduate Open Day" }
+      {
+        "date": "4 July 2026",
+        "type": "Undergraduate Open Day"
+      }
     ],
     "application": {
       "ucasCode": "C500",
@@ -1458,17 +2451,36 @@
       "union": "Aberystwyth SU — close-knit community",
       "societiesCount": "80+",
       "sportsTeams": "30+",
-      "highlights": ["Dramatic coastal setting overlooking Cardigan Bay", "IBERS research institute open to undergraduates", "Welsh culture and language", "Coastal walks and the Cambrian Mountains"]
+      "highlights": [
+        "Dramatic coastal setting overlooking Cardigan Bay",
+        "IBERS research institute open to undergraduates",
+        "Welsh culture and language",
+        "Coastal walks and the Cambrian Mountains"
+      ]
     },
     "cityLife": {
       "description": "Aberystwyth is a small, picturesque coastal town in Ceredigion, Wales. It has a strong Welsh cultural character, an active arts scene (National Library of Wales, Aberystwyth Arts Centre) and extraordinary natural surroundings.",
       "avgRentPerMonth": "£380–£480",
       "costOfLiving": "Very Low",
       "transport": "Aberystwyth station (Cambrian Coast line to Shrewsbury, then Midlands); A44/A487 roads; isolated by car",
-      "highlights": ["Cardigan Bay and dolphin spotting", "National Library of Wales", "Aberystwyth Arts Centre", "Cambrian Mountains walking"],
+      "highlights": [
+        "Cardigan Bay and dolphin spotting",
+        "National Library of Wales",
+        "Aberystwyth Arts Centre",
+        "Cambrian Mountains walking"
+      ],
       "nightlife": "Aberystwyth's student nightlife is small-scale but close-knit — pubs, student union events and coastal activities dominate."
     },
-    "notableAlumni": ["Carwyn Jones — former First Minister of Wales", "John Penry — Puritan martyr", "Lord Ellis-Thomas — Welsh Assembly"],
-    "keyFacts": ["#46 in Complete University Guide 2026", "IBERS is one of the UK's leading agricultural, environmental and rural science research institutes", "One of the UK's most affordable universities with a dramatic coastal setting", "Welsh medium teaching options available across biological sciences programmes"]
+    "notableAlumni": [
+      "Carwyn Jones — former First Minister of Wales",
+      "John Penry — Puritan martyr",
+      "Lord Ellis-Thomas — Welsh Assembly"
+    ],
+    "keyFacts": [
+      "#46 in Complete University Guide 2026",
+      "IBERS is one of the UK's leading agricultural, environmental and rural science research institutes",
+      "One of the UK's most affordable universities with a dramatic coastal setting",
+      "Welsh medium teaching options available across biological sciences programmes"
+    ]
   }
 }
