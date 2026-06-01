@@ -125,7 +125,7 @@ export default function UniversityPage() {
         </Section>
 
         {/* Open Days */}
-        <Section title="Open Days 2025">
+        <Section title="Open Days 2026">
           {uni.openDays?.length ? (
             <div className="space-y-3">
               {uni.openDays.map((day, i) => (
@@ -147,9 +147,9 @@ export default function UniversityPage() {
         {/* How to Apply */}
         <Section title="How to Apply">
           <InfoGrid items={[
-            { label: 'UCAS code (A&F)', value: uni.application?.ucasCode },
+            { label: 'UCAS code', value: uni.application?.ucasCode },
             { label: 'Contextual offers', value: uni.application?.contextualOffers ? 'Yes — reduced offers for eligible students' : 'Standard offers only' },
-            { label: 'Interview required', value: uni.application?.interviewRequired ? 'Yes — see course page' : 'No interview for most finance courses' },
+            { label: 'Interview required', value: uni.application?.interviewRequired ? 'Yes — see course page' : 'No interview for most science courses' },
             { label: 'Typical timeline', value: uni.application?.typicalTimeline },
           ]} />
           {uni.application?.personalStatementTips && (

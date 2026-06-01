@@ -1,4 +1,4 @@
-import { Link, useParams, useNavigate } from 'react-router-dom';
+import { useParams, useNavigate } from 'react-router-dom';
 import courseDetails from '../data/course-details.json';
 import { COURSES } from '../data/courses';
 

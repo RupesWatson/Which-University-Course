@@ -3,22 +3,16 @@ import path from 'node:path';
 
 const DATA_DIR = new URL('../src/data/', import.meta.url);
 const COURSE_FILES = [
-  'universities.json',
-  'economics-finance.json',
-  'financial-maths.json',
-  'banking-finance.json',
-  'actuarial.json',
-  'fintech.json',
-  'applied-ai.json',
-  'data-science.json',
-  'tech-management.json',
-  'investment-banking.json',
-  'venture-capital.json',
-  'international-finance.json',
-  'esg-finance.json',
-  'finance-law.json',
-  'behavioural-finance.json',
-  'finance-innovation.json',
+  'biochemistry.json',
+  'chemistry.json',
+  'natural-sciences.json',
+  'biomedical-sciences.json',
+  'pharmacology.json',
+  'molecular-biology.json',
+  'medicinal-chemistry.json',
+  'genetics.json',
+  'microbiology.json',
+  'biochemistry-with-industry.json',
 ];
 
 function fail(message) {

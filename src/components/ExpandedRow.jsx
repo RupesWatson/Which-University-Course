@@ -14,7 +14,7 @@ export default function ExpandedRow({ university, course, colSpan }) {
   const rankLabel = course?.rankLabel || 'Table Position';
   const entryGrades = university.entryGrades || university.aLevelGrades;
   const rankText = course?.rankingScope === 'official'
-    ? `#${university.subjectRank} in the retained A&F ranking`
+    ? `#${university.subjectRank} in the CUG 2026 subject ranking`
     : `#${university.subjectRank} in the current verified comparison set`;
 
   const fields = [
