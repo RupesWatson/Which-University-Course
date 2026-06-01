@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "biochemistry-courses",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "dev"],
+      "cwd": "C:\\Users\\rwatk\\Claude Code Projects\\Biochemistry-Courses",
+      "port": 5173
+    }
+  ]
+}

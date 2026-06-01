@@ -3,142 +3,99 @@ const CUG_BASE = 'https://www.thecompleteuniversityguide.co.uk/universities/';
 const cugPageCache = new Map();
 const cugUrlCache = new Map();
 
+// Subjects whose tables use the official CUG subject ranking. Their existing
+// subjectRank is retained on sync rather than being overwritten with table
+// position. All other subjects use comparison-set position (index + 1).
+const OFFICIAL_RANK_SUBJECTS = new Set(['biochemistry', 'chemistry']);
+
 const SPECS = {
-  af: {
-    file: 'universities.json',
-    queries: ['accounting finance', 'accountancy finance'],
+  biochemistry: {
+    file: 'biochemistry.json',
+    queries: ['biochemistry', 'molecular biochemistry'],
     classify(title) {
-      return hasAll(title, ['account', 'finance']) ? exact() : null;
-    },
-  },
-  econFin: {
-    file: 'economics-finance.json',
-    queries: ['economics finance', 'financial economics'],
-    classify(title) {
-      if (hasAll(title, ['economics', 'finance'])) return exact();
-      if (title.includes('financial economics')) return close();
+      if (title.includes('biochemistry')) return exact();
+      if (title.includes('natural sciences')) return close();
       return null;
     },
   },
-  finMath: {
-    file: 'financial-maths.json',
-    queries: ['financial mathematics', 'mathematics finance'],
+  chemistry: {
+    file: 'chemistry.json',
+    queries: ['chemistry'],
     classify(title) {
-      if (/(financial mathematics|financial maths|mathematics with finance|finance and mathematics|mathematics \/ finance)/.test(title)) {
-        return exact();
-      }
-      if (title.includes('finance') && title.includes('statistics')) return close();
+      if (title.includes('biochemistry') || title.includes('medicinal chemistry')) return null;
+      if (/\bchemistry\b/.test(title)) return exact();
+      if (title.includes('natural sciences')) return close();
       return null;
     },
   },
-  banking: {
-    file: 'banking-finance.json',
-    queries: ['banking finance', 'money banking finance'],
+  natSci: {
+    file: 'natural-sciences.json',
+    queries: ['natural sciences'],
     classify(title) {
-      if (/(banking and finance|finance and banking)/.test(title)) return exact();
-      if (/(money, banking and finance|financial economics and banking|banking and digital finance)/.test(title)) {
-        return close();
-      }
+      return title.includes('natural sciences') ? exact() : null;
+    },
+  },
+  biomedSci: {
+    file: 'biomedical-sciences.json',
+    queries: ['biomedical science', 'biomedical sciences'],
+    classify(title) {
+      if (title.includes('biomedical')) return exact();
+      if (/(medical science|medical sciences)/.test(title)) return close();
       return null;
     },
   },
-  actuarial: {
-    file: 'actuarial.json',
-    queries: ['actuarial science', 'actuarial mathematics'],
+  pharmacology: {
+    file: 'pharmacology.json',
+    queries: ['pharmacology'],
     classify(title) {
-      return title.includes('actuarial') ? exact() : null;
-    },
-  },
-  fintech: {
-    file: 'fintech.json',
-    queries: ['fintech', 'financial technology', 'digital finance'],
-    classify(title) {
-      if (/(fintech|financial technology)/.test(title)) return exact();
-      if (/digital finance/.test(title)) return close();
+      if (title.includes('pharmacology')) return exact();
+      if (/(pharmacology and physiology|pharmaceutical science)/.test(title)) return close();
       return null;
     },
   },
-  appliedAI: {
-    file: 'applied-ai.json',
-    queries: ['artificial intelligence finance', 'applied ai finance', 'machine learning finance'],
+  molBiol: {
+    file: 'molecular-biology.json',
+    queries: ['molecular biology', 'molecular cell biology'],
     classify(title) {
-      if (title.includes('finance') && title.includes('artificial intelligence')) return exact();
-      if (title.includes('finance') && title.includes('machine learning')) return close();
+      if (title.includes('molecular biology')) return exact();
+      if (/(molecular and cellular biology|molecular cell biology|cell biology)/.test(title)) return close();
       return null;
     },
   },
-  dataScience: {
-    file: 'data-science.json',
-    queries: ['data science finance', 'data analytics finance'],
+  medicinalChem: {
+    file: 'medicinal-chemistry.json',
+    queries: ['medicinal chemistry', 'chemistry medicinal', 'pharmaceutical chemistry'],
     classify(title) {
-      if (title.includes('finance') && title.includes('data science')) return exact();
-      if (title.includes('finance') && title.includes('data analytics')) return close();
+      if (title.includes('medicinal chemistry')) return exact();
+      if (/(chemistry with medicinal chemistry|pharmaceutical chemistry)/.test(title)) return close();
       return null;
     },
   },
-  techManagement: {
-    file: 'tech-management.json',
-    queries: ['technology management finance', 'information systems finance'],
+  genetics: {
+    file: 'genetics.json',
+    queries: ['genetics', 'molecular genetics'],
     classify(title) {
-      if (title.includes('finance') && title.includes('technology management')) return exact();
-      if (title.includes('finance') && title.includes('information systems')) return close();
+      if (title.includes('genetics')) return exact();
+      if (title.includes('natural sciences')) return close();
       return null;
     },
   },
-  investmentBanking: {
-    file: 'investment-banking.json',
-    queries: ['investment banking', 'finance investment'],
+  microbiology: {
+    file: 'microbiology.json',
+    queries: ['microbiology', 'medical microbiology'],
     classify(title) {
-      if (title.includes('investment banking')) return exact();
-      if (/(finance and investment|investment and finance)/.test(title)) return close();
+      if (title.includes('microbiology')) return exact();
+      if (/(microbiology and|bacteriology)/.test(title)) return close();
       return null;
     },
   },
-  ventureCapital: {
-    file: 'venture-capital.json',
-    queries: ['venture capital', 'private equity'],
+  biochemIndustry: {
+    file: 'biochemistry-with-industry.json',
+    queries: ['biochemistry placement', 'biochemistry industrial', 'biochemistry year in industry'],
     classify(title) {
-      if (/(venture capital|private equity)/.test(title)) return exact();
-      return null;
-    },
-  },
-  intlFinance: {
-    file: 'international-finance.json',
-    queries: ['international finance', 'international business finance'],
-    classify(title) {
-      if (title.includes('international finance')) return exact();
-      if (/(international business and finance|finance \(international business\))/.test(title)) return close();
-      return null;
-    },
-  },
-  esgFinance: {
-    file: 'esg-finance.json',
-    queries: ['sustainable finance', 'green finance', 'esg finance'],
-    classify(title) {
-      if (/(sustainable finance|green finance|esg)/.test(title)) return exact();
-      return null;
-    },
-  },
-  financeLaw: {
-    file: 'finance-law.json',
-    queries: ['finance law', 'law finance', 'accounting law'],
-    classify(title) {
-      if ((title.includes('finance') || title.includes('accounting')) && title.includes('law')) return exact();
-      return null;
-    },
-  },
-  behaviouralFinance: {
-    file: 'behavioural-finance.json',
-    queries: ['behavioural finance', 'behavioral finance'],
-    classify(title) {
-      return /(behavioural finance|behavioral finance)/.test(title) ? exact() : null;
-    },
-  },
-  finInn: {
-    file: 'finance-innovation.json',
-    queries: ['financial innovation', 'finance innovation'],
-    classify(title) {
-      return /(financial innovation|finance innovation)/.test(title) ? exact() : null;
+      if (!title.includes('biochemistry')) return null;
+      if (/(placement|industrial|year in industry|professional|sandwich)/.test(title)) return exact();
+      return close();
     },
   },
 };
@@ -149,10 +106,6 @@ function exact() {
 
 function close() {
   return { matchType: 'close', note: 'Verified UCAS 2026 close course variant' };
-}
-
-function hasAll(text, parts) {
-  return parts.every(part => text.includes(part));
 }
 
 function slugify(title) {
@@ -368,7 +321,7 @@ async function main() {
 
       const match = chooseMatch(spec, hits);
       if (match) {
-        matchedRows.push(await updateRow(row, match, matchedRows.length, courseId === 'af'));
+        matchedRows.push(await updateRow(row, match, matchedRows.length, OFFICIAL_RANK_SUBJECTS.has(courseId)));
       }
     }
 

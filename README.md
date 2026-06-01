@@ -1,6 +1,12 @@
-# University Courses
+# UK University Chemistry & Biochemistry Comparison
 
-This app compares finance-related undergraduate courses across a selected set of UK universities.
+This app compares chemistry, biochemistry and related life-science undergraduate
+courses across the top UK universities (Oxford, Cambridge, the Russell Group, and
+a selection of other strong providers).
+
+It covers 10 subject areas: Biochemistry, Chemistry, Natural Sciences, Biomedical
+Sciences, Pharmacology, Molecular Biology, Medicinal Chemistry, Genetics,
+Microbiology, and Biochemistry with Placement.
 
 ## Run locally
 
@@ -10,24 +16,40 @@ This app compares finance-related undergraduate courses across a selected set of
 
 ## Data audit
 
-Course availability and course titles were audited on 2026-05-31.
+Course availability and course titles were audited against UCAS 2026 listings.
 
-- Exact course titles now come from UCAS 2026 undergraduate listings.
+- Exact course titles come from UCAS 2026 undergraduate listings.
 - Each row stores a direct UCAS source link and the UCAS application code.
-- Retained rows also refresh `overallRank` and `gradProspects` from current Complete University Guide 2026 university pages.
-- Retained rows also refresh `entryGrades` and `typicalOffer` from UCAS A-level offer data.
-- Universities were removed from a course table when there was no verified undergraduate match for that subject area.
-- Subject areas with zero current verified matches are now hidden from the selector.
+- `overallRank` and `gradProspects` are sourced from the Complete University Guide
+  (CUG) 2026 university pages.
+- `entryGrades` and `typicalOffer` reflect UCAS A-level offer data.
+- Universities are listed in a course table only when there is a verified
+  undergraduate match for that subject area.
+- Each row is tagged `exact` (UCAS title clearly matches the subject) or `close`
+  (a nearby variant — e.g. Cambridge's Natural Sciences route into Biochemistry).
 
 ## Important caveats
 
-- `Accounting & Finance` keeps its existing A&F rank as the only retained official ranking table.
-- Other course tables now use table position within the verified comparison set, not an official national subject ranking.
-- Some supporting copy in the course-detail pages still comes from the legacy project dataset and has not been re-audited line by line.
+- **Biochemistry** and **Chemistry** tables use the official CUG 2026 subject
+  ranking position. All other subject tables use table position within the
+  verified comparison set, not an official national subject ranking.
+- Open day dates are indicative and should always be confirmed on the
+  university's official website.
+- Some supporting copy in the course-detail pages is hand-authored and should be
+  treated as indicative rather than line-by-line source-audited.
 
 ## Utility scripts
 
 - `npm run sync:ucas`
-  Refreshes the course tables from UCAS 2026 using the current matching rules.
+  Refreshes the course tables from UCAS 2026 using the current matching rules
+  (see `scripts/sync-ucas-matches.mjs`).
 - `npm run validate:data`
-  Checks that every kept row has a verified course title, UCAS code, source URL, and audit status.
+  Checks that every row has a verified course title, UCAS code, source URL, and
+  audit status.
+
+## Tech stack
+
+- React 19 + React Router 7 (hash routing)
+- Vite 5 build tool
+- Tailwind CSS 4
+- Static JSON data imported at build time (no runtime API calls)
