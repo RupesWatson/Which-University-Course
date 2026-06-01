@@ -15,7 +15,7 @@ export default function Filters({ search, setSearch, tier, setTier }) {
       </div>
 
       <div className="flex rounded-lg border border-blue-900/50 overflow-hidden">
-        {['All', 'Red Brick', 'One Tier Below'].map(t => (
+        {['All', 'Russell Group', 'Other Universities'].map(t => (
           <button
             key={t}
             onClick={() => setTier(t)}

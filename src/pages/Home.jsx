@@ -40,17 +40,17 @@ export default function Home() {
             <div className="h-px flex-1 bg-gradient-to-l from-transparent to-blue-800/40" />
           </div>
           <h1 className="mb-3 text-center font-display text-3xl font-bold leading-tight text-white md:text-4xl lg:text-5xl">
-            UK University Finance &amp;{' '}
+            UK University Chemistry &amp;{' '}
             <span
               className="bg-clip-text text-transparent"
               style={{ backgroundImage: 'linear-gradient(135deg, #93c5fd, #2563eb)' }}
             >
-              Business Comparison
+              Biochemistry Comparison
             </span>
           </h1>
           <p className="mx-auto max-w-2xl text-center text-sm text-slate-400">
-            Compare verified 2026 undergraduate course matches across the selected UK universities.
-            Exact course titles now come from UCAS, and specialist tables only keep universities with a verified match.
+            Compare verified 2026 undergraduate course matches across Russell Group and other top UK universities.
+            Course titles sourced from UCAS 2026 and rankings from the Complete University Guide 2026.
           </p>
         </header>
 
@@ -60,8 +60,8 @@ export default function Home() {
         <Table universities={filtered} course={course} />
 
         <footer className="mt-10 text-center text-xs text-slate-600">
-          Exact course titles and availability were checked against UCAS 2026. Only Accounting &amp; Finance keeps an official subject rank;
-          all other subject tables now use table position within the verified comparison set.
+          Exact course titles and availability verified against UCAS 2026. Subject ranks for Biochemistry and Chemistry use CUG 2026 subject table positions;
+          all other course tables show table position within the verified comparison set.
         </footer>
       </div>
     </div>

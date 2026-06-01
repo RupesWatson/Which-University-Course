@@ -1,153 +1,93 @@
-import afRawData from './universities.json';
-import econFinData from './economics-finance.json';
-import fintechData from './fintech.json';
-import finMathData from './financial-maths.json';
-import bankingData from './banking-finance.json';
-import finInnData from './finance-innovation.json';
-import investmentBankingData from './investment-banking.json';
-import appliedAIData from './applied-ai.json';
-import dataScienceData from './data-science.json';
-import esgFinanceData from './esg-finance.json';
-import financeLawData from './finance-law.json';
-import intlFinanceData from './international-finance.json';
-import actuarialData from './actuarial.json';
-import ventureCapitalData from './venture-capital.json';
-import techManagementData from './tech-management.json';
-import behaviouralFinanceData from './behavioural-finance.json';
-
-const afData = afRawData.map(u => ({
-  ...u,
-  subjectRank: u.afRank,
-  entryGrades: u.aLevelGrades,
-}));
+import biochemistryData from './biochemistry.json';
+import chemistryData from './chemistry.json';
+import naturalSciencesData from './natural-sciences.json';
+import biomedicalSciencesData from './biomedical-sciences.json';
+import pharmacologyData from './pharmacology.json';
+import molecularBiologyData from './molecular-biology.json';
+import medicinalChemistryData from './medicinal-chemistry.json';
+import geneticsData from './genetics.json';
+import microbiologyData from './microbiology.json';
+import biochemistryIndustryData from './biochemistry-with-industry.json';
 
 export const COURSES = [
   {
-    id: 'af',
-    label: 'Accounting & Finance',
-    rankLabel: 'A&F Rank',
-    description: 'UCAS 2026 verified titles; official A&F ranking retained here',
+    id: 'biochemistry',
+    label: 'Biochemistry',
+    rankLabel: 'Subject Rank',
+    description: 'UCAS 2026 verified Biochemistry BSc and MBiochem titles across top UK universities',
     rankingScope: 'official',
-    data: afData,
+    data: biochemistryData,
   },
   {
-    id: 'econFin',
-    label: 'Economics & Finance',
-    rankLabel: 'Table Position',
-    description: 'UCAS 2026 verified course titles and close variants',
-    rankingScope: 'comparison',
-    data: econFinData,
+    id: 'chemistry',
+    label: 'Chemistry',
+    rankLabel: 'Subject Rank',
+    description: 'UCAS 2026 verified Chemistry BSc and MChem titles across top UK universities',
+    rankingScope: 'official',
+    data: chemistryData,
   },
   {
-    id: 'finMath',
-    label: 'Financial Mathematics',
+    id: 'natSci',
+    label: 'Natural Sciences',
     rankLabel: 'Table Position',
-    description: 'UCAS 2026 verified maths-and-finance titles',
+    description: 'UCAS 2026 verified Natural Sciences titles — interdisciplinary science degrees leading to Chemistry or Biochemistry specialisation',
     rankingScope: 'comparison',
-    data: finMathData,
+    data: naturalSciencesData,
   },
   {
-    id: 'banking',
-    label: 'Banking & Finance',
+    id: 'biomedSci',
+    label: 'Biomedical Sciences',
     rankLabel: 'Table Position',
-    description: 'UCAS 2026 verified course titles and close variants',
+    description: 'UCAS 2026 verified Biomedical Sciences BSc titles across Russell Group and other top universities',
     rankingScope: 'comparison',
-    data: bankingData,
+    data: biomedicalSciencesData,
   },
   {
-    id: 'actuarial',
-    label: 'Actuarial Science',
+    id: 'pharmacology',
+    label: 'Pharmacology',
     rankLabel: 'Table Position',
-    description: 'UCAS 2026 verified actuarial course titles',
+    description: 'UCAS 2026 verified Pharmacology BSc titles and close variants',
     rankingScope: 'comparison',
-    data: actuarialData,
+    data: pharmacologyData,
   },
   {
-    id: 'fintech',
-    label: 'Finance & FinTech',
+    id: 'molBiol',
+    label: 'Molecular Biology',
     rankLabel: 'Table Position',
-    description: 'UCAS 2026 verified FinTech course titles',
+    description: 'UCAS 2026 verified Molecular Biology BSc and MBiol titles and close variants',
     rankingScope: 'comparison',
-    data: fintechData,
+    data: molecularBiologyData,
   },
   {
-    id: 'appliedAI',
-    label: 'Finance & Applied AI',
+    id: 'medicinalChem',
+    label: 'Medicinal Chemistry',
     rankLabel: 'Table Position',
-    description: 'No verified UCAS 2026 matches in the current university set',
+    description: 'UCAS 2026 verified Medicinal Chemistry BSc and MChem titles',
     rankingScope: 'comparison',
-    data: appliedAIData,
+    data: medicinalChemistryData,
   },
   {
-    id: 'dataScience',
-    label: 'Finance & Data Science',
+    id: 'genetics',
+    label: 'Genetics',
     rankLabel: 'Table Position',
-    description: 'UCAS 2026 verified data-science titles and close variants',
+    description: 'UCAS 2026 verified Genetics BSc and MBiol titles across UK universities',
     rankingScope: 'comparison',
-    data: dataScienceData,
+    data: geneticsData,
   },
   {
-    id: 'techManagement',
-    label: 'Finance & Technology Management',
+    id: 'microbiology',
+    label: 'Microbiology',
     rankLabel: 'Table Position',
-    description: 'No verified UCAS 2026 matches in the current university set',
+    description: 'UCAS 2026 verified Microbiology BSc titles across UK universities',
     rankingScope: 'comparison',
-    data: techManagementData,
+    data: microbiologyData,
   },
   {
-    id: 'investmentBanking',
-    label: 'Finance & Investment Banking',
+    id: 'biochemIndustry',
+    label: 'Biochemistry with Placement',
     rankLabel: 'Table Position',
-    description: 'UCAS 2026 verified investment-banking titles and close variants',
+    description: 'UCAS 2026 verified Biochemistry degrees with mandatory or optional industrial placement year',
     rankingScope: 'comparison',
-    data: investmentBankingData,
-  },
-  {
-    id: 'ventureCapital',
-    label: 'Venture Capital & Private Equity',
-    rankLabel: 'Table Position',
-    description: 'No verified UCAS 2026 matches in the current university set',
-    rankingScope: 'comparison',
-    data: ventureCapitalData,
-  },
-  {
-    id: 'intlFinance',
-    label: 'International Finance',
-    rankLabel: 'Table Position',
-    description: 'UCAS 2026 verified international-finance variants',
-    rankingScope: 'comparison',
-    data: intlFinanceData,
-  },
-  {
-    id: 'esgFinance',
-    label: 'ESG & Sustainable Finance',
-    rankLabel: 'Table Position',
-    description: 'UCAS 2026 verified sustainable-finance titles',
-    rankingScope: 'comparison',
-    data: esgFinanceData,
-  },
-  {
-    id: 'financeLaw',
-    label: 'Finance & Law',
-    rankLabel: 'Table Position',
-    description: 'No verified UCAS 2026 matches in the current university set',
-    rankingScope: 'comparison',
-    data: financeLawData,
-  },
-  {
-    id: 'behaviouralFinance',
-    label: 'Behavioural Finance',
-    rankLabel: 'Table Position',
-    description: 'No verified UCAS 2026 matches in the current university set',
-    rankingScope: 'comparison',
-    data: behaviouralFinanceData,
-  },
-  {
-    id: 'finInn',
-    label: 'Finance & Innovation',
-    rankLabel: 'Table Position',
-    description: 'No verified UCAS 2026 matches in the current university set',
-    rankingScope: 'comparison',
-    data: finInnData,
+    data: biochemistryIndustryData,
   },
 ];

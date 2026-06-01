@@ -89,13 +89,13 @@ export default function Table({ universities, course }) {
   const sorted = [...universities].sort((a, b) => compareValues(a, b, sortKey, sortDir));
 
   function tierBadge(tier) {
-    return tier === 'Red Brick' ? (
+    return tier === 'Russell Group' ? (
       <span className="inline-block rounded border border-indigo-700/50 bg-indigo-900/60 px-2 py-0.5 text-[10px] font-semibold tracking-wide text-indigo-300">
-        Red Brick
+        Russell Group
       </span>
     ) : (
       <span className="inline-block rounded border border-slate-600/50 bg-slate-800/60 px-2 py-0.5 text-[10px] font-semibold tracking-wide text-slate-300">
-        One Tier Below
+        Other Universities
       </span>
     );
   }
