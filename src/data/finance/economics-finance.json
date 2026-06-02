@@ -12,7 +12,8 @@
     "applicationCode": "LN13",
     "sourceUrl": "https://digital.ucas.com/explore/courses/43943bd7-266b-b16c-fee1-83b20c61e23c/economics-and-finance?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-bristol"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-bristol",
+    "ibGrades": "6"
   },
   {
     "name": "University of Exeter",
@@ -27,7 +28,8 @@
     "applicationCode": "LN13",
     "sourceUrl": "https://digital.ucas.com/explore/courses/48151072-c9cc-f79b-1e84-4b3154164000/economics-and-finance?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-exeter"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-exeter",
+    "ibGrades": "6"
   },
   {
     "name": "University of Manchester",
@@ -42,7 +44,8 @@
     "applicationCode": "LN13",
     "sourceUrl": "https://digital.ucas.com/explore/courses/c96c6436-da85-9310-09f6-f11bff48ab9e/economics-and-finance?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-manchester"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-manchester",
+    "ibGrades": "6"
   },
   {
     "name": "University of Leeds",
@@ -57,7 +60,8 @@
     "applicationCode": "LN13",
     "sourceUrl": "https://digital.ucas.com/explore/courses/b6ce51a2-ef26-3bf9-6913-3a87d5d68857/economics-and-finance?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-leeds"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-leeds",
+    "ibGrades": "6"
   },
   {
     "name": "Lancaster University",
@@ -72,7 +76,8 @@
     "applicationCode": "NL31",
     "sourceUrl": "https://digital.ucas.com/explore/courses/a6fe6a78-66be-34d4-bc02-fc7c0885be92/economics-and-finance?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/lancaster-university"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/lancaster-university",
+    "ibGrades": "6"
   },
   {
     "name": "Loughborough University",
@@ -87,7 +92,8 @@
     "applicationCode": "L1NK",
     "sourceUrl": "https://digital.ucas.com/explore/courses/35771e1d-4e1e-6419-40ea-01a9cdcc13f2/economics-and-finance?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/loughborough-university"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/loughborough-university",
+    "ibGrades": "6"
   },
   {
     "name": "University of Southampton",
@@ -102,7 +108,8 @@
     "applicationCode": "L1NH",
     "sourceUrl": "https://digital.ucas.com/explore/courses/73aaa937-758c-104d-d608-c5b67a90fff6/economics-and-finance?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-southampton"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-southampton",
+    "ibGrades": "6"
   },
   {
     "name": "University of Sheffield",
@@ -117,7 +124,8 @@
     "applicationCode": "L1N3",
     "sourceUrl": "https://digital.ucas.com/explore/courses/83675dbb-ee57-b168-d981-b4014d61232e/economics-with-finance?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-sheffield"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-sheffield",
+    "ibGrades": "6"
   },
   {
     "name": "University of York",
@@ -132,7 +140,8 @@
     "applicationCode": "L112",
     "sourceUrl": "https://digital.ucas.com/explore/courses/58d8cc48-1e84-c38d-4edd-57f5aebde42d/economics-and-finance?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-york"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-york",
+    "ibGrades": "6"
   },
   {
     "name": "Newcastle University",
@@ -147,7 +156,8 @@
     "applicationCode": "L161",
     "sourceUrl": "https://digital.ucas.com/explore/courses/129eacab-d747-e624-7902-1adc077bec47/economics-and-finance?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/newcastle-university"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/newcastle-university",
+    "ibGrades": "6"
   },
   {
     "name": "University of Sussex",
@@ -162,7 +172,8 @@
     "applicationCode": "LN13",
     "sourceUrl": "https://digital.ucas.com/explore/courses/726643cf-dca4-bd2f-ce36-c13f8b6c6f1f/economics-and-finance?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-sussex"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-sussex",
+    "ibGrades": "6"
   },
   {
     "name": "University of Reading",
@@ -177,7 +188,8 @@
     "applicationCode": "LN13",
     "sourceUrl": "https://digital.ucas.com/explore/courses/49904c49-a206-b932-34c4-bac6434e5a37/economics-and-finance?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-reading"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-reading",
+    "ibGrades": "6"
   },
   {
     "name": "University of Leicester",
@@ -192,7 +204,8 @@
     "applicationCode": "LN15",
     "sourceUrl": "https://digital.ucas.com/explore/courses/9bf1041f-205c-45ca-8fb5-766ced239f5f/financial-economics-and-banking?studyYear=2026",
     "matchType": "close",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-leicester"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-leicester",
+    "ibGrades": "6"
   },
   {
     "name": "University of Kent",
@@ -207,7 +220,8 @@
     "applicationCode": "LN14",
     "sourceUrl": "https://digital.ucas.com/explore/courses/caa62dff-1b99-ed58-5af2-b8d9b345b097/economics-and-finance?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-kent"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-kent",
+    "ibGrades": "6"
   },
   {
     "name": "University of Edinburgh",
@@ -222,7 +236,8 @@
     "applicationCode": "L1N3",
     "sourceUrl": "https://digital.ucas.com/explore/courses/85801765-af86-1b75-8d58-ed1ddf99c93b/economics-with-finance?studyYear=2026",
     "matchType": "close",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/the-university-of-edinburgh"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/the-university-of-edinburgh",
+    "ibGrades": "6"
   },
   {
     "name": "University of Strathclyde",
@@ -237,7 +252,8 @@
     "applicationCode": "LN13",
     "sourceUrl": "https://digital.ucas.com/explore/courses/48b2c482-b3f3-2d39-7caf-cc99d1a0bc09/economics-and-finance?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-strathclyde"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-strathclyde",
+    "ibGrades": "6"
   },
   {
     "name": "Durham University",
@@ -252,7 +268,8 @@
     "applicationCode": "N300",
     "sourceUrl": "https://digital.ucas.com/explore/courses/0f64add3-e64d-a77a-fbc1-81f9cf94c930/finance?studyYear=2026",
     "matchType": "close",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/durham-university"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/durham-university",
+    "ibGrades": "6"
   },
   {
     "name": "University of Glasgow",
@@ -267,7 +284,8 @@
     "applicationCode": "NL30",
     "sourceUrl": "https://digital.ucas.com/explore/courses/b1598ab0-bc3c-4b7a-8efe-b319357dc58f/finance?studyYear=2026",
     "matchType": "close",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-glasgow"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-glasgow",
+    "ibGrades": "6"
   },
   {
     "name": "Queen's University Belfast",
@@ -282,6 +300,7 @@
     "applicationCode": "L1N3",
     "sourceUrl": "https://digital.ucas.com/explore/courses/8263749b-1cf1-d8f8-40b2-65a934fb93d6/economics-with-finance?studyYear=2026",
     "matchType": "close",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/queen-s-university-belfast"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/queen-s-university-belfast",
+    "ibGrades": "6"
   }
 ]

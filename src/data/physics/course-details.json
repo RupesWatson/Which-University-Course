@@ -1,0 +1,351 @@
+{
+  "physics": {
+    "id": "physics",
+    "title": "Physics BSc / MPhys",
+    "duration": "3 years (BSc) or 4 years (MPhys)",
+    "overview": "Physics is the most fundamental of the natural sciences, seeking to understand the laws that govern everything from subatomic particles to the structure of the universe. A UK physics degree combines rigorous mathematical training with laboratory work, computational skills, and deep conceptual understanding. The MPhys (4-year integrated Masters) is strongly recommended for students considering research careers or competitive graduate programmes.",
+    "yearByYear": [
+      { "year": 1, "focus": "Foundations", "modules": ["Classical Mechanics", "Quantum Physics Introduction", "Waves and Optics", "Electromagnetism", "Mathematical Methods I", "Laboratory Skills", "Thermodynamics", "Special Relativity Introduction"] },
+      { "year": 2, "focus": "Core Physics", "modules": ["Quantum Mechanics", "Statistical Mechanics", "Electrodynamics", "Mathematical Methods II", "Condensed Matter Physics", "Nuclear and Particle Physics", "Advanced Laboratory", "Computational Physics"] },
+      { "year": 3, "focus": "Advanced Topics and Specialisation", "modules": ["General Relativity", "Quantum Field Theory Introduction", "Solid State Physics", "Atomic and Molecular Physics", "Research Project", "Optional Specialism Modules", "Plasma Physics"] },
+      { "year": 4, "focus": "MPhys Research", "modules": ["Advanced Quantum Mechanics", "Extended Research Project", "Particle Physics", "Cosmology", "Advanced Condensed Matter", "Elective Advanced Topics"] }
+    ],
+    "skills": ["Mathematical modelling", "Scientific programming (Python, MATLAB, C++)", "Laboratory and instrumentation skills", "Data analysis and statistics", "Problem-solving and critical thinking", "Scientific communication", "Numerical simulation"],
+    "professionalBodies": [
+      { "name": "Institute of Physics (IoP)", "benefit": "Accredited degrees meet IoP requirements for Chartered Physicist (CPhys). IoP membership provides networking, careers support and access to journals." },
+      { "name": "European Physical Society", "benefit": "Pan-European recognition for physics qualifications and access to conferences and research collaborations." }
+    ],
+    "careers": [
+      { "role": "Research Scientist", "salary": "£28,000–£55,000+", "demand": "High" },
+      { "role": "Data Scientist / Machine Learning Engineer", "salary": "£40,000–£90,000+", "demand": "Very High" },
+      { "role": "Quantitative Analyst (Finance)", "salary": "£60,000–£150,000+", "demand": "High" },
+      { "role": "Nuclear / Energy Engineer", "salary": "£35,000–£70,000", "demand": "Growing" },
+      { "role": "Medical Physicist (NHS)", "salary": "£28,000–£50,000", "demand": "High" },
+      { "role": "Defence and Aerospace Engineer", "salary": "£32,000–£65,000", "demand": "High" }
+    ],
+    "topEmployers": ["CERN", "UKAEA (Culham)", "AWE", "Rolls-Royce", "BAE Systems", "Goldman Sachs", "Google DeepMind", "EPSRC Research Councils", "NHS Medical Physics", "National Physical Laboratory"],
+    "employerPerspective": "Physics graduates are among the most sought-after recruits in quantitative finance, technology and defence — industries that value the ability to build and solve complex mathematical models. Goldman Sachs, McKinsey and ARM specifically target physics MPhys graduates for their quantitative roles. The MPhys degree signals an ability to complete an independent research project, which is highly valued.",
+    "entryRequirements": "Typically A*AA–ABB at A-level. Mathematics A-level is always required; Physics A-level is required at all universities. Further Mathematics is strongly recommended at top departments (Oxford and Cambridge require it effectively). Most universities also accept the IB with 36–38 points including 6/7 in HL Physics and HL Maths.",
+    "furtherStudy": "PhD in physics, astrophysics, materials science, biophysics or related fields. MSc in Data Science, Quantitative Finance (MFE), or Machine Learning. Part III Mathematical Tripos at Cambridge for those wanting to bridge to mathematics.",
+    "isItForYou": [
+      "You love mathematics and want to apply it to understand fundamental reality",
+      "You enjoy both theory and hands-on lab experiments",
+      "You want maximum flexibility — physics opens doors to tech, finance, research and engineering",
+      "You are comfortable with ambiguity and open-ended problems",
+      "Note: Physics is mathematically demanding. If you prefer computer science or statistics to differential equations, consider Data Science or Maths & CS instead"
+    ]
+  },
+  "astrophysics": {
+    "id": "astrophysics",
+    "title": "Astrophysics BSc / MPhys",
+    "duration": "3 years (BSc) or 4 years (MPhys)",
+    "overview": "Astrophysics combines the fundamental principles of physics with the study of stars, galaxies, black holes, dark matter and the evolution of the universe. UK departments are world-class — the discovery of pulsars (Cambridge), gravitational wave detection (Cardiff/Glasgow/Birmingham LIGO group) and X-ray astronomy (Leicester) were all made here. A degree in astrophysics produces physicists with strong programming and data analysis skills highly prized across science and industry.",
+    "yearByYear": [
+      { "year": 1, "focus": "Physics and Astronomy Foundations", "modules": ["Classical Mechanics", "Introductory Astronomy", "Mathematics for Astrophysics", "Optics and Telescopes", "Electromagnetism", "Quantum Physics Introduction", "Stellar Structure", "Laboratory Skills"] },
+      { "year": 2, "focus": "Astrophysical Processes", "modules": ["Stellar Evolution", "Galactic Astrophysics", "Cosmology Introduction", "Observational Techniques", "Quantum Mechanics", "Statistical Mechanics", "Computational Astrophysics", "Electromagnetic Radiation"] },
+      { "year": 3, "focus": "Advanced Astrophysics", "modules": ["General Relativity", "Compact Objects and Black Holes", "Extragalactic Astrophysics", "Gravitational Waves", "Observational Project", "Planetary Science", "Particle Astrophysics"] },
+      { "year": 4, "focus": "MPhys Research Project", "modules": ["Extended Research Project", "Advanced Cosmology", "High Energy Astrophysics", "Numerical Simulations in Astrophysics", "Exoplanet Science"] }
+    ],
+    "skills": ["Data analysis and Python programming", "Statistical methods for large datasets", "Scientific writing and presentation", "Telescope operation and observation", "Computational modelling", "Mathematical problem-solving"],
+    "professionalBodies": [
+      { "name": "Institute of Physics (IoP)", "benefit": "IoP accreditation for Chartered Physicist status and access to careers and networking events." },
+      { "name": "Royal Astronomical Society (RAS)", "benefit": "Free student membership available; access to journals, meetings and a strong professional community." }
+    ],
+    "careers": [
+      { "role": "Research Astrophysicist / PhD", "salary": "£18,000–£50,000+", "demand": "High" },
+      { "role": "Space Scientist / ESA/NASA", "salary": "£30,000–£65,000", "demand": "Growing" },
+      { "role": "Data Scientist", "salary": "£40,000–£80,000+", "demand": "Very High" },
+      { "role": "Software Engineer", "salary": "£35,000–£85,000+", "demand": "Very High" },
+      { "role": "Science Communicator / Educator", "salary": "£25,000–£45,000", "demand": "High" }
+    ],
+    "topEmployers": ["STFC", "ESA", "Royal Observatory Greenwich", "Airbus Defence & Space", "Reaction Engines", "UKSA", "BBC Science", "Google", "NHS Imaging Physics"],
+    "employerPerspective": "The data science and programming skills developed in astrophysics are increasingly valued outside academia. Former astrophysicists are prominent at Google DeepMind, in financial modelling, and in the growing UK space sector. The analytical rigour of an astrophysics degree is highly transferable.",
+    "entryRequirements": "Typically A*AA–BCC at A-level depending on institution. Mathematics and Physics A-levels required at all institutions. Some programmes (e.g. Durham, UCL) additionally recommend Further Mathematics. Accessible entry routes exist at Keele and Hertfordshire.",
+    "furtherStudy": "PhD in astrophysics, cosmology, space science or gravitational wave physics. MSc in Data Science, Space Science or AI. Industry-funded PhD studentships at Airbus, ESA and STFC partner institutions.",
+    "isItForYou": [
+      "You are fascinated by the universe, black holes, dark matter or the origins of the cosmos",
+      "You enjoy physics but want it anchored in real observed phenomena",
+      "You want strong programming and data analysis skills built into your degree",
+      "You are comfortable studying away from major cities (many top astrophysics departments are in Durham, St Andrews or Nottingham)",
+      "Note: Astrophysics has fewer university options than straight Physics; competition for PhD places is intense"
+    ]
+  },
+  "theoreticalPhysics": {
+    "id": "theoreticalPhysics",
+    "title": "Theoretical Physics MPhys",
+    "duration": "4 years (MPhys integrated Masters)",
+    "overview": "Theoretical Physics is the most mathematically rigorous and intellectually demanding physics degree in the UK. It focuses on the mathematical frameworks that underpin physical reality: quantum field theory, general relativity, string theory, condensed matter theory and statistical mechanics. Graduates from the best programmes are among the most analytically capable graduates in any discipline.",
+    "yearByYear": [
+      { "year": 1, "focus": "Mathematical and Physical Foundations", "modules": ["Classical Mechanics (Lagrangian/Hamiltonian)", "Linear Algebra and Complex Analysis", "Electromagnetism", "Quantum Mechanics I", "Mathematical Methods", "Special Relativity"] },
+      { "year": 2, "focus": "Core Theoretical Physics", "modules": ["Quantum Mechanics II", "Statistical Mechanics", "Group Theory for Physicists", "Mathematical Methods II", "Classical Field Theory", "Condensed Matter Theory"] },
+      { "year": 3, "focus": "Advanced Theory", "modules": ["Quantum Field Theory", "General Relativity", "Particle Physics", "String Theory Introduction", "Advanced Statistical Mechanics", "Symmetry and Conservation Laws"] },
+      { "year": 4, "focus": "Research", "modules": ["Extended Research Project", "Advanced QFT", "Supersymmetry and Beyond Standard Model", "Topological Methods in Physics", "Cosmological Perturbation Theory"] }
+    ],
+    "skills": ["Advanced mathematical reasoning", "Abstract problem formulation", "Scientific writing and proof", "Symbolic computation (Mathematica, Maple)", "Research methodology", "Mathematical modelling at the deepest level"],
+    "professionalBodies": [
+      { "name": "Institute of Physics (IoP)", "benefit": "Accredited for Chartered Physicist; IoP Theory Group membership connects to the research community." }
+    ],
+    "careers": [
+      { "role": "PhD Researcher / Academic", "salary": "£19,000–£55,000+", "demand": "High" },
+      { "role": "Quantitative Researcher (Finance)", "salary": "£80,000–£200,000+", "demand": "Very High" },
+      { "role": "Research Scientist (Deep Tech)", "salary": "£45,000–£100,000", "demand": "High" },
+      { "role": "Cryptographer / Security Researcher", "salary": "£40,000–£90,000", "demand": "Growing" },
+      { "role": "Management Consultant", "salary": "£40,000–£80,000", "demand": "High" }
+    ],
+    "topEmployers": ["CERN", "Perimeter Institute", "Jane Street", "Citadel", "GCHQ", "AWE", "DeepMind", "Cambridge Mathematics of Information", "McKinsey"],
+    "employerPerspective": "Theoretical physics graduates are in exceptional demand in quantitative finance — Jane Street, Citadel and Millennium Partners pay extremely high salaries to recruit them. The degree signals mastery of abstract mathematics and the ability to build and solve complex models, which is the core skill in derivatives pricing and systematic trading.",
+    "entryRequirements": "Typically A*A*A–AAA at A-level. Mathematics at A* and Physics A-level both required. Further Mathematics strongly recommended and effectively required at Oxford, Cambridge and Imperial. Competitive entrance tests (MAT, PAT, NSAA) at Oxbridge.",
+    "furtherStudy": "PhD in theoretical physics, mathematical physics or cosmology. MSc in Mathematical and Theoretical Physics (Oxford) or Part III Mathematical Tripos (Cambridge). MSc in Quantitative Finance (MFE). Research positions at CERN, IPPP or Perimeter Institute.",
+    "isItForYou": [
+      "You prefer abstract mathematical reasoning to experimental work",
+      "You want to understand the deepest theoretical foundations of physics",
+      "You are comfortable with very high mathematical demand from Year 1",
+      "You are targeting research, quantitative finance or top-tier tech",
+      "Note: Theoretical physics requires strong A* in Mathematics — if your mathematical strength is more moderate, standard Physics MPhys is the better route"
+    ]
+  },
+  "mathematicalPhysics": {
+    "id": "mathematicalPhysics",
+    "title": "Mathematical Physics MPhys",
+    "duration": "4 years (MPhys integrated Masters)",
+    "overview": "Mathematical Physics sits at the intersection of mathematics and physics, using rigorous mathematical structures to describe physical phenomena. Unlike theoretical physics (which is embedded in physics departments), mathematical physics programs often have joint delivery between physics and mathematics schools, giving students deep expertise in both disciplines. Graduates are exceptionally well-prepared for research in either field.",
+    "yearByYear": [
+      { "year": 1, "focus": "Mathematics and Physics Foundations", "modules": ["Real and Complex Analysis", "Linear Algebra", "Classical Mechanics (Lagrangian)", "Electromagnetism", "Quantum Mechanics Introduction", "Differential Equations"] },
+      { "year": 2, "focus": "Mathematical Methods for Physics", "modules": ["Differential Geometry Introduction", "Group Theory", "Quantum Mechanics II", "Classical Field Theory", "Complex Analysis", "Partial Differential Equations"] },
+      { "year": 3, "focus": "Advanced Mathematical Physics", "modules": ["Differential Geometry and General Relativity", "Lie Groups and Algebras", "Quantum Field Theory", "Algebraic Topology for Physics", "Advanced Statistical Mechanics"] },
+      { "year": 4, "focus": "Research Project", "modules": ["Extended Research Project in Mathematical Physics", "Advanced Topics in Geometry", "Topological Quantum Field Theory", "String Theory"] }
+    ],
+    "skills": ["Pure mathematics (analysis, geometry, algebra)", "Rigorous proof-writing", "Physical intuition combined with mathematical precision", "Advanced computation", "Research and independent study"],
+    "professionalBodies": [
+      { "name": "Institute of Physics (IoP)", "benefit": "Accreditation for Chartered Physicist." },
+      { "name": "London Mathematical Society (LMS)", "benefit": "Student membership available; access to journals and meetings across pure and applied mathematics." }
+    ],
+    "careers": [
+      { "role": "Research Mathematician / PhD", "salary": "£19,000–£55,000+", "demand": "High" },
+      { "role": "Quantitative Analyst", "salary": "£70,000–£180,000+", "demand": "Very High" },
+      { "role": "Mathematical Modeller", "salary": "£35,000–£75,000", "demand": "High" },
+      { "role": "Cryptographer", "salary": "£40,000–£85,000", "demand": "Growing" }
+    ],
+    "topEmployers": ["GCHQ", "CERN", "Barclays Quant", "Goldman Sachs", "AWE", "Atkins Global", "Perimeter Institute"],
+    "employerPerspective": "Mathematical physics graduates are rare and highly prized. The combination of mathematical rigour and physical insight makes them exceptional candidates for quantitative finance, cryptography and defence research — fields where most candidates have only one of the two skill sets.",
+    "entryRequirements": "Typically A*AA–AAB at A-level. Both Mathematics (usually at A*) and Physics are required. Further Mathematics strongly recommended. Some programmes (Edinburgh, Glasgow) accept Scottish Highers with Advanced Highers in Mathematics and Physics.",
+    "furtherStudy": "PhD in mathematical physics, differential geometry or quantum gravity. Part III Mathematics at Cambridge. MSc Mathematical Physics at Edinburgh or King's. Research at Perimeter Institute or CERN Theory Division.",
+    "isItForYou": [
+      "You love both pure mathematics and physics equally",
+      "You want to work on the frontiers where mathematics and physics meet",
+      "You are comfortable with proof-based mathematics from Year 1",
+      "You are considering a research career in geometry, quantum gravity or mathematical analysis",
+      "Note: Fewer universities offer this specific programme — check carefully whether your preferred university delivers it jointly between both departments"
+    ]
+  },
+  "physicsPhilosophy": {
+    "id": "physicsPhilosophy",
+    "title": "Physics and Philosophy MPhysPhil",
+    "duration": "4 years (integrated MPhysPhil or BA + MPhys)",
+    "overview": "Physics and Philosophy is one of the most intellectually distinctive undergraduate degrees available in the UK. It combines the mathematical rigour of an MPhys with the analytical depth of philosophy — tackling questions at the very foundations of knowledge: What is time? What does quantum mechanics tell us about the nature of reality? Is mathematics discovered or invented? Oxford's MPhysPhil is the flagship example, but strong programmes exist at Durham, Bristol, Manchester and Leeds.",
+    "yearByYear": [
+      { "year": 1, "focus": "Parallel Foundations", "modules": ["Classical Mechanics", "Logic and Reasoning", "Quantum Physics Introduction", "History of Philosophy", "Electromagnetism", "Philosophy of Science", "Mathematical Methods"] },
+      { "year": 2, "focus": "Deepening Both Disciplines", "modules": ["Quantum Mechanics", "Metaphysics", "Statistical Mechanics", "Philosophy of Physics", "Epistemology", "Electrodynamics", "Mind and World"] },
+      { "year": 3, "focus": "Intersection Topics", "modules": ["General Relativity", "Philosophy of Space and Time", "Quantum Mechanics Interpretations", "Ethics in Science", "Advanced Physics Options", "Philosophy Dissertation"] },
+      { "year": 4, "focus": "Research", "modules": ["Physics Research Project", "Advanced Philosophy Thesis", "Quantum Information and Philosophy", "Cosmology and Philosophy"] }
+    ],
+    "skills": ["Critical argumentation", "Mathematical physics", "Essay writing and philosophical analysis", "Scientific reasoning and epistemology", "Cross-disciplinary thinking"],
+    "professionalBodies": [
+      { "name": "Institute of Physics (IoP)", "benefit": "IoP accreditation maintained for physics component." },
+      { "name": "Mind Association", "benefit": "Access to philosophy research community and publications in philosophy of mind and physics." }
+    ],
+    "careers": [
+      { "role": "Academic Researcher (Physics or Philosophy)", "salary": "£22,000–£55,000+", "demand": "High" },
+      { "role": "Law / Barrister", "salary": "£30,000–£150,000+", "demand": "High" },
+      { "role": "Management Consultant", "salary": "£40,000–£80,000", "demand": "High" },
+      { "role": "Science Policy Advisor", "salary": "£30,000–£60,000", "demand": "Growing" },
+      { "role": "Journalist / Science Communicator", "salary": "£25,000–£50,000", "demand": "High" }
+    ],
+    "topEmployers": ["McKinsey", "Clifford Chance", "UKRI Science Policy", "BBC", "Nature/Springer", "Oxford/Cambridge academia", "Civil Service Fast Stream"],
+    "employerPerspective": "Physics and Philosophy graduates are among the most analytically versatile in the graduate market. The combination of quantitative precision and philosophical argumentation is highly attractive to law firms, management consultancies and science policy bodies. Oxford MPhysPhil graduates are disproportionately represented at McKinsey and the top law chambers.",
+    "entryRequirements": "Typically A*A*A–AAA. Oxford requires MAT plus interview. Most programmes require Mathematics and Physics at A-level; Philosophy A-level is welcome but not required. Further Mathematics strongly recommended at Oxford.",
+    "furtherStudy": "BPhil or DPhil in Philosophy of Physics at Oxford. PhD in theoretical physics. Graduate Diploma in Law (GDL) for law conversion. MSc Philosophy of Science at LSE.",
+    "isItForYou": [
+      "You want to understand physics at its deepest conceptual and philosophical level",
+      "You enjoy both rigorous mathematical argument and philosophical essay writing",
+      "You are interested in what quantum mechanics really means — not just how to calculate with it",
+      "You want a degree that is genuinely unusual and intellectually distinctive",
+      "Note: You will study substantially less experimental physics than on a pure MPhys; this degree leads less naturally to an experimental physics career"
+    ]
+  },
+  "spaceScience": {
+    "id": "spaceScience",
+    "title": "Space Science and Astronomy MPhys",
+    "duration": "3 years (BSc) or 4 years (MPhys)",
+    "overview": "Space Science and Astronomy degrees focus on observational and experimental aspects of the universe — from exoplanet detection to gravitational wave astronomy, from space instrumentation to planetary science. The UK is a world leader in space science: Leicester built X-ray instruments on dozens of missions; UCL's Mullard Space Science Laboratory leads ESA collaborations; and Cardiff, Glasgow and Birmingham operate the UK's LIGO gravitational wave detectors.",
+    "yearByYear": [
+      { "year": 1, "focus": "Physics and Astronomy Fundamentals", "modules": ["Stellar Physics", "Observational Astronomy", "Orbital Mechanics", "Electromagnetic Spectrum", "Mathematical Methods", "Laboratory Skills"] },
+      { "year": 2, "focus": "Space Science Techniques", "modules": ["Space Instrumentation", "Remote Sensing", "Galactic Astronomy", "Planetary Science", "Data Analysis for Astronomy", "Detector Physics"] },
+      { "year": 3, "focus": "Advanced Space Science", "modules": ["Gravitational Wave Astronomy", "High-Energy Astrophysics", "Cosmology", "Space Mission Design", "Observational Project", "Astrobiology"] },
+      { "year": 4, "focus": "MPhys Research", "modules": ["Extended Research Project", "Advanced Instrumentation", "Future Space Missions", "Exoplanet Characterisation"] }
+    ],
+    "skills": ["Space instrumentation and detector physics", "Data reduction and Python programming", "Remote sensing and satellite data analysis", "Scientific writing", "Project management for space missions"],
+    "professionalBodies": [
+      { "name": "Royal Astronomical Society (RAS)", "benefit": "Free student membership; access to journals, careers support and the RAS National Astronomy Meeting." },
+      { "name": "Institute of Physics (IoP)", "benefit": "IoP accreditation and professional network." }
+    ],
+    "careers": [
+      { "role": "Space Scientist / ESA", "salary": "£30,000–£70,000", "demand": "Growing" },
+      { "role": "Satellite Systems Engineer", "salary": "£35,000–£70,000", "demand": "Growing" },
+      { "role": "Research Astrophysicist", "salary": "£19,000–£50,000+", "demand": "High" },
+      { "role": "Data Scientist", "salary": "£40,000–£80,000+", "demand": "Very High" },
+      { "role": "Science Communicator", "salary": "£25,000–£45,000", "demand": "High" }
+    ],
+    "topEmployers": ["ESA", "STFC", "Airbus Defence & Space", "Reaction Engines", "BAE Systems", "UKSA", "BBC Science", "Leonardo MW", "RAL Space"],
+    "employerPerspective": "The UK space sector is growing rapidly — UKSA, Airbus Stevenage and Reaction Engines are all expanding. Space science graduates with programming, instrumentation and data skills are increasingly in demand. Leicester and UCL graduates are disproportionately hired into ESA and satellite companies.",
+    "entryRequirements": "Typically A*AA–BCC at A-level depending on university. Mathematics and Physics always required. Accessible routes exist at Keele, Hertfordshire and Kent. Top programmes (UCL, Durham) require A*AA.",
+    "furtherStudy": "PhD in astrophysics, space science, planetary science or gravitational wave physics. MSc Space Engineering or MSc Data Science. STFC-funded PhD studentships widely available.",
+    "isItForYou": [
+      "You are passionate about space exploration, telescopes and astronomical discovery",
+      "You want to combine physics with real mission engineering and observation",
+      "You are attracted to the growing commercial and public sector space industry",
+      "You enjoy both data analysis and the physics underlying it",
+      "Note: Space science has fewer university options than physics; the job market in academic astrophysics is competitive — strong programming skills open many more doors"
+    ]
+  },
+  "computationalPhysics": {
+    "id": "computationalPhysics",
+    "title": "Computational Physics / Physics with Data Science MPhys",
+    "duration": "3 years (BSc) or 4 years (MPhys)",
+    "overview": "Computational Physics and Physics with Data Science degrees prepare students to use programming, machine learning and numerical simulation as core scientific tools. They combine the rigour of a physics degree with software engineering and data science skills that are in exceptional demand in tech, finance and scientific research. This is one of the most career-versatile physics routes available.",
+    "yearByYear": [
+      { "year": 1, "focus": "Physics and Programming Foundations", "modules": ["Classical Mechanics", "Python Programming", "Scientific Computation", "Electromagnetism", "Quantum Physics Introduction", "Numerical Methods I"] },
+      { "year": 2, "focus": "Computational Methods for Physics", "modules": ["Numerical Methods II", "Monte Carlo Simulation", "Machine Learning for Science", "Quantum Mechanics", "Statistical Physics", "Data Visualisation"] },
+      { "year": 3, "focus": "Applied Computational Physics", "modules": ["High Performance Computing", "Molecular Dynamics Simulation", "Deep Learning for Physics", "Computational Quantum Mechanics", "Research Project"] },
+      { "year": 4, "focus": "MPhys Advanced Computation", "modules": ["Extended Computational Research Project", "Quantum Computing Algorithms", "Large-Scale Scientific Simulation", "Advanced Machine Learning"] }
+    ],
+    "skills": ["Python and C++ programming", "Machine learning and neural networks", "HPC and parallel computing", "Data engineering and analysis", "Scientific simulation and modelling", "Quantum computing fundamentals"],
+    "professionalBodies": [
+      { "name": "Institute of Physics (IoP)", "benefit": "IoP accreditation for Chartered Physicist; Computing in Physics group provides specialist networking." }
+    ],
+    "careers": [
+      { "role": "Data Scientist / ML Engineer", "salary": "£45,000–£100,000+", "demand": "Very High" },
+      { "role": "Quantitative Analyst", "salary": "£65,000–£160,000+", "demand": "Very High" },
+      { "role": "Scientific Software Engineer", "salary": "£40,000–£80,000", "demand": "Very High" },
+      { "role": "Research Scientist (Industry)", "salary": "£45,000–£90,000", "demand": "High" },
+      { "role": "Quantum Computing Researcher", "salary": "£50,000–£120,000", "demand": "Growing" }
+    ],
+    "topEmployers": ["Google DeepMind", "Palantir", "Jane Street", "NVIDIA", "ARM", "Microsoft Research", "CERN", "NHS AI Lab", "Rolls-Royce Digital"],
+    "employerPerspective": "Physics with strong coding is the ideal background for machine learning research and quantitative roles. Google, NVIDIA and Palantir actively target computational physics graduates. The combination of physical intuition, mathematical rigour and programming ability is rare and extremely well-compensated.",
+    "entryRequirements": "Typically A*AA–AAB at A-level. Mathematics and Physics required. Computing A-level is welcomed but not required — programming is taught from scratch. Bath and Exeter have slightly lower typical offers (AAB) than Edinburgh and Warwick (A*AA).",
+    "furtherStudy": "PhD in computational physics, machine learning for science or quantum computing. MSc in Data Science, AI or Scientific Computing. Industry-sponsored PhDs at NVIDIA, ARM and Microsoft Research.",
+    "isItForYou": [
+      "You want a physics degree that also builds marketable software engineering skills",
+      "You enjoy programming and see it as a powerful tool for solving physical problems",
+      "You want strong career options in tech, finance or scientific research equally",
+      "You are interested in quantum computing, machine learning or simulation",
+      "Note: This degree involves more programming and less wet lab work than standard physics — ideal if lab sessions are not your strength"
+    ]
+  },
+  "medicalPhysics": {
+    "id": "medicalPhysics",
+    "title": "Medical Physics MPhys",
+    "duration": "3 years (BSc) or 4 years (MPhys)",
+    "overview": "Medical Physics applies the principles of physics to healthcare — from MRI and CT scanning to radiotherapy for cancer, nuclear medicine and ultrasound. The UK NHS employs around 10,000 medical physicists and the career pathway is well-defined via the IPEM (Institute of Physics and Engineering in Medicine). Surrey runs the longest-established medical physics degree in the UK; Nottingham is home to the MRI inventor's centre.",
+    "yearByYear": [
+      { "year": 1, "focus": "Physics and Biology Foundations", "modules": ["Classical Physics", "Radiation Physics", "Human Anatomy and Physiology", "Mathematics for Medical Physics", "Electromagnetism", "Laboratory Skills"] },
+      { "year": 2, "focus": "Medical Imaging and Radiation", "modules": ["Diagnostic Radiology Physics", "Nuclear Medicine", "Ultrasound Physics", "Radiation Dosimetry", "Quantum Mechanics", "Clinical Placement I"] },
+      { "year": 3, "focus": "Clinical Applications", "modules": ["Radiotherapy Physics", "MRI Physics", "Radiation Protection", "Medical Instrumentation", "Clinical Placement II", "Research Project"] },
+      { "year": 4, "focus": "MPhys Advanced Clinical", "modules": ["Extended Research Project", "Advanced Imaging", "Proton Therapy Physics", "Novel Therapies", "NHS Clinical Pathway Preparation"] }
+    ],
+    "skills": ["Medical imaging physics", "Radiation protection and safety", "Clinical instrumentation", "Patient-facing communication", "Data analysis in a clinical context", "Regulatory compliance"],
+    "professionalBodies": [
+      { "name": "Institute of Physics and Engineering in Medicine (IPEM)", "benefit": "Accredited degrees lead to IPEM affiliate membership and are required for the NHS Medical Physics Training Scheme entry." },
+      { "name": "Institute of Physics (IoP)", "benefit": "IoP accreditation for Chartered Physicist." }
+    ],
+    "careers": [
+      { "role": "Medical Physicist (NHS Band 7–8)", "salary": "£28,000–£52,000", "demand": "High" },
+      { "role": "Clinical Scientist (Radiotherapy)", "salary": "£30,000–£55,000", "demand": "High" },
+      { "role": "Medical Imaging R&D Engineer", "salary": "£35,000–£70,000", "demand": "Growing" },
+      { "role": "Radiation Protection Adviser", "salary": "£35,000–£65,000", "demand": "High" },
+      { "role": "Medical Devices Researcher", "salary": "£35,000–£70,000", "demand": "Growing" }
+    ],
+    "topEmployers": ["NHS England", "PHE (Public Health England)", "Siemens Healthineers", "GE Healthcare", "Philips Healthcare", "Varian Medical Systems", "AWE", "Cancer Research UK"],
+    "employerPerspective": "The NHS Medical Physics Training Scheme offers a structured, salaried, postgraduate clinical training pathway leading to IPEM Membership and Clinical Scientist registration. It is competitive but medical physics graduates from accredited programmes have a clear route to a valued, well-paid NHS career with good job security.",
+    "entryRequirements": "Typically A*AA–AAB at A-level. Physics and Mathematics required; Biology or Chemistry often recommended. IPEM-accredited degrees are listed on the IPEM website. Clinical placement experience in NHS hospitals is highly valued by all programmes.",
+    "furtherStudy": "NHS Medical Physics Training Scheme (postgraduate clinical training). MSc Medical Physics at Leeds, UCL or King's. PhD in medical imaging, radiotherapy physics or medical devices.",
+    "isItForYou": [
+      "You want to apply physics in a healthcare context and make a direct difference to patients",
+      "You are interested in MRI, radiotherapy, nuclear medicine or imaging technology",
+      "You want a structured NHS career pathway after graduation",
+      "You are comfortable in a clinical hospital environment",
+      "Note: Medical Physics is more vocationally focused than standard physics — fewer routes into quantitative finance, tech or academic research"
+    ]
+  },
+  "geophysics": {
+    "id": "geophysics",
+    "title": "Geophysics MPhys",
+    "duration": "3 years (BSc) or 4 years (MPhys)",
+    "overview": "Geophysics applies the methods of physics to study the Earth and other planets: seismic wave propagation, the Earth's magnetic field, plate tectonics, volcanic processes, and subsurface imaging. UK geophysics departments have strong industry links to oil, gas, mining and renewable energy. Edinburgh and Southampton have major geophysical research groups; Leeds is closely linked to the oil exploration sector; Bristol has one of the UK's top volcanology groups.",
+    "yearByYear": [
+      { "year": 1, "focus": "Physics and Earth Science Foundations", "modules": ["Classical Mechanics", "Seismology Introduction", "Electromagnetism", "Geology and Earth Structure", "Mathematical Methods", "Field Skills"] },
+      { "year": 2, "focus": "Geophysical Methods", "modules": ["Seismic Survey Methods", "Geomagnetism", "Gravity and Geodesy", "Electromagnetic Geophysics", "Computational Geophysics", "Plate Tectonics"] },
+      { "year": 3, "focus": "Applied and Research Geophysics", "modules": ["Seismic Inversion", "Exploration Geophysics", "Climate Geophysics", "Volcanology", "Research Project", "Industry Field School"] },
+      { "year": 4, "focus": "MPhys Research", "modules": ["Extended Research Project", "Advanced Seismic Methods", "Near-Surface Geophysics", "Geodynamics"] }
+    ],
+    "skills": ["Seismic data acquisition and processing", "Geophysical inversion methods", "Fieldwork and remote sensing", "Programming (MATLAB, Python, Fortran)", "Data interpretation", "Mathematical modelling of the Earth"],
+    "professionalBodies": [
+      { "name": "Geological Society of London", "benefit": "Chartered Geologist (CGeol) route; Fellowship available to graduates with industry experience." },
+      { "name": "Society of Exploration Geophysicists (SEG)", "benefit": "Student membership available; access to the world's largest geophysics conference and industry network." },
+      { "name": "Institute of Physics (IoP)", "benefit": "IoP accreditation for physics component." }
+    ],
+    "careers": [
+      { "role": "Exploration Geophysicist (Oil & Gas)", "salary": "£40,000–£90,000+", "demand": "High" },
+      { "role": "Environmental Geophysicist", "salary": "£30,000–£60,000", "demand": "Growing" },
+      { "role": "Earthquake / Seismologist", "salary": "£28,000–£55,000", "demand": "High" },
+      { "role": "Renewable Energy Site Analyst", "salary": "£30,000–£55,000", "demand": "Growing" },
+      { "role": "Mining Geophysicist", "salary": "£35,000–£75,000", "demand": "High" }
+    ],
+    "topEmployers": ["Shell", "BP", "Schlumberger", "CGG", "BGS (British Geological Survey)", "WesternGeco", "NERC", "Atkins Global", "RWE Renewables"],
+    "employerPerspective": "Geophysics graduates with seismic processing skills are highly sought after by energy companies. While the oil sector remains a major employer, the transition to renewable energy is opening new roles in wind and tidal energy site assessment and carbon capture geology.",
+    "entryRequirements": "Typically A*AA–AAB at A-level. Physics and Mathematics required at all programmes. Geology or Geography at A-level is welcome but not required — Earth science is taught from scratch. Leeds and Durham have the strongest oil sector placement records.",
+    "furtherStudy": "PhD in geophysics, seismology, volcanology or climate science. MSc Applied Geophysics (widely available). NERC-funded PhD studentships and Shell/BP-funded scholarships widely available.",
+    "isItForYou": [
+      "You want to apply physics to real-world problems involving the Earth and energy",
+      "You enjoy fieldwork outdoors as well as computational modelling",
+      "You want strong links to the energy industry from your degree",
+      "You are interested in climate change, natural hazards or resource exploration",
+      "Note: Oil industry recruitment is strong but cyclical; climate and renewable energy is the fastest-growing employer sector for geophysicists"
+    ]
+  },
+  "physicsIndustry": {
+    "id": "physicsIndustry",
+    "title": "Physics with Year in Industry MPhys",
+    "duration": "4 years (MPhys with integrated placement) or 5 years at Surrey",
+    "overview": "Physics with Year in Industry combines a rigorous 4-year MPhys with a paid placement year at a UK or international employer in engineering, defence, energy, technology or research. Bath, Surrey, Warwick and Southampton have the strongest placement networks. Graduates consistently earn higher starting salaries than standard physics graduates and have a lower unemployment rate. The placement year is typically completed between Years 2 and 3 or Years 3 and 4.",
+    "yearByYear": [
+      { "year": 1, "focus": "Physics Foundations", "modules": ["Classical Mechanics", "Quantum Physics Introduction", "Electromagnetism", "Mathematical Methods", "Laboratory Skills", "Thermodynamics"] },
+      { "year": 2, "focus": "Core Physics", "modules": ["Quantum Mechanics", "Statistical Mechanics", "Electrodynamics", "Computational Physics", "Advanced Laboratory", "Placement Preparation"] },
+      { "year": "Industry", "focus": "Industry Placement (12 months)", "modules": ["Paid employment at partner company", "Technical project work", "Professional skills development", "Placement report and assessment"] },
+      { "year": 3, "focus": "Advanced Physics (post-placement)", "modules": ["Advanced Topics with industry context", "Specialist options", "Industry-linked dissertation options"] },
+      { "year": 4, "focus": "MPhys Research", "modules": ["Extended Research Project (often industry-linked)", "Advanced Physics Electives"] }
+    ],
+    "skills": ["All standard physics MPhys skills PLUS", "Professional workplace skills", "Project management", "Technical report writing for non-scientists", "Commercial awareness", "Networking and client communication"],
+    "professionalBodies": [
+      { "name": "Institute of Physics (IoP)", "benefit": "IoP accreditation with additional recognition for the professional experience component." }
+    ],
+    "careers": [
+      { "role": "R&D Engineer (aerospace/defence)", "salary": "£32,000–£65,000", "demand": "High" },
+      { "role": "Photonics / Optics Engineer", "salary": "£35,000–£70,000", "demand": "Growing" },
+      { "role": "Data Scientist / ML Engineer", "salary": "£45,000–£90,000+", "demand": "Very High" },
+      { "role": "Nuclear / Energy Engineer", "salary": "£35,000–£70,000", "demand": "High" },
+      { "role": "Quantitative Analyst", "salary": "£60,000–£150,000+", "demand": "High" }
+    ],
+    "topEmployers": ["Rolls-Royce", "BAE Systems", "Leonardo", "Dyson", "National Physical Laboratory", "AWE", "AstraZeneca", "UKAEA Culham", "Goldman Sachs", "ARM"],
+    "employerPerspective": "Physics placement graduates are measurably preferred by engineering and tech employers who want graduates who already understand how a professional workplace functions. Bath and Surrey placement graduates typically start at 15–20% higher salaries than non-placement physics graduates. Rolls-Royce, BAE and Dyson regularly convert placement students to permanent roles.",
+    "entryRequirements": "Typically A*AA–ABB at A-level. Same entry requirements as standard Physics MPhys — the placement year does not lower or raise academic requirements. Mathematics and Physics A-levels required. Strong numeracy and communication skills assessed at placement interviews.",
+    "furtherStudy": "Many graduates use their placement employer contact to secure a sponsored PhD or funded research role directly. Graduate schemes at Rolls-Royce, BAE and Leonardo are the most common destination. MSc or PhD for those wishing to return to academia.",
+    "isItForYou": [
+      "You want the rigour of a physics degree combined with real-world industrial experience",
+      "You want to explore whether you prefer industry or research before committing to a PhD",
+      "You want to start earning earlier and build your professional CV before graduation",
+      "Bath and Surrey are particularly strong for this route — consider them above their overall ranking",
+      "Note: The placement year requires you to secure a position (with university support) and adds one year to the degree duration"
+    ]
+  }
+}

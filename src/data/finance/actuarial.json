@@ -12,7 +12,8 @@
     "applicationCode": "NG31",
     "sourceUrl": "https://digital.ucas.com/explore/courses/0dc2d1d7-200e-2a12-da44-14b7ba9d7798/actuarial-science-and-mathematics?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-manchester"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-manchester",
+    "ibGrades": "6"
   },
   {
     "name": "University of Leeds",
@@ -27,7 +28,8 @@
     "applicationCode": "NG31",
     "sourceUrl": "https://digital.ucas.com/explore/courses/5e548630-1f31-4b27-9418-52728fbf969d/actuarial-mathematics?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-leeds"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-leeds",
+    "ibGrades": "6"
   },
   {
     "name": "University of Liverpool",
@@ -42,7 +44,8 @@
     "applicationCode": "NG31",
     "sourceUrl": "https://digital.ucas.com/explore/courses/df95839e-e7ca-81c2-e714-6c6faa15c021/actuarial-mathematics?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-liverpool"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-liverpool",
+    "ibGrades": "6"
   },
   {
     "name": "University of Leicester",
@@ -57,7 +60,8 @@
     "applicationCode": "GN1G",
     "sourceUrl": "https://digital.ucas.com/explore/courses/e00d0041-1ffb-46e9-b98c-897182e482d9/mathematics-and-actuarial-science?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-leicester"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-leicester",
+    "ibGrades": "6"
   },
   {
     "name": "University of Southampton",
@@ -72,7 +76,8 @@
     "applicationCode": "L1N3",
     "sourceUrl": "https://digital.ucas.com/explore/courses/ac3c0d4a-7f02-e066-bd4b-2b0de1524447/economics-and-actuarial-science?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-southampton"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-southampton",
+    "ibGrades": "6"
   },
   {
     "name": "University of York",
@@ -87,7 +92,8 @@
     "applicationCode": "NG31",
     "sourceUrl": "https://digital.ucas.com/explore/courses/28d9392a-3e3c-9233-2b75-3db4dcb603c8/actuarial-science?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-york"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-york",
+    "ibGrades": "6"
   },
   {
     "name": "University of Kent",
@@ -102,7 +108,8 @@
     "applicationCode": "N323",
     "sourceUrl": "https://digital.ucas.com/explore/courses/dfc76e6a-5025-87a7-9306-b75b58f681a5/actuarial-science?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-kent"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-kent",
+    "ibGrades": "6"
   },
   {
     "name": "University of Edinburgh",
@@ -117,7 +124,8 @@
     "applicationCode": "GN13",
     "sourceUrl": "https://digital.ucas.com/explore/courses/0d18e74f-08ff-6693-b99c-ff58a4bec679/actuarial-mathematics-and-statistics?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/the-university-of-edinburgh"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/the-university-of-edinburgh",
+    "ibGrades": "6"
   },
   {
     "name": "University of Glasgow",
@@ -132,7 +140,8 @@
     "applicationCode": "NG31",
     "sourceUrl": "https://digital.ucas.com/explore/courses/actuarial-mathematics-glasgow?studyYear=2026",
     "matchType": "close",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-glasgow"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-glasgow",
+    "ibGrades": "6"
   },
   {
     "name": "King's College London",
@@ -147,6 +156,7 @@
     "applicationCode": "GN13",
     "sourceUrl": "https://digital.ucas.com/explore/courses/mathematics-actuarial-kcl?studyYear=2026",
     "matchType": "close",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/king-s-college-london"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/king-s-college-london",
+    "ibGrades": "6"
   }
 ]

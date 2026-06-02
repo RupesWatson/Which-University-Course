@@ -1,9 +1,10 @@
-function avgGrade(universities) {
+function avgGrade(universities, gradeType = 'aLevel') {
   if (!universities.length) return '-';
 
+  const gradeKey = gradeType === 'ib' ? 'ibGrades' : 'entryGrades';
   const counts = {};
   universities.forEach(university => {
-    const grade = (university.entryGrades || university.aLevelGrades || '').replace(/[*]/g, '').split(' ')[0].trim();
+    const grade = (university[gradeKey] || '').replace(/[*]/g, '').split(' ')[0].trim();
     if (grade) counts[grade] = (counts[grade] || 0) + 1;
   });
 
@@ -38,11 +39,11 @@ function topProspects(universities) {
   return `${top.gradProspects} - ${top.name.replace('University of ', '').replace(' University', '')}`;
 }
 
-export default function StatsBar({ universities, course }) {
+export default function StatsBar({ universities, course, gradeType = 'aLevel' }) {
   const positionLabel = course?.rankingScope === 'official' ? `Top ${course?.rankLabel || 'Rank'}` : 'Top Table Position';
   const stats = [
     { label: 'Verified Matches', value: universities.length },
-    { label: 'Most Common Entry', value: avgGrade(universities) },
+    { label: 'Most Common Entry', value: avgGrade(universities, gradeType) },
     { label: positionLabel, value: topRank(universities) },
     { label: 'Highest Grad Prospects', value: topProspects(universities) },
   ];

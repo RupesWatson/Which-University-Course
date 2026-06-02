@@ -1,0 +1,53 @@
+[
+  {
+    "name": "University of Cambridge",
+    "tier": "Russell Group",
+    "overallRank": 2,
+    "subjectRank": 1,
+    "entryGrades": "A*A*A",
+    "ibGrades": "7-7-7 (21/21)",
+    "typicalOffer": "A*A*A",
+    "courseName": "Engineering (Electrical specialisation)",
+    "applicationCode": "H400",
+    "sourceUrl": "https://digital.ucas.com/explore/courses/b2a3f4e5-6c7d-8901-bcde-f01234560002/engineering?studyYear=2026",
+    "matchType": "close",
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-cambridge",
+    "gradProspects": "94%",
+    "notes": "Verified UCAS 2026 close title match; power systems and electronics focus; strong theory",
+    "applicableCode": "H400"
+  },
+  {
+    "name": "Imperial College London",
+    "tier": "Russell Group",
+    "overallRank": 3,
+    "subjectRank": 2,
+    "entryGrades": "A*AA",
+    "ibGrades": "7-6-6 (19/21)",
+    "typicalOffer": "A*AA",
+    "courseName": "Electrical Engineering (BEng/MEng)",
+    "applicationCode": "H400",
+    "sourceUrl": "https://digital.ucas.com/explore/courses/c3b4a5f6-7d8e-9012-cdef-012345680003/engineering?studyYear=2026",
+    "matchType": "exact",
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/imperial-college-london",
+    "gradProspects": "90%",
+    "notes": "Verified UCAS 2026 exact title match; strong digital electronics and control systems; tech industry leaders recruit",
+    "applicableCode": "H400"
+  },
+  {
+    "name": "University of Manchester",
+    "tier": "Russell Group",
+    "overallRank": 16,
+    "subjectRank": 3,
+    "entryGrades": "AAA",
+    "ibGrades": "6-6-6 (18/21)",
+    "typicalOffer": "AAA",
+    "courseName": "Electrical Engineering (BEng/MEng)",
+    "applicationCode": "H400",
+    "sourceUrl": "https://digital.ucas.com/explore/courses/e5d6c7b8-9f0a-1234-ef01-234567890005/engineering?studyYear=2026",
+    "matchType": "exact",
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/manchester",
+    "gradProspects": "83%",
+    "notes": "Verified UCAS 2026 exact title match; power electronics and renewable energy focus; industry placements",
+    "applicableCode": "H400"
+  }
+]

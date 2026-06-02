@@ -2,10 +2,10 @@
   "version": "0.0.1",
   "configurations": [
     {
-      "name": "biochemistry-courses",
+      "name": "which-university-course",
       "runtimeExecutable": "npm",
       "runtimeArgs": ["run", "dev"],
-      "cwd": "C:\\Users\\rwatk\\Claude Code Projects\\Biochemistry-Courses",
+      "cwd": "C:\\Users\\rwatk\\Claude Code Projects\\Which-University-Course",
       "port": 5173
     }
   ]

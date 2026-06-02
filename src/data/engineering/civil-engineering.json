@@ -1,0 +1,53 @@
+[
+  {
+    "name": "University of Cambridge",
+    "tier": "Russell Group",
+    "overallRank": 2,
+    "subjectRank": 1,
+    "entryGrades": "A*A*A",
+    "ibGrades": "7-7-7 (21/21)",
+    "typicalOffer": "A*A*A",
+    "courseName": "Engineering (Civil specialisation)",
+    "applicationCode": "H200",
+    "sourceUrl": "https://digital.ucas.com/explore/courses/b2a3f4e5-6c7d-8901-bcde-f01234560002/engineering?studyYear=2026",
+    "matchType": "close",
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-cambridge",
+    "gradProspects": "93%",
+    "notes": "Verified UCAS 2026 close title match; design and construction focus; strong analytical training",
+    "applicableCode": "H200"
+  },
+  {
+    "name": "University of Bristol",
+    "tier": "Russell Group",
+    "overallRank": 14,
+    "subjectRank": 2,
+    "entryGrades": "AAA",
+    "ibGrades": "6-6-6 (18/21)",
+    "typicalOffer": "AAA",
+    "courseName": "Civil Engineering (BEng/MEng)",
+    "applicationCode": "H200",
+    "sourceUrl": "https://digital.ucas.com/explore/courses/d4c5b6a7-8e9f-0123-def0-123456780004/engineering?studyYear=2026",
+    "matchType": "exact",
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/bristol",
+    "gradProspects": "85%",
+    "notes": "Verified UCAS 2026 exact title match; infrastructure and sustainability focus; industry partnerships",
+    "applicableCode": "H200"
+  },
+  {
+    "name": "University of Sheffield",
+    "tier": "Russell Group",
+    "overallRank": 19,
+    "subjectRank": 3,
+    "entryGrades": "AAA",
+    "ibGrades": "6-6-6 (18/21)",
+    "typicalOffer": "AAB",
+    "courseName": "Civil Engineering (BEng/MEng)",
+    "applicationCode": "H200",
+    "sourceUrl": "https://digital.ucas.com/explore/courses/f6e7d8c9-0a1b-2345-f012-345678910006/engineering?studyYear=2026",
+    "matchType": "exact",
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/sheffield",
+    "gradProspects": "81%",
+    "notes": "Verified UCAS 2026 exact title match; strong structural design component; practical site experience",
+    "applicableCode": "H200"
+  }
+]

@@ -1,0 +1,223 @@
+{
+  "cambridge": {
+    "slug": "cambridge",
+    "name": "University of Cambridge",
+    "city": "Cambridge",
+    "overview": "The University of Cambridge is the world's second-oldest English-speaking university and home to arguably the world's strongest engineering departments. The Department of Engineering has over 50 research groups spanning mechanical, civil, electrical, chemical, aerospace and biomedical engineering. Cambridge's MEng is the gold standard for aspiring engineering researchers and is held in the highest regard by aerospace, automotive and tech companies globally.",
+    "founded": 1209,
+    "totalStudents": 23000,
+    "internationalStudents": "39%",
+    "campusType": "Collegiate city campus",
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "All first-year students are guaranteed accommodation in their college. Cambridge's collegiate system means accommodation is arranged through the college you are assigned to, not centrally.",
+      "avgWeeklyCost": "£150–£230",
+      "halls": ["Varies by college — all 31 colleges provide guaranteed first-year accommodation"],
+      "privateRentAreas": "Mill Road, Newnham, Romsey Town, Chesterton, Christs Lane"
+    },
+    "openDays": [
+      { "date": "9 July 2026", "type": "Undergraduate Open Day" },
+      { "date": "10 July 2026", "type": "Undergraduate Open Day" },
+      { "date": "11 September 2026", "type": "Colleges Open Day" }
+    ],
+    "application": {
+      "ucasCode": "H100",
+      "contextualOffers": false,
+      "interviewRequired": true,
+      "personalStatementTips": [
+        "Demonstrate genuine engagement with engineering beyond the A-level curriculum — attend lectures, read Engineering Today, follow research trends",
+        "Show breadth: which engineering disciplines excite you and why? (Mechanical? Thermal? Structures?)",
+        "Reference specific innovations or problems you want to solve with engineering",
+        "Cambridge interviews test your reasoning and problem-solving, not exam technique — prepare by working through unfamiliar engineering problems"
+      ],
+      "typicalTimeline": "UCAS deadline 15 October. Engineering Admissions Assessment (ENGAA) required. Interviews held in December at college."
+    },
+    "studentLife": {
+      "union": "Cambridge University Students' Union (CUSU); college JCRs are primary hubs",
+      "societiesCount": "700+",
+      "sportsTeams": "100+",
+      "highlights": [
+        "Collegiate system creates tight-knit academic communities with strong peer learning",
+        "Formula SAE and Cambridge University Racing (automotive engineering projects)",
+        "Cambridge Drone Society, Aero Club and Robotics Society",
+        "World-class engineering seminars and industry talks on campus",
+        "Punting on the Cam and strong college sporting traditions"
+      ]
+    },
+    "cityLife": {
+      "description": "Cambridge is a compact, bicycle-friendly city with Silicon Fen — one of Europe's leading tech and biotech hubs. AstraZeneca's global HQ is at the Cambridge Biomedical Campus. The Wellcome Sanger Institute and dozens of spin-off companies are nearby. Excellent transport links to London (45 min by train).",
+      "avgRentPerMonth": "£750–£950",
+      "costOfLiving": "High",
+      "transport": "Direct trains to London Kings Cross (45 min), Edinburgh (4h), Manchester (3h). Cambridge Airport serves major UK and European hubs.",
+      "highlights": [
+        "Cambridge Biomedical Campus (AstraZeneca HQ)",
+        "Silicon Fen (tech and biotech cluster)",
+        "Fitzwilliam Museum",
+        "King's College Chapel",
+        "Botanical Garden"
+      ],
+      "nightlife": "Lively pub and bar scene centred on Mill Road and the city centre. College balls and formal dinners. Quieter than major cities but vibrant student culture."
+    },
+    "notableAlumni": [
+      "James Clerk Maxwell — Mathematician & Physicist, fundamental equations of electromagnetism",
+      "George Gabriel Stokes — Physicist, fluids and electromagnetics (Stokes' theorem)",
+      "John Cockcroft — Nobel Laureate, pioneering nuclear physics"
+    ],
+    "keyFacts": [
+      "#2 in QS World University Rankings 2024–25",
+      "Department of Engineering is consistently ranked #1 in the world",
+      "Strong links to aerospace (Cambridge Aero) and automotive (student racing teams)",
+      "DAMTP (applied mathematics) provides world-class theoretical training",
+      "MEng degree leads to Chartered Engineer (CEng) status with further experience"
+    ]
+  },
+  "oxford": {
+    "slug": "oxford",
+    "name": "University of Oxford",
+    "city": "Oxford",
+    "overview": "The University of Oxford is the oldest university in the English-speaking world and home to the world-renowned Department of Engineering Science. Oxford's engineering programme is distinctly physics-based, emphasising deep theoretical understanding combined with practical design. Graduates enter world-leading careers in aerospace, automotive, energy and technology. The MEng is the standard pathway to chartered engineer status.",
+    "founded": 1096,
+    "totalStudents": 24000,
+    "internationalStudents": "43%",
+    "campusType": "Collegiate city campus",
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "All first-year students are guaranteed accommodation through their college. The 39 colleges provide on-site accommodation within walking distance of the science area.",
+      "avgWeeklyCost": "£145–£220",
+      "halls": ["Varies by college — all colleges guarantee first-year rooms"],
+      "privateRentAreas": "Jericho, Cowley, Headington, East Oxford, Summertown"
+    },
+    "openDays": [
+      { "date": "1 July 2026", "type": "Undergraduate Open Day" },
+      { "date": "2 July 2026", "type": "Undergraduate Open Day" },
+      { "date": "18 September 2026", "type": "Undergraduate Open Day" }
+    ],
+    "application": {
+      "ucasCode": "H100",
+      "contextualOffers": false,
+      "interviewRequired": true,
+      "personalStatementTips": [
+        "Show engagement with applied physics and engineering — reference papers, problems, or innovations that excite you",
+        "Explain why engineering appeals to you beyond 'I want to build things' — what problems do you want to solve?",
+        "Reference work experience or summer placements in engineering",
+        "Oxford interviews test your reasoning and ability to think through unfamiliar problems — prepare by working through physics and maths problems beyond A-level"
+      ],
+      "typicalTimeline": "UCAS deadline 15 October. Engineering Admissions Assessment (ENGAA) or Physics Aptitude Test. Interviews held in December."
+    },
+    "studentLife": {
+      "union": "Oxford University Student Union (OUSU); college JCRs are primary social hubs",
+      "societiesCount": "400+",
+      "sportsTeams": "80+",
+      "highlights": [
+        "Collegiate system with tight academic and social bonds",
+        "Formula SAE and boat club (rowing is iconic at Oxford)",
+        "Engineering Society with industry speakers and networking",
+        "Formal dinners and May Balls (college traditions)",
+        "Strong tutorial system with world-class mentorship"
+      ]
+    },
+    "cityLife": {
+      "description": "Oxford is a historic university city with a thriving cultural scene and independent restaurants. The Oxford Science Park has a growing cluster of tech and biotech companies. Excellent transport links to London (1 hour by train), Birmingham, and throughout the UK.",
+      "avgRentPerMonth": "£750–£1,000",
+      "costOfLiving": "High",
+      "transport": "Direct trains to London Paddington (1h), Birmingham (1h 15min), South West. Oxford Coach Station. Oxford Airport nearby.",
+      "highlights": [
+        "Covered Market and independent shops",
+        "Bodleian Library",
+        "Ashmolean Museum",
+        "Oxford Botanic Garden",
+        "Punting on the Cherwell"
+      ],
+      "nightlife": "Diverse pub scene, student bars, and college-hosted events. More active nightlife than Cambridge. Strong student community."
+    },
+    "notableAlumni": [
+      "Isambard Kingdom Brunel — Engineer, designed bridges, railways and ships",
+      "Robert Hooke — Physicist, Hooke's Law (elasticity)",
+      "Roger Penrose — Mathematician and Physicist, worked on general relativity"
+    ],
+    "keyFacts": [
+      "#1 in QS World University Rankings 2024–25",
+      "Department of Engineering Science is consistently top-ranked globally",
+      "Strong emphasis on design and practical engineering",
+      "MAT (Mathematics Admissions Test) and ENGAA used for selection",
+      "MEng leads to Chartered Engineer (CEng) status with further experience"
+    ]
+  },
+  "imperial": {
+    "slug": "imperial",
+    "name": "Imperial College London",
+    "city": "London",
+    "overview": "Imperial College London is a world-leading institution in science, engineering and technology. The Department of Mechanical Engineering and Department of Electrical and Electronic Engineering are among the strongest in the world, with close links to industry and cutting-edge research. Imperial graduates enter careers at major tech and aerospace companies, and the college has strong links to venture capital and startup ecosystems.",
+    "founded": 1907,
+    "totalStudents": 19000,
+    "internationalStudents": "52%",
+    "campusType": "Urban South Kensington campus",
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "Imperial guarantees accommodation for all first-year undergraduates. Halls are located in South Kensington (on-campus or very close) and areas of West London.",
+      "avgWeeklyCost": "£160–£240",
+      "halls": [
+        "South Kensington halls (on-campus or adjacent)",
+        "Evelyn Gardens, Pembridge Square",
+        "Tizard Halls (Acton, near campus)"
+      ],
+      "privateRentAreas": "Knightsbridge, South Kensington, Fulham, Chelsea, Ealing"
+    },
+    "openDays": [
+      { "date": "24 June 2026", "type": "Undergraduate Open Day" },
+      { "date": "25 June 2026", "type": "Undergraduate Open Day" },
+      { "date": "12 September 2026", "type": "Undergraduate Open Day" }
+    ],
+    "application": {
+      "ucasCode": "H100",
+      "contextualOffers": false,
+      "interviewRequired": false,
+      "personalStatementTips": [
+        "Demonstrate enthusiasm for engineering and physical sciences beyond the curriculum",
+        "Reference involvement in engineering projects, competitions (e.g. Formula SAE, robotics) or summer placements",
+        "Show awareness of cutting-edge technologies and research areas",
+        "Imperial values independent learning and intellectual curiosity — show evidence of both",
+        "Note: Imperial does not interview, so the personal statement and grades are critical"
+      ],
+      "typicalTimeline": "UCAS deadline 15 January. Imperial's own assessment may be required. Decisions made March-May."
+    },
+    "studentLife": {
+      "union": "Imperial College Union (ICU)",
+      "societiesCount": "300+",
+      "sportsTeams": "50+",
+      "highlights": [
+        "Student-led engineering projects (Formula SAE, Hyperloop, robotics)",
+        "Raynolds Club (engineering-focused social club)",
+        "Strong alumni network and industry connections",
+        "Active venture capital community supporting spin-outs",
+        "Collaborative and entrepreneurial culture"
+      ]
+    },
+    "cityLife": {
+      "description": "Imperial's South Kensington campus is in the heart of London's cultural and scientific quarter — surrounded by museums, galleries, and the main London universities. Excellent public transport links across London. The city offers unparalleled nightlife, dining, and cultural opportunities.",
+      "avgRentPerMonth": "£900–£1,200",
+      "costOfLiving": "Very High",
+      "transport": "London Underground (District, Circle, Piccadilly lines), National Rail, buses. Direct links to all London areas.",
+      "highlights": [
+        "Victoria and Albert Museum",
+        "Natural History Museum",
+        "Science Museum",
+        "Royal Albert Hall",
+        "Kensington Gardens and Hyde Park"
+      ],
+      "nightlife": "Vibrant London nightlife — pubs, clubs, bars across West London, City, and the West End. World-class cultural venues."
+    },
+    "notableAlumni": [
+      "H.G. Wells — Engineer and author",
+      "Alexander Fleming — Nobel Laureate, discovered penicillin",
+      "Brian May — Astrophysicist and musician (Queen)"
+    ],
+    "keyFacts": [
+      "#3 in QS World University Rankings 2024–25",
+      "Engineering ranked #1 in the world (QS 2024)",
+      "Strong links to major tech companies and aerospace firms",
+      "Startup and venture capital ecosystem (Imperial College Innovations)",
+      "MEng degree prepares for Chartered Engineer (CEng) status"
+    ]
+  }
+}

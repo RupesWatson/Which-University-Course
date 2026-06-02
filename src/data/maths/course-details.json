@@ -1,0 +1,354 @@
+{
+  "mathematics": {
+    "id": "mathematics",
+    "title": "Mathematics BSc / MMath",
+    "duration": "3 years (BSc) or 4 years (MMath)",
+    "overview": "Mathematics is the language of the universe and the foundation of all quantitative disciplines. A UK mathematics degree develops rigorous logical reasoning, abstraction and problem-solving across pure mathematics (analysis, algebra, topology, number theory), applied mathematics (fluid mechanics, mathematical biology, numerical analysis) and statistics. The MMath (4-year integrated Masters) is strongly recommended for students targeting research, quantitative finance or top-tier tech roles.",
+    "yearByYear": [
+      { "year": 1, "focus": "Foundations of University Mathematics", "modules": ["Real Analysis", "Linear Algebra", "Calculus and Multivariable Analysis", "Discrete Mathematics and Logic", "Probability Theory", "Introduction to Proof", "Number Theory"] },
+      { "year": 2, "focus": "Core Mathematics", "modules": ["Complex Analysis", "Abstract Algebra (Groups/Rings/Fields)", "Metric Spaces and Topology", "Ordinary Differential Equations", "Statistics", "Numerical Analysis", "Vector Calculus and PDEs"] },
+      { "year": 3, "focus": "Advanced Electives", "modules": ["Measure Theory", "Algebraic Topology", "Partial Differential Equations", "Mathematical Finance", "Galois Theory", "Differential Geometry", "Functional Analysis"] },
+      { "year": 4, "focus": "MMath Research and Advanced Topics", "modules": ["Extended Research Project", "Advanced Algebra or Analysis", "Research Seminar", "Specialist Electives from Masters-level modules"] }
+    ],
+    "skills": ["Rigorous logical proof", "Abstract mathematical reasoning", "Computational and numerical methods", "Mathematical modelling", "Statistical analysis", "Programming (Python, MATLAB, R)", "Communication of complex ideas"],
+    "professionalBodies": [
+      { "name": "Institute of Mathematics and its Applications (IMA)", "benefit": "Accredited degrees lead to Chartered Mathematician (CMath) status. IMA provides careers support, networking and journals." },
+      { "name": "London Mathematical Society (LMS)", "benefit": "Student membership available; access to major UK mathematics conferences and the LMS journal network." }
+    ],
+    "careers": [
+      { "role": "Quantitative Analyst (Finance)", "salary": "£65,000–£200,000+", "demand": "Very High" },
+      { "role": "Data Scientist / Machine Learning Engineer", "salary": "£40,000–£100,000+", "demand": "Very High" },
+      { "role": "Actuary", "salary": "£30,000–£90,000+", "demand": "High" },
+      { "role": "Research Mathematician / Academic", "salary": "£22,000–£55,000+", "demand": "High" },
+      { "role": "Management Consultant", "salary": "£40,000–£80,000", "demand": "High" },
+      { "role": "Software Engineer", "salary": "£38,000–£85,000", "demand": "Very High" }
+    ],
+    "topEmployers": ["Goldman Sachs", "Jane Street", "Citadel", "McKinsey", "GCHQ", "EPSRC", "NHS Analytics", "Deloitte", "Google DeepMind", "Lloyds of London"],
+    "employerPerspective": "Mathematics graduates are among the most in-demand recruits across quantitative finance, consultancy and technology. Warwick MORSE and Cambridge Mathematics are widely regarded as the gold standard for quantitative roles. The IMA reports that mathematics graduates have the lowest unemployment rate and highest graduate earnings of any STEM degree. An MMath or integrated Masters is increasingly expected by top employers.",
+    "entryRequirements": "Typically A*A*A–ABB at A-level. Mathematics A-level at A* is required at most Russell Group universities. Further Mathematics is strongly recommended and effectively required at Cambridge, Oxford, Imperial and Warwick. STEP entrance examinations required at Cambridge. MAT required at Oxford.",
+    "furtherStudy": "Part III Mathematics at Cambridge. DPhil/PhD in Mathematics, Statistics, Mathematical Finance or Computer Science. MSc Quantitative Finance (MFE), MSc Data Science, MSc Statistics. Postgraduate Institute of Actuaries examinations.",
+    "isItForYou": [
+      "You love abstract mathematical proof as much as computational problem-solving",
+      "You want maximum career flexibility — a maths degree opens more doors than almost any other",
+      "You are comfortable spending most of your time on written problem sets rather than laboratory work",
+      "You are targeting quantitative finance, tech, research or academia",
+      "Note: University mathematics is very different from A-level — proof and abstraction from Day 1; ensure you have seen some real analysis or combinatorics before committing"
+    ]
+  },
+  "statistics": {
+    "id": "statistics",
+    "title": "Statistics BSc / MMathStat",
+    "duration": "3 years (BSc) or 4 years (MMathStat)",
+    "overview": "Statistics is the science of collecting, analysing and drawing conclusions from data. In an era of data-driven decision-making, statisticians are in exceptional demand across finance, healthcare, government, technology and science. UK statistics degrees combine mathematical theory (probability, inference, stochastic processes) with applied methodology (regression, Bayesian statistics, time series) and computational tools (R, Python). Warwick's Statistics department is globally top-10.",
+    "yearByYear": [
+      { "year": 1, "focus": "Mathematical Foundations for Statistics", "modules": ["Probability Theory", "Statistical Inference Introduction", "Linear Algebra", "Real Analysis", "R Programming", "Regression Analysis Introduction"] },
+      { "year": 2, "focus": "Core Statistics", "modules": ["Statistical Inference", "Linear Models", "Stochastic Processes", "Bayesian Statistics Introduction", "Multivariate Analysis", "Experimental Design", "Statistical Computing"] },
+      { "year": 3, "focus": "Advanced Statistics", "modules": ["Bayesian Inference", "Time Series Analysis", "Survival Analysis", "Spatial Statistics", "Machine Learning", "Statistical Genetics or Biostatistics"] },
+      { "year": 4, "focus": "MMathStat Research", "modules": ["Research Project", "Advanced Stochastic Processes", "High-Dimensional Statistics", "Advanced Machine Learning", "Non-Parametric Methods"] }
+    ],
+    "skills": ["Statistical inference and hypothesis testing", "Bayesian methods", "R and Python programming", "Machine learning and predictive modelling", "Data visualisation", "Communication of statistical results", "Experimental design"],
+    "professionalBodies": [
+      { "name": "Royal Statistical Society (RSS)", "benefit": "Accredited degrees lead to GradStat and eventually CStat (Chartered Statistician). RSS provides careers support and a major professional network." },
+      { "name": "Institute of Mathematics and its Applications (IMA)", "benefit": "Chartered Mathematician route for quantitative statisticians." }
+    ],
+    "careers": [
+      { "role": "Statistician (NHS / Government)", "salary": "£28,000–£60,000", "demand": "High" },
+      { "role": "Data Scientist", "salary": "£40,000–£90,000+", "demand": "Very High" },
+      { "role": "Biostatistician (Pharma)", "salary": "£35,000–£75,000", "demand": "Very High" },
+      { "role": "Actuary", "salary": "£30,000–£90,000+", "demand": "High" },
+      { "role": "Quantitative Analyst", "salary": "£60,000–£160,000+", "demand": "Very High" },
+      { "role": "Machine Learning Engineer", "salary": "£45,000–£100,000", "demand": "Very High" }
+    ],
+    "topEmployers": ["NHS England", "ONS (Office for National Statistics)", "AstraZeneca", "Roche", "GSK", "Goldman Sachs", "Barclays", "KPMG", "GCHQ", "Alan Turing Institute"],
+    "employerPerspective": "The RSS reports that statistics graduates have one of the highest graduate employment rates of any discipline. Pharmaceutical companies routinely state that biostatisticians are among their most critical hires. NHS statisticians are increasingly in demand. The Bayesian and computational skills from a strong statistics degree map directly to data science roles paying £60–80k from year one.",
+    "entryRequirements": "Typically A*AA–AAB at A-level. Mathematics at A or A* always required; Further Mathematics is strongly recommended at Warwick, Cambridge and Oxford. Some programmes (Southampton, Leeds) accept Statistics at A-level as a second subject.",
+    "furtherStudy": "PhD in Statistics, Biostatistics or Machine Learning. MSc Statistics at Warwick, Oxford or Cambridge. Actuarial professional examinations (IFoA). RSS Graduate Statistician designation.",
+    "isItForYou": [
+      "You want to use mathematics to draw conclusions from real data in healthcare, finance or science",
+      "You enjoy probability and inference as much as pure proof",
+      "You want strong programming skills (R and Python) built into your degree",
+      "You are targeting NHS, pharma, finance or tech roles with clear high-demand careers",
+      "Note: Statistics has less pure proof and more applied data analysis than Mathematics — choose based on whether your interest is more in real-world data or abstract theory"
+    ]
+  },
+  "mathsCS": {
+    "id": "mathsCS",
+    "title": "Mathematics and Computer Science MMathCS",
+    "duration": "3 years (BSc) or 4 years (MMathCS)",
+    "overview": "Mathematics and Computer Science is consistently one of the most in-demand and highest-paying degree programmes in the UK. It combines rigorous mathematical theory (algorithms, complexity, logic, algebraic structures) with modern computer science (machine learning, cryptography, programming, software engineering). Oxford's MMathCS, Warwick's joint programme and Imperial's MEng are particularly sought after by top tech firms.",
+    "yearByYear": [
+      { "year": 1, "focus": "Dual Foundations", "modules": ["Mathematical Proof and Logic", "Programming in Python/Java", "Discrete Mathematics", "Linear Algebra", "Algorithms and Data Structures", "Probability", "Computer Architecture"] },
+      { "year": 2, "focus": "Core Mathematics and CS", "modules": ["Analysis", "Algorithm Design and Complexity", "Machine Learning Introduction", "Abstract Algebra", "Databases and Systems", "Numerical Methods", "Cryptography"] },
+      { "year": 3, "focus": "Advanced Topics", "modules": ["Machine Learning and AI", "Advanced Algorithms", "Type Theory and Formal Methods", "Quantum Computing Introduction", "Combinatorics", "Software Engineering"] },
+      { "year": 4, "focus": "MMathCS Research", "modules": ["Research Project", "Advanced Computational Complexity", "Probabilistic Methods", "Advanced Machine Learning", "Logic and Automated Reasoning"] }
+    ],
+    "skills": ["Algorithm design and complexity analysis", "Machine learning and AI", "Programming (Python, Java, C++, Haskell)", "Cryptography and security", "Mathematical proof and logic", "Software engineering", "Quantum computing fundamentals"],
+    "professionalBodies": [
+      { "name": "BCS (Chartered Institute for IT)", "benefit": "Accreditation for Chartered IT Professional (CITP) status." },
+      { "name": "IMA", "benefit": "Chartered Mathematician status for mathematical track graduates." }
+    ],
+    "careers": [
+      { "role": "Software Engineer (big tech)", "salary": "£55,000–£150,000+", "demand": "Very High" },
+      { "role": "Machine Learning Researcher", "salary": "£60,000–£150,000+", "demand": "Very High" },
+      { "role": "Cryptographer / Security Engineer", "salary": "£45,000–£100,000", "demand": "Very High" },
+      { "role": "Quantitative Developer", "salary": "£70,000–£180,000+", "demand": "Very High" },
+      { "role": "Algorithm Engineer", "salary": "£55,000–£120,000", "demand": "Very High" }
+    ],
+    "topEmployers": ["Google", "DeepMind", "Meta", "Microsoft", "Jane Street", "Palantir", "GCHQ", "Citadel", "Spotify", "Amazon"],
+    "employerPerspective": "Maths and CS graduates are the single most sought-after cohort at Google, Facebook and Jane Street. The combination of mathematical rigour and software engineering ability is rare — most CS graduates lack the mathematical depth; most maths graduates lack the coding skill. Big Tech pays significantly above market for this profile, with total comp packages of £80–150k+ for top graduates.",
+    "entryRequirements": "Typically A*A*A–ABB at A-level. Mathematics is always required at A or A*. Computing A-level is welcomed but typically not required — programming is taught from scratch. Oxford requires MAT; Cambridge requires STEP. Further Mathematics strongly recommended.",
+    "furtherStudy": "PhD in theoretical computer science, machine learning or cryptography. MSc in AI, Machine Learning or Advanced Computer Science. Research at Google Brain, DeepMind or Alan Turing Institute.",
+    "isItForYou": [
+      "You love both mathematics and computer science equally and do not want to choose between them",
+      "You are targeting top tech firms, machine learning research or cryptography",
+      "You are comfortable with both abstract proof and hours of programming",
+      "You want one of the highest-earning graduate degree routes in the UK",
+      "Note: This is a demanding dual degree — content from both disciplines is covered; only take it if you genuinely enjoy both, not just one"
+    ]
+  },
+  "appliedMaths": {
+    "id": "appliedMaths",
+    "title": "Applied Mathematics MMath",
+    "duration": "3 years (BSc) or 4 years (MMath)",
+    "overview": "Applied Mathematics focuses on using mathematical methods to solve real-world problems in engineering, science and industry. Core topics include fluid mechanics, dynamical systems, mathematical biology, numerical analysis, PDEs and mathematical modelling. Cambridge's DAMTP is the world's leading applied mathematics department. Graduates work in aerospace, environmental science, finance and technology.",
+    "yearByYear": [
+      { "year": 1, "focus": "Mathematical Tools for Applications", "modules": ["Calculus and ODEs", "Linear Algebra", "Classical Mechanics", "Probability", "Numerical Methods I", "Mathematical Modelling Introduction"] },
+      { "year": 2, "focus": "Core Applied Mathematics", "modules": ["Partial Differential Equations", "Fluid Mechanics I", "Dynamical Systems", "Numerical Analysis", "Mathematical Biology", "Complex Variable Methods"] },
+      { "year": 3, "focus": "Advanced Applications", "modules": ["Fluid Dynamics II", "Asymptotic Methods", "Continuum Mechanics", "Nonlinear Systems", "Computational Applied Maths", "Project"] },
+      { "year": 4, "focus": "MMath Research", "modules": ["Extended Research Project", "Advanced Fluid Dynamics", "Geophysical Fluid Dynamics", "Wave Theory", "Advanced Numerical Analysis"] }
+    ],
+    "skills": ["Mathematical modelling and simulation", "PDEs and numerical analysis", "Programming (MATLAB, Python, Fortran)", "Physical intuition with mathematical rigour", "Technical report writing", "Computational fluid dynamics"],
+    "professionalBodies": [
+      { "name": "IMA", "benefit": "Chartered Mathematician status; Applied Mathematics Division networking." },
+      { "name": "SIAM (Society for Industrial and Applied Mathematics)", "benefit": "Student chapter membership; access to industry research and conferences." }
+    ],
+    "careers": [
+      { "role": "Aerospace / CFD Engineer", "salary": "£32,000–£70,000", "demand": "High" },
+      { "role": "Meteorologist / Climate Modeller", "salary": "£28,000–£55,000", "demand": "Growing" },
+      { "role": "Mathematical Biologist / NHS Modeller", "salary": "£30,000–£55,000", "demand": "Growing" },
+      { "role": "Quantitative Analyst", "salary": "£60,000–£150,000+", "demand": "Very High" },
+      { "role": "Research Mathematician", "salary": "£22,000–£55,000", "demand": "High" }
+    ],
+    "topEmployers": ["Rolls-Royce", "Met Office", "DSTL", "BAE Systems", "AstraZeneca", "Shell", "Goldman Sachs", "GCHQ", "AWE", "NERC"],
+    "employerPerspective": "Applied mathematicians who can build and solve models for physical or biological systems are in demand across aerospace (Rolls-Royce), climate science (Met Office), defence (DSTL/AWE) and finance. The ability to write and analyse a PDE is a rarer skill than most hiring managers expect — well-trained applied mathematicians stand out strongly.",
+    "entryRequirements": "Typically A*AA–AAB. Mathematics at A* required at most top departments. Physics or Further Mathematics often recommended. Cambridge STEP required; Oxford MAT required.",
+    "furtherStudy": "PhD in applied mathematics, fluid dynamics, mathematical biology or climate science. MSc in Mathematical Modelling, Numerical Analysis or Computational Science. EPSRC-funded CDTs widely available.",
+    "isItForYou": [
+      "You prefer applications of mathematics to real physical or biological problems over abstract pure theory",
+      "You want to model physical phenomena — from aircraft wing design to epidemic spread to ocean currents",
+      "You are drawn to the interface between mathematics, physics and engineering",
+      "You enjoy computing and numerical simulation as well as analytical methods",
+      "Note: Applied Maths programmes vary significantly — check whether the specific modules match your interests in fluids, biology or computation"
+    ]
+  },
+  "mathsStats": {
+    "id": "mathsStats",
+    "title": "Mathematics and Statistics MMath",
+    "duration": "3 years (BSc) or 4 years (MMath)",
+    "overview": "Mathematics and Statistics combines the rigour of a full mathematics degree with in-depth statistical training. Unlike a pure statistics degree, this programme gives equal weight to pure and applied mathematics alongside probability and statistical theory. Warwick's MORSE degree is the most famous example — it includes Economics alongside Mathematics, OR and Statistics and is extremely sought after by investment banks and consultancies.",
+    "yearByYear": [
+      { "year": 1, "focus": "Mathematics and Probability Foundations", "modules": ["Real Analysis", "Linear Algebra", "Probability Theory", "Statistical Inference Introduction", "Discrete Mathematics", "Computing for Mathematics"] },
+      { "year": 2, "focus": "Core Mathematics and Statistics", "modules": ["Complex Analysis", "Abstract Algebra", "Statistical Inference", "Regression and Linear Models", "Stochastic Processes", "Numerical Methods"] },
+      { "year": 3, "focus": "Advanced Electives", "modules": ["Bayesian Statistics", "Mathematical Finance", "Measure Theory and Probability", "Time Series", "Machine Learning", "Advanced Algebra or Analysis"] },
+      { "year": 4, "focus": "MMath Research", "modules": ["Research Project", "Advanced Probability Theory", "Non-Parametric Statistics", "High-Dimensional Methods"] }
+    ],
+    "skills": ["Statistical inference and Bayesian methods", "Pure mathematical reasoning", "R, Python and statistical computing", "Mathematical finance", "Stochastic modelling", "Data analysis"],
+    "professionalBodies": [
+      { "name": "Royal Statistical Society (RSS)", "benefit": "GradStat and CStat pathways via RSS accreditation." },
+      { "name": "IMA", "benefit": "Chartered Mathematician status." }
+    ],
+    "careers": [
+      { "role": "Actuary", "salary": "£30,000–£90,000+", "demand": "High" },
+      { "role": "Quantitative Analyst", "salary": "£65,000–£180,000+", "demand": "Very High" },
+      { "role": "Data Scientist", "salary": "£40,000–£90,000", "demand": "Very High" },
+      { "role": "Statistician (Government/NHS)", "salary": "£28,000–£60,000", "demand": "High" },
+      { "role": "Management Consultant", "salary": "£40,000–£80,000", "demand": "High" }
+    ],
+    "topEmployers": ["Goldman Sachs", "Barclays", "Aviva", "AstraZeneca", "KPMG", "McKinsey", "ONS", "GCHQ", "Roche", "NHS Analytics"],
+    "employerPerspective": "Warwick MORSE is widely regarded as the single most employer-valued undergraduate maths degree in the UK for finance and consulting recruitment. The combination of statistical rigour and mathematical breadth is highly attractive to investment banks, actuarial firms and consultancies.",
+    "entryRequirements": "Typically A*AA–ABB. Mathematics A* required at Warwick, Edinburgh and Cambridge. Further Mathematics strongly recommended. Warwick MORSE requires A*A*A at A-level.",
+    "furtherStudy": "MSc Statistics at Warwick, Oxford or Cambridge. Actuarial professional examinations (IFoA). PhD Statistics or Mathematical Finance.",
+    "isItForYou": [
+      "You want both the mathematical rigour of a maths degree and the applied power of statistics",
+      "You are targeting actuarial, finance or data science careers equally",
+      "Warwick MORSE is particularly worth considering — it has the strongest employer reputation of any joint programme",
+      "You enjoy probability and inference as much as algebra and analysis",
+      "Note: This degree is broader than either pure Maths or pure Statistics — excellent for those who want to keep their options open"
+    ]
+  },
+  "operationalResearch": {
+    "id": "operationalResearch",
+    "title": "Operational Research / MORSE MMath",
+    "duration": "3 years (BSc) or 4 years (MMath)",
+    "overview": "Operational Research (OR) is the application of mathematical methods to business decision-making, logistics, scheduling, supply chain optimisation and resource allocation. Warwick's MORSE (Mathematics, Operational Research, Statistics and Economics) degree is the most famous OR-related programme in the UK. OR graduates work in management consulting, logistics, NHS resource planning, airlines and financial services.",
+    "yearByYear": [
+      { "year": 1, "focus": "OR and Mathematics Foundations", "modules": ["Linear Programming", "Mathematical Modelling", "Probability and Statistics", "Linear Algebra", "Computing for OR", "Decision Theory"] },
+      { "year": 2, "focus": "OR Methods", "modules": ["Network Optimisation", "Simulation Methods", "Integer Programming", "Game Theory", "Stochastic Processes", "Forecasting"] },
+      { "year": 3, "focus": "Advanced OR and Applications", "modules": ["Heuristic Methods", "Supply Chain Optimisation", "Healthcare OR", "Financial OR", "Dissertation Project"] },
+      { "year": 4, "focus": "MMath Advanced OR", "modules": ["Advanced Optimisation", "Research Project", "Scheduling Theory", "OR in Practice"] }
+    ],
+    "skills": ["Mathematical optimisation", "Linear and integer programming", "Simulation and modelling", "Python/AIMMS/Gurobi", "Project management and decision analysis", "Supply chain analytics"],
+    "professionalBodies": [
+      { "name": "Operational Research Society (ORS)", "benefit": "Membership provides access to the OR community, journals and the annual OR conference — a major recruitment event." },
+      { "name": "IMA", "benefit": "Chartered Mathematician pathway for mathematical component." }
+    ],
+    "careers": [
+      { "role": "Management Consultant", "salary": "£40,000–£80,000", "demand": "High" },
+      { "role": "Logistics / Supply Chain Analyst", "salary": "£30,000–£60,000", "demand": "Very High" },
+      { "role": "NHS Operations Analyst", "salary": "£28,000–£55,000", "demand": "High" },
+      { "role": "Financial Modeller", "salary": "£40,000–£80,000", "demand": "High" },
+      { "role": "Data Scientist / Optimisation Engineer", "salary": "£40,000–£90,000", "demand": "Very High" }
+    ],
+    "topEmployers": ["McKinsey Analytics", "DSTL", "NHS England", "Sainsbury's Analytics", "BA/easyJet", "Deloitte", "ALDI", "DHL", "Amazon Operations"],
+    "employerPerspective": "OR graduates are especially sought by logistics companies, airlines and retail chains where optimising routes, schedules or inventory can save millions of pounds. The NHS increasingly uses OR modellers for bed allocation and emergency planning. Warwick MORSE graduates receive offers at rates among the highest of any maths programme in the UK.",
+    "entryRequirements": "Typically A*AA–ABB at A-level. Mathematics at A required. Warwick MORSE requires A*A*A. Economics at A-level is a bonus for MORSE but not required.",
+    "furtherStudy": "MSc Operational Research (Lancaster, Southampton, Edinburgh are strong). PhD via EPSRC OR CDT partnerships. Professional OR certifications via the OR Society.",
+    "isItForYou": [
+      "You want to apply mathematics to business, logistics and decision-making problems",
+      "You are interested in management consulting, operations or supply chain careers",
+      "Warwick MORSE is the standout choice if you can achieve the grades — it has exceptional employer relationships",
+      "You enjoy programming and algorithmic thinking alongside mathematical modelling",
+      "Note: OR is a smaller but highly focused field — fewer universities offer it as a named degree; check that the programme covers the topics that interest you"
+    ]
+  },
+  "mathsPhilosophy": {
+    "id": "mathsPhilosophy",
+    "title": "Mathematics and Philosophy BA / MMath",
+    "duration": "3 years (BA) or 4 years (MMath)",
+    "overview": "Mathematics and Philosophy explores the deepest intellectual territory available to undergraduates — the nature of mathematical truth, the foundations of logic, the philosophy of space and time, and the relationship between mind, language and mathematics. Oxford's Mathematics and Philosophy BA is the most famous example, drawing students who want to engage with both Gödel's incompleteness theorems and Kant's critique of pure reason. Unusually versatile for law, academia and public policy careers.",
+    "yearByYear": [
+      { "year": 1, "focus": "Parallel Foundations", "modules": ["Mathematical Proof and Logic", "Introduction to Philosophy", "Linear Algebra", "Epistemology", "Real Analysis", "Philosophy of Science"] },
+      { "year": 2, "focus": "Logic and Foundations", "modules": ["Mathematical Logic", "Metaphysics", "Set Theory", "Philosophy of Mathematics", "Algebra", "Ethics"] },
+      { "year": 3, "focus": "Intersection and Specialisation", "modules": ["Gödel's Incompleteness Theorems", "Philosophy of Language", "Model Theory", "Philosophy of Mind", "Dissertation"] },
+      { "year": 4, "focus": "MMath/MPhil Research", "modules": ["Advanced Logic or Mathematics Research Project", "Advanced Philosophy Thesis"] }
+    ],
+    "skills": ["Formal logical reasoning", "Argumentative essay writing", "Mathematical proof", "Philosophical analysis", "Interdisciplinary thinking", "Critical evaluation of complex arguments"],
+    "professionalBodies": [
+      { "name": "IMA", "benefit": "Chartered Mathematician pathway via mathematics component." },
+      { "name": "Mind Association", "benefit": "Access to the philosophy of mind and mathematics research community." }
+    ],
+    "careers": [
+      { "role": "Academic Researcher (Maths or Philosophy)", "salary": "£22,000–£55,000+", "demand": "High" },
+      { "role": "Barrister / Solicitor", "salary": "£30,000–£150,000+", "demand": "High" },
+      { "role": "Civil Service / Policy Analyst", "salary": "£28,000–£60,000", "demand": "High" },
+      { "role": "Management Consultant", "salary": "£40,000–£80,000", "demand": "High" },
+      { "role": "Finance (Quant / Analyst)", "salary": "£50,000–£130,000", "demand": "High" }
+    ],
+    "topEmployers": ["McKinsey", "Clifford Chance", "UK Civil Service", "BBC", "King's College Academia", "Allen & Overy", "Deloitte", "Oxford/Cambridge philosophy"],
+    "employerPerspective": "Law firms, management consultancies and the Civil Service Fast Stream all value Mathematics and Philosophy graduates for the combination of analytical precision and argumentation. Oxford graduates from this programme are disproportionately represented in top law firms and the senior Civil Service.",
+    "entryRequirements": "Typically A*A*A–AAA. Oxford requires MAT and interview; Mathematics at A* required. No Philosophy A-level required at any university — it is taught from scratch. Durham, Bristol and Manchester are strong alternatives with slightly lower offers.",
+    "furtherStudy": "BPhil or DPhil Philosophy at Oxford. Part III Mathematics at Cambridge. Graduate Diploma in Law (GDL). MSc Logic (Amsterdam or Utrecht for the world's best logic programmes).",
+    "isItForYou": [
+      "You are deeply interested in the foundations of mathematics — what is a proof? what is infinity? what is truth?",
+      "You enjoy both rigorous mathematical argument and philosophical essay writing in equal measure",
+      "You want a degree that is intellectually distinctive and opens doors to law, academia or policy",
+      "You are attracted by the question of whether mathematics is discovered or invented",
+      "Note: This degree has less applied maths and computation than standard Mathematics — less suited to quant finance or data science paths than a pure MMath"
+    ]
+  },
+  "dataScience": {
+    "id": "dataScience",
+    "title": "Data Science BSc / MMath",
+    "duration": "3 years (BSc) or 4 years with placement",
+    "overview": "Data Science is one of the fastest-growing and highest-paying degree specialisations in the UK. It combines statistics, machine learning, programming and data engineering to extract insights from large datasets. Mathematics-pathway Data Science degrees go deeper into the statistical and mathematical underpinnings than CS-pathway versions, producing graduates who can both build and rigorously analyse machine learning models. Employer demand far outstrips supply.",
+    "yearByYear": [
+      { "year": 1, "focus": "Foundations", "modules": ["Probability and Statistics", "Python Programming", "Linear Algebra and Calculus", "Data Engineering Introduction", "SQL and Databases", "Scientific Thinking"] },
+      { "year": 2, "focus": "Core Data Science", "modules": ["Machine Learning", "Statistical Inference", "Big Data Technologies (Spark, Hadoop)", "Data Visualisation", "Regression and Classification", "Bayesian Methods"] },
+      { "year": 3, "focus": "Advanced Data Science", "modules": ["Deep Learning and Neural Networks", "Natural Language Processing", "Computer Vision", "Causal Inference", "Ethics in AI", "Industry Project"] },
+      { "year": 4, "focus": "Placement / Research", "modules": ["Industry Placement (Bath, Surrey)", "or Research Project with industry partner"] }
+    ],
+    "skills": ["Python and R programming", "Machine learning and deep learning", "Statistical modelling and inference", "Big data engineering (Spark, AWS, Azure)", "Data visualisation (Tableau, PowerBI)", "SQL and database management", "AI ethics and governance"],
+    "professionalBodies": [
+      { "name": "Royal Statistical Society (RSS)", "benefit": "Graduate Statistician (GradStat) pathway; RSS Data Science Section provides specialist networking." },
+      { "name": "BCS", "benefit": "Chartered IT Professional pathway for computing component." }
+    ],
+    "careers": [
+      { "role": "Data Scientist", "salary": "£40,000–£90,000+", "demand": "Very High" },
+      { "role": "Machine Learning Engineer", "salary": "£50,000–£120,000+", "demand": "Very High" },
+      { "role": "AI Research Scientist", "salary": "£55,000–£150,000+", "demand": "Very High" },
+      { "role": "Data Engineer", "salary": "£40,000–£80,000", "demand": "Very High" },
+      { "role": "Analytics Manager", "salary": "£45,000–£80,000", "demand": "Very High" }
+    ],
+    "topEmployers": ["Google DeepMind", "Amazon", "Microsoft", "Spotify", "NHS AI Lab", "Palantir", "Revolut", "GCHQ", "Barclays", "Unilever Data Science"],
+    "employerPerspective": "Data Science graduates are in the highest demand of any STEM discipline. Employers consistently report a shortage of candidates with both strong statistical foundations and good programming skills — exactly what a mathematics-pathway data science degree provides. Google, Microsoft and NHS Digital are among the most active recruiters.",
+    "entryRequirements": "Typically A*AA–AAB at A-level. Mathematics always required. Computing welcome but not required. Edinburgh requires AAA; Warwick and Bath require A*AA–AAB. Surrey accepts ABB for the placement variant.",
+    "furtherStudy": "MSc Data Science or Machine Learning at Edinburgh, UCL or Manchester. PhD in Machine Learning or AI. Alan Turing Institute Enrichment studentships. Industry-sponsored PhDs at Google, Microsoft and DeepMind.",
+    "isItForYou": [
+      "You want to work at the intersection of statistics, computing and real-world data problems",
+      "You are excited by machine learning, AI and large-scale data analysis",
+      "You want one of the most in-demand and best-paid graduate career paths in the UK",
+      "You are comfortable with both coding and mathematical rigour",
+      "Note: If you are more drawn to pure mathematics or theoretical computer science, a joint Maths & CS degree may suit you better — Data Science is primarily an applied field"
+    ]
+  },
+  "mathsPhysics": {
+    "id": "mathsPhysics",
+    "title": "Mathematics and Physics MMath/MPhys",
+    "duration": "4 years (integrated joint MMath/MPhys)",
+    "overview": "Mathematics and Physics is the ideal degree for students who love both disciplines and do not want to choose between them. Joint programmes give equal weight to rigorous mathematical proof and physical reasoning — covering analysis, algebra and topology alongside quantum mechanics, electrodynamics and relativity. Graduates are among the most analytically capable in any field. Oxford, Cambridge, Warwick, Edinburgh and Durham offer particularly strong joint programmes.",
+    "yearByYear": [
+      { "year": 1, "focus": "Dual Foundations", "modules": ["Real Analysis", "Linear Algebra", "Classical Mechanics", "Quantum Physics Introduction", "Electromagnetism", "Differential Equations"] },
+      { "year": 2, "focus": "Core Mathematics and Physics", "modules": ["Complex Analysis", "Quantum Mechanics", "Abstract Algebra", "Statistical Mechanics", "Group Theory", "Mathematical Methods"] },
+      { "year": 3, "focus": "Advanced Joint Topics", "modules": ["Differential Geometry and General Relativity", "Quantum Field Theory Introduction", "Lie Groups", "Condensed Matter", "Advanced Fluid Dynamics or PDEs"] },
+      { "year": 4, "focus": "Joint Research Project", "modules": ["Extended Research Project (joint maths/physics topic)", "Advanced Topics chosen from either department"] }
+    ],
+    "skills": ["Pure mathematical proof", "Physical intuition and modelling", "Mathematical physics methods", "Programming (Python, MATLAB)", "Research and independent study"],
+    "professionalBodies": [
+      { "name": "Institute of Physics (IoP)", "benefit": "IoP accreditation for physics component." },
+      { "name": "IMA", "benefit": "Chartered Mathematician pathway for mathematics component." }
+    ],
+    "careers": [
+      { "role": "Quantitative Researcher (Finance)", "salary": "£75,000–£200,000+", "demand": "Very High" },
+      { "role": "PhD in Mathematical Physics", "salary": "£19,000–£55,000+", "demand": "High" },
+      { "role": "Research Scientist (Deep Tech)", "salary": "£45,000–£100,000", "demand": "High" },
+      { "role": "Data Scientist / ML Engineer", "salary": "£45,000–£100,000", "demand": "Very High" },
+      { "role": "Cryptographer / Security", "salary": "£40,000–£90,000", "demand": "Growing" }
+    ],
+    "topEmployers": ["CERN", "Jane Street", "Citadel", "GCHQ", "AWE", "DeepMind", "Perimeter Institute", "McKinsey", "Renaissance Technologies"],
+    "employerPerspective": "Joint maths and physics graduates are in exceptional demand at quantitative hedge funds. Renaissance Technologies (the world's most successful quant fund) was built largely by mathematicians and physicists working together. The ability to move fluently between abstract mathematics and physical intuition is rare and highly prized.",
+    "entryRequirements": "Typically A*AA–AAA. Both Mathematics (A*) and Physics required at all programmes. Further Mathematics strongly recommended. STEP at Cambridge; MAT or PAT at Oxford depending on your primary application route.",
+    "furtherStudy": "Part III Mathematics at Cambridge. DPhil Mathematical Physics. MSc in Quantum Fields and Fundamental Forces (Imperial). PhD in mathematical physics, cosmology or condensed matter theory.",
+    "isItForYou": [
+      "You cannot choose between mathematics and physics and want to develop both equally",
+      "You are comfortable with both abstract proof and physical derivations",
+      "You are targeting research, quantitative finance or cutting-edge tech equally",
+      "You are drawn to topics at the boundary — quantum field theory, general relativity, mathematical physics",
+      "Note: This is one of the most academically demanding degree combinations available — both departments' full content is covered in four years"
+    ]
+  },
+  "mathsIndustry": {
+    "id": "mathsIndustry",
+    "title": "Mathematics with Year in Industry MMath",
+    "duration": "4 years (MMath with integrated placement) or 5 years at Surrey",
+    "overview": "Mathematics with Year in Industry combines a rigorous 4-year MMath with a paid professional placement year at a UK or international employer. Bath and Surrey run the UK's most celebrated placement programmes. Mathematics placement students work at investment banks, management consultancies, GCHQ, Rolls-Royce, NHS analytics teams and data science companies. Graduates consistently earn significantly higher starting salaries than non-placement peers.",
+    "yearByYear": [
+      { "year": 1, "focus": "Mathematics Foundations", "modules": ["Real Analysis", "Linear Algebra", "Probability", "Calculus", "Computing Introduction", "Mathematical Proof"] },
+      { "year": 2, "focus": "Core Mathematics and Placement Preparation", "modules": ["Abstract Algebra", "Statistics", "Numerical Methods", "Placement CV and Interview Skills", "Professional Development"] },
+      { "year": "Industry", "focus": "Placement Year (12 months)", "modules": ["Paid placement at employer", "Technical project work", "Workplace skills development", "Placement assessment and report"] },
+      { "year": 3, "focus": "Advanced Mathematics (post-placement)", "modules": ["Advanced Analysis or Algebra", "Industry-relevant electives", "Project with placement context"] },
+      { "year": 4, "focus": "MMath Research", "modules": ["Extended Research Project", "Advanced Topics", "Research Seminar"] }
+    ],
+    "skills": ["All standard MMath skills PLUS", "Financial modelling and analysis", "Workplace communication and presentation", "Commercial and client awareness", "Data tools in industry context (Excel, Tableau, Python)", "Project management"],
+    "professionalBodies": [
+      { "name": "IMA", "benefit": "Placement year recognised as professional experience for Chartered Mathematician (CMath) accreditation." }
+    ],
+    "careers": [
+      { "role": "Investment Banking Analyst", "salary": "£50,000–£90,000+", "demand": "High" },
+      { "role": "Actuary", "salary": "£30,000–£90,000+", "demand": "High" },
+      { "role": "Data Scientist", "salary": "£42,000–£90,000+", "demand": "Very High" },
+      { "role": "Management Consultant", "salary": "£40,000–£80,000", "demand": "High" },
+      { "role": "Quantitative Analyst", "salary": "£65,000–£180,000+", "demand": "Very High" }
+    ],
+    "topEmployers": ["Goldman Sachs", "Barclays", "GCHQ", "McKinsey", "Dyson", "AstraZeneca", "Deloitte", "NHS Analytics", "Palantir", "Amazon"],
+    "employerPerspective": "Bath MMath with placement graduates have the highest starting salaries among UK mathematics graduates. GCHQ, Barclays and Goldman Sachs are among the most frequent Bath placement hosts, and many convert their placements to permanent offers. The placement year demonstrably reduces time-to-hire and increases earning by a measurable margin.",
+    "entryRequirements": "Typically A*AA–ABB at A-level. Same as standard MMath — the placement year does not alter academic requirements. Mathematics A* required at Bath and Warwick. Surrey accepts ABB for the Professional Training variant.",
+    "furtherStudy": "Many placement graduates receive return offers from their employer and enter work directly. PhD or MSc for those returning to academia — placement experience is valued by EPSRC-funded CDTs. Graduate schemes at top banks and consultancies.",
+    "isItForYou": [
+      "You want the intellectual rigour of a maths degree combined with real professional experience",
+      "You are not certain whether to enter industry or research after graduation — the placement year helps you decide",
+      "Bath and Surrey are particularly worth considering above their overall rankings for this route",
+      "You want to start building your professional CV and earn a competitive salary from Year 3",
+      "Note: Placement positions must be secured (with university support) — strong A-levels, a good CV and interview preparation are all needed to land the best placements"
+    ]
+  }
+}

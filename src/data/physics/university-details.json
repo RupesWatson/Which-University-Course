@@ -1,0 +1,2534 @@
+{
+  "oxford": {
+    "slug": "oxford",
+    "name": "University of Oxford",
+    "city": "Oxford",
+    "overview": "The University of Oxford is the world's oldest English-speaking university and consistently ranked 1st or 2nd globally. Its Mathematical Institute and Physics Department are both world-leading. Oxford's 4-year MPhys and MMath degrees are the gold standard for research-oriented students. The collegiate system, small-group tutorials and access to world-class researchers make Oxford the most intellectually intense undergraduate experience in the UK.",
+    "founded": 1096,
+    "totalStudents": 24000,
+    "internationalStudents": "43%",
+    "campusType": "Collegiate city campus",
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "All first-year students are guaranteed accommodation in their college. Oxford's collegiate system means accommodation is arranged through the college. All colleges provide catered or self-catered options.",
+      "avgWeeklyCost": "£145–£220",
+      "halls": [
+        "Varies by college — all 39 colleges provide guaranteed first-year accommodation"
+      ],
+      "privateRentAreas": "Cowley, Headington, Jericho, East Oxford"
+    },
+    "openDays": [
+      {
+        "date": "1 July 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "2 July 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "18 September 2026",
+        "type": "Undergraduate Open Day"
+      }
+    ],
+    "application": {
+      "ucasCode": "F303 (Physics MPhys) / G103 (Mathematics MMath)",
+      "contextualOffers": false,
+      "interviewRequired": true,
+      "personalStatementTips": [
+        "Show genuine passion for the subject beyond A-level — reference books, lectures or research you have engaged with",
+        "For Physics: reference specific areas that excite you (quantum mechanics, particle physics, cosmology)",
+        "For Maths: demonstrate mathematical curiosity — have you explored proof-based mathematics beyond A-level?",
+        "Both require entrance tests: PAT (Physics) or MAT (Mathematics) — prepare intensively"
+      ],
+      "typicalTimeline": "UCAS deadline 15 October. PAT (Physics) or MAT (Mathematics) in November. Interviews in December at the applicant's college."
+    },
+    "studentLife": {
+      "union": "Oxford University Student Union (OUSU) — college JCRs are more active day-to-day",
+      "societiesCount": "400+",
+      "sportsTeams": "80+",
+      "highlights": [
+        "Collegiate system creates tight-knit academic communities",
+        "Tutorial system provides exceptional one-to-one teaching",
+        "Oxford Union debating society",
+        "World-class science seminars open to undergraduates"
+      ]
+    },
+    "cityLife": {
+      "description": "Oxford is a historic university city with a thriving cultural scene, excellent transport links to London (1 hour), and a significant tech and science cluster around the Oxford Science Park and Harwell Campus.",
+      "avgRentPerMonth": "£750–£1,000",
+      "costOfLiving": "High",
+      "transport": "Oxford Tube and National Express coaches to London; Oxford rail station with services to London Paddington",
+      "highlights": [
+        "Bodleian Library",
+        "Ashmolean Museum",
+        "Covered Market",
+        "Oxford Botanic Garden"
+      ],
+      "nightlife": "A varied pub and bar scene centred around Jericho and Cowley Road; strong college social scenes."
+    },
+    "notableAlumni": [
+      "Stephen Hawking — theoretical physicist and cosmologist, undergraduate at Oxford",
+      "Roger Penrose — Nobel Laureate in Physics 2020",
+      "Christopher Zeeman — pioneering mathematician and topologist"
+    ],
+    "keyFacts": [
+      "#1 in QS World University Rankings 2024–25",
+      "Mathematical Institute and Physics Department both world top-10",
+      "Tutorial teaching system provides unmatched academic rigour",
+      "Over 70 Nobel Prize-winning alumni and staff"
+    ]
+  },
+  "cambridge": {
+    "slug": "cambridge",
+    "name": "University of Cambridge",
+    "city": "Cambridge",
+    "overview": "The University of Cambridge is the world's second-oldest English-speaking university and home to arguably the world's strongest mathematics and physics departments. DAMTP (Department of Applied Mathematics and Theoretical Physics) and DPMMS (Pure Mathematics) are both globally pre-eminent. The Cavendish Laboratory has produced 30 Nobel Prizes in Physics. Students apply to Natural Sciences (Physics track) or Mathematics — both require STEP or NSAA entrance examinations.",
+    "founded": 1209,
+    "totalStudents": 23000,
+    "internationalStudents": "39%",
+    "campusType": "Collegiate city campus",
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "Accommodation is guaranteed for all first-year undergraduates through their college. All 31 colleges provide on-site accommodation in the first year, and many guarantee rooms for the full degree.",
+      "avgWeeklyCost": "£150–£230",
+      "halls": [
+        "Varies by college — Churchill, King's, Trinity, St John's and Clare all have strong STEM communities"
+      ],
+      "privateRentAreas": "Newnham, Mill Road, Romsey Town, Chesterton"
+    },
+    "openDays": [
+      {
+        "date": "9 July 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "10 July 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "11 September 2026",
+        "type": "Colleges Open Day"
+      }
+    ],
+    "application": {
+      "ucasCode": "BC01 (Natural Sciences) / G100 (Mathematics)",
+      "contextualOffers": false,
+      "interviewRequired": true,
+      "personalStatementTips": [
+        "Natural Sciences: show breadth of scientific interest across at least two sciences",
+        "Mathematics: demonstrate engagement with proof-based mathematics and problem-solving beyond A-level",
+        "STEP examinations (for Mathematics) require dedicated 6+ months preparation — start early",
+        "Cambridge interviews test scientific reasoning, not facts — prepare by working through unfamiliar problems aloud"
+      ],
+      "typicalTimeline": "UCAS deadline 15 October. NSAA (Natural Sciences) or STEP (Mathematics) examinations. Interviews held in December."
+    },
+    "studentLife": {
+      "union": "Cambridge Students Union; college JCRs are primary social hubs",
+      "societiesCount": "700+",
+      "sportsTeams": "100+",
+      "highlights": [
+        "The Boat Race tradition",
+        "May Balls",
+        "Punting on the Cam",
+        "Regular seminars by Nobel laureates",
+        "Access to the Cavendish Laboratory and DAMTP for undergraduates"
+      ]
+    },
+    "cityLife": {
+      "description": "Cambridge is a compact, bicycle-friendly city with an exceptional science and technology cluster — Silicon Fen. AstraZeneca's global HQ is at the Cambridge Biomedical Campus. The Wellcome Sanger Institute and dozens of tech startups are within cycling distance.",
+      "avgRentPerMonth": "£750–£950",
+      "costOfLiving": "High",
+      "transport": "45 minutes to London Kings Cross by train",
+      "highlights": [
+        "Cambridge Biomedical Campus (AstraZeneca HQ)",
+        "Fitzwilliam Museum",
+        "King's College Chapel",
+        "Botanical Garden"
+      ],
+      "nightlife": "Quieter than big-city universities but with a lively college social scene; Mill Road area has excellent independent restaurants."
+    },
+    "notableAlumni": [
+      "Isaac Newton — mathematician and physicist",
+      "Paul Dirac — Nobel Prize Physics (quantum mechanics)",
+      "G.H. Hardy — pioneering pure mathematician"
+    ],
+    "keyFacts": [
+      "#2 in QS World University Rankings 2024–25",
+      "DAMTP is the world's leading applied mathematics department",
+      "Cavendish Laboratory has produced 30 Nobel Prizes in Physics",
+      "Part III Mathematics is considered the most demanding one-year programme in the world"
+    ]
+  },
+  "imperial-college-london": {
+    "slug": "imperial-college-london",
+    "name": "Imperial College London",
+    "city": "London",
+    "overview": "Imperial College London is the UK's specialist science, engineering and medicine university, consistently ranked in the world's top 10. The Department of Physics and the Department of Mathematics are both world-leading research departments. Imperial's location in South Kensington, adjacent to the Natural History Museum and V&A, gives students access to London's enormous science and tech employment market.",
+    "founded": 1907,
+    "totalStudents": 19000,
+    "internationalStudents": "59%",
+    "campusType": "Specialist urban campus",
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "Imperial guarantees accommodation for all first-year students. Halls are primarily located in South Kensington and Paddington. All first-year students can live within cycling distance of campus.",
+      "avgWeeklyCost": "£160–£250",
+      "halls": [
+        "Beit Hall",
+        "Eastside Halls",
+        "Tizard Hall",
+        "Wilson House"
+      ],
+      "privateRentAreas": "Hammersmith, Putney, Ealing, Fulham"
+    },
+    "openDays": [
+      {
+        "date": "24 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "25 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "12 September 2026",
+        "type": "Undergraduate Open Day"
+      }
+    ],
+    "application": {
+      "ucasCode": "F303 (Physics MPhys) / G100 (Mathematics BSc/MSci)",
+      "contextualOffers": false,
+      "interviewRequired": false,
+      "personalStatementTips": [
+        "Demonstrate deep engagement with the subject — cite specific areas of physics or mathematics that excite you",
+        "Imperial values research potential — mention any independent projects, olympiad participation or extended reading",
+        "Show awareness of the research carried out at Imperial's research groups",
+        "Strong A* in Mathematics is required — evidence your mathematical ability clearly"
+      ],
+      "typicalTimeline": "UCAS standard deadline (January). No entrance test or interview for most applicants. Conditional offer made after UCAS application."
+    },
+    "studentLife": {
+      "union": "Imperial College Union — very active with 300+ clubs and societies",
+      "societiesCount": "300+",
+      "sportsTeams": "60+",
+      "highlights": [
+        "Strong international student community",
+        "Excellent links to London tech and finance employers",
+        "Science Fiction Society and Physics Society are particularly active",
+        "Annual Science Challenge competition"
+      ]
+    },
+    "cityLife": {
+      "description": "South Kensington is one of London's most prestigious areas, adjacent to the Natural History Museum, Science Museum and V&A. The entire London economy — finance, tech, biotech, consulting — is accessible by Tube.",
+      "avgRentPerMonth": "£1,000–£1,400",
+      "costOfLiving": "Very High",
+      "transport": "South Kensington Underground station on Piccadilly, District and Circle lines; direct to Heathrow",
+      "highlights": [
+        "Natural History Museum (free)",
+        "Science Museum (free)",
+        "Royal Albert Hall",
+        "Hyde Park"
+      ],
+      "nightlife": "The full range of London nightlife within 30 minutes; campus social scene through ICU."
+    },
+    "notableAlumni": [
+      "Alexander Fleming — Nobel Prize, discovered penicillin",
+      "H.G. Wells — studied biology at what became Imperial",
+      "Abdus Salam — Nobel Prize Physics"
+    ],
+    "keyFacts": [
+      "#8 in QS World University Rankings 2024–25",
+      "Department of Physics has 6 Nobel Prize winners",
+      "Leading UK university for graduate employment and starting salary",
+      "Strong CERN and ESA research collaborations"
+    ]
+  },
+  "durham": {
+    "slug": "durham",
+    "name": "Durham University",
+    "city": "Durham",
+    "overview": "Durham University is a world-class collegiate university in northeast England, consistently ranked in the UK top 10. Its Department of Physics is particularly highly regarded — ranked 3rd–5th in the UK most years for physics. The Department of Mathematical Sciences is also excellent. Durham's collegiate system creates a strong community atmosphere, and the cathedral city location is exceptionally beautiful.",
+    "founded": 1832,
+    "totalStudents": 22000,
+    "internationalStudents": "35%",
+    "campusType": "Collegiate city campus",
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "Durham guarantees accommodation for all first-year students through its college system. Most students live in their college for at least the first year. Durham has 17 colleges, each with their own accommodation and social facilities.",
+      "avgWeeklyCost": "£120–£190",
+      "halls": [
+        "Collingwood College",
+        "Van Mildert College",
+        "St John's College",
+        "Hatfield College"
+      ],
+      "privateRentAreas": "Gilesgate, Neville's Cross, Framwellgate Moor"
+    },
+    "openDays": [
+      {
+        "date": "26 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "27 June 2026",
+        "type": "Undergraduate Open Day"
+      }
+    ],
+    "application": {
+      "ucasCode": "F303 (Physics MPhys) / G100 (Mathematics BSc/MMath)",
+      "contextualOffers": false,
+      "interviewRequired": false,
+      "personalStatementTips": [
+        "Durham values enthusiasm for the subject and intellectual depth — show you have read beyond A-level",
+        "For Physics: mention specific areas such as astrophysics, particle physics or condensed matter",
+        "For Mathematics: demonstrate interest in proof-based mathematics and problem-solving",
+        "Note that Durham's Physics and Maths are both very strong — it is genuinely one of the UK's top departments"
+      ],
+      "typicalTimeline": "UCAS standard January deadline. No entrance test. Conditional offers typically A*AA."
+    },
+    "studentLife": {
+      "union": "Durham Students Union; college JCRs are also very active",
+      "societiesCount": "250+",
+      "sportsTeams": "70+",
+      "highlights": [
+        "Collegiate system creates close-knit communities",
+        "Strong rowing and sports tradition",
+        "Durham Castle and Cathedral make for a stunning backdrop",
+        "Ogden Centre for Fundamental Physics hosts public lectures"
+      ]
+    },
+    "cityLife": {
+      "description": "Durham is a small, beautiful city centred on its UNESCO World Heritage Castle and Cathedral. It is well-connected to Newcastle (20 min by train) and has a lively student social scene despite its small size.",
+      "avgRentPerMonth": "£550–£750",
+      "costOfLiving": "Medium",
+      "transport": "Durham rail station; 20 min to Newcastle, 2.5 hours to London",
+      "highlights": [
+        "Durham Cathedral (UNESCO)",
+        "Durham Castle",
+        "Botanic Garden",
+        "Riverside walks"
+      ],
+      "nightlife": "Smaller but lively student scene; college bars form the social heart; Newcastle is 20 min away for bigger nights out."
+    },
+    "notableAlumni": [
+      "Tim Berners-Lee studied at Oxford, but Durham has strong physics alumni in CERN leadership",
+      "Multiple IPPP graduates now lead particle physics experiments globally"
+    ],
+    "keyFacts": [
+      "Consistently #3–5 in UK for Physics (CUG)",
+      "IPPP (Institute for Particle Physics Phenomenology) is a world-leading research centre",
+      "The Ogden Centre for Fundamental Physics funds outreach and research",
+      "Collegiate system provides exceptional community experience"
+    ]
+  },
+  "edinburgh": {
+    "slug": "edinburgh",
+    "name": "University of Edinburgh",
+    "city": "Edinburgh",
+    "overview": "The University of Edinburgh is Scotland's most prestigious university and one of the UK's elite institutions. The Schools of Physics and Mathematics are both excellent, with the Higgs Centre for Theoretical Physics (named after Peter Higgs, Nobel 2013, an Edinburgh professor) providing world-class theoretical physics research. The Maxwell Institute for Mathematical Sciences links Edinburgh and Heriot-Watt for research. Edinburgh's 4-year Scottish Honours degree structure is an advantage.",
+    "founded": 1583,
+    "totalStudents": 42000,
+    "internationalStudents": "44%",
+    "campusType": "City campus",
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "Edinburgh guarantees accommodation for most first-year students. Halls are spread across the city, with many close to the science campus. Scottish degree structure means 4 years — accommodation planning covers the full programme.",
+      "avgWeeklyCost": "£130–£200",
+      "halls": [
+        "Pollock Halls",
+        "Buccleuch Place",
+        "Holland House",
+        "Salisbury Green"
+      ],
+      "privateRentAreas": "Marchmont, Bruntsfield, Newington, Leith"
+    },
+    "openDays": [
+      {
+        "date": "22 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "26 September 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "24 October 2026",
+        "type": "Undergraduate Open Day"
+      }
+    ],
+    "application": {
+      "ucasCode": "F303 (Physics MPhys) / G100 (Mathematics MA Hons)",
+      "contextualOffers": true,
+      "interviewRequired": false,
+      "personalStatementTips": [
+        "Edinburgh's 4-year Scottish Honours structure offers broader exploration in Year 1 — mention this if you appreciate the flexibility",
+        "Higgs Centre for Theoretical Physics — mention if you have interests in theoretical physics",
+        "Maxwell Institute — mention if interested in mathematical physics or pure mathematics research",
+        "Show awareness of Edinburgh's reputation as a tech hub — 'Silicon Glen' has many graduate employers"
+      ],
+      "typicalTimeline": "UCAS January deadline. No entrance test. Scottish Highers with AAA in relevant subjects also accepted."
+    },
+    "studentLife": {
+      "union": "Edinburgh University Students Association (EUSA) — very active",
+      "societiesCount": "300+",
+      "sportsTeams": "80+",
+      "highlights": [
+        "Edinburgh Festival — the world's largest arts festival each August",
+        "Strong physics and mathematics societies",
+        "Hiking and outdoor pursuits nearby (Highlands easily accessible)",
+        "Vibrant city with thriving independent music and arts scene"
+      ]
+    },
+    "cityLife": {
+      "description": "Edinburgh is the UK's most beautiful capital city, with a thriving tech and financial services sector — 'Silicon Glen' has major employers including Skyscanner, FanDuel and Barclays. The cost of living is significantly lower than London while maintaining a world-class city experience.",
+      "avgRentPerMonth": "£650–£900",
+      "costOfLiving": "Medium-High",
+      "transport": "Edinburgh Waverley station; 4.5 hours to London King's Cross; Edinburgh Airport direct to major European cities",
+      "highlights": [
+        "Edinburgh Castle",
+        "Royal Mile",
+        "Holyrood Park",
+        "National Museum of Scotland (free)"
+      ],
+      "nightlife": "World-class nightlife and cultural scene; George Street and Cowgate both lively; Meadows area popular with students."
+    },
+    "notableAlumni": [
+      "Peter Higgs — Nobel Prize Physics 2013 (Higgs boson), Edinburgh professor",
+      "James Clerk Maxwell — formulated electromagnetism, Edinburgh graduate",
+      "Max Born — Nobel Prize Physics, quantum mechanics pioneer at Edinburgh"
+    ],
+    "keyFacts": [
+      "Higgs Centre for Theoretical Physics named after Edinburgh Nobel laureate Peter Higgs",
+      "Maxwell Institute for Mathematical Sciences links Edinburgh and Heriot-Watt",
+      "4-year Scottish Honours provides broader Year 1 — excellent for undecided students",
+      "Edinburgh is a growing tech and data science hub — 'Silicon Glen'"
+    ]
+  },
+  "warwick": {
+    "slug": "warwick",
+    "name": "University of Warwick",
+    "city": "Coventry",
+    "overview": "The University of Warwick has one of the UK's strongest mathematics departments — the Warwick Mathematics Institute is internationally renowned, and the famous MORSE degree (Mathematics, Operational Research, Statistics and Economics) is the most employer-valued maths programme in the UK. The Physics department is also excellent. Warwick's campus is a hub of research activity and has exceptionally strong employer links.",
+    "founded": 1965,
+    "totalStudents": 27000,
+    "internationalStudents": "40%",
+    "campusType": "Campus university",
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "Warwick guarantees first-year accommodation on campus. The campus has extensive residential facilities with both catered and self-catered options. A car is not needed — everything is on campus.",
+      "avgWeeklyCost": "£120–£185",
+      "halls": [
+        "Rootes",
+        "Benefactors",
+        "Lakeside",
+        "Arthur Vick",
+        "Cryfield"
+      ],
+      "privateRentAreas": "Coventry city centre, Leamington Spa, Kenilworth"
+    },
+    "openDays": [
+      {
+        "date": "20 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "27 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "10 October 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "24 October 2026",
+        "type": "Undergraduate Open Day"
+      }
+    ],
+    "application": {
+      "ucasCode": "G100 (Mathematics) / F303 (Physics MPhys)",
+      "contextualOffers": false,
+      "interviewRequired": false,
+      "personalStatementTips": [
+        "Warwick values mathematical enthusiasm and evidence of independent engagement — cite competition mathematics, reading or extra work",
+        "MORSE: show both mathematical and economic/statistical interest — it is a genuinely multidisciplinary degree",
+        "Physics: mention interest in condensed matter, particle physics or quantum technologies given Warwick's research strengths",
+        "A* in Mathematics is required at A-level — ensure this is clearly signalled"
+      ],
+      "typicalTimeline": "UCAS January deadline. No entrance test for most programmes. A*AA typical offer."
+    },
+    "studentLife": {
+      "union": "Warwick Students Union — one of the UK's largest and best-resourced",
+      "societiesCount": "300+",
+      "sportsTeams": "80+",
+      "highlights": [
+        "Warwick Arts Centre — one of the UK's leading arts venues",
+        "Strong society scene across all interests",
+        "Campus lake and grounds are pleasant",
+        "Warwick is well-connected to both Coventry and Birmingham"
+      ]
+    },
+    "cityLife": {
+      "description": "Warwick's campus is located between Coventry and Leamington Spa — a pleasant small town popular with students. Birmingham is 40 minutes away, providing a major city employment market. Leamington Spa has a strong graduate tech and engineering sector.",
+      "avgRentPerMonth": "£600–£800",
+      "costOfLiving": "Medium",
+      "transport": "Coventry station (close to campus); 50 min to Birmingham New Street; 1.5 hours to London Euston",
+      "highlights": [
+        "Warwick Arts Centre",
+        "Leamington Spa town centre",
+        "Kenilworth Castle",
+        "Stratford-upon-Avon (20 min)"
+      ],
+      "nightlife": "On-campus SU is very active; Leamington Spa and Coventry both offer student-friendly options."
+    },
+    "notableAlumni": [
+      "Multiple FTSE 100 CEOs are Warwick Mathematics alumni",
+      "Warwick MORSE graduates dominate Goldman Sachs, McKinsey and BCG graduate intakes"
+    ],
+    "keyFacts": [
+      "Warwick MORSE is the most employer-sought maths degree in the UK",
+      "Warwick Mathematics Institute is globally top-50 for pure mathematics",
+      "Warwick HEP group is a major CERN contributor",
+      "Warwick graduates have consistently highest starting salaries among UK universities"
+    ]
+  },
+  "bristol": {
+    "slug": "bristol",
+    "name": "University of Bristol",
+    "city": "Bristol",
+    "overview": "The University of Bristol is a Russell Group university with world-class Physics and Mathematics departments. Bristol Quantum Information Institute is a leading centre for quantum computing research. The Physics department has strong research in particle physics, condensed matter and quantum optics. The School of Mathematics covers pure maths, applied maths and statistics. Bristol is a vibrant and culturally rich city, consistently one of the UK's most popular student destinations.",
+    "founded": 1909,
+    "totalStudents": 28000,
+    "internationalStudents": "33%",
+    "campusType": "City campus",
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "Bristol guarantees accommodation for all first-year undergraduates. University halls are located in Clifton, Stoke Bishop and around the university precinct in the city centre.",
+      "avgWeeklyCost": "£125–£190",
+      "halls": [
+        "Wills Hall",
+        "Hiatt Baker Hall",
+        "Churchill Hall",
+        "Manor Hall",
+        "Clifton Hill House"
+      ],
+      "privateRentAreas": "Clifton, Redland, Cotham, Stokes Croft, Bedminster"
+    },
+    "openDays": [
+      {
+        "date": "12 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "13 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "31 October 2026",
+        "type": "Undergraduate Open Day"
+      }
+    ],
+    "application": {
+      "ucasCode": "F303 (Physics MPhys) / G100 (Mathematics BSc/MMath)",
+      "contextualOffers": true,
+      "interviewRequired": false,
+      "personalStatementTips": [
+        "Bristol values intellectual curiosity — show you have engaged with physics or maths beyond the classroom",
+        "Physics: Bristol Quantum Information Institute is world-leading — mention if quantum computing excites you",
+        "Mathematics: Bristol is strong in topology, algebraic geometry and applied maths — show engagement with proof",
+        "Bristol also accepts contextual offers — see the university website for eligibility"
+      ],
+      "typicalTimeline": "UCAS January deadline. No entrance test. AAA–A*AA typical offer."
+    },
+    "studentLife": {
+      "union": "Bristol Students Union — very active",
+      "societiesCount": "200+",
+      "sportsTeams": "60+",
+      "highlights": [
+        "Bristol's city-wide culture — music, arts, food, Clifton Suspension Bridge",
+        "Strong physics and mathematics societies with regular talks",
+        "Excellent for outdoor pursuits — Mendip Hills and Cotswolds close by",
+        "Highly rated for student satisfaction"
+      ]
+    },
+    "cityLife": {
+      "description": "Bristol is one of the UK's most vibrant cities — famous for its music scene, independent food and arts culture, and Clifton's Georgian architecture. It is also a major tech, aerospace (Airbus) and financial services employer hub.",
+      "avgRentPerMonth": "£700–£950",
+      "costOfLiving": "Medium-High",
+      "transport": "Bristol Temple Meads to London Paddington 1.5 hours; Bristol Airport direct European connections",
+      "highlights": [
+        "Clifton Suspension Bridge",
+        "SS Great Britain",
+        "Bristol Museum & Art Gallery",
+        "Harbourside"
+      ],
+      "nightlife": "Extremely vibrant — Stokes Croft, Clifton Triangle and the Harbourside have excellent venues for all tastes."
+    },
+    "notableAlumni": [
+      "Paul Dirac — Nobel Prize Physics, studied and lectured at Bristol",
+      "Winston Churchill — honorary graduate",
+      "Peter Higgs — undergraduate at Bristol before moving to Edinburgh"
+    ],
+    "keyFacts": [
+      "Bristol Quantum Information Institute is a world-leading quantum computing centre",
+      "Paul Dirac (quantum mechanics pioneer) studied and lectured at Bristol",
+      "Strong aerospace links to Airbus and Rolls-Royce in the Bristol area",
+      "Consistently in top 10 for student satisfaction"
+    ]
+  },
+  "st-andrews": {
+    "slug": "st-andrews",
+    "name": "University of St Andrews",
+    "city": "St Andrews",
+    "overview": "The University of St Andrews is Scotland's oldest university and one of the UK's most prestigious. Its Physics department is consistently ranked in the top 3 in the UK — outstanding for a relatively small university. The School of Mathematics and Statistics is also highly regarded. St Andrews' small, close-knit campus community and location on the Fife coast create a uniquely intense academic and social environment. Prince William and Kate Middleton met here.",
+    "founded": 1413,
+    "totalStudents": 10000,
+    "internationalStudents": "45%",
+    "campusType": "Small campus town",
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "St Andrews guarantees accommodation for all first-year students. The town is small and most students live within walking distance of all university facilities. Scottish 4-year degree means students have longer to settle into the community.",
+      "avgWeeklyCost": "£110–£175",
+      "halls": [
+        "Andrew Melville Hall",
+        "David Russell Apartments",
+        "McIntosh Hall",
+        "Agnes Blackadder Hall"
+      ],
+      "privateRentAreas": "North Street, South Street, The Scores, Argyle Street"
+    },
+    "openDays": [
+      {
+        "date": "27 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "Autumn 2026 - dates TBC",
+        "type": "Undergraduate Open Day"
+      }
+    ],
+    "application": {
+      "ucasCode": "F303 (Physics MPhys) / G100 (Mathematics BSc Hons)",
+      "contextualOffers": false,
+      "interviewRequired": false,
+      "personalStatementTips": [
+        "St Andrews values academic enthusiasm — show you have engaged with physics or mathematics beyond A-level",
+        "Physics: St Andrews is strong in photonics, astrophysics and condensed matter — mention these if relevant",
+        "Mathematics: Scottish 4-year structure with broad Year 1 suits students who want to explore before specialising",
+        "St Andrews' small size means you will have genuine access to academics — show awareness of this"
+      ],
+      "typicalTimeline": "UCAS January deadline. Scottish Highers accepted with Advanced Highers in Physics/Maths. No entrance test."
+    },
+    "studentLife": {
+      "union": "Students Association — very active given small size",
+      "societiesCount": "150+",
+      "sportsTeams": "40+",
+      "highlights": [
+        "Unique traditions: Pier Walk, Red Gown tradition, Kate Kennedy procession",
+        "Extremely close-knit community — you will know your year group well",
+        "Strong outdoor pursuits — coastal walks, golf (birthplace of golf)",
+        "Small class sizes mean genuine contact with academics"
+      ]
+    },
+    "cityLife": {
+      "description": "St Andrews is a small coastal town in Fife, Scotland. It is genuinely unique — essentially the entire town revolves around the university. It is beautiful but very small; students should embrace the community atmosphere. Edinburgh is 1 hour away for city life.",
+      "avgRentPerMonth": "£550–£750",
+      "costOfLiving": "Medium",
+      "transport": "No railway station — Leuchars station (10 min bus); Edinburgh Airport 1 hour; Dundee 40 min",
+      "highlights": [
+        "St Andrews Cathedral ruins",
+        "West Sands beach (Chariots of Fire)",
+        "St Andrews Golf Course",
+        "East Neuk fishing villages nearby"
+      ],
+      "nightlife": "Small but very lively student scene — the whole town is the student social scene; regular events at the Students Association."
+    },
+    "notableAlumni": [
+      "John Napier (logarithms) — connections to the region",
+      "Multiple Nobel physics laureates visited/worked at St Andrews",
+      "Currently training several CERN-affiliated physics PhDs"
+    ],
+    "keyFacts": [
+      "Physics consistently #2–3 in UK (CUG) despite small size",
+      "Scotland's oldest university (founded 1413)",
+      "Strong photonics and biophotonics research centre",
+      "Small cohorts mean exceptional access to world-class academics"
+    ]
+  },
+  "bath": {
+    "slug": "bath",
+    "name": "University of Bath",
+    "city": "Bath",
+    "overview": "The University of Bath is one of the UK's most highly regarded non-Russell-Group universities, famous above all for its industrial placement programme — the best in the country. Physics and Mathematics departments are consistently top-15 in the UK, and Bath's MPhys and MMath with Year in Industry options are the most highly regarded placement degrees. Rolls-Royce, Dyson, BAE Systems and Goldman Sachs are regular hosts.",
+    "founded": 1966,
+    "totalStudents": 22000,
+    "internationalStudents": "30%",
+    "campusType": "Campus university",
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "Bath guarantees first-year accommodation on campus. The campus is self-contained on Claverton Down with panoramic views over the city. Frequent bus services connect to the city centre.",
+      "avgWeeklyCost": "£120–£185",
+      "halls": [
+        "Eastwood",
+        "Westwood",
+        "Brendon",
+        "Solsbury House",
+        "Norwood House"
+      ],
+      "privateRentAreas": "Oldfield Park, Twerton, Southdown, Newbridge"
+    },
+    "openDays": [
+      {
+        "date": "12 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "13 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "10 October 2026",
+        "type": "Undergraduate Open Day"
+      }
+    ],
+    "application": {
+      "ucasCode": "F303 (Physics MPhys) / G100 (Mathematics BSc/MMath)",
+      "contextualOffers": false,
+      "interviewRequired": false,
+      "personalStatementTips": [
+        "Bath is famous for its placement programme — mention if you are specifically interested in industrial experience",
+        "Physics: strong photonics and applied physics research — show interest in applied/experimental aspects",
+        "Mathematics: Bath is strong in numerical analysis and statistics — demonstrate applied maths interest",
+        "Show commercial awareness — Bath values graduates who understand industry as well as academia"
+      ],
+      "typicalTimeline": "UCAS January deadline. No entrance test. AAB–A*AA typical offer depending on programme."
+    },
+    "studentLife": {
+      "union": "Bath Students Union — very active",
+      "societiesCount": "200+",
+      "sportsTeams": "60+",
+      "highlights": [
+        "Excellent sports facilities — Bath is home to Bath Rugby Club",
+        "Year in Industry networking events are very well attended",
+        "Strong placement alumni network",
+        "The city of Bath is one of England's most beautiful"
+      ]
+    },
+    "cityLife": {
+      "description": "Bath is a UNESCO World Heritage City — one of the most beautiful small cities in England. It has a thriving tech and professional services sector. The cost of living is moderate by southern England standards, and the city is well-connected to Bristol and London.",
+      "avgRentPerMonth": "£700–£900",
+      "costOfLiving": "Medium-High",
+      "transport": "Bath Spa station: 1.5 hours to London Paddington; 15 min to Bristol Temple Meads",
+      "highlights": [
+        "Roman Baths",
+        "Royal Crescent",
+        "Pulteney Bridge",
+        "Bath Abbey"
+      ],
+      "nightlife": "Lively but not overwhelming — good mix of pubs, restaurants and clubs; Bristol easily accessible for larger nights out."
+    },
+    "notableAlumni": [
+      "Multiple former students now lead FTSE 100 companies — Bath placement alumni are prominent in industry",
+      "Strong representation in Rolls-Royce, BAE Systems and Goldman Sachs graduate programmes"
+    ],
+    "keyFacts": [
+      "Best placement programme in the UK — Bath is synonymous with industrial placements",
+      "Physics and Mathematics both consistently top 15 in the UK",
+      "Bath graduates have some of the highest starting salaries among non-Russell-Group universities",
+      "Beautiful UNESCO city campus on Claverton Down"
+    ]
+  },
+  "surrey": {
+    "slug": "surrey",
+    "name": "University of Surrey",
+    "city": "Guildford",
+    "overview": "The University of Surrey is renowned for its Professional Training Year — one of the UK's oldest and best-regarded sandwich placement programmes. Surrey's Physics department has particular expertise in Medical Physics (the longest-running medical physics degree in the UK) and space science. The Mathematics department is strong in statistics and applied mathematics. Surrey graduates are among the most industry-ready in the country.",
+    "founded": 1891,
+    "totalStudents": 16000,
+    "internationalStudents": "29%",
+    "campusType": "Campus university",
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "Surrey guarantees first-year accommodation on its compact Guildford campus. The campus is self-contained and has a strong community feel. The Professional Training Year means most students spend Year 3 off campus at their employer.",
+      "avgWeeklyCost": "£115–£175",
+      "halls": [
+        "Hazel Farm",
+        "Stag Hill Court",
+        "Cathedral Court",
+        "Surrey Court"
+      ],
+      "privateRentAreas": "Guildford town centre, Onslow Village, Park Barn"
+    },
+    "openDays": [
+      {
+        "date": "20 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "12 September 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "11 October 2026",
+        "type": "Undergraduate Open Day"
+      }
+    ],
+    "application": {
+      "ucasCode": "B611 (Medical Physics) / F303 (Physics) / G100 (Mathematics)",
+      "contextualOffers": false,
+      "interviewRequired": false,
+      "personalStatementTips": [
+        "Surrey is the placement university — mention that professional experience is important to you",
+        "Medical Physics: Surrey runs the UK's oldest medical physics degree; show IPEM awareness and NHS interest",
+        "The Professional Training Year is a major differentiator — employers know and respect it",
+        "Show awareness of Surrey's industry partner network (Airbus, Rolls-Royce, Samsung UK)"
+      ],
+      "typicalTimeline": "UCAS January deadline. No entrance test. AAB typical offer."
+    },
+    "studentLife": {
+      "union": "Surrey Students Union — very active",
+      "societiesCount": "150+",
+      "sportsTeams": "50+",
+      "highlights": [
+        "Surrey Space Centre research facility on campus",
+        "Excellent links to defence and space employers in the Guildford/Farnborough area",
+        "Strong Professional Training alumni network",
+        "PATS (Professional Training) students are very well supported"
+      ]
+    },
+    "cityLife": {
+      "description": "Guildford is an affluent commuter town in Surrey, 35 minutes from London Waterloo. It has a prosperous local economy with major employers including Airbus Defence (nearby Farnborough), McLaren and Samsung UK. House prices and rent are high relative to northern universities.",
+      "avgRentPerMonth": "£750–£1,000",
+      "costOfLiving": "High",
+      "transport": "Guildford station: 35 min to London Waterloo; Heathrow accessible",
+      "highlights": [
+        "Guildford Cathedral",
+        "Guildford Castle",
+        "North Downs Way",
+        "Box Hill (NT)"
+      ],
+      "nightlife": "Moderate student scene; London easily accessible for bigger nights out."
+    },
+    "notableAlumni": [
+      "Multiple IPEM-registered Medical Physicists trained at Surrey",
+      "Surrey space science graduates lead satellite projects at Airbus and RAL Space"
+    ],
+    "keyFacts": [
+      "Longest-running Medical Physics degree in the UK",
+      "Professional Training Year is rated Outstanding by employers",
+      "Surrey Space Centre operates satellites from campus",
+      "35 minutes to London — excellent for placement and graduate employment access"
+    ]
+  },
+  "hertfordshire": {
+    "slug": "university-of-hertfordshire",
+    "name": "University of Hertfordshire",
+    "city": "Hatfield",
+    "overview": "The University of Hertfordshire has a strong Astrophysics and Space Science department, benefiting from its location near the UK aerospace cluster in Hertfordshire — Airbus Defence & Space is based in nearby Stevenage and de Havilland (the original aircraft manufacturer) was based on campus. The university offers accessible entry requirements while providing strong links to space industry employment.",
+    "founded": 1952,
+    "totalStudents": 25000,
+    "internationalStudents": "30%",
+    "campusType": "Campus university",
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "Hertfordshire guarantees accommodation for all first-year students on its de Havilland and College Lane campuses. Both campuses have purpose-built halls with modern facilities.",
+      "avgWeeklyCost": "£100–£155",
+      "halls": [
+        "de Havilland Campus Halls",
+        "College Lane Halls"
+      ],
+      "privateRentAreas": "Hatfield, St Albans, Welwyn Garden City"
+    },
+    "openDays": [
+      {
+        "date": "12 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "13 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "Autumn 2026 - TBC",
+        "type": "Undergraduate Open Day"
+      }
+    ],
+    "application": {
+      "ucasCode": "F510 (Astrophysics BSc)",
+      "contextualOffers": true,
+      "interviewRequired": false,
+      "personalStatementTips": [
+        "Hertfordshire is accessible and welcoming — show enthusiasm for astrophysics and space science",
+        "Mention interest in the space industry — Airbus and RAL Space are nearby employers",
+        "The on-campus observatory is a major asset — show interest in practical observational astronomy",
+        "Contextual offers available — check the university website for eligibility"
+      ],
+      "typicalTimeline": "UCAS standard deadline. BCC typical offer — accessible for students with lower predicted grades."
+    },
+    "studentLife": {
+      "union": "UH Students Union — active",
+      "societiesCount": "100+",
+      "sportsTeams": "30+",
+      "highlights": [
+        "Campus Observatory open to students",
+        "Proximity to London (25 min by train) for cultural and employment access",
+        "Strong links to aerospace and space employers in the local area"
+      ]
+    },
+    "cityLife": {
+      "description": "Hatfield is a post-war new town in Hertfordshire, 25 minutes from London by train. It is not a particularly exciting city but has strong employment links to the aerospace industry and easy London access.",
+      "avgRentPerMonth": "£600–£800",
+      "costOfLiving": "Medium-High",
+      "transport": "Hatfield rail station: 25 min to London Kings Cross",
+      "highlights": [
+        "Hatfield House (historic stately home)",
+        "London easily accessible",
+        "Airbus/de Havilland Aviation Museum on campus area"
+      ],
+      "nightlife": "Limited in Hatfield itself; St Albans (15 min) has a good pub scene; London easily accessible."
+    },
+    "notableAlumni": [
+      "Multiple graduates now work at Airbus Defence and ESA-related organisations"
+    ],
+    "keyFacts": [
+      "Campus observatory used for undergraduate research",
+      "Airbus Defence & Space based 5 miles away in Stevenage",
+      "25 minutes to London — excellent employment access",
+      "BCC entry — one of the most accessible astrophysics degrees in the UK"
+    ]
+  },
+  "keele": {
+    "slug": "keele",
+    "name": "Keele University",
+    "city": "Keele",
+    "overview": "Keele University is a distinctive campus university in Staffordshire, known for its dual-honours degree system — almost all students study two subjects in their first year. The Astrophysics department has its own campus observatory, making it one of the few UK universities where students get hands-on telescope time from Year 1. Keele offers smaller class sizes and a friendly campus community. Entry requirements are accessible.",
+    "founded": 1949,
+    "totalStudents": 12000,
+    "internationalStudents": "25%",
+    "campusType": "Campus university",
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "Keele guarantees accommodation for all first-year students on its large, self-contained campus. The campus includes its own shops, medical centre, sports facilities and the astrophysics observatory.",
+      "avgWeeklyCost": "£100–£150",
+      "halls": [
+        "Chancellor's Building",
+        "Hawthorns",
+        "Horwood",
+        "Rushock"
+      ],
+      "privateRentAreas": "Newcastle-under-Lyme, Keele village, Stoke-on-Trent"
+    },
+    "openDays": [
+      {
+        "date": "26 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "27 June 2026",
+        "type": "Undergraduate Open Day"
+      }
+    ],
+    "application": {
+      "ucasCode": "F511 (Astrophysics BSc/MPhys) / F3F5 (Physics with Astrophysics)",
+      "contextualOffers": true,
+      "interviewRequired": false,
+      "personalStatementTips": [
+        "Keele's dual-honours system is unique — if you are applying for Astrophysics with another subject, explain both interests",
+        "Show genuine interest in practical astronomy — the on-campus observatory is a genuine asset",
+        "Keele is welcoming to students with non-traditional backgrounds — show enthusiasm above all",
+        "BBB entry makes Keele accessible for students who may not achieve AAB"
+      ],
+      "typicalTimeline": "UCAS standard deadline. BBB typical offer — accessible entry."
+    },
+    "studentLife": {
+      "union": "Keele Students Union — very active for the university size",
+      "societiesCount": "100+",
+      "sportsTeams": "30+",
+      "highlights": [
+        "Unique campus observatory — hands-on telescope time from Year 1",
+        "Small cohorts mean genuine relationships with staff",
+        "Strong dual-honours tradition allows genuine breadth",
+        "Beautiful campus grounds — one of the largest in the UK"
+      ]
+    },
+    "cityLife": {
+      "description": "Keele campus is self-contained and rural, between Newcastle-under-Lyme and Stoke-on-Trent. This suits students who want a strong campus community. Manchester (1 hour) and Birmingham (1 hour) are accessible for city life.",
+      "avgRentPerMonth": "£450–£650",
+      "costOfLiving": "Low",
+      "transport": "Newcastle-under-Lyme station (3 miles); Manchester 1 hour; Birmingham 1 hour",
+      "highlights": [
+        "Keele campus grounds",
+        "Trentham Gardens (5 miles)",
+        "Peak District National Park accessible"
+      ],
+      "nightlife": "Campus bar and SU are the social heart; Stoke and Newcastle-under-Lyme have student pubs; Manchester easily accessible."
+    },
+    "notableAlumni": [
+      "Several Keele Astrophysics alumni now work at ESA and national observatories"
+    ],
+    "keyFacts": [
+      "On-campus observatory — hands-on practical astronomy from Year 1",
+      "Unique dual-honours system — combine astrophysics with another subject",
+      "BBB entry — one of the most accessible astrophysics degrees in the UK",
+      "Beautiful large campus grounds in Staffordshire"
+    ]
+  },
+  "university-college-london": {
+    "slug": "university-college-london",
+    "name": "University College London",
+    "city": "London",
+    "overview": "University College London is the UK's third-largest university and one of the world's top research institutions. UCL Physics has world-leading groups in astrophysics, space science (Mullard Space Science Laboratory) and particle physics. The Mathematics Department is very strong across analysis, geometry and number theory. UCL's Bloomsbury location puts students at the heart of London's academic, cultural and employment landscape.",
+    "founded": 1826,
+    "totalStudents": 43000,
+    "internationalStudents": "50%",
+    "campusType": "Urban campus",
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "UCL guarantees accommodation for most first-year students. Halls are spread across central London — Bloomsbury, Notting Hill, Hampstead. London location means the private rental market is large but expensive.",
+      "avgWeeklyCost": "£160–£250",
+      "halls": [
+        "Ramsay Hall",
+        "Max Rayne House",
+        "Langton Close",
+        "Ifor Evans Hall"
+      ],
+      "privateRentAreas": "Islington, Hackney, Kentish Town, Harlesden"
+    },
+    "openDays": [
+      {
+        "date": "26 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "27 June 2026",
+        "type": "Undergraduate Open Day"
+      }
+    ],
+    "application": {
+      "ucasCode": "F303 (Physics MPhys) / G100 (Mathematics BSc/MSci)",
+      "contextualOffers": true,
+      "interviewRequired": false,
+      "personalStatementTips": [
+        "UCL Mullard Space Science Laboratory is the UK's largest university space research group — mention if space science excites you",
+        "UCL values research potential — show awareness of research groups working in your area of interest",
+        "London location: mention awareness of the employer opportunities this provides",
+        "DeepMind London is very close — if interested in AI and mathematics, mention this"
+      ],
+      "typicalTimeline": "UCAS January deadline. No entrance test. A*AA typical offer."
+    },
+    "studentLife": {
+      "union": "UCL Union — one of London's biggest and most active",
+      "societiesCount": "300+",
+      "sportsTeams": "80+",
+      "highlights": [
+        "London location — unmatched cultural and employment access",
+        "Strong physics and mathematics societies",
+        "UCL Portico and main campus are architecturally stunning",
+        "Excellent research seminars open to undergraduates"
+      ]
+    },
+    "cityLife": {
+      "description": "UCL is in Bloomsbury, central London — adjacent to the British Museum, close to the City, Soho and King's Cross. All of London's employer and cultural opportunities are on the doorstep. The cost is the trade-off.",
+      "avgRentPerMonth": "£1,000–£1,500",
+      "costOfLiving": "Very High",
+      "transport": "Several Underground lines within walking distance",
+      "highlights": [
+        "British Museum (free, 2 min walk)",
+        "Bloomsbury literary quarter",
+        "Regent's Park",
+        "The City of London financial district"
+      ],
+      "nightlife": "London's full range — West End, Shoreditch, Camden, South Bank — all accessible."
+    },
+    "notableAlumni": [
+      "Francis Crick — co-discovered DNA structure, UCL graduate",
+      "Mahatma Gandhi — studied law at UCL",
+      "Ramsay MacDonald — first Labour Prime Minister"
+    ],
+    "keyFacts": [
+      "UCL Mullard Space Science Laboratory — UK's largest university space group",
+      "Central London location — unmatched employer access",
+      "UCL was the first university to admit students regardless of religion",
+      "Strong research links to DeepMind, CERN and ESA"
+    ]
+  },
+  "southampton": {
+    "slug": "southampton",
+    "name": "University of Southampton",
+    "city": "Southampton",
+    "overview": "The University of Southampton has world-leading departments in Physics (particularly optoelectronics, photonics and quantum science) and Mathematics (strong in operational research and statistics). Southampton's optoelectronics group is globally recognised — technologies including fibre optic broadband and undersea cables were developed here. The university is also a UK hub for space science and the National Oceanography Centre is located in Southampton.",
+    "founded": 1952,
+    "totalStudents": 27000,
+    "internationalStudents": "32%",
+    "campusType": "Campus university",
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "Southampton guarantees first-year accommodation on its Highfield campus. Modern halls are clustered around the main campus. Southampton is one of the more affordable southern university cities.",
+      "avgWeeklyCost": "£120–£185",
+      "halls": [
+        "Chamberlain",
+        "Glen Eyre",
+        "Wessex Lane",
+        "Connaught"
+      ],
+      "privateRentAreas": "Portswood, Highfield, Bevois Valley, Shirley"
+    },
+    "openDays": [
+      {
+        "date": "27 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "28 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "27 September 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "11 October 2026",
+        "type": "Undergraduate Open Day"
+      }
+    ],
+    "application": {
+      "ucasCode": "F303 (Physics MPhys) / G100 (Mathematics BSc/MMath)",
+      "contextualOffers": true,
+      "interviewRequired": false,
+      "personalStatementTips": [
+        "Southampton's optoelectronics and photonics group is world-leading — mention if lasers, fibre optics or quantum photonics interest you",
+        "Southampton OR Group is world-leading in operational research — mention if OR or statistics appeals",
+        "National Oceanography Centre provides exceptional opportunities for applied physics and geophysics",
+        "Show awareness of the strong placement opportunities Southampton provides"
+      ],
+      "typicalTimeline": "UCAS January deadline. No entrance test. AAA–A*AA typical offer."
+    },
+    "studentLife": {
+      "union": "Southampton University Students Union — very active",
+      "societiesCount": "200+",
+      "sportsTeams": "60+",
+      "highlights": [
+        "Strong physics and mathematics societies",
+        "Close to New Forest National Park and Jurassic Coast",
+        "Southampton's port heritage makes it unique — large international student community",
+        "Regular industry talks from photonics and maritime technology employers"
+      ]
+    },
+    "cityLife": {
+      "description": "Southampton is a medium-sized port city on the south coast, with easy access to the New Forest and Isle of Wight. It has a growing tech and creative industry sector. Portsmouth and Winchester are nearby alternatives.",
+      "avgRentPerMonth": "£600–£800",
+      "costOfLiving": "Medium",
+      "transport": "Southampton Central station: 1.5 hours to London Waterloo; Southampton Airport",
+      "highlights": [
+        "New Forest National Park (30 min)",
+        "Solent Way coastal walks",
+        "SeaCity Museum",
+        "Southampton FC and Saints history"
+      ],
+      "nightlife": "Active student scene in Portswood and the city centre; The Joiners is a legendary music venue."
+    },
+    "notableAlumni": [
+      "Tim Berners-Lee — inventor of the World Wide Web, Southampton PhD",
+      "John Arlott — cricket commentator and poet, Southampton graduate"
+    ],
+    "keyFacts": [
+      "World-leading optoelectronics group — fibre broadband and undersea cable technology",
+      "Southampton OR Group is globally top-5 for operational research",
+      "National Oceanography Centre co-located with the university",
+      "Tim Berners-Lee invented the World Wide Web during his Southampton PhD"
+    ]
+  },
+  "manchester": {
+    "slug": "manchester",
+    "name": "University of Manchester",
+    "city": "Manchester",
+    "overview": "The University of Manchester is a Russell Group institution with extraordinary scientific heritage. It is the birthplace of the electron (J.J. Thomson), the atom (Ernest Rutherford), graphene (Andre Geim and Konstantin Novoselov, Nobel 2010), and arguably the stored-programme computer (Alan Turing and Tom Kilburn). Manchester's Physics and Mathematics departments are both large and strong, with Jodrell Bank Observatory — home to the Lovell Telescope — as a flagship facility.",
+    "founded": 1824,
+    "totalStudents": 40000,
+    "internationalStudents": "38%",
+    "campusType": "City campus",
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "Manchester guarantees first-year accommodation on or near its Oxford Road campus. Halls are in Fallowfield, Victoria Park and Owens Park — an extensive student village.",
+      "avgWeeklyCost": "£115–£180",
+      "halls": [
+        "Owens Park",
+        "Whitworth Park",
+        "Piccadilly Place",
+        "Unsworth Park"
+      ],
+      "privateRentAreas": "Fallowfield, Withington, Chorlton, Levenshulme, Didsbury"
+    },
+    "openDays": [
+      {
+        "date": "27 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "4 July 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "3 October 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "10 October 2026",
+        "type": "Undergraduate Open Day"
+      }
+    ],
+    "application": {
+      "ucasCode": "F303 (Physics MPhys) / G100 (Mathematics BSc/MMath)",
+      "contextualOffers": true,
+      "interviewRequired": false,
+      "personalStatementTips": [
+        "Manchester has extraordinary physics heritage — show awareness of this and engage with it",
+        "Jodrell Bank is a remarkable asset; mention astrophysics interest if relevant",
+        "Alan Turing worked at Manchester — mention if interested in mathematics and computing",
+        "Manchester is also strong in condensed matter and graphene research — cite if relevant"
+      ],
+      "typicalTimeline": "UCAS January deadline. No entrance test. AAA typical offer."
+    },
+    "studentLife": {
+      "union": "Manchester Students Union — one of the UK's most famous and active",
+      "societiesCount": "300+",
+      "sportsTeams": "80+",
+      "highlights": [
+        "Manchester's music and culture scene is legendary (Oasis, The Smiths, Joy Division)",
+        "Fallowfield student village is lively and well-integrated",
+        "Jodrell Bank Observatory — students visit regularly",
+        "Strong STEM societies and hackathon culture"
+      ]
+    },
+    "cityLife": {
+      "description": "Manchester is the UK's second city in terms of economic output. It has a world-famous music, sport and arts scene, a thriving tech sector (MediaCityUK, Co-op Digital) and lower costs of living than London. Manchester is regularly voted the UK's favourite city by students.",
+      "avgRentPerMonth": "£600–£850",
+      "costOfLiving": "Medium",
+      "transport": "Manchester Piccadilly to London Euston 2 hours; Manchester Airport international hub",
+      "highlights": [
+        "Manchester Art Gallery (free)",
+        "John Rylands Library",
+        "MediaCityUK (BBC, ITV)",
+        "Bridgewater Hall"
+      ],
+      "nightlife": "Exceptional — Northern Quarter, Deansgate, Canal Street, Oxford Road all have world-class nightlife for every taste."
+    },
+    "notableAlumni": [
+      "Ernest Rutherford — Nobel Prize Physics, split the atom at Manchester",
+      "Andre Geim — Nobel Prize Physics 2010, discovered graphene at Manchester",
+      "Alan Turing — mathematical computing pioneer, worked at Manchester"
+    ],
+    "keyFacts": [
+      "Birthplace of the electron, the atom and graphene — extraordinary physics heritage",
+      "Jodrell Bank Observatory has the world's third-largest steerable radio telescope",
+      "Alan Turing Institute for Computing links to Manchester",
+      "Manchester Turing Fellowship programme for exceptional mathematics students"
+    ]
+  },
+  "nottingham": {
+    "slug": "nottingham",
+    "name": "University of Nottingham",
+    "city": "Nottingham",
+    "overview": "The University of Nottingham has world-class Physics and Mathematics departments. The Sir Peter Mansfield Imaging Centre — named after Nottingham's Nobel Prize winner (MRI inventor) — is a globally significant facility for physics students. The School of Mathematical Sciences is strong across all areas. Nottingham is also home to Rolls-Royce's global headquarters, providing exceptional industry links for physics and maths placement students.",
+    "founded": 1881,
+    "totalStudents": 35000,
+    "internationalStudents": "35%",
+    "campusType": "Campus university",
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "Nottingham guarantees accommodation for all first-year students. University Park campus has extensive, well-regarded halls. The campus is beautiful — designed by Basil Champneys with a large boating lake.",
+      "avgWeeklyCost": "£115–£180",
+      "halls": [
+        "Cripps Hall",
+        "Cavendish Hall",
+        "Sherwood Hall",
+        "Florence Boot Hall",
+        "Hugh Stewart Hall"
+      ],
+      "privateRentAreas": "Lenton, Beeston, Dunkirk, Radford, West Bridgford"
+    },
+    "openDays": [
+      {
+        "date": "26 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "27 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "3 July 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "12 September 2026",
+        "type": "Undergraduate Open Day"
+      }
+    ],
+    "application": {
+      "ucasCode": "F303 (Physics MPhys) / G100 (Mathematics BSc/MMath) / B611 (Medical Physics)",
+      "contextualOffers": true,
+      "interviewRequired": false,
+      "personalStatementTips": [
+        "Sir Peter Mansfield Imaging Centre is world-leading in MRI physics — crucial for medical physics applicants",
+        "Rolls-Royce HQ is in Nottingham — excellent for placement physics students",
+        "NCIAM (Nottingham Centre for Industrial and Applied Mathematics) — mention if interested in applied maths",
+        "Nottingham also has strong quantum information and gravity theory groups for theoretical interests"
+      ],
+      "typicalTimeline": "UCAS January deadline. No entrance test. AAB–A*AA typical offer depending on programme."
+    },
+    "studentLife": {
+      "union": "University of Nottingham SU — very active",
+      "societiesCount": "300+",
+      "sportsTeams": "80+",
+      "highlights": [
+        "University Park campus is one of the UK's most beautiful",
+        "Strong physics and maths societies with good industry links",
+        "Close proximity to Rolls-Royce HQ — engineering talks and careers events",
+        "Excellent sports facilities — Nottingham is a major sports city"
+      ]
+    },
+    "cityLife": {
+      "description": "Nottingham is a vibrant East Midlands city with a lively student population (Nottingham Trent is also here). Rolls-Royce HQ, Boots pharmaceutical HQ and Capital One are major employers. Good transport links to Birmingham, Sheffield and Leicester.",
+      "avgRentPerMonth": "£550–£750",
+      "costOfLiving": "Medium",
+      "transport": "Nottingham station: 2 hours to London St Pancras; East Midlands Airport 20 min",
+      "highlights": [
+        "Nottingham Castle",
+        "Robin Hood History",
+        "Wollaton Hall (Batman Begins mansion)",
+        "The Lace Market"
+      ],
+      "nightlife": "Very active — Lace Market, Rock City, Stealth are famous venues; large student population means lively nightlife throughout the year."
+    },
+    "notableAlumni": [
+      "Peter Mansfield — Nobel Prize Physics 2003 (MRI invention), Nottingham professor",
+      "Jesse Boot — founder of Boots pharmacy, Nottingham born"
+    ],
+    "keyFacts": [
+      "Sir Peter Mansfield Imaging Centre — MRI was invented here",
+      "Rolls-Royce global HQ in Nottingham — exceptional physics placement links",
+      "One of the UK's most beautiful campuses — University Park with boating lake",
+      "Medical Physics degree is IPEM-accredited with strong NHS pathway"
+    ]
+  },
+  "york": {
+    "slug": "york",
+    "name": "University of York",
+    "city": "York",
+    "overview": "The University of York has an outstanding Physics department — York Centre for Quantum Technologies is a nationally recognised research hub. The Department of Mathematics is also very strong, particularly in mathematical logic and pure mathematics. York's setting in one of England's most beautiful medieval cities, combined with a strong campus community on the lake campus, makes it a highly distinctive university experience.",
+    "founded": 1963,
+    "totalStudents": 20000,
+    "internationalStudents": "28%",
+    "campusType": "Campus university",
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "York guarantees first-year accommodation on its Heslington campus. The campus surrounds a large artificial lake and has a distinctive collegiate structure. Accommodation is comfortable and the campus atmosphere is excellent.",
+      "avgWeeklyCost": "£115–£175",
+      "halls": [
+        "Derwent College",
+        "Langwith College",
+        "Alcuin College",
+        "Wentworth College",
+        "Vanbrugh College"
+      ],
+      "privateRentAreas": "Heslington, Fishergate, Fulford, Holgate"
+    },
+    "openDays": [
+      {
+        "date": "20 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "21 June 2026",
+        "type": "Undergraduate Open Day"
+      }
+    ],
+    "application": {
+      "ucasCode": "F303 (Physics MPhys) / G100 (Mathematics BSc/MMath)",
+      "contextualOffers": true,
+      "interviewRequired": false,
+      "personalStatementTips": [
+        "York Centre for Quantum Technologies is world-leading — mention if quantum physics or quantum computing excites you",
+        "York's nuclear and plasma physics group has excellent links to UKAEA Culham and fusion energy",
+        "Mathematics at York is strong in logic and foundations — mention if you have interests in mathematical logic or set theory",
+        "Year in Industry options are strong at York — mention if you want placement experience"
+      ],
+      "typicalTimeline": "UCAS January deadline. No entrance test. AAB typical offer."
+    },
+    "studentLife": {
+      "union": "York Students Union — very active collegiate system",
+      "societiesCount": "200+",
+      "sportsTeams": "50+",
+      "highlights": [
+        "Collegiate system — students live and socialise in their college",
+        "York's medieval city centre is 15 min walk — beautiful and historic",
+        "Strong quantum technology and nuclear physics society",
+        "York is small enough for a genuine community feel"
+      ]
+    },
+    "cityLife": {
+      "description": "York is one of England's most beautiful historic cities — Roman walls, a magnificent Minster, the Shambles medieval street and a thriving independent economy. It has lower costs than southern universities and excellent quality of life. The York Science Park and many tech employers are close to campus.",
+      "avgRentPerMonth": "£550–£750",
+      "costOfLiving": "Medium",
+      "transport": "York station: 2 hours to London Kings Cross; 30 min to Leeds; 2 hours to Edinburgh",
+      "highlights": [
+        "York Minster",
+        "The Shambles",
+        "Jorvik Viking Centre",
+        "Yorkshire Moors (30 min)"
+      ],
+      "nightlife": "York has a lively student and tourist scene; many excellent pubs and bars in the city centre; collegiate bar life on campus."
+    },
+    "notableAlumni": [
+      "Multiple alumni now lead quantum technology startups",
+      "York nuclear physics alumni work at UKAEA Culham and nuclear power stations"
+    ],
+    "keyFacts": [
+      "York Centre for Quantum Technologies is nationally recognised",
+      "Strong nuclear and plasma physics links to UKAEA Culham",
+      "Beautiful medieval city — consistently voted one of UK's best student cities",
+      "Collegiate system provides strong campus community"
+    ]
+  },
+  "leicester": {
+    "slug": "leicester",
+    "name": "University of Leicester",
+    "city": "Leicester",
+    "overview": "The University of Leicester has a remarkable physics heritage: X-ray astronomy was essentially born here — Leicester's Space Research Centre has built instruments on over 50 space missions including XMM-Newton and Swift. For any student interested in space science, instrumentation or planetary physics, Leicester is one of the UK's top choices despite not being Russell Group. The school also has strong links to the growing Leicester science and tech sector.",
+    "founded": 1921,
+    "totalStudents": 18000,
+    "internationalStudents": "28%",
+    "campusType": "Campus university",
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "Leicester guarantees accommodation for all first-year undergraduates. Halls are on or near the main Victoria Park campus. The city is very affordable compared to southern universities.",
+      "avgWeeklyCost": "£105–£165",
+      "halls": [
+        "John Foster Hall",
+        "Beaumont Hall",
+        "Gilbert Murray Hall",
+        "Nixon Court"
+      ],
+      "privateRentAreas": "Clarendon Park, Knighton, Stoneygate, West End"
+    },
+    "openDays": [
+      {
+        "date": "4 July 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "12 September 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "3 October 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "7 November 2026",
+        "type": "Undergraduate Open Day"
+      }
+    ],
+    "application": {
+      "ucasCode": "F303 (Physics MPhys)",
+      "contextualOffers": true,
+      "interviewRequired": false,
+      "personalStatementTips": [
+        "Leicester Space Research Centre is world-famous for space instrumentation — this should be central if you are interested in space science",
+        "Show knowledge of specific ESA/NASA missions Leicester has contributed to",
+        "X-ray astronomy was pioneered at Leicester — show awareness of this heritage",
+        "Leicester is accessible and welcoming — genuine enthusiasm for physics counts above all else"
+      ],
+      "typicalTimeline": "UCAS January deadline. No entrance test. ABB typical offer — accessible entry."
+    },
+    "studentLife": {
+      "union": "Leicester Students Union — active",
+      "societiesCount": "150+",
+      "sportsTeams": "40+",
+      "highlights": [
+        "Space Research Centre open days and visits",
+        "Strong astronomy and astrophysics society",
+        "Leicester has a welcoming, diverse student community",
+        "Good links to the East Midlands tech sector"
+      ]
+    },
+    "cityLife": {
+      "description": "Leicester is a diverse, multicultural East Midlands city with a lively food scene and strong Diwali celebrations. It has a growing tech and data sector. It is very affordable compared to southern cities.",
+      "avgRentPerMonth": "£500–£700",
+      "costOfLiving": "Low-Medium",
+      "transport": "Leicester station: 1 hour to London St Pancras; 20 min to Nottingham",
+      "highlights": [
+        "National Space Centre (in the city)",
+        "King Richard III Visitor Centre",
+        "Leicester Market",
+        "Bradgate Park (deer park)"
+      ],
+      "nightlife": "Active student scene; diverse city with excellent restaurant and bar options across multiple cuisines."
+    },
+    "notableAlumni": [
+      "Multiple Space Research Centre alumni now lead ESA instrument teams",
+      "Leicester physicists have contributed to over 50 space missions"
+    ],
+    "keyFacts": [
+      "Space Research Centre has built instruments on 50+ space missions — X-ray astronomy heritage",
+      "National Space Centre visitor attraction is in the city",
+      "ABB entry — accessible for strong students who may not achieve AAA",
+      "Birthplace of X-ray astronomy (Uhuru satellite)"
+    ]
+  },
+  "king-s-college-london": {
+    "slug": "king-s-college-london",
+    "name": "King's College London",
+    "city": "London",
+    "overview": "King's College London is a Russell Group university in the heart of London, with strong Mathematics and Physics departments. The Mathematics department has particular strengths in number theory, geometry and analysis. The Physics department has strong medical physics and photonics facilities. King's location on the Strand, adjacent to the Thames, gives students extraordinary access to London's world-class employment market.",
+    "founded": 1829,
+    "totalStudents": 33000,
+    "internationalStudents": "45%",
+    "campusType": "Urban campus",
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "King's guarantees accommodation for most first-year students. Halls are spread across central London including Waterloo, Southwark and Strand campuses. London living costs are high but the employment access is unmatched.",
+      "avgWeeklyCost": "£165–£255",
+      "halls": [
+        "Stamford Street Apartments",
+        "Moonraker Point",
+        "Astor College",
+        "The Courtyard"
+      ],
+      "privateRentAreas": "Camberwell, Peckham, New Cross, Elephant & Castle, Brixton"
+    },
+    "openDays": [
+      {
+        "date": "27 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "5 September 2026",
+        "type": "Undergraduate Open Day"
+      }
+    ],
+    "application": {
+      "ucasCode": "F303 (Physics MPhys) / G100 (Mathematics BSc/MSci)",
+      "contextualOffers": true,
+      "interviewRequired": false,
+      "personalStatementTips": [
+        "King's London location means employer access is a real differentiator — show commercial awareness",
+        "Mathematics: number theory and algebra are particularly strong — mention if these topics appeal",
+        "Physics: medical physics facility is excellent — mention if this career interests you",
+        "London location is expensive; show awareness of this in your personal statement if relevant"
+      ],
+      "typicalTimeline": "UCAS January deadline. No entrance test. A*AA typical offer."
+    },
+    "studentLife": {
+      "union": "King's College London Students Union — active",
+      "societiesCount": "200+",
+      "sportsTeams": "60+",
+      "highlights": [
+        "Central London location — the whole city is the campus environment",
+        "Strong finance and law societies given proximity to the City",
+        "Regular employer events and internship fairs on campus",
+        "Embankment views from the Strand Campus"
+      ]
+    },
+    "cityLife": {
+      "description": "King's sits on the Strand in central London — one of the world's great academic addresses. The City of London, Canary Wharf and the South Bank are all walkable or one Tube stop away. The entire London economy is on your doorstep.",
+      "avgRentPerMonth": "£1,000–£1,500",
+      "costOfLiving": "Very High",
+      "transport": "Temple, Waterloo, London Bridge and Embankment Underground stations all adjacent",
+      "highlights": [
+        "South Bank (free galleries, Tate Modern)",
+        "Covent Garden",
+        "The City of London",
+        "Greenwich (20 min by river)"
+      ],
+      "nightlife": "The full range of London nightlife; South Bank, Brixton, Shoreditch — all within easy reach."
+    },
+    "notableAlumni": [
+      "Charles Wheatstone — pioneer of telegraphy and the Wheatstone bridge, King's professor",
+      "James Clark Maxwell — laid the foundations of electromagnetism, King's professor 1860–65"
+    ],
+    "keyFacts": [
+      "James Clerk Maxwell formulated electromagnetism while a King's professor",
+      "Central London location — unmatched employer access for finance, tech and media",
+      "Strong medical physics facility adjacent to major NHS hospitals",
+      "King's was the first UK university to admit women to degrees (1908)"
+    ]
+  },
+  "glasgow": {
+    "slug": "glasgow",
+    "name": "University of Glasgow",
+    "city": "Glasgow",
+    "overview": "The University of Glasgow is Scotland's second-oldest university and a Russell Group institution with excellent Physics and Mathematics departments. Glasgow played a key role in LIGO gravitational wave detection — Glasgow physicists were central to the detection of gravitational waves in 2015. The Mathematics department is strong in algebra and analysis. Glasgow's vibrant city campus combines a beautiful Victorian gothic university with a thriving, affordable city.",
+    "founded": 1451,
+    "totalStudents": 39000,
+    "internationalStudents": "36%",
+    "campusType": "City campus",
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "Glasgow guarantees accommodation for most first-year students. Halls are on or near the Gilmorehill campus in the West End. Glasgow is one of the most affordable UK university cities.",
+      "avgWeeklyCost": "£100–£160",
+      "halls": [
+        "Queen Margaret Halls",
+        "Cairncross House",
+        "Murano Street",
+        "Winton Drive"
+      ],
+      "privateRentAreas": "West End, Partick, Finnieston, Shawlands, Dennistoun"
+    },
+    "openDays": [
+      {
+        "date": "18 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "2 September 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "3 October 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "24 October 2026",
+        "type": "Undergraduate Open Day"
+      }
+    ],
+    "application": {
+      "ucasCode": "F303 (Physics MPhys) / G100 (Mathematics BSc/MA Hons)",
+      "contextualOffers": true,
+      "interviewRequired": false,
+      "personalStatementTips": [
+        "Glasgow was central to gravitational wave detection — excellent if this excites you",
+        "Scottish 4-year Honours structure provides broad Year 1 — good for students who want to explore",
+        "Glasgow's Maxwell Institute links to Edinburgh for mathematics research — mention if research is your goal",
+        "Glasgow's city campus in the West End is beautiful and vibrant — this is a genuinely great student city"
+      ],
+      "typicalTimeline": "UCAS January deadline. Scottish Highers accepted. AAB typical offer."
+    },
+    "studentLife": {
+      "union": "Glasgow University Union (GUU) — one of Scotland's oldest and most traditional unions",
+      "societiesCount": "200+",
+      "sportsTeams": "60+",
+      "highlights": [
+        "Glasgow's West End is one of the UK's best student neighbourhoods",
+        "Strong physics society with gravitational wave research links",
+        "Glasgow's music and arts scene rivals Edinburgh and London",
+        "Kelvingrove Museum is adjacent to campus (free)"
+      ]
+    },
+    "cityLife": {
+      "description": "Glasgow is Scotland's largest city and one of the UK's most underrated destinations. Its West End — where the university sits — is beautiful, vibrant and affordable. The city has a legendary music scene, world-class free museums and a rapidly growing tech and finance sector.",
+      "avgRentPerMonth": "£550–£750",
+      "costOfLiving": "Low-Medium",
+      "transport": "Glasgow Central and Queen Street stations; Glasgow Airport international connections; Edinburgh 50 min by train",
+      "highlights": [
+        "Kelvingrove Art Gallery (free, next to campus)",
+        "The Burrell Collection (free)",
+        "West End food and music scene",
+        "Loch Lomond 30 min by train"
+      ],
+      "nightlife": "One of the UK's best — Ashton Lane, Finnieston, Sauchiehall Street and many more; Glasgow's legendary music scene means live music every night."
+    },
+    "notableAlumni": [
+      "Lord Kelvin — formulated laws of thermodynamics, Glasgow professor for 53 years",
+      "James Watt — improved the steam engine, worked as an instrument maker at Glasgow"
+    ],
+    "keyFacts": [
+      "Glasgow physicists were central to LIGO gravitational wave detection (2015)",
+      "Lord Kelvin spent 53 years as a professor at Glasgow",
+      "Scotland's largest and most affordable major student city",
+      "Maxwell Institute links Edinburgh and Glasgow mathematics departments"
+    ]
+  },
+  "leeds": {
+    "slug": "leeds",
+    "name": "University of Leeds",
+    "city": "Leeds",
+    "overview": "The University of Leeds is a large Russell Group university with strong Physics and Mathematics departments. The Bragg Centre for Materials Research — named after W.H. Bragg and W.L. Bragg (both Nobel laureates in Physics, both Leeds professors) — is a world-class facility. Leeds mathematics is strong in integrable systems and mathematical biology. Leeds is also one of the UK's most popular student cities.",
+    "founded": 1904,
+    "totalStudents": 38000,
+    "internationalStudents": "31%",
+    "campusType": "Campus university",
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "Leeds guarantees accommodation for all first-year students. Extensive university-owned halls are in Headingley, Woodhouse and Hyde Park — all within easy distance of campus.",
+      "avgWeeklyCost": "£110–£175",
+      "halls": [
+        "Charles Morris Hall",
+        "Bodington Hall",
+        "Henry Price House",
+        "Devonshire Hall",
+        "James Baillie Park"
+      ],
+      "privateRentAreas": "Hyde Park, Headingley, Woodhouse, Burley"
+    },
+    "openDays": [
+      {
+        "date": "12 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "13 June 2026",
+        "type": "Undergraduate Open Day"
+      }
+    ],
+    "application": {
+      "ucasCode": "F303 (Physics MPhys) / G100 (Mathematics BSc/MMath)",
+      "contextualOffers": true,
+      "interviewRequired": false,
+      "personalStatementTips": [
+        "Bragg Centre for Materials Research — W.H. and W.L. Bragg were both Leeds professors; mention if materials or condensed matter interests you",
+        "Leeds is strong in biophysics and nanoscience — mention if life sciences meet physics interests you",
+        "Mathematics at Leeds is strong in integrable systems and mathematical biology — cite if these appeal",
+        "Leeds City Year in Industry programme has strong employer links"
+      ],
+      "typicalTimeline": "UCAS January deadline. No entrance test. AAB typical offer."
+    },
+    "studentLife": {
+      "union": "Leeds University Union (LUU) — one of the UK's largest and most active",
+      "societiesCount": "350+",
+      "sportsTeams": "80+",
+      "highlights": [
+        "Leeds is one of the UK's most popular student cities",
+        "Strong physics and maths societies with regular career events",
+        "Proximity to the Yorkshire Dales and Peak District for outdoor pursuits",
+        "LUU has one of the UK's best student nightlife venues on campus"
+      ]
+    },
+    "cityLife": {
+      "description": "Leeds is the UK's third-largest city and one of the fastest-growing tech, financial and legal sectors outside London. It is very popular with students — affordable, vibrant, with excellent music, food and night life. Yorkshire Dales and Peak District are easily accessible at weekends.",
+      "avgRentPerMonth": "£550–£750",
+      "costOfLiving": "Medium",
+      "transport": "Leeds station: 2 hours to London Kings Cross; Leeds Bradford Airport; direct to Edinburgh, Manchester",
+      "highlights": [
+        "Royal Armouries (free)",
+        "Harewood House",
+        "Yorkshire Dales (1 hour)",
+        "Leeds First Direct Arena"
+      ],
+      "nightlife": "Exceptional — Headingley, Hyde Park, Call Lane, Merrion Street, and LUU on campus are all very popular."
+    },
+    "notableAlumni": [
+      "W.H. Bragg and W.L. Bragg — Nobel Prize Physics 1915 (X-ray crystallography), both Leeds professors",
+      "John Snowden — mathematician who worked on early computing"
+    ],
+    "keyFacts": [
+      "Bragg Centre for Materials Research — two Nobel Prize winning Leeds professors",
+      "Leeds Data City — 550+ data and tech employers are based in Leeds",
+      "Consistently one of the UK's most popular student cities",
+      "Strong links to pharmaceutical and biotech sector (Harrogate corridor)"
+    ]
+  },
+  "sheffield": {
+    "slug": "sheffield",
+    "name": "University of Sheffield",
+    "city": "Sheffield",
+    "overview": "The University of Sheffield is a Russell Group university with strong Physics and Mathematics departments. The Sheffield Centre for Advanced Magnetic Materials and Interfaces is an internationally recognised research group. The School of Mathematics and Statistics is strong in probability and mathematical biology. Sheffield is one of the UK's most student-friendly cities — recently voted the UK's best student city — and Rolls-Royce and AMRC provide exceptional engineering and physics placement links.",
+    "founded": 1905,
+    "totalStudents": 30000,
+    "internationalStudents": "33%",
+    "campusType": "City campus",
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "Sheffield guarantees accommodation for all first-year students. University-owned halls are concentrated around the Broomhill and Endcliffe areas, within walking distance of campus.",
+      "avgWeeklyCost": "£110–£170",
+      "halls": [
+        "Endcliffe Village",
+        "Ranmoor Village",
+        "Halifax Hall",
+        "Tapton Hall"
+      ],
+      "privateRentAreas": "Broomhill, Crookes, Walkley, Ecclesall Road, Sharrow"
+    },
+    "openDays": [
+      {
+        "date": "20 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "4 July 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "5 September 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "17 October 2026",
+        "type": "Undergraduate Open Day"
+      }
+    ],
+    "application": {
+      "ucasCode": "F303 (Physics MPhys) / G100 (Mathematics BSc/MMath)",
+      "contextualOffers": true,
+      "interviewRequired": false,
+      "personalStatementTips": [
+        "Sheffield Centre for Advanced Magnetic Materials — mention if condensed matter or materials physics interests you",
+        "AMRC (Advanced Manufacturing Research Centre) and Rolls-Royce have strong Sheffield links — mention for placement interests",
+        "Statistics and mathematical biology are strong in Sheffield Mathematics — cite if these appeal",
+        "Sheffield is famously welcoming — show genuine enthusiasm for your subject above all"
+      ],
+      "typicalTimeline": "UCAS January deadline. No entrance test. ABB–AAA typical offer."
+    },
+    "studentLife": {
+      "union": "Sheffield Students Union — voted UK's best students union multiple times",
+      "societiesCount": "300+",
+      "sportsTeams": "60+",
+      "highlights": [
+        "Sheffield consistently rated UK's best student city",
+        "Strong physics and mathematics societies",
+        "Peak District National Park is on the edge of the city",
+        "AMRC and Rolls-Royce talks and careers events on campus"
+      ]
+    },
+    "cityLife": {
+      "description": "Sheffield is famously the UK's most student-friendly city — well-designed, affordable, with outstanding parks and greenery on the edge of the Peak District. It has a rapidly growing tech sector and Rolls-Royce's global advanced manufacturing centre (AMRC).",
+      "avgRentPerMonth": "£500–£700",
+      "costOfLiving": "Low-Medium",
+      "transport": "Sheffield station: 2 hours to London St Pancras; 30 min to Leeds and Manchester",
+      "highlights": [
+        "Peak District (national park on the city edge)",
+        "Kelham Island Museum (steel heritage)",
+        "Crucible Theatre (World Snooker Championship)",
+        "Botanical Gardens (free)"
+      ],
+      "nightlife": "Voted UK's best student city — West Street, Division Street, Kelham Island all excellent; Leadmill and Plug are iconic venues."
+    },
+    "notableAlumni": [
+      "Hans Krebs — Nobel Prize Biochemistry (Krebs cycle), Sheffield professor",
+      "Robert Winston — IVF pioneer, Sheffield links"
+    ],
+    "keyFacts": [
+      "Sheffield voted UK's best student city — consistently",
+      "AMRC and Rolls-Royce provide exceptional engineering placement links",
+      "Peak District National Park is on the city boundary",
+      "Sheffield SU voted UK's best students union multiple times"
+    ]
+  },
+  "birmingham": {
+    "slug": "birmingham",
+    "name": "University of Birmingham",
+    "city": "Birmingham",
+    "overview": "The University of Birmingham is a Russell Group university with excellent Physics and Mathematics departments. Birmingham's physics department was a key participant in LIGO gravitational wave detection. The School of Mathematics has strong research in algebra, analysis and mathematical physics. Birmingham is the UK's second city and provides extraordinary employer access across all sectors.",
+    "founded": 1900,
+    "totalStudents": 37000,
+    "internationalStudents": "32%",
+    "campusType": "Campus university",
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "Birmingham guarantees accommodation for most first-year students. Halls are primarily on the main Edgbaston campus — an attractive red-brick campus with a signature clock tower.",
+      "avgWeeklyCost": "£110–£175",
+      "halls": [
+        "Mason Hall",
+        "Maple Bank",
+        "Shackleton Hall",
+        "Jarratt Hall",
+        "Copperfield House"
+      ],
+      "privateRentAreas": "Selly Oak, Bournbrook, Harborne, Moseley, Kings Heath"
+    },
+    "openDays": [
+      {
+        "date": "26 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "27 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "10 October 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "14 November 2026",
+        "type": "Undergraduate Open Day"
+      }
+    ],
+    "application": {
+      "ucasCode": "F303 (Physics MPhys) / G100 (Mathematics BSc/MMath)",
+      "contextualOffers": true,
+      "interviewRequired": false,
+      "personalStatementTips": [
+        "Birmingham's gravitational wave group is world-leading — excellent for particle and astro-physics interests",
+        "Mathematical sciences at Birmingham is strong in algebra and mathematical physics — mention these if relevant",
+        "Birmingham's location in the UK's second city provides exceptional employer access",
+        "KPMG, Deloitte and Lloyds Banking Group are major Birmingham employers of maths graduates"
+      ],
+      "typicalTimeline": "UCAS January deadline. No entrance test. AAB typical offer."
+    },
+    "studentLife": {
+      "union": "Guild of Students (Birmingham SU) — very active",
+      "societiesCount": "300+",
+      "sportsTeams": "80+",
+      "highlights": [
+        "UK's second largest student city — all the cultural amenities of a major city",
+        "Huge variety of societies and sports clubs",
+        "Strong careers events — all major employers recruit at Birmingham",
+        "Beautiful Edgbaston campus with lakes and parkland"
+      ]
+    },
+    "cityLife": {
+      "description": "Birmingham is the UK's second city and one of the fastest-growing economies in Europe. It has a world-famous food scene, cultural diversity, and the Grand National cycling events were held here during the 2022 Commonwealth Games. KPMG, PwC, HSBC and Deutsche Bank all have large Birmingham offices.",
+      "avgRentPerMonth": "£550–£750",
+      "costOfLiving": "Medium",
+      "transport": "Birmingham New Street: 1.5 hours to London Euston; Birmingham Airport international connections",
+      "highlights": [
+        "BAPS Swaminarayan Mandir (largest in UK outside London)",
+        "Cadbury World",
+        "Birmingham Symphony Hall",
+        "Malvern Hills (1 hour)"
+      ],
+      "nightlife": "Broad Street, Digbeth and Jewellery Quarter all have excellent and diverse nightlife; Birmingham is very student-friendly."
+    },
+    "notableAlumni": [
+      "J.R.R. Tolkien — grew up and was educated in Birmingham",
+      "Neville Chamberlain — studied at Mason College (precursor to Birmingham)"
+    ],
+    "keyFacts": [
+      "Key member of LIGO gravitational wave detection consortium",
+      "UK's second largest student city — excellent employer access",
+      "Rolls-Royce UK HQ in Derby (30 min) provides physics and engineering links",
+      "Medical physics has a proton therapy centre"
+    ]
+  },
+  "cardiff": {
+    "slug": "cardiff",
+    "name": "Cardiff University",
+    "city": "Cardiff",
+    "overview": "Cardiff University is the Russell Group university in Wales, with strong Physics and Mathematics departments. Cardiff's physics department is a key member of the LIGO/Virgo gravitational wave detection network — Cardiff scientists were central to detecting the first gravitational wave signals. The School of Mathematics has strong research in analysis, algebraic geometry and statistics. Cardiff is an affordable and vibrant capital city.",
+    "founded": 1883,
+    "totalStudents": 32000,
+    "internationalStudents": "28%",
+    "campusType": "City campus",
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "Cardiff guarantees accommodation for all first-year students. Halls are primarily in Cathays Park and Talybont, both close to the main campus.",
+      "avgWeeklyCost": "£110–£170",
+      "halls": [
+        "Talybont North",
+        "Talybont South",
+        "Talybont Court",
+        "Cartwright Court",
+        "Senghennydd Court"
+      ],
+      "privateRentAreas": "Cathays, Roath, Canton, Pontcanna"
+    },
+    "openDays": [
+      {
+        "date": "26 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "27 June 2026",
+        "type": "Undergraduate Open Day"
+      }
+    ],
+    "application": {
+      "ucasCode": "F303 (Physics MPhys) / G100 (Mathematics BSc/MMath)",
+      "contextualOffers": true,
+      "interviewRequired": false,
+      "personalStatementTips": [
+        "Cardiff's gravitational wave group is world-leading — central if you are interested in this exciting field",
+        "Mathematics at Cardiff is strong in algebra and number theory — cite if these appeal",
+        "Cardiff provides Welsh-medium teaching options — mention if Welsh language is important to you",
+        "Cardiff is the most affordable UK capital city — this is a genuine advantage"
+      ],
+      "typicalTimeline": "UCAS January deadline. No entrance test. ABB–AAA typical offer. Welsh Baccalaureate accepted."
+    },
+    "studentLife": {
+      "union": "Cardiff University Students Union — very active",
+      "societiesCount": "200+",
+      "sportsTeams": "60+",
+      "highlights": [
+        "Cardiff is the youngest European capital city — vibrant and growing",
+        "Strong physics society with gravitational wave research links",
+        "Proximity to Brecon Beacons and Vale of Glamorgan for outdoor pursuits",
+        "Wales' rugby culture — Principality Stadium is adjacent to campus"
+      ]
+    },
+    "cityLife": {
+      "description": "Cardiff is the UK's youngest capital and one of the most rapidly growing cities. It is significantly more affordable than London or Edinburgh, has a vibrant food and arts scene, and has easy access to beautiful Welsh countryside (Brecon Beacons 30 min, Vale of Glamorgan coast 20 min).",
+      "avgRentPerMonth": "£550–£750",
+      "costOfLiving": "Low-Medium",
+      "transport": "Cardiff Central: 2 hours to London Paddington; Cardiff Airport connections",
+      "highlights": [
+        "Cardiff Castle",
+        "National Museum Cardiff (free)",
+        "Bute Park",
+        "Roald Dahl Plass"
+      ],
+      "nightlife": "Vibrant and affordable — Cardiff Bay, City Centre and Cathays all very student-friendly; concerts at Principality Stadium."
+    },
+    "notableAlumni": [
+      "Cardiff physics alumni are prominent in LIGO team at MIT and Caltech",
+      "Roald Dahl — Welsh author, grew up near Cardiff"
+    ],
+    "keyFacts": [
+      "Cardiff gravitational wave group was central to LIGO detection",
+      "Most affordable UK capital city — high quality of life at lower cost",
+      "Welsh-medium teaching options available",
+      "Strong LIGO/Virgo international collaboration partnerships"
+    ]
+  },
+  "newcastle": {
+    "slug": "newcastle",
+    "name": "Newcastle University",
+    "city": "Newcastle upon Tyne",
+    "overview": "Newcastle University is a Russell Group university in northeast England with good Physics and Mathematics departments. The physics department has strong links to nuclear and energy sector employers (UKAEA Culham and EDF are within the region). The School of Mathematics, Statistics and Physics is well-regarded. Newcastle is a vibrant, affordable and very popular student city.",
+    "founded": 1834,
+    "totalStudents": 28000,
+    "internationalStudents": "32%",
+    "campusType": "City campus",
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "Newcastle guarantees accommodation for all first-year students. Halls are on or near the city centre campus, all within walking distance.",
+      "avgWeeklyCost": "£110–£170",
+      "halls": [
+        "Park View Student Village",
+        "Bowsden Court",
+        "Castle Leazes",
+        "Kensington Terrace"
+      ],
+      "privateRentAreas": "Jesmond, Heaton, Sandyford, Gosforth"
+    },
+    "openDays": [
+      {
+        "date": "26 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "27 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "3 October 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "21 November 2026",
+        "type": "Undergraduate Open Day"
+      }
+    ],
+    "application": {
+      "ucasCode": "F303 (Physics MPhys) / G100 (Mathematics BSc/MMath)",
+      "contextualOffers": true,
+      "interviewRequired": false,
+      "personalStatementTips": [
+        "Newcastle has strong nuclear and energy physics links — mention if these career areas interest you",
+        "Data Science at Newcastle is growing rapidly — mention if this appeals",
+        "Newcastle Digital tech cluster is strong — Sage Group HQ is in Gateshead; mention tech interests",
+        "Newcastle is one of the UK's most sociable student cities — show you will engage with the community"
+      ],
+      "typicalTimeline": "UCAS January deadline. No entrance test. ABB typical offer."
+    },
+    "studentLife": {
+      "union": "Newcastle University Students Union — extremely active",
+      "societiesCount": "200+",
+      "sportsTeams": "60+",
+      "highlights": [
+        "Newcastle is the UK's most sociable student city — consistently top-rated for nightlife and student experience",
+        "Strong physics and data science societies",
+        "Proximity to Northumberland National Park (1 hour) for outdoor pursuits",
+        "Strong graduate job market in the Northeast's growing tech sector"
+      ]
+    },
+    "cityLife": {
+      "description": "Newcastle is one of the UK's most beloved student cities — famous for its nightlife, friendly locals and Geordie culture. It is very affordable compared to London or Edinburgh. The city has a growing tech sector (Sage, Opencast Software) and excellent graduate employment.",
+      "avgRentPerMonth": "£500–£700",
+      "costOfLiving": "Low-Medium",
+      "transport": "Newcastle Central: 3 hours to London Kings Cross; Newcastle Airport international connections",
+      "highlights": [
+        "Angel of the North (20 min)",
+        "Quayside",
+        "Northumberland National Park (1 hour)",
+        "Baltic Centre for Contemporary Art (free)"
+      ],
+      "nightlife": "Famous across the UK — Bigg Market, Osborne Road, Grey Street — Newcastle nightlife is a genuine attraction for students."
+    },
+    "notableAlumni": [
+      "Brian Johnson — AC/DC vocalist, Newcastle born",
+      "Peter Higgs — attended school in Newcastle"
+    ],
+    "keyFacts": [
+      "Newcastle Digital tech cluster — Sage, Opencast and 200+ tech firms",
+      "Strong links to nuclear and energy sector employers (UKAEA Culham)",
+      "Consistently voted one of UK's most sociable student cities",
+      "Proximity to Northumberland National Park and the Scottish Borders"
+    ]
+  },
+  "liverpool": {
+    "slug": "liverpool",
+    "name": "University of Liverpool",
+    "city": "Liverpool",
+    "overview": "The University of Liverpool is a Russell Group institution with a distinguished physics heritage. The Cockcroft Institute of Accelerator Science (co-located with STFC Daresbury Laboratory nearby) is a major particle and accelerator physics research centre. Liverpool physics has strong groups in particle physics, laser physics and medical applications. The Mathematics department is solid across analysis and statistics. Liverpool is a vibrant, affordable and culturally rich city.",
+    "founded": 1881,
+    "totalStudents": 23000,
+    "internationalStudents": "35%",
+    "campusType": "City campus",
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "Liverpool guarantees accommodation for all first-year students. Halls are on or very near the main Mount Pleasant campus. Liverpool is one of the more affordable university cities.",
+      "avgWeeklyCost": "£100–£165",
+      "halls": [
+        "Crown Place",
+        "Carnatic Halls",
+        "Greenbank",
+        "Philadelphia House"
+      ],
+      "privateRentAreas": "Wavertree, Kensington, Toxteth, Smithdown Road"
+    },
+    "openDays": [
+      {
+        "date": "19 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "20 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "26 September 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "10 October 2026",
+        "type": "Undergraduate Open Day"
+      }
+    ],
+    "application": {
+      "ucasCode": "F303 (Physics MPhys) / G100 (Mathematics BSc/MMath)",
+      "contextualOffers": true,
+      "interviewRequired": false,
+      "personalStatementTips": [
+        "Cockcroft Institute of Accelerator Science — excellent for particle physics and accelerator interests",
+        "Medical applications of physics at Liverpool are strong — mention if interested in medical physics or lasers",
+        "Mathematics at Liverpool is solid in analysis and statistics — cite if these areas appeal",
+        "Liverpool's culture — The Beatles, Everton FC and Liverpool FC — make it a very distinctive university city"
+      ],
+      "typicalTimeline": "UCAS January deadline. No entrance test. ABB typical offer."
+    },
+    "studentLife": {
+      "union": "Liverpool Guild of Students — very active",
+      "societiesCount": "200+",
+      "sportsTeams": "60+",
+      "highlights": [
+        "Liverpool is one of the UK's most culturally vibrant cities",
+        "Strong physics society with Cockcroft Institute links",
+        "The Beatles legacy and music scene make Liverpool unique",
+        "Affordable city with excellent student quality of life"
+      ]
+    },
+    "cityLife": {
+      "description": "Liverpool is a UNESCO World Heritage city (for its waterfront) with extraordinary cultural heritage. It has two Premier League football clubs, world-famous music history and an increasingly vibrant tech and knowledge economy.",
+      "avgRentPerMonth": "£500–£700",
+      "costOfLiving": "Low-Medium",
+      "transport": "Liverpool Lime Street: 2 hours to London Euston; Liverpool John Lennon Airport",
+      "highlights": [
+        "The Beatles Story",
+        "Albert Dock (Tate Liverpool, Maritime Museum — free)",
+        "Merseyside waterfront",
+        "Anfield and Goodison Park"
+      ],
+      "nightlife": "Lively and affordable — Mathew Street, Bold Street, Concert Square and the waterfront all excellent."
+    },
+    "notableAlumni": [
+      "Charles Sherrington — Nobel Prize Physiology (neuroscience), Liverpool professor",
+      "Joseph Rotblat — Nobel Peace Prize (anti-nuclear physicist), Liverpool professor"
+    ],
+    "keyFacts": [
+      "Cockcroft Institute of Accelerator Science — particle physics research centre",
+      "Strong particle physics group at LHC (CERN)",
+      "UNESCO World Heritage waterfront city",
+      "Very affordable — consistently among lowest student living costs in the UK"
+    ]
+  },
+  "exeter": {
+    "slug": "exeter",
+    "name": "University of Exeter",
+    "city": "Exeter",
+    "overview": "The University of Exeter is a Russell Group university with strong Physics and Mathematics departments. Exeter physics has notable strengths in computational physics, climate physics and connections to the Met Office (headquartered in Exeter). The Mathematics department is strong in dynamical systems and applied mathematics. Exeter is a beautiful medieval city in Devon, very popular with students.",
+    "founded": 1955,
+    "totalStudents": 28000,
+    "internationalStudents": "25%",
+    "campusType": "Campus university",
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "Exeter guarantees accommodation for all first-year students. Halls are spread across the Streatham campus (main) and St Luke's campus (education and sports science). The Streatham campus is one of the most beautiful in England.",
+      "avgWeeklyCost": "£115–£185",
+      "halls": [
+        "Holland Hall",
+        "Birks Hall",
+        "James Owen Court",
+        "Mardon Hall",
+        "Lafrowda"
+      ],
+      "privateRentAreas": "Heavitree, St Thomas, Newtown, Pennsylvania"
+    },
+    "openDays": [
+      {
+        "date": "29 May 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "30 May 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "Autumn 2026 - dates TBC",
+        "type": "Undergraduate Open Day"
+      }
+    ],
+    "application": {
+      "ucasCode": "F303 (Physics MPhys) / G100 (Mathematics BSc/MMath)",
+      "contextualOffers": true,
+      "interviewRequired": false,
+      "personalStatementTips": [
+        "Exeter's links to the Met Office are exceptional for computational/climate physics — mention if relevant",
+        "Mathematics at Exeter is strong in dynamical systems and applied maths — cite these if they appeal",
+        "Exeter's Alan Turing Institute partnership — mention if data science interests you",
+        "The Physics with Data Science degree is a distinctive Exeter offering — mention if you want to combine physics with ML"
+      ],
+      "typicalTimeline": "UCAS January deadline. No entrance test. AAB typical offer."
+    },
+    "studentLife": {
+      "union": "Exeter Guild — very active and award-winning",
+      "societiesCount": "200+",
+      "sportsTeams": "60+",
+      "highlights": [
+        "One of England's most beautiful campuses — Streatham is stunning",
+        "Proximity to Dartmoor and South Devon coast — excellent for outdoor pursuits",
+        "Strong links to Met Office and environmental science sector",
+        "Sports facilities are excellent — Exeter is a strong rugby and athletics university"
+      ]
+    },
+    "cityLife": {
+      "description": "Exeter is a compact, beautiful medieval city in Devon. It has a high quality of life, very low crime rates and strong connections to the environmental and tech sector. The coast and Dartmoor are within easy reach.",
+      "avgRentPerMonth": "£650–£850",
+      "costOfLiving": "Medium",
+      "transport": "Exeter St Davids: 2 hours to London Paddington; Exeter Airport connections",
+      "highlights": [
+        "Exeter Cathedral",
+        "Exeter's medieval underground passages",
+        "Dartmoor National Park (20 min)",
+        "Devon coast (20 min)"
+      ],
+      "nightlife": "Lively for the city size — Fore Street, South Street and the Quayside all good; Exeter is a pleasant rather than wild city for nightlife."
+    },
+    "notableAlumni": [
+      "J.K. Rowling — studied French and Classics at Exeter",
+      "Jan Vertonghen — Belgian footballer who studied at Exeter"
+    ],
+    "keyFacts": [
+      "Met Office HQ is in Exeter — exceptional climate physics and data science links",
+      "Alan Turing Institute partner university",
+      "Beautiful Streatham campus — one of England's most attractive university settings",
+      "Strong environmental and computational physics research"
+    ]
+  },
+  "sussex": {
+    "slug": "sussex",
+    "name": "University of Sussex",
+    "city": "Brighton",
+    "overview": "The University of Sussex has a distinguished history in theoretical physics — Abdus Salam (Nobel Prize Physics 1979) worked at Sussex and founded the theoretical physics tradition. The Sussex Centre for Quantum Technologies is a nationally recognised research group. The mathematics department is solid. Sussex's coastal location between Brighton and the South Downs makes it one of the UK's most distinctive university settings.",
+    "founded": 1961,
+    "totalStudents": 21000,
+    "internationalStudents": "35%",
+    "campusType": "Campus university",
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "Sussex guarantees accommodation for all first-year students. The main campus is at Falmer, between Brighton and the South Downs. Halls are on the campus, which is architecturally notable (listed buildings by Sir Basil Spence).",
+      "avgWeeklyCost": "£115–£175",
+      "halls": [
+        "Lewes Court",
+        "Essex Court",
+        "Brighthelm",
+        "Swanborough"
+      ],
+      "privateRentAreas": "Brighton city centre, Hanover, Kemp Town, Bevendean"
+    },
+    "openDays": [
+      {
+        "date": "12 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "13 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "31 October 2026",
+        "type": "Undergraduate Open Day"
+      }
+    ],
+    "application": {
+      "ucasCode": "F303 (Physics MPhys) / F340 (Theoretical Physics)",
+      "contextualOffers": true,
+      "interviewRequired": false,
+      "personalStatementTips": [
+        "Abdus Salam (Nobel 1979) developed theoretical physics at Sussex — excellent for students interested in particle physics foundations",
+        "Sussex Centre for Quantum Technologies — excellent for quantum computing interests",
+        "Brighton location is a major lifestyle advantage — mention if relevant",
+        "Sussex has a strong tradition of interdisciplinary science — mention if you appreciate this approach"
+      ],
+      "typicalTimeline": "UCAS January deadline. No entrance test. ABB typical offer."
+    },
+    "studentLife": {
+      "union": "Sussex Students Union — active",
+      "societiesCount": "150+",
+      "sportsTeams": "40+",
+      "highlights": [
+        "Brighton is one of the UK's most vibrant, diverse and creative cities",
+        "South Downs National Park on the doorstep — excellent for hiking and cycling",
+        "Sussex's progressive, inclusive culture is distinctive",
+        "Strong quantum technology and science policy community"
+      ]
+    },
+    "cityLife": {
+      "description": "Sussex sits between Brighton (one of the UK's most lively and creative cities) and the South Downs (beautiful walking country). Brighton has a legendary arts, music and nightlife scene. The coast is minutes away.",
+      "avgRentPerMonth": "£700–£950",
+      "costOfLiving": "Medium-High",
+      "transport": "Brighton station: 55 min to London Victoria; frequent trains throughout the day",
+      "highlights": [
+        "Brighton Pier and seafront",
+        "The Lanes (independent shops)",
+        "South Downs National Park (2 min by bus)",
+        "Brighton's famous nightlife and music scene"
+      ],
+      "nightlife": "Brighton's nightlife is famous nationwide — diverse, LGBT-inclusive, creative and very lively; South Street, North Laine and the seafront are all excellent."
+    },
+    "notableAlumni": [
+      "Abdus Salam — Nobel Prize Physics 1979 (unified electroweak force), Sussex professor",
+      "Ian Hacking — philosopher of science, influential Sussex philosophy"
+    ],
+    "keyFacts": [
+      "Abdus Salam (Nobel 1979) founded theoretical physics at Sussex",
+      "Sussex Centre for Quantum Technologies — nationally recognised",
+      "Brighton location: 55 min from London with vibrant arts/music scene",
+      "South Downs National Park on campus boundary"
+    ]
+  },
+  "university-of-aberdeen": {
+    "slug": "university-of-aberdeen",
+    "name": "University of Aberdeen",
+    "city": "Aberdeen",
+    "overview": "The University of Aberdeen is one of Scotland's ancient universities with a solid Physics department. The School of Natural and Computing Sciences offers Mathematical Physics as a joint degree. Aberdeen has particular strengths in applied mathematics and computational methods. The university benefits from its location in Scotland's oil capital — the Aberdeen energy sector provides strong applied physics employment.",
+    "founded": 1495,
+    "totalStudents": 15000,
+    "internationalStudents": "30%",
+    "campusType": "Campus university",
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "Aberdeen guarantees accommodation for all first-year students. Modern halls are on the Old Aberdeen campus. The university benefits from being in a smaller city with a strong community feel.",
+      "avgWeeklyCost": "£95–£150",
+      "halls": [
+        "Hillhead Halls",
+        "Crombie-Johnston",
+        "Dunbar Halls"
+      ],
+      "privateRentAreas": "Old Aberdeen, Hillhead, Rosemount, Woodside"
+    },
+    "openDays": [
+      {
+        "date": "20 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "Autumn 2026 - TBC",
+        "type": "Undergraduate Open Day"
+      }
+    ],
+    "application": {
+      "ucasCode": "F321 (Mathematical Physics BSc Hons)",
+      "contextualOffers": true,
+      "interviewRequired": false,
+      "personalStatementTips": [
+        "Aberdeen is Scotland's fourth-largest city and home to the North Sea oil industry — show awareness of applied physics career opportunities",
+        "Mathematical Physics at Aberdeen is a joint degree — show enthusiasm for both disciplines",
+        "Scottish 4-year Honours provides excellent flexibility in Year 1"
+      ],
+      "typicalTimeline": "UCAS January deadline. BBB typical offer. Scottish Highers accepted."
+    },
+    "studentLife": {
+      "union": "Aberdeen University Students Association — active",
+      "societiesCount": "100+",
+      "sportsTeams": "40+",
+      "highlights": [
+        "Ancient university with beautiful granite campus",
+        "Royal Deeside and Cairngorms easily accessible",
+        "North Sea energy sector — unique career opportunity for applied physicists"
+      ]
+    },
+    "cityLife": {
+      "description": "Aberdeen is Scotland's third city, known as the Granite City. It is the hub of the North Sea oil and gas industry but also has a growing renewables and tech sector.",
+      "avgRentPerMonth": "£500–£700",
+      "costOfLiving": "Medium",
+      "transport": "Aberdeen airport; direct trains to Edinburgh (2.5 hours) and Inverness",
+      "highlights": [
+        "Aberdeen Beach",
+        "Balmoral Castle (30 min)",
+        "Cairngorms National Park (45 min)",
+        "Royal Deeside"
+      ],
+      "nightlife": "Moderate — Union Street and Belmont Street have student bars and clubs; smaller but friendly scene."
+    },
+    "notableAlumni": [
+      "Multiple alumni work in North Sea energy sector applying physics to geological problems"
+    ],
+    "keyFacts": [
+      "Scotland's fourth-largest university (founded 1495)",
+      "North Sea energy sector provides unique applied physics opportunities",
+      "Beautiful granite campus in the 'Granite City'",
+      "BBB entry — accessible route to a physics degree in Scotland"
+    ]
+  },
+  "heriot-watt-university": {
+    "slug": "heriot-watt-university",
+    "name": "Heriot-Watt University",
+    "city": "Edinburgh",
+    "overview": "Heriot-Watt University is a specialist STEM university in Edinburgh, known for its strong engineering and applied physics programmes. The Physics department has particular expertise in photonics and applied optics — Heriot-Watt is internationally recognised for laser physics research. The Scottish Borders campus at Galashiels and Dubai campus provide international options. Strong industry placement links.",
+    "founded": 1821,
+    "totalStudents": 10000,
+    "internationalStudents": "35%",
+    "campusType": "Campus university",
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "Heriot-Watt guarantees accommodation for first-year students. The Riccarton campus, about 8km from Edinburgh city centre, is self-contained with all facilities on site.",
+      "avgWeeklyCost": "£100–£160",
+      "halls": [
+        "Hugh Nisbet",
+        "Lord Balerno",
+        "Leonard Lodge"
+      ],
+      "privateRentAreas": "Currie, Balerno, Corstorphine"
+    },
+    "openDays": [
+      {
+        "date": "20 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "Autumn 2026 - TBC",
+        "type": "Undergraduate Open Day"
+      }
+    ],
+    "application": {
+      "ucasCode": "F3G4 (Physics with Computing)",
+      "contextualOffers": false,
+      "interviewRequired": false,
+      "personalStatementTips": [
+        "Heriot-Watt's photonics and laser physics groups are world-leading — show awareness if these areas interest you",
+        "Strong applied physics tradition — show interest in industrial applications of physics",
+        "Edinburgh location — good access to tech and energy employers",
+        "Strong placement record — mention if Year in Industry appeals"
+      ],
+      "typicalTimeline": "UCAS January deadline. ABB typical offer."
+    },
+    "studentLife": {
+      "union": "Heriot-Watt SU — active despite smaller size",
+      "societiesCount": "80+",
+      "sportsTeams": "30+",
+      "highlights": [
+        "Campus-based community in Edinburgh — best of both worlds",
+        "Strong photonics and laser society",
+        "Edinburgh city easily accessible (bus links)",
+        "Strong international student community"
+      ]
+    },
+    "cityLife": {
+      "description": "Heriot-Watt's Riccarton campus is on the western edge of Edinburgh — close enough to access the city but with a self-contained campus feel. Edinburgh's tech and energy sectors are accessible.",
+      "avgRentPerMonth": "£600–£850",
+      "costOfLiving": "Medium-High",
+      "transport": "Campus to Edinburgh city centre by bus (30 min); Edinburgh Airport 10 min",
+      "highlights": [
+        "Edinburgh city centre (30 min by bus)",
+        "Pentland Hills on campus boundary",
+        "Edinburgh's cultural scene",
+        "Scottish Borders (30 min)"
+      ],
+      "nightlife": "Edinburgh provides a full social scene; campus SU for immediate needs."
+    },
+    "notableAlumni": [
+      "Multiple photonics alumni work at Barr & Stroud, Leonardo and Coherent (laser companies)"
+    ],
+    "keyFacts": [
+      "World-leading photonics and laser physics research group",
+      "Edinburgh campus with easy city access — strong tech employment market",
+      "Strong applied physics tradition — links to precision optics and defence industries",
+      "ABB entry — competitive but accessible"
+    ]
+  },
+  "queens-university-belfast": {
+    "slug": "queens-university-belfast",
+    "name": "Queen's University Belfast",
+    "city": "Belfast",
+    "overview": "Queen's University Belfast is a Russell Group university in Northern Ireland with a solid Physics and Mathematics department. The school offers Mathematical Physics as a specialist programme. Belfast has a rapidly growing tech sector — Invest NI and Concentrix have major Belfast presences — and Queen's graduates are highly regarded locally and across the UK.",
+    "founded": 1845,
+    "totalStudents": 24000,
+    "internationalStudents": "22%",
+    "campusType": "City campus",
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "Queen's guarantees accommodation for all first-year students. Halls are in the university's Elms Village and adjacent to the main campus in south Belfast.",
+      "avgWeeklyCost": "£95–£150",
+      "halls": [
+        "Elms Village",
+        "Graduate Entry Medical School",
+        "Queen's Accommodation"
+      ],
+      "privateRentAreas": "Stranmillis, Botanic, Queen's Quarter, Lisburn Road"
+    },
+    "openDays": [
+      {
+        "date": "Autumn 2026 - TBC",
+        "type": "Undergraduate Open Day"
+      }
+    ],
+    "application": {
+      "ucasCode": "F321 (Mathematical Physics MSci)",
+      "contextualOffers": true,
+      "interviewRequired": false,
+      "personalStatementTips": [
+        "Queen's is a Russell Group university offering competitive programmes at significantly lower cost than England",
+        "Mathematical Physics at Queen's is a genuine joint programme with strong astrophysics links",
+        "Belfast's tech sector is rapidly growing — show awareness of graduate employment opportunities",
+        "Belfast is a very affordable city — excellent quality of life for students"
+      ],
+      "typicalTimeline": "UCAS January deadline. AAB typical offer."
+    },
+    "studentLife": {
+      "union": "Queen's University SU — very active",
+      "societiesCount": "150+",
+      "sportsTeams": "50+",
+      "highlights": [
+        "Belfast is a rapidly regenerating city with a vibrant arts and food scene",
+        "Titanic Quarter provides excellent cultural and employment opportunities",
+        "Giant's Causeway and Causeway Coastal Route easily accessible",
+        "Lower cost of living than any other Russell Group city"
+      ]
+    },
+    "cityLife": {
+      "description": "Belfast has been transformed over the past 20 years into a vibrant, culturally rich city. It is the UK's most affordable major city and has strong tech and manufacturing sectors. The Causeway Coast and Mourne Mountains are within easy reach.",
+      "avgRentPerMonth": "£450–£650",
+      "costOfLiving": "Low",
+      "transport": "Belfast Lanyon Place station; Belfast City Airport and International Airport",
+      "highlights": [
+        "Titanic Belfast museum",
+        "Giant's Causeway (1 hour)",
+        "Mourne Mountains (1 hour)",
+        "Cathedral Quarter arts scene"
+      ],
+      "nightlife": "Excellent and very affordable — Cathedral Quarter, Botanic Avenue and Linen Quarter all very lively."
+    },
+    "notableAlumni": [
+      "Seamus Heaney — Nobel Prize Literature, Queen's graduate",
+      "Mary Peters — Olympic gold medallist, Queen's graduate"
+    ],
+    "keyFacts": [
+      "Russell Group university — high research quality at lowest cost in the group",
+      "Mathematical Physics MSci is a genuine research-linked joint programme",
+      "Belfast is UK's most affordable major city for students",
+      "Titanic Quarter is a growing tech and creative industry hub"
+    ]
+  }
+}

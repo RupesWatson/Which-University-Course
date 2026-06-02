@@ -44,7 +44,7 @@ function gradeOrder(grade) {
   return 999 - score;
 }
 
-function compareValues(a, b, key, dir) {
+function compareValues(a, b, key, dir, gradeKey = 'entryGrades') {
   let left = a[key];
   let right = b[key];
 
@@ -52,8 +52,8 @@ function compareValues(a, b, key, dir) {
     left = rankVal(left);
     right = rankVal(right);
   } else if (key === 'entryGrades') {
-    left = gradeOrder(left);
-    right = gradeOrder(right);
+    left = gradeOrder(a[gradeKey]);
+    right = gradeOrder(b[gradeKey]);
   } else if (key === 'gradProspects') {
     left = parseInt(left, 10) || 0;
     right = parseInt(right, 10) || 0;
@@ -67,11 +67,12 @@ function compareValues(a, b, key, dir) {
   return 0;
 }
 
-export default function Table({ universities, course, strandId }) {
+export default function Table({ universities, course, strandId, gradeType = 'aLevel' }) {
   const [sortKey, setSortKey] = useState('subjectRank');
   const [sortDir, setSortDir] = useState('asc');
   const [expanded, setExpanded] = useState(null);
 
+  const gradeKey = gradeType === 'ib' ? 'ibGrades' : 'entryGrades';
   const columns = buildColumns(course?.rankLabel || 'Table Position');
 
   function handleSort(key) {
@@ -86,7 +87,7 @@ export default function Table({ universities, course, strandId }) {
     setSortDir('asc');
   }
 
-  const sorted = [...universities].sort((a, b) => compareValues(a, b, sortKey, sortDir));
+  const sorted = [...universities].sort((a, b) => compareValues(a, b, sortKey, sortDir, gradeKey));
 
   function tierBadge(tier) {
     return tier === 'Russell Group' ? (
@@ -161,7 +162,7 @@ export default function Table({ universities, course, strandId }) {
                   <td className="px-4 py-3 text-center">{rankCell(uni.overallRank)}</td>
                   <td className="px-4 py-3 text-center">{rankCell(uni.subjectRank)}</td>
                   <td className="px-4 py-3">
-                    <GradeBadge grade={uni.entryGrades} />
+                    <GradeBadge grade={uni[gradeKey]} />
                   </td>
                   <td className="px-4 py-3 text-center">
                     <span className="font-semibold text-blue-200">{uni.gradProspects}</span>

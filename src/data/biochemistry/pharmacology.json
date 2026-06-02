@@ -12,7 +12,8 @@
     "applicationCode": "B210",
     "sourceUrl": "https://digital.ucas.com/explore/courses/a1d8c3e2-4b6f-4e9a-5c7e-8e7a6c5b1f3d/pharmacology?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-edinburgh"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-edinburgh",
+    "ibGrades": "6"
   },
   {
     "name": "University College London",
@@ -27,7 +28,8 @@
     "applicationCode": "B210",
     "sourceUrl": "https://digital.ucas.com/explore/courses/b2e9d4f3-5c7a-4f0b-6d8f-9f8b7e6d2a4f/pharmacology?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-college-london"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-college-london",
+    "ibGrades": "6"
   },
   {
     "name": "University of Manchester",
@@ -42,7 +44,8 @@
     "applicationCode": "B210",
     "sourceUrl": "https://digital.ucas.com/explore/courses/c3f0e5a4-6d8b-4a1c-7e9a-0a9c8f7e3b5a/pharmacology?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/the-university-of-manchester"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/the-university-of-manchester",
+    "ibGrades": "6"
   },
   {
     "name": "King's College London",
@@ -57,7 +60,8 @@
     "applicationCode": "B210",
     "sourceUrl": "https://digital.ucas.com/explore/courses/d4a1f6b5-7e9c-4b2d-8f0b-1b0d9a8f4c6b/pharmacology?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/king-s-college-london"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/king-s-college-london",
+    "ibGrades": "6"
   },
   {
     "name": "University of Bristol",
@@ -72,7 +76,8 @@
     "applicationCode": "B210",
     "sourceUrl": "https://digital.ucas.com/explore/courses/e5b2a7c6-8f0d-4c3e-9a1c-2c1e0b9a5d7c/pharmacology?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-bristol"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-bristol",
+    "ibGrades": "6"
   },
   {
     "name": "University of Sheffield",
@@ -87,7 +92,8 @@
     "applicationCode": "B210",
     "sourceUrl": "https://digital.ucas.com/explore/courses/f6c3b8d7-9a1e-4d4f-0b2d-3d2f1c0b6e8d/pharmacology?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/the-university-of-sheffield"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/the-university-of-sheffield",
+    "ibGrades": "6"
   },
   {
     "name": "University of Nottingham",
@@ -102,7 +108,8 @@
     "applicationCode": "B210",
     "sourceUrl": "https://digital.ucas.com/explore/courses/a7d4c9e8-0b2f-4e5a-1c3e-4e3a2d1c7f9e/pharmacology?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/the-university-of-nottingham"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/the-university-of-nottingham",
+    "ibGrades": "6"
   },
   {
     "name": "University of Leeds",
@@ -117,7 +124,8 @@
     "applicationCode": "B210",
     "sourceUrl": "https://digital.ucas.com/explore/courses/b8e5d0f9-1c3a-4f6b-2d4f-5f4b3e2d8c0f/pharmacology?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-leeds"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-leeds",
+    "ibGrades": "6"
   },
   {
     "name": "Newcastle University",
@@ -132,7 +140,8 @@
     "applicationCode": "B210",
     "sourceUrl": "https://digital.ucas.com/explore/courses/c9f6e1a0-2d4b-4a7c-3e5a-6a5c4f3e9d1a/pharmacology?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/newcastle-university"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/newcastle-university",
+    "ibGrades": "6"
   },
   {
     "name": "University of Birmingham",
@@ -147,7 +156,8 @@
     "applicationCode": "B210",
     "sourceUrl": "https://digital.ucas.com/explore/courses/d0a7f2b1-3e5c-4b8d-4f6b-7b6d5a4f0e2b/pharmacology?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-birmingham"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-birmingham",
+    "ibGrades": "6"
   },
   {
     "name": "University of Glasgow",
@@ -162,7 +172,8 @@
     "applicationCode": "B210",
     "sourceUrl": "https://digital.ucas.com/explore/courses/e1b8c3d2-4f6e-4c9f-5a7c-8c7f6b5a1e3c/pharmacology?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-glasgow"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-glasgow",
+    "ibGrades": "6"
   },
   {
     "name": "University of Bath",
@@ -177,7 +188,8 @@
     "applicationCode": "B210",
     "sourceUrl": "https://digital.ucas.com/explore/courses/f2c9d4e3-5a7f-4d0a-6b8d-9d8a7c6e2f4d/pharmacology?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-bath"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-bath",
+    "ibGrades": "6"
   },
   {
     "name": "University of Leicester",
@@ -192,7 +204,8 @@
     "applicationCode": "B210",
     "sourceUrl": "https://digital.ucas.com/explore/courses/a3d0e5f4-6b8a-4e1b-7c9e-0e9b8d7a3f5e/pharmacology?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-leicester"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-leicester",
+    "ibGrades": "6"
   },
   {
     "name": "University of Reading",
@@ -207,7 +220,8 @@
     "applicationCode": "B210",
     "sourceUrl": "https://digital.ucas.com/explore/courses/b4e1f6a5-7c9b-4f2c-8d0f-1f0c9e8b4a6f/pharmacology?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-reading"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-reading",
+    "ibGrades": "6"
   },
   {
     "name": "Keele University",
@@ -222,6 +236,7 @@
     "applicationCode": "B210",
     "sourceUrl": "https://digital.ucas.com/explore/courses/c5f2a7b6-8d0c-4a3d-9e1a-2a1d0f9c5b7a/pharmacology?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/keele-university"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/keele-university",
+    "ibGrades": "5"
   }
 ]

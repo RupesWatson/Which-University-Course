@@ -1,0 +1,173 @@
+{
+  "engineering": {
+    "id": "engineering",
+    "title": "General Engineering",
+    "duration": "3 years (BEng) / 4 years (MEng integrated Masters)",
+    "overview": "Engineering is the practical application of science and mathematics to solve real-world problems. A general engineering degree provides flexibility, allowing you to explore multiple disciplines in your first year before specialising in mechanical, civil, electrical, chemical or aeronautical engineering from year 2. UK engineering is globally renowned, with the highest concentration of engineering research investment of any country. Graduates enter careers across infrastructure, manufacturing, energy, technology and aerospace sectors.",
+    "yearByYear": [
+      { "year": 1, "focus": "Engineering Fundamentals", "modules": ["Mathematics for Engineers I & II", "Physics for Engineers", "Introduction to Programming", "Engineering Design and Practice", "Thermodynamics Fundamentals", "Materials Science Introduction", "Mechanics of Solids and Fluids"] },
+      { "year": 2, "focus": "Specialisation Begins", "modules": ["Advanced Mathematics for Engineers", "Specialisation Core Modules (Mechanical/Civil/Electrical/Chemical)", "Engineering Project", "Systems and Control", "Professional Practice and Ethics", "Advanced Materials", "Elective Specialisation Modules"] },
+      { "year": 3, "focus": "Specialisation and Design", "modules": ["Major Design Project", "Specialist Technical Modules", "Professional Engineering Practice", "Research Methods", "Advanced Specialisation Options", "Engineering Economics and Management", "Final Year Specialisation"] },
+      { "year": 4, "focus": "MEng Research (MEng only)", "modules": ["Extended Design Project", "Advanced Research Topics", "Thesis or Advanced Research", "Final Year Specialisation Modules", "Professional Development"] }
+    ],
+    "skills": [
+      "Mathematical modelling and computational analysis (MATLAB, CAD software)",
+      "Design thinking and innovative problem-solving",
+      "Project management and team leadership",
+      "Technical writing and communication to non-specialists",
+      "Laboratory and field testing skills",
+      "Health and safety compliance (ISO standards, COSHH)",
+      "Sustainability and environmental impact assessment"
+    ],
+    "professionalBodies": [
+      { "name": "Engineering Council (EC)", "benefit": "BEng from an accredited programme is the first stage towards Chartered Engineer (CEng) status. MEng meets the academic requirements for CEng." },
+      { "name": "Institution of Mechanical Engineers (IMechE)", "benefit": "Specialised accreditation for mechanical engineering degrees; supports pathway to Chartered Mechanical Engineer (CMechE)." },
+      { "name": "Institution of Civil Engineers (ICE)", "benefit": "Specialised accreditation for civil engineering; leads to Chartered Civil Engineer (CEng)." }
+    ],
+    "careers": [
+      { "role": "Graduate Engineer / Scheme (multinational companies)", "salary": "£28,000–£36,000 starting / £45,000–£70,000 after 5 years", "demand": "Very High" },
+      { "role": "Structural / Civil Engineer", "salary": "£30,000–£42,000 starting / £50,000–£80,000 senior", "demand": "High" },
+      { "role": "Manufacturing / Process Engineer", "salary": "£28,000–£40,000 starting / £48,000–£75,000 senior", "demand": "High" },
+      { "role": "Project Manager (Construction / Infrastructure)", "salary": "£35,000–£50,000 starting / £60,000–£100,000 senior", "demand": "High" },
+      { "role": "Consulting Engineer (Arup, Atkins, etc.)", "salary": "£32,000–£45,000 starting / £70,000–£120,000+ senior", "demand": "High" },
+      { "role": "Energy / Sustainability Engineer", "salary": "£30,000–£42,000 starting / £55,000–£85,000 senior", "demand": "Growing" }
+    ],
+    "topEmployers": ["Rolls-Royce", "BAE Systems", "Siemens", "Arup", "Network Rail", "Thames Water", "Balfour Beatty", "Aero Engine Manufacturers", "Construction Companies (Laing O'Rourke, Kier)", "Oil & Gas (Shell, BP)"],
+    "employerPerspective": "Engineering graduates are among the most versatile technical professionals in the job market. Multinational engineering firms (Arup, Atkins, Jacobs) run dedicated graduate schemes targeting MEng graduates specifically. The construction and infrastructure sectors have acute skills shortages. Technology and aerospace firms recruit heavily from engineering programmes for both technical and graduate management roles.",
+    "entryRequirements": "Typical offer: A*AA–AAA at A-level depending on university. Mathematics is essential at virtually all institutions; Physics is required or strongly recommended. Further Maths is advantageous. GCSE Maths at grade 7/A or above is commonly required.",
+    "furtherStudy": "MEng Integrated Masters, Postgraduate Diplomas in Specialisation (e.g., Structural Engineering, Environmental Engineering), MBA or Management Masters, PhD in Engineering, Chartered Engineer (CEng) accreditation pathway.",
+    "isItForYou": [
+      "Study this if you want to solve practical problems at scale — building infrastructure, designing machines, improving energy systems.",
+      "Study this if you enjoy both theory and hands-on work — UK engineering degrees balance rigorous maths with laboratory and design projects.",
+      "Study this if you value global job security — engineering is a portable, internationally recognised qualification; graduates work across the world.",
+      "Think twice if you dislike mathematics — strength in pure and applied mathematics is essential throughout; differential equations and numerical analysis are core.",
+      "Think twice if you want to avoid long hours — final-year projects and design work can be intensive; professional practice expects high standards."
+    ]
+  },
+  "mechanical": {
+    "id": "mechanical",
+    "title": "Mechanical Engineering",
+    "duration": "3 years (BEng) / 4 years (MEng integrated Masters)",
+    "overview": "Mechanical engineering is the broadest engineering discipline, bridging physics and practical design to create machines, engines, systems and processes. From thermodynamics and fluid mechanics to structural analysis and control systems, mechanical engineers are involved in everything from Formula 1 vehicles to offshore wind turbines to medical devices. The UK has world-leading mechanical engineering research and strong links to automotive, aerospace and energy sectors.",
+    "yearByYear": [
+      { "year": 1, "focus": "Foundations", "modules": ["Mathematics I & II", "Mechanics of Machines", "Thermodynamics Fundamentals", "Materials Science", "Engineering Design", "CAD and Modelling", "Fluid Mechanics Introduction"] },
+      { "year": 2, "focus": "Core Mechanical Engineering", "modules": ["Advanced Thermodynamics", "Heat Transfer", "Fluid Mechanics", "Solid Mechanics and Stress Analysis", "Machine Design", "Control Systems", "Mechanical Project I"] },
+      { "year": 3, "focus": "Specialisation and Design", "modules": ["Mechanical Design Project", "Advanced Heat and Power Systems", "Automotive Engineering (optional)", "Aerospace Engineering (optional)", "Energy and Sustainability", "Manufacturing Processes", "Systems Modelling and Simulation"] },
+      { "year": 4, "focus": "MEng Research", "modules": ["Extended Design Project", "Advanced Thermodynamics or Fluid Dynamics", "Specialist Modules (Hybrid Vehicles, Renewable Energy, etc.)", "Research and Innovation", "Professional Development"] }
+    ],
+    "skills": [
+      "CAD software (SolidWorks, CATIA, Fusion 360)",
+      "Finite Element Analysis (FEA) and Computational Fluid Dynamics (CFD)",
+      "Thermodynamics and heat transfer analysis",
+      "Control systems design and simulation",
+      "Manufacturing and prototyping knowledge",
+      "Project management and technical leadership",
+      "Written and oral communication of technical concepts"
+    ],
+    "professionalBodies": [
+      { "name": "Institution of Mechanical Engineers (IMechE)", "benefit": "Accredited MEng leads to Chartered Mechanical Engineer (CMechE) status with further experience. Access to professional networks, journals and CPD." }
+    ],
+    "careers": [
+      { "role": "Automotive Engineer (Design/Development)", "salary": "£28,000–£38,000 starting / £50,000–£80,000 at 5 years", "demand": "Very High" },
+      { "role": "Thermodynamics Engineer (Power/Energy)", "salary": "£30,000–£42,000 starting / £55,000–£85,000 senior", "demand": "High" },
+      { "role": "Aeronautical Systems Engineer", "salary": "£32,000–£45,000 starting / £60,000–£95,000 senior", "demand": "High" },
+      { "role": "Renewable Energy Engineer", "salary": "£28,000–£40,000 starting / £50,000–£80,000 senior", "demand": "Growing" },
+      { "role": "Manufacturing Systems Engineer", "salary": "£26,000–£36,000 starting / £45,000–£70,000 senior", "demand": "High" }
+    ],
+    "topEmployers": ["Rolls-Royce", "BAE Systems", "Jaguar Land Rover", "Formula 1 Teams", "Siemens", "Dyson", "Bosch", "Airbus", "Vestas (Wind Energy)"],
+    "employerPerspective": "Mechanical engineering graduates are highly sought after by automotive (JLR, Bentley), aerospace (Rolls-Royce, BAE) and energy companies. The sector has chronic skills shortages in thermodynamics and fluid dynamics expertise. Graduate schemes at major companies are highly competitive and favour MEng graduates with project experience.",
+    "entryRequirements": "Typical offer: A*AA–AAA. Maths and Physics A-levels essential. Further Maths strongly preferred. GCSE Maths at grade 7 or above required.",
+    "furtherStudy": "MEng Integrated Masters, MSc in Automotive/Aerospace/Energy Engineering, PhD in Mechanical Engineering, MBA, Professional Engineer accreditation.",
+    "isItForYou": [
+      "Study this if you want to design and optimise machines, engines and systems.",
+      "Study this if you enjoy thermodynamics and fluid dynamics — these are core and you'll use them throughout your career.",
+      "Study this if you want maximum career options — mechanical skills transfer across automotive, aerospace, energy and manufacturing.",
+      "Think twice if you find mathematics abstract — you'll need strong calculus and differential equations applied to real systems.",
+      "Think twice if you prefer pure theory over design — this degree emphasises practical application and iterative design."
+    ]
+  },
+  "civil": {
+    "id": "civil",
+    "title": "Civil Engineering",
+    "duration": "3 years (BEng) / 4 years (MEng integrated Masters)",
+    "overview": "Civil engineering is the oldest engineering discipline, creating and maintaining the physical infrastructure that society depends on: buildings, bridges, roads, water systems, and public infrastructure. UK civil engineers work on iconic projects globally — from HS2 in the UK to the Channel Tunnel to major infrastructure across Europe and the Middle East. The sector offers extraordinary diversity: structural design, geotechnical engineering, water engineering, transportation, and sustainable infrastructure.",
+    "yearByYear": [
+      { "year": 1, "focus": "Engineering Fundamentals", "modules": ["Engineering Mathematics I & II", "Mechanics and Structural Analysis", "Materials and Geology", "Engineering Surveying and CAD", "Hydraulics Fundamentals", "Construction Management Introduction", "Professional Practice"] },
+      { "year": 2, "focus": "Core Civil Engineering", "modules": ["Advanced Structural Mechanics", "Geotechnical Engineering", "Fluid Mechanics and Hydraulics", "Construction Processes and Technology", "Design Project I", "Highway Engineering", "Surveying and Measurement"] },
+      { "year": 3, "focus": "Specialisation and Design", "modules": ["Major Design Project", "Structural Design (Steel/Concrete)", "Foundation and Ground Engineering", "Water Engineering and Sustainability", "Transportation Engineering", "Engineering Economics and Contracts", "Specialist Electives"] },
+      { "year": 4, "focus": "MEng Research", "modules": ["Extended Design Project", "Advanced Structural Analysis or Geotechnics", "Sustainability in Infrastructure", "Research Methods in Civil Engineering", "Project Management and Leadership", "Specialist Options"] }
+    ],
+    "skills": [
+      "Structural analysis and design (finite element analysis, CAD software like AutoCAD/Revit)",
+      "Geotechnical assessment and foundation design",
+      "Hydraulic and water resource analysis",
+      "Surveying and site investigation",
+      "Project management and contract administration",
+      "BIM (Building Information Modelling)",
+      "Sustainability assessment and climate resilience"
+    ],
+    "professionalBodies": [
+      { "name": "Institution of Civil Engineers (ICE)", "benefit": "Accredited MEng leads to Chartered Civil Engineer (CEng) status. Strong professional networks, CPD requirements, and access to projects and innovations." }
+    ],
+    "careers": [
+      { "role": "Structural Engineer (Design Office)", "salary": "£28,000–£38,000 starting / £50,000–£85,000 senior", "demand": "High" },
+      { "role": "Site Engineer / Resident Engineer", "salary": "£26,000–£35,000 starting / £45,000–£70,000 senior", "demand": "High" },
+      { "role": "Geotechnical Engineer", "salary": "£30,000–£42,000 starting / £55,000–£80,000 senior", "demand": "Very High" },
+      { "role": "Project Manager (Major Infrastructure)", "salary": "£35,000–£50,000 starting / £70,000–£120,000+ senior", "demand": "High" },
+      { "role": "Water Engineer / Hydraulic Specialist", "salary": "£28,000–£40,000 starting / £50,000–£80,000 senior", "demand": "Growing" }
+    ],
+    "topEmployers": ["Arup", "Atkins", "Balfour Beatty", "Network Rail", "Thames Water", "Laing O'Rourke", "BAM Construct UK", "Jacobs", "WYG", "Scott Wilson"],
+    "employerPerspective": "Major infrastructure projects (HS2, Thames Tunnel, major road/rail upgrades) create continuous demand for civil engineers. Arup and Atkins run world-class graduate schemes. The sector faces significant skills gaps in geotechnical and structural engineering. Large construction companies actively recruit MEng graduates into graduate management roles.",
+    "entryRequirements": "Typical offer: AAA–AAB. Maths and Physics essential. Further Maths useful. GCSE Maths at grade 7/A or above required.",
+    "furtherStudy": "MEng, MSc in Structural / Geotechnical / Water Engineering, PhD, MBA, Chartered Engineer pathway.",
+    "isItForYou": [
+      "Study this if you want to contribute to large-scale infrastructure projects that millions of people use.",
+      "Study this if you enjoy working across multiple disciplines — structures, geology, hydrology, and project management all feature.",
+      "Study this if you value stability — infrastructure will always be needed; civil engineers are always in demand.",
+      "Think twice if you prefer pure research over applied work — civil engineering is about solving real-world problems under budget and time constraints.",
+      "Think twice if you want to avoid fieldwork — site visits and ground investigation are core parts of the job."
+    ]
+  },
+  "electrical": {
+    "id": "electrical",
+    "title": "Electrical Engineering",
+    "duration": "3 years (BEng) / 4 years (MEng integrated Masters)",
+    "overview": "Electrical engineering underpins modern life, from power systems supplying electricity to homes, to electronics in smartphones, to renewable energy systems and autonomous vehicles. UK electrical engineering is at the forefront of innovation in power systems, renewable energy integration, electric vehicles and advanced electronics. Graduates work in energy, telecommunications, aerospace, medical devices and consumer electronics.",
+    "yearByYear": [
+      { "year": 1, "focus": "Electrical Fundamentals", "modules": ["Circuit Theory and Network Analysis", "Electromagnetics and Electromagnetic Fields", "Digital Electronics", "Electrical Engineering Mathematics", "Power Systems Introduction", "Programming (Embedded Systems)", "Laboratory Skills and Safety"] },
+      { "year": 2, "focus": "Core Electrical Engineering", "modules": ["Power Electronics", "Control Systems", "Digital Design and FPGA", "Electromagnetic Waves and Antennas", "Electrical Machines", "Signal Processing", "Microelectronics and Semiconductor Devices"] },
+      { "year": 3, "focus": "Specialisation and Design", "modules": ["Major Design Project", "Power Systems and Smart Grids (or Electronics Specialisation)", "Renewable Energy Systems", "Advanced Control Systems", "Embedded Systems Design", "Communications Engineering", "Specialist Electives"] },
+      { "year": 4, "focus": "MEng Research", "modules": ["Extended Design Project", "Advanced Topics (Power Systems or Electronics)", "Renewable Energy Integration", "High Voltage Engineering or Advanced Microelectronics", "Research and Innovation", "Professional Development"] }
+    ],
+    "skills": [
+      "Circuit design and simulation (SPICE, Multisim)",
+      "FPGA and microcontroller programming (VHDL, Verilog, C/C++)",
+      "Power systems analysis and load flow",
+      "PCB design and layout",
+      "Signal processing and control systems design",
+      "Renewable energy system integration",
+      "Oscilloscope and test equipment proficiency"
+    ],
+    "professionalBodies": [
+      { "name": "Institution of Engineering and Technology (IET)", "benefit": "Accredited MEng leads to Chartered Engineer (CEng) status. Strong community, professional development and networking in electrical and electronic engineering." }
+    ],
+    "careers": [
+      { "role": "Power Systems Engineer", "salary": "£30,000–£42,000 starting / £55,000–£85,000 senior", "demand": "High" },
+      { "role": "Electronics Design Engineer", "salary": "£28,000–£40,000 starting / £50,000–£80,000 senior", "demand": "Very High" },
+      { "role": "Smart Grid / Renewable Energy Engineer", "salary": "£32,000–£45,000 starting / £60,000–£95,000 senior", "demand": "Very High" },
+      { "role": "Embedded Systems Engineer", "salary": "£30,000–£42,000 starting / £55,000–£85,000 senior", "demand": "Very High" },
+      { "role": "Power Electronics Engineer (EV / Renewables)", "salary": "£32,000–£45,000 starting / £60,000–£90,000 senior", "demand": "Growing" }
+    ],
+    "topEmployers": ["National Grid", "EDF Energy", "Siemens", "Rolls-Royce", "BAE Systems", "Thales", "Tesla", "Dyson", "Qualcomm", "ARM"],
+    "employerPerspective": "Electrical engineers are among the most sought-after graduates. Smart grid modernisation and renewable energy integration create massive demand for power systems specialists. Embedded systems expertise is highly valued in automotive (EV transition) and consumer electronics. Graduate schemes at utilities, defence contractors and tech firms are highly competitive.",
+    "entryRequirements": "Typical offer: A*AA–AAB. Maths essential; Physics strongly recommended. Further Maths advantageous. GCSE Maths at grade 7 or above required.",
+    "furtherStudy": "MEng, MSc in Power Systems / Electronics / Energy Engineering, PhD, MBA, Chartered Engineer pathway.",
+    "isItForYou": [
+      "Study this if you're fascinated by electricity, electronics and how devices work.",
+      "Study this if you want to contribute to the energy transition — renewable energy integration is the defining challenge of your career.",
+      "Study this if you enjoy both theory and hands-on lab work — electrical engineering requires rigorous analysis and practical verification.",
+      "Think twice if you don't enjoy advanced mathematics — electromagnetism and control theory are abstract and mathematically demanding.",
+      "Think twice if you prefer macro-scale projects over detailed design — much electrical engineering involves careful circuit design and signal integrity."
+    ]
+  }
+}

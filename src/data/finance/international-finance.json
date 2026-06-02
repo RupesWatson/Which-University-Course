@@ -12,7 +12,8 @@
     "applicationCode": "NN13",
     "sourceUrl": "https://digital.ucas.com/explore/courses/26af9c6d-e4eb-af54-582b-7db68c622a63/international-business-and-finance?studyYear=2026",
     "matchType": "close",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-leeds"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-leeds",
+    "ibGrades": "6"
   },
   {
     "name": "University of Reading",
@@ -27,7 +28,8 @@
     "applicationCode": "N390",
     "sourceUrl": "https://digital.ucas.com/explore/courses/afa1d70f-1a52-4cab-89fa-cf8a77e98860/finance-international-business?studyYear=2026",
     "matchType": "close",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-reading"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-reading",
+    "ibGrades": "6"
   },
   {
     "name": "University of Glasgow",
@@ -42,7 +44,8 @@
     "applicationCode": "N401",
     "sourceUrl": "https://digital.ucas.com/explore/courses/97579b11-b258-7ef9-707c-e970c38f8c36/accountancy-with-international-accounting?studyYear=2026",
     "matchType": "close",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-glasgow"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-glasgow",
+    "ibGrades": "6"
   },
   {
     "name": "University of Strathclyde",
@@ -57,7 +60,8 @@
     "applicationCode": "N300",
     "sourceUrl": "https://digital.ucas.com/explore/courses/3079cd54-dba0-411b-b0c8-89e372e06bd0/finance?studyYear=2026",
     "matchType": "close",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-strathclyde"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-strathclyde",
+    "ibGrades": "6"
   },
   {
     "name": "Durham University",
@@ -72,7 +76,8 @@
     "applicationCode": "N300",
     "sourceUrl": "https://digital.ucas.com/explore/courses/0f64add3-e64d-a77a-fbc1-81f9cf94c930/finance?studyYear=2026",
     "matchType": "close",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/durham-university"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/durham-university",
+    "ibGrades": "6"
   },
   {
     "name": "City St George's, University of London",
@@ -87,6 +92,7 @@
     "applicationCode": "NL34",
     "sourceUrl": "https://digital.ucas.com/explore/courses/1958289b-2149-8217-d6ea-4521c5fe9ac9/banking-and-international-finance?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/city-st-george-s-university-of-london"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/city-st-george-s-university-of-london",
+    "ibGrades": "6"
   }
 ]

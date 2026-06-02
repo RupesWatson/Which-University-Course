@@ -14,6 +14,18 @@ import { COURSES as financeCourses } from '../data/finance/courses';
 import financeCourseDetails from '../data/finance/course-details.json';
 import financeUniDetails from '../data/finance/university-details.json';
 
+import { COURSES as physicsCourses } from '../data/physics/courses';
+import physicsCourseDetails from '../data/physics/course-details.json';
+import physicsUniDetails from '../data/physics/university-details.json';
+
+import { COURSES as mathsCourses } from '../data/maths/courses';
+import mathsCourseDetails from '../data/maths/course-details.json';
+import mathsUniDetails from '../data/maths/university-details.json';
+
+import { COURSES as engineeringCourses } from '../data/engineering/courses';
+import engineeringCourseDetails from '../data/engineering/course-details.json';
+import engineeringUniDetails from '../data/engineering/university-details.json';
+
 export const STRANDS = {
   biochemistry: {
     id: 'biochemistry',
@@ -61,6 +73,70 @@ export const STRANDS = {
     courses: financeCourses,
     courseDetails: financeCourseDetails,
     universityDetails: financeUniDetails,
+  },
+  physics: {
+    id: 'physics',
+    label: 'Physics',
+    tagline: 'UCAS 2026 verified physics, astrophysics and related science degrees',
+    headerEyebrow: 'UCAS 2026 Course Audit',
+    headerTitleStart: 'UK University Physics & ',
+    headerTitleAccent: 'Physical Sciences Comparison',
+    headerSubtitle:
+      'Compare verified 2026 undergraduate course matches across Russell Group and other top UK universities. ' +
+      'Course titles sourced from UCAS 2026 and rankings from the Complete University Guide 2026.',
+    footerNote:
+      'Exact course titles and availability verified against UCAS 2026. Physics uses the CUG 2026 subject ranking; ' +
+      'all other course tables show table position within the verified comparison set.',
+    courseGroups: [
+      { label: 'Core Physics', ids: ['physics', 'astrophysics', 'theoreticalPhysics'] },
+      { label: 'Physics & Other Disciplines', ids: ['mathematicalPhysics', 'physicsPhilosophy', 'spaceScience', 'computationalPhysics'] },
+      { label: 'Applied & Specialist', ids: ['medicalPhysics', 'geophysics', 'physicsIndustry'] },
+    ],
+    courses: physicsCourses,
+    courseDetails: physicsCourseDetails,
+    universityDetails: physicsUniDetails,
+  },
+  maths: {
+    id: 'maths',
+    label: 'Mathematics',
+    tagline: 'UCAS 2026 verified mathematics, statistics and data science degrees',
+    headerEyebrow: 'UCAS 2026 Course Audit',
+    headerTitleStart: 'UK University Mathematics & ',
+    headerTitleAccent: 'Statistics Comparison',
+    headerSubtitle:
+      'Compare verified 2026 undergraduate course matches across Russell Group and other top UK universities. ' +
+      'Course titles sourced from UCAS 2026 and rankings from the Complete University Guide 2026.',
+    footerNote:
+      'Exact course titles and availability verified against UCAS 2026. Mathematics uses the CUG 2026 subject ranking; ' +
+      'all other course tables show table position within the verified comparison set.',
+    courseGroups: [
+      { label: 'Core Mathematics', ids: ['mathematics', 'statistics', 'appliedMaths'] },
+      { label: 'Mathematics & Other Disciplines', ids: ['mathsCS', 'mathsStats', 'mathsPhysics', 'mathsPhilosophy'] },
+      { label: 'Applied & Specialist', ids: ['operationalResearch', 'dataScience', 'mathsIndustry'] },
+    ],
+    courses: mathsCourses,
+    courseDetails: mathsCourseDetails,
+    universityDetails: mathsUniDetails,
+  },
+  engineering: {
+    id: 'engineering',
+    label: 'Engineering',
+    tagline: 'UCAS 2026 verified engineering degrees across all specialisms',
+    headerEyebrow: 'UCAS 2026 Course Audit',
+    headerTitleStart: 'UK University Engineering & ',
+    headerTitleAccent: 'Technology Comparison',
+    headerSubtitle:
+      'Compare verified 2026 undergraduate course matches across Russell Group and other top UK universities. ' +
+      'Course titles sourced from UCAS 2026. Switch between A-level and IB entry requirements using the toggle.',
+    footerNote:
+      'Exact course titles and availability verified against UCAS 2026. All course tables show table position within the verified comparison set. ' +
+      'A-level and IB equivalents are provided; always confirm exact entry requirements on the university website.',
+    courseGroups: [
+      { label: 'Core Engineering', ids: ['engineering', 'mechanical', 'civil', 'electrical'] },
+    ],
+    courses: engineeringCourses,
+    courseDetails: engineeringCourseDetails,
+    universityDetails: engineeringUniDetails,
   },
 };
 

@@ -12,7 +12,8 @@
     "applicationCode": "C500",
     "sourceUrl": "https://digital.ucas.com/explore/courses/a1d8c3e2-4b6f-4e9a-5c7e-8e7a6c5b1f3d/microbiology?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-edinburgh"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-edinburgh",
+    "ibGrades": "6"
   },
   {
     "name": "University of Manchester",
@@ -27,7 +28,8 @@
     "applicationCode": "C500",
     "sourceUrl": "https://digital.ucas.com/explore/courses/b2e9d4f3-5c7a-4f0b-6d8f-9f8b7e6d2a4f/microbiology?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/the-university-of-manchester"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/the-university-of-manchester",
+    "ibGrades": "6"
   },
   {
     "name": "University of Bristol",
@@ -42,7 +44,8 @@
     "applicationCode": "C500",
     "sourceUrl": "https://digital.ucas.com/explore/courses/c3f0e5a4-6d8b-4a1c-7e9a-0a9c8f7e3b5a/microbiology?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-bristol"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-bristol",
+    "ibGrades": "6"
   },
   {
     "name": "University of Leeds",
@@ -57,7 +60,8 @@
     "applicationCode": "C500",
     "sourceUrl": "https://digital.ucas.com/explore/courses/d4a1f6b5-7e9c-4b2d-8f0b-1b0d9a8f4c6b/microbiology?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-leeds"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-leeds",
+    "ibGrades": "6"
   },
   {
     "name": "University of Sheffield",
@@ -72,7 +76,8 @@
     "applicationCode": "C500",
     "sourceUrl": "https://digital.ucas.com/explore/courses/e5b2a7c6-8f0d-4c3e-9a1c-2c1e0b9a5d7c/microbiology?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/the-university-of-sheffield"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/the-university-of-sheffield",
+    "ibGrades": "6"
   },
   {
     "name": "University of Nottingham",
@@ -87,7 +92,8 @@
     "applicationCode": "C500",
     "sourceUrl": "https://digital.ucas.com/explore/courses/f6c3b8d7-9a1e-4d4f-0b2d-3d2f1c0b6e8d/microbiology?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/the-university-of-nottingham"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/the-university-of-nottingham",
+    "ibGrades": "6"
   },
   {
     "name": "University of Glasgow",
@@ -102,7 +108,8 @@
     "applicationCode": "C500",
     "sourceUrl": "https://digital.ucas.com/explore/courses/a7d4c9e8-0b2f-4e5a-1c3e-4e3a2d1c7f9e/microbiology?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-glasgow"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-glasgow",
+    "ibGrades": "6"
   },
   {
     "name": "Queen Mary University of London",
@@ -117,7 +124,8 @@
     "applicationCode": "C500",
     "sourceUrl": "https://digital.ucas.com/explore/courses/b8e5d0f9-1c3a-4f6b-2d4f-5f4b3e2d8c0f/microbiology?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/queen-mary-university-of-london"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/queen-mary-university-of-london",
+    "ibGrades": "6"
   },
   {
     "name": "University of Leicester",
@@ -132,7 +140,8 @@
     "applicationCode": "C500",
     "sourceUrl": "https://digital.ucas.com/explore/courses/c9f6e1a0-2d4b-4a7c-3e5a-6a5c4f3e9d1a/microbiology?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-leicester"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-leicester",
+    "ibGrades": "6"
   },
   {
     "name": "Aberystwyth University",
@@ -147,6 +156,7 @@
     "applicationCode": "C500",
     "sourceUrl": "https://digital.ucas.com/explore/courses/d0a7f2b1-3e5c-4b8d-4f6b-7b6d5a4f0e2b/microbiology?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/aberystwyth-university"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/aberystwyth-university",
+    "ibGrades": "5"
   }
 ]

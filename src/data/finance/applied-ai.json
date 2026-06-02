@@ -12,7 +12,8 @@
     "applicationCode": "L1N3",
     "sourceUrl": "https://digital.ucas.com/explore/courses/a9201d17-8c12-4b1e-b3dd-5b8ea3bd22be/economics-and-data-science?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/london-school-of-economics-and-political-science"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/london-school-of-economics-and-political-science",
+    "ibGrades": "6"
   },
   {
     "name": "University of Manchester",
@@ -27,7 +28,8 @@
     "applicationCode": "LG14",
     "sourceUrl": "https://digital.ucas.com/explore/courses/aea73313-521f-407e-9fb8-ac3dc4018987/economics-and-data-analytics?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-manchester"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-manchester",
+    "ibGrades": "6"
   },
   {
     "name": "University of Exeter",
@@ -42,7 +44,8 @@
     "applicationCode": "N3G4",
     "sourceUrl": "https://digital.ucas.com/explore/courses/9e07dae3-67c2-4335-a975-d86163ca0e11/financial-technology-fintech?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-exeter"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-exeter",
+    "ibGrades": "6"
   },
   {
     "name": "University of Strathclyde",
@@ -57,7 +60,8 @@
     "applicationCode": "GG47",
     "sourceUrl": "https://digital.ucas.com/explore/courses/7df0630e-4f87-4202-bf16-ffac64a3054b/artificial-intelligence-and-applications?studyYear=2026",
     "matchType": "close",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-strathclyde"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-strathclyde",
+    "ibGrades": "6"
   },
   {
     "name": "City St George's, University of London",
@@ -72,7 +76,8 @@
     "applicationCode": "NG31",
     "sourceUrl": "https://digital.ucas.com/explore/courses/753a6b06-53b3-48c3-916b-53b13b173508/data-analytics-and-actuarial-science?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/city-st-george-s-university-of-london"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/city-st-george-s-university-of-london",
+    "ibGrades": "6"
   },
   {
     "name": "University of Glasgow",
@@ -87,7 +92,8 @@
     "applicationCode": "NG33",
     "sourceUrl": "https://digital.ucas.com/explore/courses/df7581e1-3230-af35-0748-fc2c4cbe809e/finance-and-statistics?studyYear=2026",
     "matchType": "close",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-glasgow"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-glasgow",
+    "ibGrades": "6"
   },
   {
     "name": "Durham University",
@@ -102,7 +108,8 @@
     "applicationCode": "N300",
     "sourceUrl": "https://digital.ucas.com/explore/courses/0f64add3-e64d-a77a-fbc1-81f9cf94c930/finance?studyYear=2026",
     "matchType": "close",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/durham-university"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/durham-university",
+    "ibGrades": "6"
   },
   {
     "name": "University of Edinburgh",
@@ -117,7 +124,8 @@
     "applicationCode": "LN43",
     "sourceUrl": "https://digital.ucas.com/explore/courses/050c54a7-427e-4520-830a-7ee98fc2572d/accounting-and-data-analytics?studyYear=2026",
     "matchType": "close",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/the-university-of-edinburgh"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/the-university-of-edinburgh",
+    "ibGrades": "6"
   },
   {
     "name": "University of Leeds",
@@ -132,6 +140,7 @@
     "applicationCode": "N300",
     "sourceUrl": "https://digital.ucas.com/explore/courses/finance-leeds-ai?studyYear=2026",
     "matchType": "close",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-leeds"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-leeds",
+    "ibGrades": "6"
   }
 ]

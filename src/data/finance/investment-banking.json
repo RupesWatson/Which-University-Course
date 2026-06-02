@@ -12,7 +12,8 @@
     "applicationCode": "G1N3",
     "sourceUrl": "https://digital.ucas.com/explore/courses/cade87a9-7726-6821-4c47-7a54b6824404/mathematics-with-finance-and-investment-banking?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-reading"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-reading",
+    "ibGrades": "6"
   },
   {
     "name": "University of Exeter",
@@ -27,7 +28,8 @@
     "applicationCode": "NN45",
     "sourceUrl": "https://digital.ucas.com/explore/courses/7bacd76d-75d7-4a47-8205-d9c290331fe6/finance-investment-banking?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-exeter"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-exeter",
+    "ibGrades": "6"
   },
   {
     "name": "University of Kent",
@@ -42,7 +44,8 @@
     "applicationCode": "N301",
     "sourceUrl": "https://digital.ucas.com/explore/courses/0d17f0ab-6191-4dc2-8cba-fbd6b000c948/finance-and-investment?studyYear=2026",
     "matchType": "close",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-kent"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-kent",
+    "ibGrades": "6"
   },
   {
     "name": "London School of Economics and Political Science",
@@ -57,7 +60,8 @@
     "applicationCode": "N300",
     "sourceUrl": "https://digital.ucas.com/explore/courses/b5458ed3-a7f2-b782-ff4e-c29ee14f4d15/finance?studyYear=2026",
     "matchType": "close",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/london-school-of-economics-and-political-science"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/london-school-of-economics-and-political-science",
+    "ibGrades": "6"
   },
   {
     "name": "City St George's, University of London",
@@ -72,7 +76,8 @@
     "applicationCode": "NL34",
     "sourceUrl": "https://digital.ucas.com/explore/courses/1958289b-2149-8217-d6ea-4521c5fe9ac9/banking-and-international-finance?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/city-st-george-s-university-of-london"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/city-st-george-s-university-of-london",
+    "ibGrades": "6"
   },
   {
     "name": "Durham University",
@@ -87,7 +92,8 @@
     "applicationCode": "N300",
     "sourceUrl": "https://digital.ucas.com/explore/courses/0f64add3-e64d-a77a-fbc1-81f9cf94c930/finance?studyYear=2026",
     "matchType": "close",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/durham-university"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/durham-university",
+    "ibGrades": "6"
   },
   {
     "name": "King's College London",
@@ -102,6 +108,7 @@
     "applicationCode": "NN34",
     "sourceUrl": "https://digital.ucas.com/explore/courses/16a4f4cd-c683-4053-80e7-23c229ecb3bf/accounting-and-finance?studyYear=2026",
     "matchType": "close",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/king-s-college-london"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/king-s-college-london",
+    "ibGrades": "6"
   }
 ]

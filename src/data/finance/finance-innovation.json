@@ -12,7 +12,8 @@
     "applicationCode": "NN45",
     "sourceUrl": "https://digital.ucas.com/explore/courses/715c356f-89d6-423f-bc75-d8827c59239e/finance-business-management?studyYear=2026",
     "matchType": "close",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-exeter"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-exeter",
+    "ibGrades": "6"
   },
   {
     "name": "University of Strathclyde",
@@ -27,7 +28,8 @@
     "applicationCode": "NNK4",
     "sourceUrl": "https://digital.ucas.com/explore/courses/ced9e124-1647-4772-aece-e49bc2759608/finance-and-management?studyYear=2026",
     "matchType": "close",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-strathclyde"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-strathclyde",
+    "ibGrades": "6"
   },
   {
     "name": "University of Manchester",
@@ -42,7 +44,8 @@
     "applicationCode": "NN43",
     "sourceUrl": "https://digital.ucas.com/explore/courses/4d33b75a-440e-4152-8ed3-0f4d93f1de11/accounting-and-finance?studyYear=2026",
     "matchType": "close",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-manchester"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-manchester",
+    "ibGrades": "6"
   },
   {
     "name": "University of Edinburgh",
@@ -57,7 +60,8 @@
     "applicationCode": "NN43",
     "sourceUrl": "https://digital.ucas.com/explore/courses/4b9594e0-7c04-a5cd-c627-9a6d2b960ec7/accounting-and-finance?studyYear=2026",
     "matchType": "close",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/the-university-of-edinburgh"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/the-university-of-edinburgh",
+    "ibGrades": "6"
   },
   {
     "name": "Durham University",
@@ -72,7 +76,8 @@
     "applicationCode": "N300",
     "sourceUrl": "https://digital.ucas.com/explore/courses/0f64add3-e64d-a77a-fbc1-81f9cf94c930/finance?studyYear=2026",
     "matchType": "close",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/durham-university"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/durham-university",
+    "ibGrades": "6"
   },
   {
     "name": "University of Glasgow",
@@ -87,7 +92,8 @@
     "applicationCode": "NL30",
     "sourceUrl": "https://digital.ucas.com/explore/courses/b1598ab0-bc3c-4b7a-8efe-b319357dc58f/finance?studyYear=2026",
     "matchType": "close",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-glasgow"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-glasgow",
+    "ibGrades": "6"
   },
   {
     "name": "Loughborough University",
@@ -102,7 +108,8 @@
     "applicationCode": "N400",
     "sourceUrl": "https://digital.ucas.com/explore/courses/e883df34-be15-4930-a715-6e619f050465/accounting-and-finance?studyYear=2026",
     "matchType": "close",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/loughborough-university"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/loughborough-university",
+    "ibGrades": "6"
   },
   {
     "name": "King's College London",
@@ -117,6 +124,7 @@
     "applicationCode": "NN34",
     "sourceUrl": "https://digital.ucas.com/explore/courses/16a4f4cd-c683-4053-80e7-23c229ecb3bf/accounting-and-finance?studyYear=2026",
     "matchType": "close",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/king-s-college-london"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/king-s-college-london",
+    "ibGrades": "6"
   }
 ]

@@ -12,6 +12,7 @@ export default function StrandHome() {
   const [searchParams, setSearchParams] = useSearchParams();
   const [search, setSearch] = useState('');
   const [tier, setTier] = useState('All');
+  const [gradeType, setGradeType] = useState('aLevel');
 
   // Resolve current course (or null for an unknown/missing strand).
   const courses = strand?.courses ?? [];
@@ -73,6 +74,32 @@ export default function StrandHome() {
           </p>
         </header>
 
+        <div className="mb-6 flex items-center justify-center gap-2">
+          <span className="text-xs font-medium text-slate-400">Entry requirements:</span>
+          <div className="flex gap-2">
+            <button
+              onClick={() => setGradeType('aLevel')}
+              className={`px-3 py-1 rounded text-xs font-medium transition-colors ${
+                gradeType === 'aLevel'
+                  ? 'bg-blue-600 text-white'
+                  : 'bg-slate-800 text-slate-400 hover:bg-slate-700'
+              }`}
+            >
+              A-Level
+            </button>
+            <button
+              onClick={() => setGradeType('ib')}
+              className={`px-3 py-1 rounded text-xs font-medium transition-colors ${
+                gradeType === 'ib'
+                  ? 'bg-blue-600 text-white'
+                  : 'bg-slate-800 text-slate-400 hover:bg-slate-700'
+              }`}
+            >
+              IB
+            </button>
+          </div>
+        </div>
+
         <CourseSelect
           selectedId={courseId}
           onChange={handleCourseChange}
@@ -80,9 +107,9 @@ export default function StrandHome() {
           groups={courseGroups}
           strandId={strand.id}
         />
-        <StatsBar universities={filtered} course={course} />
+        <StatsBar universities={filtered} course={course} gradeType={gradeType} />
         <Filters search={search} setSearch={setSearch} tier={tier} setTier={setTier} />
-        <Table universities={filtered} course={course} strandId={strand.id} />
+        <Table universities={filtered} course={course} strandId={strand.id} gradeType={gradeType} />
 
         <footer className="mt-10 text-center text-xs text-slate-600">
           {strand.footerNote}

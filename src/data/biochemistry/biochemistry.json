@@ -12,7 +12,8 @@
     "applicationCode": "C700",
     "sourceUrl": "https://digital.ucas.com/explore/courses/a1e8c3f2-4b7d-4e9a-8c6f-3d2b1a0e5f7c/biochemistry?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-oxford"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-oxford",
+    "ibGrades": "6"
   },
   {
     "name": "University of Cambridge",
@@ -27,7 +28,8 @@
     "applicationCode": "BC01",
     "sourceUrl": "https://digital.ucas.com/explore/courses/b2f9d4e1-5c8a-4f0b-9d7e-4e3c2b1f6a8d/natural-sciences?studyYear=2026",
     "matchType": "close",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-cambridge"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-cambridge",
+    "ibGrades": "6"
   },
   {
     "name": "Imperial College London",
@@ -42,7 +44,8 @@
     "applicationCode": "C700",
     "sourceUrl": "https://digital.ucas.com/explore/courses/c3a0e5f2-6d9b-4a1c-0e8f-5f4d3c2a7b9e/biochemistry?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/imperial-college-london"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/imperial-college-london",
+    "ibGrades": "6"
   },
   {
     "name": "University College London",
@@ -57,7 +60,8 @@
     "applicationCode": "C700",
     "sourceUrl": "https://digital.ucas.com/explore/courses/d4b1f6a3-7e0c-4b2d-1f9a-6a5e4d3b8c0f/biochemistry?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-college-london"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-college-london",
+    "ibGrades": "6"
   },
   {
     "name": "University of Edinburgh",
@@ -72,7 +76,8 @@
     "applicationCode": "C700",
     "sourceUrl": "https://digital.ucas.com/explore/courses/e5c2a7b4-8f1d-4c3e-2a0b-7b6f5e4c9d1a/biochemistry?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-edinburgh"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-edinburgh",
+    "ibGrades": "6"
   },
   {
     "name": "Durham University",
@@ -87,7 +92,8 @@
     "applicationCode": "C700",
     "sourceUrl": "https://digital.ucas.com/explore/courses/f6d3b8c5-9a2e-4d4f-3b1c-8c7a6f5d0e2b/biochemistry?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/durham-university"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/durham-university",
+    "ibGrades": "6"
   },
   {
     "name": "University of Bristol",
@@ -102,7 +108,8 @@
     "applicationCode": "C700",
     "sourceUrl": "https://digital.ucas.com/explore/courses/a7e4c9d6-0b3f-4e5a-4c2d-9d8b7a6e1f3c/biochemistry?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-bristol"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-bristol",
+    "ibGrades": "6"
   },
   {
     "name": "University of Warwick",
@@ -117,7 +124,8 @@
     "applicationCode": "C700",
     "sourceUrl": "https://digital.ucas.com/explore/courses/b8f5d0e7-1c4a-4f6b-5d3e-0e9c8b7f2a4d/biochemistry?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-warwick"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-warwick",
+    "ibGrades": "6"
   },
   {
     "name": "University of Bath",
@@ -132,7 +140,8 @@
     "applicationCode": "C700",
     "sourceUrl": "https://digital.ucas.com/explore/courses/c9a6e1f8-2d5b-4a7c-6e4f-1f0d9c8a3b5e/biochemistry?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-bath"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-bath",
+    "ibGrades": "6"
   },
   {
     "name": "University of Manchester",
@@ -147,7 +156,8 @@
     "applicationCode": "C700",
     "sourceUrl": "https://digital.ucas.com/explore/courses/d0b7f2a9-3e6c-4b8d-7f5a-2a1e0d9b4c6f/biochemistry?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/the-university-of-manchester"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/the-university-of-manchester",
+    "ibGrades": "6"
   },
   {
     "name": "University of Sheffield",
@@ -162,7 +172,8 @@
     "applicationCode": "C700",
     "sourceUrl": "https://digital.ucas.com/explore/courses/e1c8a3b0-4f7d-4c9e-8a6b-3b2f1e0c5d7a/biochemistry?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/the-university-of-sheffield"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/the-university-of-sheffield",
+    "ibGrades": "6"
   },
   {
     "name": "University of Southampton",
@@ -177,7 +188,8 @@
     "applicationCode": "C700",
     "sourceUrl": "https://digital.ucas.com/explore/courses/f2d9b4c1-5a8e-4d0f-9b7c-4c3a2f1d6e8b/biochemistry?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-southampton"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-southampton",
+    "ibGrades": "6"
   },
   {
     "name": "University of Nottingham",
@@ -192,7 +204,8 @@
     "applicationCode": "C700",
     "sourceUrl": "https://digital.ucas.com/explore/courses/a3e0c5d2-6b9f-4e1a-0c8d-5d4b3a2e7f9c/biochemistry?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/the-university-of-nottingham"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/the-university-of-nottingham",
+    "ibGrades": "6"
   },
   {
     "name": "King's College London",
@@ -207,7 +220,8 @@
     "applicationCode": "C700",
     "sourceUrl": "https://digital.ucas.com/explore/courses/b4f1d6e3-7c0a-4f2b-1d9e-6e5c4b3f8a0d/biochemistry?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/king-s-college-london"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/king-s-college-london",
+    "ibGrades": "6"
   },
   {
     "name": "University of Birmingham",
@@ -222,7 +236,8 @@
     "applicationCode": "C700",
     "sourceUrl": "https://digital.ucas.com/explore/courses/c5a2e7f4-8d1b-4a3c-2e0f-7f6d5c4a9b1e/biochemistry?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-birmingham"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-birmingham",
+    "ibGrades": "6"
   },
   {
     "name": "University of Leeds",
@@ -237,7 +252,8 @@
     "applicationCode": "C700",
     "sourceUrl": "https://digital.ucas.com/explore/courses/d6b3f8a5-9e2c-4b4d-3f1a-8a7e6d5b0c2f/biochemistry?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-leeds"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-leeds",
+    "ibGrades": "6"
   },
   {
     "name": "University of York",
@@ -252,7 +268,8 @@
     "applicationCode": "C700",
     "sourceUrl": "https://digital.ucas.com/explore/courses/e7c4a9b6-0f3d-4c5e-4a2b-9b8f7e6c1d3a/biochemistry?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-york"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-york",
+    "ibGrades": "6"
   },
   {
     "name": "Cardiff University",
@@ -267,7 +284,8 @@
     "applicationCode": "C700",
     "sourceUrl": "https://digital.ucas.com/explore/courses/f8d5b0c7-1a4e-4d6f-5b3c-0c9a8f7d2e4b/biochemistry?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/cardiff-university"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/cardiff-university",
+    "ibGrades": "6"
   },
   {
     "name": "Newcastle University",
@@ -282,7 +300,8 @@
     "applicationCode": "C700",
     "sourceUrl": "https://digital.ucas.com/explore/courses/a9e6c1d8-2b5f-4e7a-6c4d-1d0b9a8e3f5c/biochemistry?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/newcastle-university"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/newcastle-university",
+    "ibGrades": "6"
   },
   {
     "name": "University of Glasgow",
@@ -297,7 +316,8 @@
     "applicationCode": "C700",
     "sourceUrl": "https://digital.ucas.com/explore/courses/b0f7d2e9-3c6a-4f8b-7d5e-2e1c0b9f4a6d/biochemistry?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-glasgow"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-glasgow",
+    "ibGrades": "6"
   },
   {
     "name": "University of Liverpool",
@@ -312,7 +332,8 @@
     "applicationCode": "C700",
     "sourceUrl": "https://digital.ucas.com/explore/courses/c1a8e3f0-4d7b-4a9c-8e6f-3f2d1c0a5b7e/biochemistry?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-liverpool"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-liverpool",
+    "ibGrades": "6"
   },
   {
     "name": "University of Exeter",
@@ -327,7 +348,8 @@
     "applicationCode": "C700",
     "sourceUrl": "https://digital.ucas.com/explore/courses/d2b9f4a1-5e8c-4b0d-9f7a-4a3e2d1b6c8f/biochemistry?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-exeter"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-exeter",
+    "ibGrades": "6"
   },
   {
     "name": "University of Sussex",
@@ -342,7 +364,8 @@
     "applicationCode": "C700",
     "sourceUrl": "https://digital.ucas.com/explore/courses/e3c0a5b2-6f9d-4c1e-0a8b-5b4f3e2c7d9a/biochemistry?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-sussex"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-sussex",
+    "ibGrades": "6"
   },
   {
     "name": "University of Leicester",
@@ -357,7 +380,8 @@
     "applicationCode": "C700",
     "sourceUrl": "https://digital.ucas.com/explore/courses/f4d1b6c3-7a0e-4d2f-1b9c-6c5a4f3d8e0b/biochemistry?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-leicester"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-leicester",
+    "ibGrades": "6"
   },
   {
     "name": "University of Reading",
@@ -372,6 +396,7 @@
     "applicationCode": "C700",
     "sourceUrl": "https://digital.ucas.com/explore/courses/a5e2c7d4-8b1f-4e3a-2c0d-7d6b5e4c9f1a/biochemistry?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-reading"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-reading",
+    "ibGrades": "6"
   }
 ]

@@ -12,7 +12,8 @@
     "applicationCode": "N300",
     "sourceUrl": "https://digital.ucas.com/explore/courses/7d650ea3-f49e-989d-6cfb-5c91730214f0/money-banking-and-finance?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-birmingham"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-birmingham",
+    "ibGrades": "6"
   },
   {
     "name": "University of Leeds",
@@ -27,7 +28,8 @@
     "applicationCode": "N320",
     "sourceUrl": "https://digital.ucas.com/explore/courses/09c4c5ee-5b7d-796b-ddca-1dfb3ea8b985/banking-and-finance?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-leeds"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-leeds",
+    "ibGrades": "6"
   },
   {
     "name": "Cardiff University",
@@ -42,7 +44,8 @@
     "applicationCode": "N301",
     "sourceUrl": "https://digital.ucas.com/explore/courses/a5528eb0-3802-42ac-9131-3733d600dce8/banking-and-finance?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/cardiff-university"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/cardiff-university",
+    "ibGrades": "6"
   },
   {
     "name": "University of Leicester",
@@ -57,7 +60,8 @@
     "applicationCode": "LN15",
     "sourceUrl": "https://digital.ucas.com/explore/courses/9bf1041f-205c-45ca-8fb5-766ced239f5f/financial-economics-and-banking?studyYear=2026",
     "matchType": "close",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-leicester"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-leicester",
+    "ibGrades": "6"
   },
   {
     "name": "University of Sussex",
@@ -72,7 +76,8 @@
     "applicationCode": "N300",
     "sourceUrl": "https://digital.ucas.com/explore/courses/94c9889f-5a53-9519-97fb-8b3260ab5c02/banking-and-digital-finance?studyYear=2026",
     "matchType": "close",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-sussex"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-sussex",
+    "ibGrades": "6"
   },
   {
     "name": "City St George's, University of London",
@@ -87,7 +92,8 @@
     "applicationCode": "NL34",
     "sourceUrl": "https://digital.ucas.com/explore/courses/1958289b-2149-8217-d6ea-4521c5fe9ac9/banking-and-international-finance?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/city-st-george-s-university-of-london"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/city-st-george-s-university-of-london",
+    "ibGrades": "6"
   },
   {
     "name": "Durham University",
@@ -102,7 +108,8 @@
     "applicationCode": "N300",
     "sourceUrl": "https://digital.ucas.com/explore/courses/0f64add3-e64d-a77a-fbc1-81f9cf94c930/finance?studyYear=2026",
     "matchType": "close",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/durham-university"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/durham-university",
+    "ibGrades": "6"
   },
   {
     "name": "University of Glasgow",
@@ -117,7 +124,8 @@
     "applicationCode": "NL30",
     "sourceUrl": "https://digital.ucas.com/explore/courses/b1598ab0-bc3c-4b7a-8efe-b319357dc58f/finance?studyYear=2026",
     "matchType": "close",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-glasgow"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-glasgow",
+    "ibGrades": "6"
   },
   {
     "name": "University of Strathclyde",
@@ -132,6 +140,7 @@
     "applicationCode": "N300",
     "sourceUrl": "https://digital.ucas.com/explore/courses/3079cd54-dba0-411b-b0c8-89e372e06bd0/finance?studyYear=2026",
     "matchType": "close",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-strathclyde"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-strathclyde",
+    "ibGrades": "6"
   }
 ]

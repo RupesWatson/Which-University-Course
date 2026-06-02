@@ -12,7 +12,8 @@
     "applicationCode": "N3I2",
     "sourceUrl": "https://digital.ucas.com/explore/courses/c262c82c-f936-4325-a1d6-bdf208108a26/finance-and-data-analytics?studyYear=2026",
     "matchType": "close",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-liverpool"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-liverpool",
+    "ibGrades": "6"
   },
   {
     "name": "University of Exeter",
@@ -27,7 +28,8 @@
     "applicationCode": "NN47",
     "sourceUrl": "https://digital.ucas.com/explore/courses/85889db1-ffae-4ce9-989a-70a7da027865/finance-data-science?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-exeter"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-exeter",
+    "ibGrades": "6"
   },
   {
     "name": "London School of Economics and Political Science",
@@ -42,7 +44,8 @@
     "applicationCode": "L1N3",
     "sourceUrl": "https://digital.ucas.com/explore/courses/a9201d17-8c12-4b1e-b3dd-5b8ea3bd22be/economics-and-data-science?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/london-school-of-economics-and-political-science"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/london-school-of-economics-and-political-science",
+    "ibGrades": "6"
   },
   {
     "name": "University of Manchester",
@@ -57,7 +60,8 @@
     "applicationCode": "LG14",
     "sourceUrl": "https://digital.ucas.com/explore/courses/aea73313-521f-407e-9fb8-ac3dc4018987/economics-and-data-analytics?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-manchester"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-manchester",
+    "ibGrades": "6"
   },
   {
     "name": "City St George's, University of London",
@@ -72,7 +76,8 @@
     "applicationCode": "NG31",
     "sourceUrl": "https://digital.ucas.com/explore/courses/753a6b06-53b3-48c3-916b-53b13b173508/data-analytics-and-actuarial-science?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/city-st-george-s-university-of-london"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/city-st-george-s-university-of-london",
+    "ibGrades": "6"
   },
   {
     "name": "University of Leicester",
@@ -87,7 +92,8 @@
     "applicationCode": "LG14",
     "sourceUrl": "https://digital.ucas.com/explore/courses/21cb3c57-3eeb-420e-98c2-efd29364622d/economics-and-data-analytics?studyYear=2026",
     "matchType": "exact",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-leicester"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-leicester",
+    "ibGrades": "6"
   },
   {
     "name": "University of Glasgow",
@@ -102,7 +108,8 @@
     "applicationCode": "NG33",
     "sourceUrl": "https://digital.ucas.com/explore/courses/df7581e1-3230-af35-0748-fc2c4cbe809e/finance-and-statistics?studyYear=2026",
     "matchType": "close",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-glasgow"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-glasgow",
+    "ibGrades": "6"
   },
   {
     "name": "University of Edinburgh",
@@ -117,7 +124,8 @@
     "applicationCode": "L1N3",
     "sourceUrl": "https://digital.ucas.com/explore/courses/85801765-af86-1b75-8d58-ed1ddf99c93b/economics-with-finance?studyYear=2026",
     "matchType": "close",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/the-university-of-edinburgh"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/the-university-of-edinburgh",
+    "ibGrades": "6"
   },
   {
     "name": "Loughborough University",
@@ -132,7 +140,8 @@
     "applicationCode": "N300",
     "sourceUrl": "https://digital.ucas.com/explore/courses/finance-loughborough-data?studyYear=2026",
     "matchType": "close",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/loughborough-university"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/loughborough-university",
+    "ibGrades": "6"
   },
   {
     "name": "University of Bath",
@@ -147,6 +156,7 @@
     "applicationCode": "C120",
     "sourceUrl": "https://digital.ucas.com/explore/courses/37794ef4-1236-4167-a2a3-ba99de29bc2a/accounting-and-finance?studyYear=2026",
     "matchType": "close",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-bath"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-bath",
+    "ibGrades": "6"
   }
 ]
