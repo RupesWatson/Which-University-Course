@@ -13,7 +13,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/e1d2c3b4-5f6a-7890-4567-890123460901/physics-industry?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/bath",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "136"
   },
   {
     "name": "University of Surrey",
@@ -29,7 +30,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/c1b2a3f4-5d6e-7890-4567-890123460902/physics-industry?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/surrey",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "136"
   },
   {
     "name": "University of Warwick",
@@ -45,7 +47,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/a7f8e9d0-1b2c-3456-0123-456789020907/physics-industry?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/warwick",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "152"
   },
   {
     "name": "University of Nottingham",
@@ -61,7 +64,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/b4a5f6e7-8c9d-0123-7890-123456790906/physics-industry?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/nottingham",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "136"
   },
   {
     "name": "University of Southampton",
@@ -77,7 +81,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/d0c1b2a3-4e5f-6789-3456-789012350904/physics-industry?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/southampton",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "144"
   },
   {
     "name": "University of Sheffield",
@@ -93,7 +98,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/b0a1f2e3-4c5d-6789-3456-789012350905/physics-industry?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/sheffield",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "128"
   },
   {
     "name": "University of York",
@@ -109,7 +115,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/a3f4e5d6-7b8c-9012-6789-012345680908/physics-industry?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/york",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "136"
   },
   {
     "name": "University of Exeter",
@@ -125,6 +132,7 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/c5b6a7f8-9d0e-1234-8901-234567800903/physics-industry?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/exeter",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "136"
   }
 ]

@@ -13,7 +13,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/a1f2e3d4-5b6c-7890-abcd-ef1234610001/maths-philosophy?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-oxford",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "160"
   },
   {
     "name": "University of Cambridge",
@@ -29,7 +30,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/b2a3f4e5-6c7d-8901-bcde-f01234610002/maths-philosophy?studyYear=2026",
     "matchType": "close",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-cambridge",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "160"
   },
   {
     "name": "Durham University",
@@ -45,7 +47,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/e5d6c7b8-9f0a-1234-ef01-234567900003/maths-philosophy?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/durham",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "152"
   },
   {
     "name": "University of Bristol",
@@ -61,7 +64,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/b8a9f0e1-2c3d-4567-1234-567890190004/maths-philosophy?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/bristol",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "144"
   },
   {
     "name": "University of Manchester",
@@ -71,13 +75,14 @@
     "entryGrades": "AAA",
     "typicalOffer": "AAA",
     "gradProspects": "84%",
-    "notes": "Verified UCAS 2026 exact title match; 4-year MMath Mathematics and Philosophy; Manchester has a strong mathematical logic tradition — home to Alan Turing; covers foundations of maths, logic and philosophy of science",
+    "notes": "Verified UCAS 2026 exact title match; 4-year MMath Mathematics and Philosophy; Manchester has a strong mathematical logic tradition \u2014 home to Alan Turing; covers foundations of maths, logic and philosophy of science",
     "courseName": "Mathematics and Philosophy MMath",
     "applicationCode": "GV15",
     "sourceUrl": "https://digital.ucas.com/explore/courses/f2e3d4c5-6a7b-8901-5678-901234610005/maths-philosophy?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/manchester",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "144"
   },
   {
     "name": "University of Warwick",
@@ -93,7 +98,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/a7f8e9d0-1b2c-3456-0123-456789090006/maths-philosophy?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/warwick",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "152"
   },
   {
     "name": "University of Leeds",
@@ -109,7 +115,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/e7d8c9b0-1f2a-3456-0123-456789090007/maths-philosophy?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/leeds",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "136"
   },
   {
     "name": "King's College London",
@@ -125,6 +132,7 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/f8e9d0c1-2a3b-4567-1234-567890150008/maths-philosophy?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/king-s-college-london",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "152"
   }
 ]

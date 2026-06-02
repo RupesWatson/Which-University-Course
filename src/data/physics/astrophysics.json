@@ -13,7 +13,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/b2a3f4e5-6c7d-8901-bcde-f01234569001/astrophysics?studyYear=2026",
     "matchType": "close",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-cambridge",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "160"
   },
   {
     "name": "University of Oxford",
@@ -24,12 +25,13 @@
     "typicalOffer": "A*A*A",
     "gradProspects": "92%",
     "notes": "Verified UCAS 2026 close title match; Physics MPhys with astrophysics specialisation in Years 3-4; access to Oxford Astrophysics group; entrance test required",
-    "courseName": "Physics (MPhys) — Astrophysics specialisation",
+    "courseName": "Physics (MPhys) \u2014 Astrophysics specialisation",
     "applicationCode": "F303",
     "sourceUrl": "https://digital.ucas.com/explore/courses/a1f2e3d4-5b6c-7890-abcd-ef1234569002/astrophysics?studyYear=2026",
     "matchType": "close",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-oxford",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "160"
   },
   {
     "name": "Durham University",
@@ -45,7 +47,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/d4c5b6a7-8e9f-0123-def0-123456789003/astrophysics?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/durham",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "152"
   },
   {
     "name": "University College London",
@@ -55,13 +58,14 @@
     "entryGrades": "A*AA",
     "typicalOffer": "A*AA",
     "gradProspects": "87%",
-    "notes": "Verified UCAS 2026 exact title match; 4-year MPhys Astrophysics; UCL Mullard Space Science Laboratory — largest UK university space research group; major ESA collaborations",
+    "notes": "Verified UCAS 2026 exact title match; 4-year MPhys Astrophysics; UCL Mullard Space Science Laboratory \u2014 largest UK university space research group; major ESA collaborations",
     "courseName": "Astrophysics (MPhys)",
     "applicationCode": "F510",
     "sourceUrl": "https://digital.ucas.com/explore/courses/c9b0a1f2-3d4e-5678-2345-678901239004/astrophysics?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-college-london",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "152"
   },
   {
     "name": "University of Manchester",
@@ -71,13 +75,14 @@
     "entryGrades": "AAA",
     "typicalOffer": "AAA",
     "gradProspects": "84%",
-    "notes": "Verified UCAS 2026 exact title match; 4-year MPhys Astrophysics; Jodrell Bank Observatory — world-leading radio telescope on campus; strong gravitational wave research",
+    "notes": "Verified UCAS 2026 exact title match; 4-year MPhys Astrophysics; Jodrell Bank Observatory \u2014 world-leading radio telescope on campus; strong gravitational wave research",
     "courseName": "Astrophysics (MPhys)",
     "applicationCode": "F510",
     "sourceUrl": "https://digital.ucas.com/explore/courses/f2e3d4c5-6a7b-8901-5678-901234579005/astrophysics?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/manchester",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "144"
   },
   {
     "name": "University of St Andrews",
@@ -93,7 +98,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/c3b4a5f6-7d8e-9012-cdef-012345679006/astrophysics?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-st-andrews",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "152"
   },
   {
     "name": "Cardiff University",
@@ -109,7 +115,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/a9f0e1d2-3b4c-5678-2345-678901239007/astrophysics?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/cardiff",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "128"
   },
   {
     "name": "University of Nottingham",
@@ -125,7 +132,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/b4a5f6e7-8c9d-0123-7890-123456789008/astrophysics?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/nottingham",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "136"
   },
   {
     "name": "University of Edinburgh",
@@ -141,7 +149,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/f6e7d8c9-0a1b-2345-f012-345678919009/astrophysics?studyYear=2026",
     "matchType": "close",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/edinburgh",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "144"
   },
   {
     "name": "University of Sheffield",
@@ -157,7 +166,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/b0a1f2e3-4c5d-6789-3456-789012349010/astrophysics?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/sheffield",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "128"
   },
   {
     "name": "University of Southampton",
@@ -173,7 +183,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/d0c1b2a3-4e5f-6789-3456-789012349011/astrophysics?studyYear=2026",
     "matchType": "close",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/southampton",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "144"
   },
   {
     "name": "University of Birmingham",
@@ -189,7 +200,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/d6c7b8a9-0e1f-2345-9012-345678919012/astrophysics?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/birmingham",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "136"
   },
   {
     "name": "University of Leeds",
@@ -205,7 +217,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/e7d8c9b0-1f2a-3456-0123-456789029013/astrophysics?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/leeds",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "136"
   },
   {
     "name": "Keele University",
@@ -221,7 +234,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/a7f8e9d0-1b2c-3456-0123-456789029014/astrophysics?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/keele",
-    "ibGrades": "5"
+    "ibGrades": "5",
+    "ucasPoints": "120"
   },
   {
     "name": "University of Hertfordshire",
@@ -237,6 +251,7 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/b8a9f0e1-2c3d-4567-1234-567890239015/astrophysics?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-hertfordshire",
-    "ibGrades": "5"
+    "ibGrades": "5",
+    "ucasPoints": "104"
   }
 ]

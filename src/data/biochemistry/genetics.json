@@ -13,7 +13,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/b2f9d4e1-5c8a-4f0b-9d7e-4e3c2b1f6a8d/natural-sciences?studyYear=2026",
     "matchType": "close",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-cambridge",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "160"
   },
   {
     "name": "University of Edinburgh",
@@ -29,7 +30,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/c3a0e5f2-6d9b-4a1c-0e8f-5f4d3c2a7b9e/genetics?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-edinburgh",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "144"
   },
   {
     "name": "University of Leeds",
@@ -45,7 +47,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/d4b1f6a3-7e0c-4b2d-1f9a-6a5e4d3b8c0f/genetics?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-leeds",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "128"
   },
   {
     "name": "University of Sheffield",
@@ -61,7 +64,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/e5c2a7b4-8f1d-4c3e-2a0b-7b6f5e4c9d1a/genetics?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/the-university-of-sheffield",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "128"
   },
   {
     "name": "University of Nottingham",
@@ -77,7 +81,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/f6d3b8c5-9a2e-4d4f-3b1c-8c7a6f5d0e2b/genetics?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/the-university-of-nottingham",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "128"
   },
   {
     "name": "Newcastle University",
@@ -93,7 +98,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/a7e4c9d6-0b3f-4e5a-4c2d-9d8b7a6e1f3c/genetics?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/newcastle-university",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "128"
   },
   {
     "name": "University of Birmingham",
@@ -109,7 +115,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/b8f5d0e7-1c4a-4f6b-5d3e-0e9c8b7f2a4d/genetics?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-birmingham",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "128"
   },
   {
     "name": "University of Glasgow",
@@ -125,7 +132,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/c9a6e1f8-2d5b-4a7c-6e4f-1f0d9c8a3b5e/genetics?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-glasgow",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "128"
   },
   {
     "name": "University of Leicester",
@@ -141,7 +149,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/d0b7f2a9-3e6c-4b8d-7f5a-2a1e0d9b4c6f/genetics?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-leicester",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "128"
   },
   {
     "name": "Queen Mary University of London",
@@ -157,7 +166,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/e1c8a3b0-4f7d-4c9e-8a6b-3b2f1e0c5d7a/genetics?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/queen-mary-university-of-london",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "128"
   },
   {
     "name": "University of Reading",
@@ -173,7 +183,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/f2d9b4c1-5a8e-4d0f-9b7c-4c3a2f1d6e8b/genetics?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-reading",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "128"
   },
   {
     "name": "Swansea University",
@@ -189,6 +200,7 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/a3e0c5d2-6b9f-4e1a-0c8d-5d4b3a2e7f9c/genetics?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/swansea-university",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "128"
   }
 ]

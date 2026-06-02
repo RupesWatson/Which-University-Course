@@ -13,7 +13,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/a1f2e3d4-5b6c-7890-abcd-ef1234620001/maths-physics?studyYear=2026",
     "matchType": "close",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-oxford",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "160"
   },
   {
     "name": "University of Cambridge",
@@ -29,7 +30,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/b2a3f4e5-6c7d-8901-bcde-f01234620002/maths-physics?studyYear=2026",
     "matchType": "close",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-cambridge",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "160"
   },
   {
     "name": "University of Edinburgh",
@@ -45,7 +47,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/f6e7d8c9-0a1b-2345-f012-345678990003/maths-physics?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/edinburgh",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "144"
   },
   {
     "name": "University of Warwick",
@@ -61,7 +64,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/a7f8e9d0-1b2c-3456-0123-456789110004/maths-physics?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/warwick",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "152"
   },
   {
     "name": "University of Bristol",
@@ -77,7 +81,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/b8a9f0e1-2c3d-4567-1234-567890210005/maths-physics?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/bristol",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "144"
   },
   {
     "name": "Durham University",
@@ -93,7 +98,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/e5d6c7b8-9f0a-1234-ef01-234567910006/maths-physics?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/durham",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "152"
   },
   {
     "name": "University of Nottingham",
@@ -109,7 +115,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/b4a5f6e7-8c9d-0123-7890-123456850007/maths-physics?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/nottingham",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "136"
   },
   {
     "name": "University of Southampton",
@@ -125,7 +132,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/d0c1b2a3-4e5f-6789-3456-789012430008/maths-physics?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/southampton",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "144"
   },
   {
     "name": "University of Glasgow",
@@ -141,7 +149,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/d2c3b4a5-6e7f-8901-5678-901234630009/maths-physics?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/glasgow",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "136"
   },
   {
     "name": "University of York",
@@ -157,6 +166,7 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/a3f4e5d6-7b8c-9012-6789-012345730010/maths-physics?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/york",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "136"
   }
 ]

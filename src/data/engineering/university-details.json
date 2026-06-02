@@ -219,5 +219,960 @@
       "Startup and venture capital ecosystem (Imperial College Innovations)",
       "MEng degree prepares for Chartered Engineer (CEng) status"
     ]
+  },
+  "bristol": {
+    "slug": "bristol",
+    "name": "University of Bristol",
+    "city": "Bristol",
+    "overview": "Bristol is a Russell Group university consistently ranked in the UK top 15. Its Faculty of Engineering is internationally recognised, with particular strength in aerospace (Airbus UK's engineering centre at Filton is 3 miles from campus), advanced composites, structural dynamics and civil engineering. Bristol engineers have exceptional proximity to the UK aerospace industry and strong ties to Rolls-Royce, Airbus and BAE Systems.",
+    "founded": 1909,
+    "totalStudents": 28000,
+    "internationalStudents": "34%",
+    "campusType": "Urban campus (Clifton)",
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "Bristol guarantees accommodation to all first-year students who accept Bristol as their firm choice by the deadline. Halls are across Clifton, Stoke Bishop and the city, all connected by Bristol's bus network.",
+      "avgWeeklyCost": "£140–£200",
+      "halls": ["Clifton Hill House", "Goldney Hall", "Durdham Hall", "University Hall"],
+      "privateRentAreas": "Clifton, Redland, Cotham, Montpelier, Bedminster"
+    },
+    "openDays": [
+      { "date": "12 June 2026", "type": "Undergraduate Open Day" },
+      { "date": "13 June 2026", "type": "Undergraduate Open Day" },
+      { "date": "31 October 2026", "type": "Undergraduate Open Day" }
+    ],
+    "application": {
+      "ucasCode": "H100",
+      "contextualOffers": true,
+      "interviewRequired": false,
+      "personalStatementTips": [
+        "Reference Bristol's aerospace heritage — Concorde was designed and built near Bristol; Airbus UK is on the doorstep",
+        "Mathematics and Physics are both required; show you've engaged with engineering beyond the A-level curriculum",
+        "Mention interest in specific Bristol research strengths: composites, structural dynamics, wind energy",
+        "Contextual offers are available for students from underrepresented backgrounds"
+      ],
+      "typicalTimeline": "UCAS opens September; apply by 29 January deadline. Aerospace and civil engineering offers are typically A*AA; other engineering AAA."
+    },
+    "studentLife": {
+      "union": "Bristol SU — one of the UK's most active and award-winning students' unions",
+      "societiesCount": "300+",
+      "sportsTeams": "70+",
+      "highlights": [
+        "Bristol Aerospace Society with links to Airbus and Rolls-Royce",
+        "Formula Student Bristol — competitive race car design team",
+        "Strong engineering hackathon and design competition culture",
+        "Clifton Suspension Bridge and harbourside student life"
+      ]
+    },
+    "cityLife": {
+      "description": "Bristol is one of the UK's most popular and vibrant cities for students. Known for independent music (trip-hop was born here), Banksy's street art, excellent food and drink, and a genuinely diverse culture. The harbourside and Clifton areas are particularly popular with engineering students.",
+      "avgRentPerMonth": "£600–£850",
+      "costOfLiving": "Moderate-High",
+      "transport": "Bristol Temple Meads station (1h40 to London Paddington); Bristol Airport 30 min; extensive bus network",
+      "highlights": ["Clifton Suspension Bridge", "SS Great Britain", "Harbourside", "Banksy street art"],
+      "nightlife": "Stokes Croft, Clifton Triangle and the Old City have excellent bars and live music venues; Bristol has a world-class independent cultural scene."
+    },
+    "notableAlumni": [
+      "Paul Dirac — Nobel Laureate physicist (studied at Bristol)",
+      "Cary Grant — actor (born in Bristol)",
+      "Engineers behind Concorde (Bristol-Filton built Concorde's nose section)"
+    ],
+    "keyFacts": [
+      "#14 in Complete University Guide 2026",
+      "Airbus UK Engineering Centre at Filton (3 miles from campus) — direct pipeline for placements and graduate roles",
+      "Rated Gold in Teaching Excellence Framework (TEF)",
+      "Strong research links to Rolls-Royce (propulsion) and BAE Systems (structures)"
+    ]
+  },
+  "bath": {
+    "slug": "bath",
+    "name": "University of Bath",
+    "city": "Bath",
+    "overview": "Bath is one of the UK's top science and engineering universities despite not being in the Russell Group. Its engineering departments consistently rank in the UK top 10 across multiple disciplines. Bath is particularly famous for its mandatory industrial placement programme (Semester 5), which delivers consistently outstanding graduate employment rates. Bath engineers regularly achieve among the highest first-destination employment rates of any UK engineering university.",
+    "founded": 1966,
+    "totalStudents": 18000,
+    "internationalStudents": "28%",
+    "campusType": "Campus university (hillside campus above the city)",
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "Bath guarantees accommodation to all first-year students who hold Bath as their firm choice. All halls are on or adjacent to the Claverton Down campus.",
+      "avgWeeklyCost": "£140–£200",
+      "halls": ["Eastwood", "Westwood", "Brendon", "Polden Court"],
+      "privateRentAreas": "Oldfield Park, Twerton, Larkhall, Bear Flat"
+    },
+    "openDays": [
+      { "date": "12 June 2026", "type": "Undergraduate Open Day" },
+      { "date": "13 June 2026", "type": "Undergraduate Open Day" },
+      { "date": "10 October 2026", "type": "Undergraduate Open Day" }
+    ],
+    "application": {
+      "ucasCode": "H100",
+      "contextualOffers": true,
+      "interviewRequired": false,
+      "personalStatementTips": [
+        "Reference Bath's mandatory placement programme and your enthusiasm for industry experience",
+        "Show commercial awareness — Bath engineering is heavily industry-oriented",
+        "Mathematics required; Physics strongly recommended across all engineering disciplines at Bath",
+        "Mention specific employers you know Bath students have worked with through Semester 5"
+      ],
+      "typicalTimeline": "UCAS opens September; apply by 29 January. Aerospace and Mechanical Engineering offers typically AAA; Chemical Engineering AAA; others AAA–AAB."
+    },
+    "studentLife": {
+      "union": "Bath SU — active and well-regarded",
+      "societiesCount": "200+",
+      "sportsTeams": "50+",
+      "highlights": [
+        "Formula Student Bath — one of the UK's most successful Formula SAE teams",
+        "Strong industry networking culture embedded in the curriculum",
+        "Proximity to Bristol expands social options considerably",
+        "Beautiful UNESCO World Heritage city campus environment"
+      ]
+    },
+    "cityLife": {
+      "description": "Bath is a UNESCO World Heritage city — one of England's most beautiful, with Georgian architecture, the Roman Baths and excellent independent culture. Proximity to Bristol (15 min by train) gives access to a major city's nightlife and industry cluster whenever needed.",
+      "avgRentPerMonth": "£650–£900",
+      "costOfLiving": "Moderate-High",
+      "transport": "Bath Spa station (1h30 to London Paddington, 12 min to Bristol); buses connect campus to city centre",
+      "highlights": ["Roman Baths", "Royal Crescent", "Thermae Bath Spa", "Pulteney Bridge"],
+      "nightlife": "Bath has a good range of bars and restaurants; proximity to Bristol massively expands options."
+    },
+    "notableAlumni": [
+      "Nick Clegg — Deputy Prime Minister 2010–2015 (studied at Cambridge, not Bath, but made honorary alumnus)",
+      "Chris Froome — Cyclist, 4x Tour de France winner (honorary degree)",
+      "Bath engineering alumni hold senior roles at Rolls-Royce, Airbus and Dyson"
+    ],
+    "keyFacts": [
+      "#9 in Complete University Guide 2026",
+      "Engineering industrial placement (Semester 5) is mandatory — one of the most distinctive features of any UK engineering programme",
+      "Consistently top 5 for Mechanical, Chemical and Aerospace Engineering nationally",
+      "Bath Science Park enables direct industry connections for placement and research"
+    ]
+  },
+  "warwick": {
+    "slug": "warwick",
+    "name": "University of Warwick",
+    "city": "Coventry",
+    "overview": "Warwick is a Russell Group university in the UK top 10, renowned for engineering and technology. Warwick Manufacturing Group (WMG) is one of the world's leading automotive and manufacturing research organisations, with JLR, BMW, Tata Motors and Nissan as partners. Warwick Engineering combines rigorous mathematical foundations with practical design projects and strong industry connections.",
+    "founded": 1965,
+    "totalStudents": 28000,
+    "internationalStudents": "38%",
+    "campusType": "Campus university (3km from Coventry city centre)",
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "Warwick guarantees accommodation to all first-year UK undergraduates. The campus is largely self-contained with halls, shops and recreational facilities on-site.",
+      "avgWeeklyCost": "£135–£190",
+      "halls": ["Bluebell", "Heronbank", "Rootes", "Westwood"],
+      "privateRentAreas": "Canley, Earlsdon, Leamington Spa, Tile Hill"
+    },
+    "openDays": [
+      { "date": "20 June 2026", "type": "Undergraduate Open Day" },
+      { "date": "27 June 2026", "type": "Undergraduate Open Day" },
+      { "date": "10 October 2026", "type": "Undergraduate Open Day" }
+    ],
+    "application": {
+      "ucasCode": "H100",
+      "contextualOffers": true,
+      "interviewRequired": false,
+      "personalStatementTips": [
+        "Reference WMG (Warwick Manufacturing Group) and the automotive and EV research in Warwick's engineering school",
+        "Mathematics and Physics required; Further Mathematics advantageous for advanced modules",
+        "Show interest in the interdisciplinary nature of Warwick Engineering — design, systems and manufacturing feature strongly",
+        "A*AA required for most Warwick engineering degrees"
+      ],
+      "typicalTimeline": "UCAS opens September; apply by 29 January. Engineering and Mechanical Engineering offers typically A*AA or AAA."
+    },
+    "studentLife": {
+      "union": "Warwick SU — one of the UK's best-resourced",
+      "societiesCount": "250+",
+      "sportsTeams": "60+",
+      "highlights": [
+        "Warwick Manufacturing Group (WMG) open events for engineering students",
+        "Warwick Automotive Racing Team (Formula Student)",
+        "Warwick Arts Centre — one of the UK's best campus arts venues",
+        "Leamington Spa — popular student town 5 min by bus"
+      ]
+    },
+    "cityLife": {
+      "description": "Warwick's campus sits between Coventry and Leamington Spa. Leamington Spa is a pleasant Regency town with excellent independent restaurants and bars; Coventry is a larger city with more variety. Birmingham is 30 min away.",
+      "avgRentPerMonth": "£550–£750",
+      "costOfLiving": "Moderate",
+      "transport": "Coventry station (1h to London Euston); campus bus and car needed for city travel",
+      "highlights": ["Warwick Castle", "Leamington Spa's independents", "Coventry Cathedral", "Kenilworth Castle"],
+      "nightlife": "Leamington Spa has a pleasant bar and restaurant scene; Coventry has a traditional student nightlife area."
+    },
+    "notableAlumni": [
+      "Gurinder Chadha — BAFTA-winning director (Bend It Like Beckham)",
+      "Warwick engineers hold senior roles at JLR, BMW, and major consultancies"
+    ],
+    "keyFacts": [
+      "#7 in Complete University Guide 2026",
+      "Warwick Manufacturing Group (WMG) is world-leading in automotive, EV and advanced manufacturing research",
+      "JLR, BMW and Tata Motors are direct research and placement partners",
+      "Strong electric vehicle research — the National Automotive Innovation Centre is at Warwick"
+    ]
+  },
+  "loughborough": {
+    "slug": "loughborough",
+    "name": "Loughborough University",
+    "city": "Loughborough",
+    "overview": "Loughborough University is one of the UK's highest-ranked engineering universities and internationally celebrated for sport science and engineering. Despite not being in the Russell Group, Loughborough's engineering departments — mechanical, manufacturing, aeronautical, chemical and electronic — consistently rank in the UK top 5 in national subject tables. Loughborough has the highest graduate employment rate of any UK engineering university and unrivalled connections to Formula 1, aerospace and automotive industries.",
+    "founded": 1966,
+    "totalStudents": 17000,
+    "internationalStudents": "20%",
+    "campusType": "Campus university (Loughborough town centre adjacent)",
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "Loughborough guarantees accommodation to all first-year students. The campus is self-contained with halls, sports facilities, shops and social spaces all within easy walking distance.",
+      "avgWeeklyCost": "£120–£165",
+      "halls": ["Elvyn Richards", "Royce Hall", "Hazlerigg-Rutland", "Falkner"],
+      "privateRentAreas": "Loughborough town centre, Shelthorpe, Birstall"
+    },
+    "openDays": [
+      { "date": "27 June 2026", "type": "Undergraduate Open Day" },
+      { "date": "28 June 2026", "type": "Undergraduate Open Day" },
+      { "date": "25 October 2026", "type": "Undergraduate Open Day" }
+    ],
+    "application": {
+      "ucasCode": "H100",
+      "contextualOffers": false,
+      "interviewRequired": false,
+      "personalStatementTips": [
+        "Reference Loughborough's unique Formula SAE, motorsport and aerospace industry connections",
+        "Show enthusiasm for practical engineering — Loughborough values hands-on skills and teamwork",
+        "Mathematics required; Physics strongly recommended for most engineering courses",
+        "Mention any relevant work experience, engineering projects or competitions (UKESF, IMechE)"
+      ],
+      "typicalTimeline": "UCAS opens September; apply by 29 January. Engineering offers typically AAB–AAA depending on course; Aeronautical Engineering AAA."
+    },
+    "studentLife": {
+      "union": "Loughborough Students' Union — consistently one of the UK's best",
+      "societiesCount": "150+",
+      "sportsTeams": "100+",
+      "highlights": [
+        "Formula Student Loughborough — one of the UK's most successful race car teams (graduates at Red Bull, Mercedes, McLaren F1)",
+        "Aeronautical Engineering Society with industry speaker programme",
+        "World-class sports facilities — training ground for numerous Olympic athletes",
+        "Strong sense of campus community and identity"
+      ]
+    },
+    "cityLife": {
+      "description": "Loughborough is a compact East Midlands market town adjacent to the university campus. Leicester is 12 miles away and Nottingham 15 miles. The campus is largely self-contained but students regularly travel to both cities for nightlife and entertainment.",
+      "avgRentPerMonth": "£400–£550",
+      "costOfLiving": "Low",
+      "transport": "Loughborough station (1h20 to London St Pancras, 15 min to Leicester, 25 min to Nottingham); campus is 10 min walk from station",
+      "highlights": ["Charnwood Forest", "Belvoir Castle", "Peak District 45 min", "Nottingham 20 min"],
+      "nightlife": "The union bar and campus are the social heart; Nottingham and Leicester provide full city nightlife within 25 min."
+    },
+    "notableAlumni": [
+      "Sebastian Vettel (honorary degree) — 4x Formula 1 World Champion",
+      "Multiple engineers at McLaren, Red Bull Racing, Mercedes AMG F1 teams",
+      "Sir Jonathan Ive — designer of the iPhone (design studies)"
+    ],
+    "keyFacts": [
+      "#6 in Complete University Guide 2026",
+      "Highest graduate employment rate among UK engineering universities",
+      "Formula Student team produces graduates who go on to lead F1 engineering teams",
+      "World-class aeronautical, mechanical and manufacturing engineering departments"
+    ]
+  },
+  "manchester": {
+    "slug": "manchester",
+    "name": "University of Manchester",
+    "city": "Manchester",
+    "overview": "The University of Manchester is a world-leading Russell Group research university. Graphene was discovered here in 2004 (Geim & Novoselov, Nobel Prize 2010), and the National Graphene Institute on campus is a global hub for advanced materials research directly relevant to engineering. Manchester's engineering faculty covers mechanical, civil, electrical, chemical and aerospace disciplines with strong links to the North West's significant aerospace and manufacturing industries.",
+    "founded": 1824,
+    "totalStudents": 45000,
+    "internationalStudents": "31%",
+    "campusType": "City campus (Oxford Road corridor)",
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "Manchester guarantees accommodation to all first-year undergraduates who apply by the deadline. Multiple halls are available across the Oxford Road corridor and Fallowfield.",
+      "avgWeeklyCost": "£140–£195",
+      "halls": ["Oak House", "Whitworth Park", "Victoria Hall", "Piccadilly Place"],
+      "privateRentAreas": "Fallowfield, Withington, Rusholme, Didsbury"
+    },
+    "openDays": [
+      { "date": "27 June 2026", "type": "Undergraduate Open Day" },
+      { "date": "4 July 2026", "type": "Undergraduate Open Day" },
+      { "date": "3 October 2026", "type": "Undergraduate Open Day" }
+    ],
+    "application": {
+      "ucasCode": "H100",
+      "contextualOffers": true,
+      "interviewRequired": false,
+      "personalStatementTips": [
+        "Reference Manchester's graphene discovery and the National Graphene Institute — relevant to advanced materials, electronics and aerospace engineering",
+        "Show awareness of the North West aerospace cluster (BAE Systems at Warton, Rolls-Royce at Derby, Airbus at Broughton)",
+        "Mathematics required; Physics recommended for most engineering disciplines",
+        "Contextual offers available for eligible applicants"
+      ],
+      "typicalTimeline": "UCAS opens September; apply by 29 January. Engineering offers typically AAA; Chemical Engineering AAA."
+    },
+    "studentLife": {
+      "union": "Manchester SU — one of the UK's largest and most active",
+      "societiesCount": "400+",
+      "sportsTeams": "80+",
+      "highlights": [
+        "Manchester Engineering Society with major employer speaker series",
+        "Formula Student Manchester",
+        "National Graphene Institute tours and research involvement opportunities",
+        "Manchester's world-class music, food and cultural scene"
+      ]
+    },
+    "cityLife": {
+      "description": "Manchester is a major cosmopolitan city with world-class music, sport (Old Trafford, Etihad Stadium), food and culture. The Oxford Road corridor runs through the campus and has more students per mile than anywhere in Europe. Fallowfield is the most popular student suburb.",
+      "avgRentPerMonth": "£550–£750",
+      "costOfLiving": "Moderate",
+      "transport": "Manchester Piccadilly (2h to London Euston); Metrolink tram; Manchester Airport nearby",
+      "highlights": ["Northern Quarter", "Old Trafford", "Manchester Art Gallery", "Spinningfields"],
+      "nightlife": "Manchester has one of the UK's best nightlife scenes — the Northern Quarter, Deansgate Locks and Canal Street cater for all tastes."
+    },
+    "notableAlumni": [
+      "Ernest Rutherford — split the atom at Manchester",
+      "Alan Turing — father of computing (worked at Manchester)",
+      "Andre Geim & Kostya Novoselov — discovered graphene (Nobel Prize 2010)"
+    ],
+    "keyFacts": [
+      "#16 in Complete University Guide 2026",
+      "Graphene discovered at Manchester 2004 — world-leading materials research directly relevant to engineering",
+      "National Graphene Institute on campus — exceptional research environment",
+      "Strong North West aerospace and chemical industry connections"
+    ]
+  },
+  "sheffield": {
+    "slug": "sheffield",
+    "name": "University of Sheffield",
+    "city": "Sheffield",
+    "overview": "Sheffield is a Russell Group university with world-class engineering research. The AMRC (Advanced Manufacturing Research Centre) with Boeing — a £100m facility adjacent to the campus — is one of the most advanced manufacturing and aerospace research centres on earth. Sheffield also has the UK's national offshore renewable energy research facility. The university is renowned for its friendly, supportive student culture and consistently scores highly in the National Student Survey for engineering.",
+    "founded": 1905,
+    "totalStudents": 30000,
+    "internationalStudents": "30%",
+    "campusType": "Campus university (edge of city centre)",
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "Sheffield guarantees accommodation to all first-year students. Multiple halls are within walking distance of the main campus.",
+      "avgWeeklyCost": "£110–£165",
+      "halls": ["Endcliffe Village", "Ranmoor Village", "Sorby House", "Murray Hall"],
+      "privateRentAreas": "Broomhill, Ecclesall Road, Crookes, Walkley"
+    },
+    "openDays": [
+      { "date": "20 June 2026", "type": "Undergraduate Open Day" },
+      { "date": "4 July 2026", "type": "Undergraduate Open Day" },
+      { "date": "5 September 2026", "type": "Undergraduate Open Day" }
+    ],
+    "application": {
+      "ucasCode": "H100",
+      "contextualOffers": true,
+      "interviewRequired": false,
+      "personalStatementTips": [
+        "Reference the AMRC with Boeing and its world-class manufacturing and aerospace research",
+        "Mathematics required at A-level; Physics recommended for most engineering disciplines",
+        "Show interest in Sheffield's specific strengths: aerospace manufacturing, offshore wind, advanced materials",
+        "Sheffield SU is consistently rated one of the UK's best — mention if student experience is important to you"
+      ],
+      "typicalTimeline": "UCAS opens September; apply by 29 January. Engineering offers typically AAB–AAA depending on course."
+    },
+    "studentLife": {
+      "union": "Sheffield SU — multiple 'Best SU in the UK' winner",
+      "societiesCount": "300+",
+      "sportsTeams": "60+",
+      "highlights": [
+        "AMRC student involvement in real Boeing supply-chain projects",
+        "Formula Student Sheffield",
+        "Peak District National Park 30 min from campus",
+        "Strong welfare and pastoral support culture"
+      ]
+    },
+    "cityLife": {
+      "description": "Sheffield is a friendly, affordable northern city with a strong music scene, excellent food and the Peak District on its doorstep. Often underrated as a student city — it offers everything you'd want at a much lower cost than London or Bristol.",
+      "avgRentPerMonth": "£450–£650",
+      "costOfLiving": "Low-Moderate",
+      "transport": "Sheffield station (2h to London St Pancras); Supertram network; M1 motorway",
+      "highlights": ["Peak District 30 min", "Kelham Island", "Botanical Gardens", "Meadowhall"],
+      "nightlife": "West Street and Division Street are the main nightlife areas; Sheffield's independent music scene is excellent."
+    },
+    "notableAlumni": [
+      "Jessica Ennis-Hill — Olympic gold medallist (studied sport science)",
+      "Ed Balls — economist and politician",
+      "Engineers behind major aerospace and construction projects globally"
+    ],
+    "keyFacts": [
+      "#19 in Complete University Guide 2026",
+      "AMRC with Boeing — £100m world-class aerospace manufacturing research facility on campus",
+      "Sheffield SU consistently rated one of the UK's best in the National Student Survey",
+      "UK's National Offshore Renewable Energy Research Centre based in Sheffield"
+    ]
+  },
+  "southampton": {
+    "slug": "southampton",
+    "name": "University of Southampton",
+    "city": "Southampton",
+    "overview": "Southampton is a Russell Group university ranked in the UK top 15. Its Faculty of Engineering and Physical Sciences is world-leading in aeronautics, astronautics, acoustics and oceanography. Southampton operates its own supersonic wind tunnels, a ship hydrodynamics laboratory, and has major research partnerships with Lloyd's Register, Rolls-Royce and QinetiQ. Graduates enter careers in aerospace, defence, maritime and energy sectors.",
+    "founded": 1952,
+    "totalStudents": 26000,
+    "internationalStudents": "30%",
+    "campusType": "Campus university (Highfield, 2km from city centre)",
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "Southampton guarantees accommodation to all first-year students who hold Southampton as their firm choice. Multiple halls are on and near the Highfield campus.",
+      "avgWeeklyCost": "£125–£185",
+      "halls": ["Glen Eyre", "Erasmus Park", "Wessex Lane", "Mayflower Halls"],
+      "privateRentAreas": "Portswood, Swaythling, Shirley, Bitterne Park"
+    },
+    "openDays": [
+      { "date": "27 June 2026", "type": "Undergraduate Open Day" },
+      { "date": "28 June 2026", "type": "Undergraduate Open Day" },
+      { "date": "27 September 2026", "type": "Undergraduate Open Day" }
+    ],
+    "application": {
+      "ucasCode": "H100",
+      "contextualOffers": true,
+      "interviewRequired": false,
+      "personalStatementTips": [
+        "Reference Southampton's world-leading aeronautics, acoustics and maritime engineering research",
+        "The Optoelectronics Research Centre is world-leading for electronic engineering applicants — mention if relevant",
+        "Mathematics required; Physics strongly recommended across all engineering disciplines",
+        "Southampton's proximity to the Solent and maritime industry is unique — reference if applying to Civil or Marine Engineering"
+      ],
+      "typicalTimeline": "UCAS opens September; apply by 29 January. Aerospace and Electronic Engineering offers typically AAA; Civil and Mechanical AAB–AAA."
+    },
+    "studentLife": {
+      "union": "Southampton SU — active and well-resourced",
+      "societiesCount": "200+",
+      "sportsTeams": "50+",
+      "highlights": [
+        "Southampton University Formula Student team",
+        "Royal Aeronautical Society (RAeS) student branch with regular industry events",
+        "University of Southampton Sailing Club — exceptional facilities on the Solent",
+        "New Forest and Isle of Wight accessible for outdoor activities"
+      ]
+    },
+    "cityLife": {
+      "description": "Southampton is a major port city with easy access to the New Forest, Isle of Wight and the South Coast. Strong aerospace and maritime cluster. The city has a good student scene with affordable housing.",
+      "avgRentPerMonth": "£550–£750",
+      "costOfLiving": "Moderate",
+      "transport": "Southampton Central station (1h to London Waterloo); Southampton Airport; Isle of Wight ferry",
+      "highlights": ["New Forest 15 min", "Isle of Wight ferry", "Mayflower Theatre", "SeaCity Museum"],
+      "nightlife": "Bedford Place and West Quay are the main entertainment areas; pleasant and affordable student social scene."
+    },
+    "notableAlumni": [
+      "Sir Tim Berners-Lee — inventor of the World Wide Web (honorary degree)",
+      "Mark King — Level 42 bassist",
+      "Multiple engineers at Rolls-Royce, QinetiQ and BAE Systems"
+    ],
+    "keyFacts": [
+      "#12 in Complete University Guide 2026",
+      "Supersonic wind tunnels and ship hydrodynamics lab — world-class experimental facilities",
+      "Optoelectronics Research Centre — world-leading photonics research with commercial spinouts",
+      "Strong aerospace and maritime engineering industry links (Lloyd's Register, Rolls-Royce, QinetiQ)"
+    ]
+  },
+  "nottingham": {
+    "slug": "nottingham",
+    "name": "University of Nottingham",
+    "city": "Nottingham",
+    "overview": "Nottingham is a Russell Group university with a beautiful campus and strong engineering faculty. The university has a dedicated Rolls-Royce University Technology Centre for gas turbine manufacturing research — making it one of the most important manufacturing research universities in the UK. Nottingham is also well placed in the Midlands manufacturing corridor and has strong links to chemical engineering through the pharmaceutical cluster nearby (Boots, AstraZeneca at Derby).",
+    "founded": 1948,
+    "totalStudents": 35000,
+    "internationalStudents": "26%",
+    "campusType": "Campus university (University Park, 3km from city centre)",
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "Nottingham guarantees accommodation to all first-year students who hold Nottingham as their firm choice. University Park campus has extensive on-campus halls.",
+      "avgWeeklyCost": "£120–£175",
+      "halls": ["Rutland Hall", "Cripps Hall", "Sherwood Hall", "Florence Boot Hall"],
+      "privateRentAreas": "Lenton, Beeston, Dunkirk, Radford"
+    },
+    "openDays": [
+      { "date": "26 June 2026", "type": "Undergraduate Open Day" },
+      { "date": "27 June 2026", "type": "Undergraduate Open Day" },
+      { "date": "3 July 2026", "type": "Undergraduate Open Day" }
+    ],
+    "application": {
+      "ucasCode": "H100",
+      "contextualOffers": true,
+      "interviewRequired": false,
+      "personalStatementTips": [
+        "Reference the Rolls-Royce University Technology Centre — a world-class gas turbine research facility",
+        "Mathematics required; Physics strongly recommended for most engineering disciplines",
+        "For chemical engineering, reference the pharmaceutical industry connection (Boots, AstraZeneca)",
+        "Contextual offers available for eligible applicants"
+      ],
+      "typicalTimeline": "UCAS opens September; apply by 29 January. Engineering offers typically AAB–AAA."
+    },
+    "studentLife": {
+      "union": "Nottingham SU — large and active",
+      "societiesCount": "300+",
+      "sportsTeams": "70+",
+      "highlights": [
+        "Rolls-Royce University Technology Centre — students can get involved in cutting-edge turbine research",
+        "Formula Student Nottingham",
+        "Beautiful lake and parkland campus",
+        "Nottingham's excellent city nightlife close to campus"
+      ]
+    },
+    "cityLife": {
+      "description": "Nottingham is a vibrant East Midlands city with excellent nightlife (Rock City is a legendary venue), good food and drink, and affordable housing. The campus is a short ride from the city centre by tram.",
+      "avgRentPerMonth": "£500–£700",
+      "costOfLiving": "Low-Moderate",
+      "transport": "Nottingham station (2h to London St Pancras); tram to campus; East Midlands Airport",
+      "highlights": ["Nottingham Castle", "Sherwood Forest", "City caves", "Rock City"],
+      "nightlife": "Rock City, Market Square and the Lace Market have excellent bars and live music; affordable and varied."
+    },
+    "notableAlumni": [
+      "Jesse Boot — founder of Boots pharmacy",
+      "Paul Smith — fashion designer",
+      "Multiple Rolls-Royce senior engineers trained at Nottingham"
+    ],
+    "keyFacts": [
+      "#17 in Complete University Guide 2026",
+      "Rolls-Royce University Technology Centre — direct research partnership for manufacturing and propulsion engineering",
+      "Beautiful University Park campus with lake and sports facilities on-site",
+      "Close to Boots (pharmaceutical engineering) and East Midlands manufacturing cluster"
+    ]
+  },
+  "leeds": {
+    "slug": "leeds",
+    "name": "University of Leeds",
+    "city": "Leeds",
+    "overview": "Leeds is a Russell Group university with a large and well-regarded engineering faculty. Its School of Civil Engineering, Institute of Process Research and Development (chemical engineering) and School of Electronic and Electrical Engineering are all nationally recognised. Leeds benefits from proximity to a large Yorkshire manufacturing and infrastructure base and has a campus almost integrated into the city centre.",
+    "founded": 1904,
+    "totalStudents": 39000,
+    "internationalStudents": "30%",
+    "campusType": "Campus university (adjacent to city centre)",
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "Leeds guarantees accommodation to all first-year students who hold Leeds as their firm choice. Multiple halls are on or near the campus.",
+      "avgWeeklyCost": "£115–£175",
+      "halls": ["Leodis", "Lyddon Hall", "Devonshire Hall", "Henry Price"],
+      "privateRentAreas": "Headingley, Hyde Park, Woodhouse, Burley"
+    },
+    "openDays": [
+      { "date": "12 June 2026", "type": "Undergraduate Open Day" },
+      { "date": "13 June 2026", "type": "Undergraduate Open Day" }
+    ],
+    "application": {
+      "ucasCode": "H100",
+      "contextualOffers": true,
+      "interviewRequired": false,
+      "personalStatementTips": [
+        "Reference Leeds' strengths in process/chemical engineering, infrastructure, and renewable energy",
+        "Mathematics required; Physics recommended for most engineering disciplines",
+        "Mention interest in Yorkshire's growing engineering sector or specific industry links",
+        "Contextual offers available for eligible applicants"
+      ],
+      "typicalTimeline": "UCAS opens September; apply by 29 January. Engineering offers typically AAB."
+    },
+    "studentLife": {
+      "union": "Leeds SU — one of the UK's largest and consistently well-rated",
+      "societiesCount": "300+",
+      "sportsTeams": "80+",
+      "highlights": [
+        "Engineering Society with strong industry speaker programme",
+        "Leeds Racing (Formula Student team)",
+        "Campus blends seamlessly into the city centre",
+        "Headingley — one of the UK's most legendary student suburbs"
+      ]
+    },
+    "cityLife": {
+      "description": "Leeds is one of the UK's fastest-growing cities and a major financial and tech hub. The campus blends almost seamlessly into the city centre. Headingley is a world-famous student suburb.",
+      "avgRentPerMonth": "£480–£680",
+      "costOfLiving": "Low-Moderate",
+      "transport": "Leeds station (2h to London King's Cross); Leeds Bradford Airport; extensive bus network",
+      "highlights": ["Trinity Leeds", "Corn Exchange", "Headingley cricket ground", "West Yorkshire Playhouse"],
+      "nightlife": "Leeds has one of the UK's most vibrant nightlife scenes — the Calls, Otley Run and Hyde Park are all popular."
+    },
+    "notableAlumni": [
+      "Jim Carter — actor (Downton Abbey)",
+      "Kenneth Branagh — director and actor (honorary degree)",
+      "Many senior engineers at infrastructure firms (Arup, Mott MacDonald)"
+    ],
+    "keyFacts": [
+      "#11 in Complete University Guide 2026",
+      "Institute of Process Research and Development (iPRD) — world-leading chemical engineering research",
+      "Strong infrastructure connections: Arup and Network Rail are active partners",
+      "Headingley is one of the UK's most affordable and popular student neighbourhoods"
+    ]
+  },
+  "edinburgh": {
+    "slug": "edinburgh",
+    "name": "University of Edinburgh",
+    "city": "Edinburgh",
+    "overview": "The University of Edinburgh is one of Scotland's ancient universities (founded 1583), a Russell Group member and a global research leader. Its School of Engineering is internationally recognised across civil, mechanical, chemical and electronic engineering disciplines. Edinburgh is particularly strong in offshore and subsea engineering (reflecting the nearby North Sea oil and gas industry) and has an excellent record in infrastructure and energy systems research.",
+    "founded": 1583,
+    "totalStudents": 42000,
+    "internationalStudents": "44%",
+    "campusType": "Urban campus (King's Buildings science campus, 2km from city centre)",
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "Edinburgh guarantees accommodation to all first-year students who hold Edinburgh as their firm choice and apply by the deadline. Engineering students are primarily based at the King's Buildings campus.",
+      "avgWeeklyCost": "£135–£200",
+      "halls": ["Pollock Halls", "Hermits Croft", "KB House (King's Buildings)", "Salisbury Green"],
+      "privateRentAreas": "Marchmont, Morningside, Bruntsfield, Leith"
+    },
+    "openDays": [
+      { "date": "22 June 2026", "type": "Undergraduate Open Day" },
+      { "date": "26 September 2026", "type": "Undergraduate Open Day" }
+    ],
+    "application": {
+      "ucasCode": "H200",
+      "contextualOffers": true,
+      "interviewRequired": false,
+      "personalStatementTips": [
+        "Note that Edinburgh Engineering degrees are 4 years (BEng) or 5 years (MEng) — show you understand the Scottish degree structure",
+        "Reference Edinburgh's specific strengths: offshore engineering, civil infrastructure, chemical process engineering for North Sea",
+        "Mathematics required (A-level or Scottish Higher equivalent); Physics recommended",
+        "Contextual offers available via Edinburgh's widening participation scheme"
+      ],
+      "typicalTimeline": "UCAS opens September; apply by 29 January. Engineering offers typically AAA for most disciplines. Scottish Highers equivalents accepted."
+    },
+    "studentLife": {
+      "union": "Edinburgh University Students' Association (EUSA) — large, diverse and active",
+      "societiesCount": "300+",
+      "sportsTeams": "70+",
+      "highlights": [
+        "Engineering Society with North Sea industry links and oil & gas employer events",
+        "Formula Student Edinburgh",
+        "Edinburgh's world-famous festivals (Fringe, International Festival, etc.)",
+        "Arthur's Seat and outdoor activities on the doorstep"
+      ]
+    },
+    "cityLife": {
+      "description": "Edinburgh is one of the UK's most beautiful and culturally rich cities. The Old Town, New Town and the annual Edinburgh Festival make it a world-class destination. King's Buildings campus is a short bus ride from the city centre.",
+      "avgRentPerMonth": "£650–£900",
+      "costOfLiving": "Moderate-High",
+      "transport": "Edinburgh Waverley (45 min to Glasgow, 4h30 to London); tram system; Edinburgh Airport",
+      "highlights": ["Edinburgh Old Town and Royal Mile", "Arthur's Seat", "Edinburgh Fringe", "Scottish Highlands 1 hour away"],
+      "nightlife": "Grassmarket, Cowgate and the Old Town have vibrant pub and live music scenes; Leith is the emerging restaurant quarter."
+    },
+    "notableAlumni": [
+      "Alexander Graham Bell — inventor of the telephone",
+      "James Clerk Maxwell — founder of electromagnetic theory (studied at Edinburgh)",
+      "John Logie Baird — inventor of television"
+    ],
+    "keyFacts": [
+      "#22 in Complete University Guide 2026",
+      "4-year Scottish BEng + 5-year MEng structure provides excellent breadth before specialisation",
+      "Strong offshore, subsea and energy engineering links to the North Sea industry",
+      "Edinburgh's location provides access to Scotland's significant energy and tech sectors"
+    ]
+  },
+  "birmingham": {
+    "slug": "birmingham",
+    "name": "University of Birmingham",
+    "city": "Birmingham",
+    "overview": "The University of Birmingham is a founding Russell Group member with strong engineering faculties. Its School of Chemical Engineering is nationally respected, and the College of Engineering and Physical Sciences covers mechanical, civil, electrical and manufacturing engineering. Birmingham benefits from the Midlands manufacturing heartland — JLR, Rolls-Royce (Derby), and a major aerospace supply chain cluster are all nearby — providing exceptional placement and employment opportunities.",
+    "founded": 1900,
+    "totalStudents": 36000,
+    "internationalStudents": "30%",
+    "campusType": "Campus university (Edgbaston, 5km from city centre)",
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "Birmingham guarantees accommodation to all first-year students. Multiple halls are available across the Edgbaston campus.",
+      "avgWeeklyCost": "£115–£170",
+      "halls": ["Vale Village", "Tennis Court", "Maple Bank", "Shackleton"],
+      "privateRentAreas": "Selly Oak, Harborne, Stirchley, Moseley"
+    },
+    "openDays": [
+      { "date": "26 June 2026", "type": "Undergraduate Open Day" },
+      { "date": "27 June 2026", "type": "Undergraduate Open Day" },
+      { "date": "10 October 2026", "type": "Undergraduate Open Day" }
+    ],
+    "application": {
+      "ucasCode": "H100",
+      "contextualOffers": true,
+      "interviewRequired": false,
+      "personalStatementTips": [
+        "Reference the Midlands manufacturing cluster — JLR, Rolls-Royce and the West Midlands aerospace supply chain",
+        "Mathematics required; Physics recommended for most engineering disciplines",
+        "For Chemical Engineering, reference the pharmaceutical and FMCG industry cluster in the Midlands",
+        "Contextual offers available for eligible applicants"
+      ],
+      "typicalTimeline": "UCAS opens September; apply by 29 January. Engineering offers typically AAA–ABB depending on course."
+    },
+    "studentLife": {
+      "union": "Birmingham Guild of Students — one of the UK's largest and most active",
+      "societiesCount": "300+",
+      "sportsTeams": "70+",
+      "highlights": [
+        "Engineering Society with strong Midlands industry links",
+        "Birmingham Racing Club (Formula Student)",
+        "Large and diverse student population — UK's most international Russell Group university",
+        "Selly Oak — one of the UK's most vibrant student suburbs directly adjacent to campus"
+      ]
+    },
+    "cityLife": {
+      "description": "Birmingham is the UK's second-largest city, undergoing major regeneration. The Bullring, Digbeth arts quarter, and excellent restaurant scene (famous Balti Triangle) make it a genuinely exciting city. HSBC, KPMG, Goldman Sachs and many engineering firms have headquarters or major offices here.",
+      "avgRentPerMonth": "£500–£700",
+      "costOfLiving": "Low-Moderate",
+      "transport": "New Street station (1h20 to London Euston); Birmingham Airport; tram and bus network",
+      "highlights": ["Bullring and Grand Central", "Digbeth arts quarter", "Cadbury World", "Museum and Art Gallery"],
+      "nightlife": "Broad Street, Digbeth and the Jewellery Quarter are Birmingham's main entertainment districts."
+    },
+    "notableAlumni": [
+      "J.R.R. Tolkien — author (grew up in Birmingham, attended King Edward's School)",
+      "Ozzy Osbourne — musician (Birmingham born)",
+      "Multiple engineers at JLR, Rolls-Royce and major Midlands manufacturers"
+    ],
+    "keyFacts": [
+      "#23 in Complete University Guide 2026",
+      "Midlands manufacturing cluster (JLR, Rolls-Royce, Aerospace supply chain) on the doorstep",
+      "HS2 construction provides live infrastructure engineering case studies and employment opportunities",
+      "Selly Oak provides one of the UK's most affordable and popular student suburbs"
+    ]
+  },
+  "newcastle": {
+    "slug": "newcastle",
+    "name": "Newcastle University",
+    "city": "Newcastle upon Tyne",
+    "overview": "Newcastle is a Russell Group university with strong engineering credentials. Its Schools of Engineering, Chemical Engineering and Computing Science are nationally respected. Newcastle has a proud industrial heritage (birthplace of the steam locomotive) and strong links to the North East's emerging offshore wind, shipbuilding and chemical industries. The university's chemical engineering programme is highly regarded with significant links to the Teesside chemical cluster.",
+    "founded": 1834,
+    "totalStudents": 27000,
+    "internationalStudents": "28%",
+    "campusType": "City centre campus",
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "Newcastle guarantees accommodation to all first-year students. Multiple halls are in the city centre and adjacent areas.",
+      "avgWeeklyCost": "£110–£165",
+      "halls": ["Park View Student Village", "Castle Leazes", "Bowsden Court", "Lonsdale"],
+      "privateRentAreas": "Jesmond, Heaton, Fenham, Arthurs Hill"
+    },
+    "openDays": [
+      { "date": "26 June 2026", "type": "Undergraduate Open Day" },
+      { "date": "27 June 2026", "type": "Undergraduate Open Day" },
+      { "date": "3 October 2026", "type": "Undergraduate Open Day" }
+    ],
+    "application": {
+      "ucasCode": "H800",
+      "contextualOffers": true,
+      "interviewRequired": false,
+      "personalStatementTips": [
+        "Reference Newcastle's strong chemical engineering links to the Teesside chemical cluster (INEOS, SABIC, Huntsman)",
+        "Mathematics required; Chemistry required for Chemical Engineering; Physics recommended for other disciplines",
+        "Reference the North East's offshore wind and marine engineering sector if relevant to your interests",
+        "Contextual offers available for eligible applicants"
+      ],
+      "typicalTimeline": "UCAS opens September; apply by 29 January. Chemical Engineering offers typically AAB; other engineering AAB–ABB."
+    },
+    "studentLife": {
+      "union": "Newcastle SU — active and well-regarded",
+      "societiesCount": "200+",
+      "sportsTeams": "60+",
+      "highlights": [
+        "Chemical Engineering Society with Teesside industry links",
+        "Newcastle University Racing (NUR) Formula Student team",
+        "Newcastle is consistently rated one of the UK's best student cities",
+        "Quayside and Jesmond for arts and social activities"
+      ]
+    },
+    "cityLife": {
+      "description": "Newcastle upon Tyne is one of the UK's most celebrated student cities — famous for its friendly people, legendary nightlife, excellent food and very affordable cost of living. The Quayside and Jesmond are particularly popular.",
+      "avgRentPerMonth": "£450–£620",
+      "costOfLiving": "Low-Moderate",
+      "transport": "Newcastle Central station (3h to London King's Cross, 20 min to Durham); Metro; Newcastle Airport",
+      "highlights": ["Quayside and Sage Gateshead", "Angel of the North", "Hadrian's Wall nearby", "Grey Street architecture"],
+      "nightlife": "The Bigg Market, Quayside and Jesmond are Newcastle's nightlife heart; welcoming atmosphere and strong pub culture."
+    },
+    "notableAlumni": [
+      "George Stephenson — inventor of the steam locomotive (Newcastle heritage)",
+      "Alan Shearer — footballer",
+      "Multiple engineers in offshore energy and petrochemical sectors"
+    ],
+    "keyFacts": [
+      "#22 in Complete University Guide 2026",
+      "Strong links to Teesside chemical cluster — one of the UK's largest industrial chemical zones",
+      "North East offshore wind sector provides growing engineering employment base",
+      "Consistently rated one of the UK's top cities for student experience and value"
+    ]
+  },
+  "ucl": {
+    "slug": "ucl",
+    "name": "University College London",
+    "city": "London",
+    "overview": "University College London (UCL) is one of the world's top universities and a leading research institution. Its Department of Chemical Engineering and Faculty of Engineering Sciences are internationally recognised. UCL Chemical Engineering is particularly strong in biochemical engineering, process intensification and sustainable energy. UCL's central London location provides exceptional access to engineering employers across energy, consulting and technology sectors.",
+    "founded": 1826,
+    "totalStudents": 42000,
+    "internationalStudents": "52%",
+    "campusType": "Urban campus (Bloomsbury, central London)",
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "UCL guarantees accommodation to all first-year students who accept their offer by the deadline and live more than a defined distance from London.",
+      "avgWeeklyCost": "£165–£260",
+      "halls": ["Ramsay Hall", "Campbell House", "Max Rayne House", "Astor College"],
+      "privateRentAreas": "Kentish Town, Camden, Islington, Hackney"
+    },
+    "openDays": [
+      { "date": "26 June 2026", "type": "Undergraduate Open Day" },
+      { "date": "27 June 2026", "type": "Undergraduate Open Day" }
+    ],
+    "application": {
+      "ucasCode": "H800",
+      "contextualOffers": true,
+      "interviewRequired": false,
+      "personalStatementTips": [
+        "Reference UCL's specific strengths in biochemical and process engineering, and its London industry network",
+        "Mathematics and Chemistry both required for Chemical Engineering at UCL",
+        "Show awareness of UCL's research culture — UCL Engineering publishes world-class research in bioprocessing and sustainable energy",
+        "Contextual offers available for eligible applicants"
+      ],
+      "typicalTimeline": "UCAS opens September; apply by 29 January. Chemical Engineering offers typically A*AA."
+    },
+    "studentLife": {
+      "union": "UCL Students' Union — one of London's most active, with 250+ societies",
+      "societiesCount": "250+",
+      "sportsTeams": "50+",
+      "highlights": [
+        "Chemical Engineering Society with London employer networking events",
+        "UCL Racing (Formula Student team)",
+        "Close to British Museum, Wellcome Collection and science institutions",
+        "London internship and networking opportunities"
+      ]
+    },
+    "cityLife": {
+      "description": "UCL's Bloomsbury campus is in central London — surrounded by the British Museum, Wellcome Collection, Knowledge Quarter and King's Cross. London provides unrivalled internship, placement and networking opportunities for engineering students.",
+      "avgRentPerMonth": "£900–£1,300",
+      "costOfLiving": "Very High",
+      "transport": "Warren Street, Euston Square, Russell Square tube stations; King's Cross and Euston mainline nearby",
+      "highlights": ["British Museum at the end of the road", "Wellcome Collection", "Regent's Park", "King's Cross"],
+      "nightlife": "Fitzrovia, Soho and Covent Garden are within walking distance; excellent range across all budgets."
+    },
+    "notableAlumni": [
+      "Alexander Graham Bell — inventor of the telephone (studied at UCL)",
+      "Mahatma Gandhi — studied at UCL",
+      "Jonathan Ashworth — Secretary of State for Health"
+    ],
+    "keyFacts": [
+      "#9 in QS World University Rankings 2024–25",
+      "Chemical Engineering particularly strong in biochemical engineering and sustainable processes",
+      "London location provides direct access to BP, Shell, Dow Chemical graduate schemes",
+      "Contextual offer scheme provides opportunity for eligible applicants"
+    ]
+  },
+  "queens-belfast": {
+    "slug": "queens-belfast",
+    "name": "Queen's University Belfast",
+    "city": "Belfast",
+    "overview": "Queen's University Belfast is a Russell Group member with a highly regarded School of Mechanical and Aerospace Engineering. Belfast's aerospace cluster is exceptional: Spirit AeroSystems (formerly Bombardier) manufactures major aircraft components including Airbus A220 fuselages at the Belfast Harbour Estate, providing unrivalled local industry links for aerospace engineering graduates. Queen's is also strong in advanced manufacturing and mechanical engineering.",
+    "founded": 1845,
+    "totalStudents": 27000,
+    "internationalStudents": "23%",
+    "campusType": "City centre campus",
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "Queen's guarantees accommodation to all first-year students. Elms Village and other halls are on or near the campus in South Belfast.",
+      "avgWeeklyCost": "£90–£135",
+      "halls": ["Elms Village", "Queen's Elms", "Stranmillis College residences"],
+      "privateRentAreas": "Stranmillis, Lisburn Road, Holylands, Botanic"
+    },
+    "openDays": [
+      { "date": "26 June 2026", "type": "Undergraduate Open Day" },
+      { "date": "27 June 2026", "type": "Undergraduate Open Day" }
+    ],
+    "application": {
+      "ucasCode": "H401",
+      "contextualOffers": true,
+      "interviewRequired": false,
+      "personalStatementTips": [
+        "Reference Belfast's world-class aerospace cluster — Spirit AeroSystems at Belfast Harbour makes major aircraft components",
+        "Mathematics and Physics required; Further Mathematics advantageous for Aerospace Engineering",
+        "Mention awareness of Shorts (Belfast's aircraft manufacturing heritage) and its evolution into modern aerospace",
+        "Contextual offers available; Queen's has a strong widening participation commitment"
+      ],
+      "typicalTimeline": "UCAS opens September; apply by 29 January. Aerospace Engineering offers typically ABB."
+    },
+    "studentLife": {
+      "union": "Queen's Students' Union — active and highly rated",
+      "societiesCount": "200+",
+      "sportsTeams": "60+",
+      "highlights": [
+        "Aerospace Engineering Society with Spirit AeroSystems and Airbus links",
+        "Queen's University Racing (Formula Student team)",
+        "Belfast has one of the UK's friendliest and most affordable student scenes",
+        "Giant's Causeway and Mourne Mountains easily accessible"
+      ]
+    },
+    "cityLife": {
+      "description": "Belfast is one of the UK's most affordable and welcoming student cities. The city has undergone remarkable regeneration — the Titanic Quarter, Cathedral Quarter and city centre offer excellent food, culture and nightlife. Northern Ireland's coast and countryside are spectacular.",
+      "avgRentPerMonth": "£350–£500",
+      "costOfLiving": "Very Low",
+      "transport": "Belfast Lanyon Place station; ferry to Stranraer/Liverpool; Belfast City Airport and Belfast International Airport",
+      "highlights": ["Titanic Belfast museum", "Giant's Causeway 1 hour away", "Cathedral Quarter", "Botanic Gardens"],
+      "nightlife": "Cathedral Quarter, Botanic and the city centre have excellent pubs, restaurants and bars; very affordable."
+    },
+    "notableAlumni": [
+      "Lord Kelvin — thermodynamics pioneer (studied at Queen's)",
+      "Seamus Heaney — Nobel Laureate poet",
+      "Spirit AeroSystems engineers trained at Queen's"
+    ],
+    "keyFacts": [
+      "#26 in Complete University Guide 2026",
+      "Spirit AeroSystems at Belfast Harbour — major aircraft component manufacturer providing direct industry links",
+      "One of the most affordable Russell Group universities for cost of living",
+      "Strong aerospace and manufacturing engineering heritage in Belfast"
+    ]
+  },
+  "glasgow": {
+    "slug": "glasgow",
+    "name": "University of Glasgow",
+    "city": "Glasgow",
+    "overview": "The University of Glasgow is one of Scotland's ancient universities (founded 1451), a Russell Group member and a leading engineering research institution. Its James Watt School of Engineering — named after the Glaswegian inventor of the steam engine — covers aerospace, civil, electronic and mechanical engineering. Glasgow has strong aerospace links (BAE Systems, Leonardo at Edinburgh) and excellent aerospace engineering research in aerodynamics and flight mechanics.",
+    "founded": 1451,
+    "totalStudents": 35000,
+    "internationalStudents": "36%",
+    "campusType": "Urban campus (West End of Glasgow)",
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "Glasgow guarantees accommodation to all first-year students who hold Glasgow as their firm choice. Multiple halls are in and around the West End Gilmorehill campus.",
+      "avgWeeklyCost": "£115–£175",
+      "halls": ["Queen Margaret Halls", "Murano Street Student Village", "Kelvingrove Student Village", "Cairncross House"],
+      "privateRentAreas": "West End, Hillhead, Partick, Finnieston"
+    },
+    "openDays": [
+      { "date": "18 June 2026", "type": "Undergraduate Open Day" },
+      { "date": "2 September 2026", "type": "Undergraduate Open Day" },
+      { "date": "3 October 2026", "type": "Undergraduate Open Day" }
+    ],
+    "application": {
+      "ucasCode": "H401",
+      "contextualOffers": true,
+      "interviewRequired": false,
+      "personalStatementTips": [
+        "Reference James Watt's connection to Glasgow — the university's James Watt School of Engineering carries forward this legacy",
+        "Note that Glasgow Engineering degrees are 4-year BEng or 5-year MEng (Scottish structure)",
+        "Mathematics required; Physics required for Aerospace and Mechanical Engineering",
+        "Reference BAE Systems at Warton (short flight from Glasgow) and Leonardo in Edinburgh as major aerospace employers"
+      ],
+      "typicalTimeline": "UCAS opens September; apply by 29 January. Aerospace Engineering offers typically ABB. Scottish Highers equivalents accepted."
+    },
+    "studentLife": {
+      "union": "Glasgow University Union and Queen Margaret Union — two of Scotland's most famous student unions",
+      "societiesCount": "200+",
+      "sportsTeams": "60+",
+      "highlights": [
+        "James Watt Engineering Society — strong connections to Glasgow's industrial heritage",
+        "Glasgow University Aerospace Society",
+        "West End of Glasgow is one of the UK's best student neighbourhoods",
+        "Scottish Highlands 1 hour away"
+      ]
+    },
+    "cityLife": {
+      "description": "Glasgow is Scotland's largest and most vibrant city. The West End — home to the university — has outstanding independent restaurants, bars and cultural venues (Byres Road, Finnieston). Glasgow is consistently named one of the UK's best student cities.",
+      "avgRentPerMonth": "£550–£750",
+      "costOfLiving": "Moderate",
+      "transport": "Glasgow Central and Queen Street stations (45 min to Edinburgh, 4h30 to London); Subway (the Clockwork Orange); Glasgow Airport",
+      "highlights": ["Kelvingrove Art Gallery", "Riverside Museum", "Byres Road independents", "Scottish Highlands 1 hour"],
+      "nightlife": "West End, Finnieston and Merchant City are Glasgow's premium nightlife districts; the city is internationally famous for its music and hospitality."
+    },
+    "notableAlumni": [
+      "James Watt — inventor of the steam engine (worked at Glasgow; the Engineering School is named after him)",
+      "Adam Smith — founder of modern economics",
+      "John Logie Baird — inventor of television"
+    ],
+    "keyFacts": [
+      "#20 in Complete University Guide 2026",
+      "James Watt School of Engineering — named after the inventor who revolutionised industrial engineering",
+      "Founded 1451 — one of the world's oldest universities",
+      "Strong aerospace connections to BAE Systems (Warton) and Leonardo (Edinburgh)"
+    ]
   }
 }

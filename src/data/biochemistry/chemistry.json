@@ -13,7 +13,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/b1f0c4e3-5a8d-4f2b-0e7c-4c3b2f1d6a8e/chemistry?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-oxford",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "152"
   },
   {
     "name": "University of Cambridge",
@@ -29,7 +30,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/c2a1d5f4-6b9e-4a3c-1f8d-5d4c3a2e7b9f/natural-sciences?studyYear=2026",
     "matchType": "close",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-cambridge",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "160"
   },
   {
     "name": "Imperial College London",
@@ -45,7 +47,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/d3b2e6a5-7c0f-4b4d-2a9e-6e5d4b3f8c0a/chemistry?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/imperial-college-london",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "152"
   },
   {
     "name": "University of Bristol",
@@ -61,7 +64,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/e4c3f7b6-8d1a-4c5e-3b0f-7f6e5c4a9d1b/chemistry?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-bristol",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "144"
   },
   {
     "name": "University of Edinburgh",
@@ -77,7 +81,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/f5d4a8c7-9e2b-4d6f-4c1a-8a7f6d5b0e2c/chemistry?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-edinburgh",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "144"
   },
   {
     "name": "Durham University",
@@ -93,7 +98,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/a6e5b9d8-0f3c-4e7a-5d2b-9b8a7e6c1f3d/chemistry?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/durham-university",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "144"
   },
   {
     "name": "University College London",
@@ -109,7 +115,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/b7f6c0e9-1a4d-4f8b-6e3c-0c9b8f7d2a4e/chemistry?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-college-london",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "144"
   },
   {
     "name": "University of Warwick",
@@ -125,7 +132,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/c8a7d1f0-2b5e-4a9c-7f4d-1d0c9a8e3b5f/chemistry?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-warwick",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "144"
   },
   {
     "name": "University of Bath",
@@ -141,7 +149,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/d9b8e2a1-3c6f-4b0d-8a5e-2e1d0b9f4c6a/chemistry?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-bath",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "144"
   },
   {
     "name": "University of Southampton",
@@ -157,7 +166,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/e0c9f3b2-4d7a-4c1e-9b6f-3f2e1c0a5d7b/chemistry?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-southampton",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "136"
   },
   {
     "name": "University of Manchester",
@@ -173,7 +183,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/f1d0a4c3-5e8b-4d2f-0c7a-4a3f2d1b6e8c/chemistry?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/the-university-of-manchester",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "144"
   },
   {
     "name": "University of Nottingham",
@@ -189,7 +200,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/a2e1b5d4-6f9c-4e3a-1d8b-5b4a3e2f7c9d/chemistry?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/the-university-of-nottingham",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "128"
   },
   {
     "name": "University of York",
@@ -205,7 +217,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/b3f2c6e5-7a0d-4f4b-2e9c-6c5b4f3a8d0e/chemistry?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-york",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "128"
   },
   {
     "name": "University of Sheffield",
@@ -221,7 +234,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/c4a3d7f6-8b1e-4a5c-3f0d-7d6c5a4b9e1f/chemistry?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/the-university-of-sheffield",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "128"
   },
   {
     "name": "University of Leeds",
@@ -237,7 +251,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/d5b4e8a7-9c2f-4b6d-4a1e-8e7d6b5c0f2a/chemistry?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-leeds",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "128"
   },
   {
     "name": "King's College London",
@@ -253,7 +268,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/e6c5f9b8-0d3a-4c7e-5b2f-9f8e7c6d1a3b/chemistry?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/king-s-college-london",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "128"
   },
   {
     "name": "University of Birmingham",
@@ -269,7 +285,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/f7d6a0c9-1e4b-4d8f-6c3a-0a9f8d7e2b4c/chemistry?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-birmingham",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "128"
   },
   {
     "name": "Cardiff University",
@@ -285,7 +302,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/a8e7b1d0-2f5c-4e9a-7d4b-1b0a9e8f3c5d/chemistry?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/cardiff-university",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "128"
   },
   {
     "name": "University of Glasgow",
@@ -301,7 +319,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/b9f8c2e1-3a6d-4f0b-8e5c-2c1b0f9a4d6e/chemistry?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-glasgow",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "128"
   },
   {
     "name": "Newcastle University",
@@ -317,7 +336,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/c0a9d3f2-4b7e-4a1c-9f6d-3d2c1a0b5e7f/chemistry?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/newcastle-university",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "128"
   },
   {
     "name": "University of Liverpool",
@@ -333,7 +353,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/d1b0e4a3-5c8f-4b2d-0a7e-4e3d2b1c6f8a/chemistry?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-liverpool",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "128"
   },
   {
     "name": "University of Exeter",
@@ -349,7 +370,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/e2c1f5b4-6d9a-4c3e-1b8f-5f4e3c2d7a9b/chemistry?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-exeter",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "128"
   },
   {
     "name": "University of Reading",
@@ -365,7 +387,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/f3d2a6c5-7e0b-4d4f-2c9a-6a5f4d3e8b0c/chemistry?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-reading",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "128"
   },
   {
     "name": "University of Sussex",
@@ -381,6 +404,7 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/a4e3b7d6-8f1c-4e5a-3d0b-7b6a5e4f9c1d/chemistry?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-sussex",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "128"
   }
 ]

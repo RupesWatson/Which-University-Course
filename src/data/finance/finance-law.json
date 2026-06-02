@@ -13,7 +13,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/b98131f7-9fa0-4df4-90e1-98e427d77eee/law-and-finance?studyYear=2026",
     "matchType": "close",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/london-school-of-economics-and-political-science",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "152"
   },
   {
     "name": "UCL (University College London)",
@@ -29,7 +30,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/aa0151f4-da61-412e-8cea-1e2fefb42778/law-and-finance?studyYear=2026",
     "matchType": "close",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/ucl-university-college-london",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "152"
   },
   {
     "name": "University of Bristol",
@@ -45,7 +47,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/9e9fa145-b3e5-49d2-bf82-1fb8b6888972/banking-and-finance-law?studyYear=2026",
     "matchType": "close",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-bristol",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "144"
   },
   {
     "name": "University of Exeter",
@@ -61,7 +64,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/f113fafa-2972-d408-5bb4-6d6bf67a75cd/money-banking-and-finance?studyYear=2026",
     "matchType": "close",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-exeter",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "136"
   },
   {
     "name": "University of Nottingham",
@@ -77,7 +81,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/c7f3bf7e-0899-ef76-9831-8ae4c66fa3c2/finance-accounting-and-management?studyYear=2026",
     "matchType": "close",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-nottingham",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "128"
   },
   {
     "name": "University of Leeds",
@@ -93,7 +98,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/26af9c6d-e4eb-af54-582b-7db68c622a63/international-business-and-finance?studyYear=2026",
     "matchType": "close",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-leeds",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "144"
   },
   {
     "name": "University of Manchester",
@@ -109,7 +115,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/4d33b75a-440e-4152-8ed3-0f4d93f1de11/accounting-and-finance?studyYear=2026",
     "matchType": "close",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-manchester",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "144"
   },
   {
     "name": "University of Birmingham",
@@ -125,7 +132,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/7d650ea3-f49e-989d-6cfb-5c91730214f0/money-banking-and-finance?studyYear=2026",
     "matchType": "close",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-birmingham",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "136"
   },
   {
     "name": "Durham University",
@@ -141,7 +149,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/0f64add3-e64d-a77a-fbc1-81f9cf94c930/finance?studyYear=2026",
     "matchType": "close",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/durham-university",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "136"
   },
   {
     "name": "University of Strathclyde",
@@ -157,6 +166,7 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/17410dca-e077-34c9-1967-f9947332c2bf/finance-and-business-law?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-strathclyde",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "144"
   }
 ]

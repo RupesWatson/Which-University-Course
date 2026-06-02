@@ -13,7 +13,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/a1b9c4d3-5e7f-4f0a-6c8d-9d8c7b6a2f4e/molecular-and-cellular-biochemistry?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-oxford",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "152"
   },
   {
     "name": "University of Cambridge",
@@ -23,13 +24,14 @@
     "entryGrades": "A*A*A",
     "typicalOffer": "A*A*A",
     "gradProspects": "93%",
-    "notes": "Verified UCAS 2026 close title match; students do Natural Sciences Tripos with Biochemistry pathway; specialise in molecular and cellular biology in Years 3–4; Chemistry and Biology required",
+    "notes": "Verified UCAS 2026 close title match; students do Natural Sciences Tripos with Biochemistry pathway; specialise in molecular and cellular biology in Years 3\u20134; Chemistry and Biology required",
     "courseName": "Natural Sciences (Molecular Biology pathway)",
     "applicationCode": "BC01",
     "sourceUrl": "https://digital.ucas.com/explore/courses/b2f9d4e1-5c8a-4f0b-9d7e-4e3c2b1f6a8d/natural-sciences?studyYear=2026",
     "matchType": "close",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-cambridge",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "160"
   },
   {
     "name": "University of Edinburgh",
@@ -45,7 +47,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/c3a0e5f2-6d9b-4a1c-0e8f-5f4d3c2a7b9e/molecular-biology?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-edinburgh",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "144"
   },
   {
     "name": "University of Bristol",
@@ -61,7 +64,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/d4b1f6a3-7e0c-4b2d-1f9a-6a5e4d3b8c0f/molecular-cellular-biology?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-bristol",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "144"
   },
   {
     "name": "Imperial College London",
@@ -77,7 +81,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/e5c2a7b4-8f1d-4c3e-2a0b-7b6f5e4c9d1a/biochemistry-molecular-biology?studyYear=2026",
     "matchType": "close",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/imperial-college-london",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "152"
   },
   {
     "name": "University of Manchester",
@@ -93,7 +98,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/f6d3b8c5-9a2e-4d4f-3b1c-8c7a6f5d0e2b/molecular-biology?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/the-university-of-manchester",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "144"
   },
   {
     "name": "University of York",
@@ -109,7 +115,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/a7e4c9d6-0b3f-4e5a-4c2d-9d8b7a6e1f3c/molecular-biology?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-york",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "128"
   },
   {
     "name": "University of Warwick",
@@ -125,7 +132,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/b8f5d0e7-1c4a-4f6b-5d3e-0e9c8b7f2a4d/molecular-biochemical-sciences?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-warwick",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "144"
   },
   {
     "name": "University of Leicester",
@@ -141,7 +149,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/c9a6e1f8-2d5b-4a7c-6e4f-1f0d9c8a3b5e/molecular-biology?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-leicester",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "128"
   },
   {
     "name": "University of Glasgow",
@@ -157,7 +166,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/d0b7f2a9-3e6c-4b8d-7f5a-2a1e0d9b4c6f/molecular-biology?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-glasgow",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "128"
   },
   {
     "name": "University of Sussex",
@@ -173,7 +183,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/e1c8a3b0-4f7d-4c9e-8a6b-3b2f1e0c5d7a/molecular-biology?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-sussex",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "128"
   },
   {
     "name": "University of Reading",
@@ -189,6 +200,7 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/f2d9b4c1-5a8e-4d0f-9b7c-4c3a2f1d6e8b/molecular-biology?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-reading",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "128"
   }
 ]

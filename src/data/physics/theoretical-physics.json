@@ -13,7 +13,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/a1f2e3d4-5b6c-7890-abcd-ef1234560201/theoretical-physics?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-oxford",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "160"
   },
   {
     "name": "University of Cambridge",
@@ -23,13 +24,14 @@
     "entryGrades": "A*A*A",
     "typicalOffer": "A*A*A",
     "gradProspects": "94%",
-    "notes": "Verified UCAS 2026 close title match; Natural Sciences (Physical) with theoretical stream; DAMTP — world-leading theoretical group; Part III Mathematical Tripos follows",
+    "notes": "Verified UCAS 2026 close title match; Natural Sciences (Physical) with theoretical stream; DAMTP \u2014 world-leading theoretical group; Part III Mathematical Tripos follows",
     "courseName": "Natural Sciences (Theoretical Physics stream)",
     "applicationCode": "BC01",
     "sourceUrl": "https://digital.ucas.com/explore/courses/b2a3f4e5-6c7d-8901-bcde-f01234560202/theoretical-physics?studyYear=2026",
     "matchType": "close",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-cambridge",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "160"
   },
   {
     "name": "Imperial College London",
@@ -45,7 +47,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/d4c5b6a7-8e9f-0123-def0-123456780203/theoretical-physics?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/imperial-college-london",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "152"
   },
   {
     "name": "Durham University",
@@ -61,7 +64,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/e5d6c7b8-9f0a-1234-ef01-234567890204/theoretical-physics?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/durham",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "152"
   },
   {
     "name": "University of Edinburgh",
@@ -71,13 +75,14 @@
     "entryGrades": "AAA",
     "typicalOffer": "AAA",
     "gradProspects": "87%",
-    "notes": "Verified UCAS 2026 exact title match; 4-year MPhys Theoretical Physics; Higgs Centre for Theoretical Physics — Peter Higgs was an Edinburgh professor; strong QFT research",
+    "notes": "Verified UCAS 2026 exact title match; 4-year MPhys Theoretical Physics; Higgs Centre for Theoretical Physics \u2014 Peter Higgs was an Edinburgh professor; strong QFT research",
     "courseName": "Theoretical Physics (MPhys)",
     "applicationCode": "F340",
     "sourceUrl": "https://digital.ucas.com/explore/courses/f6e7d8c9-0a1b-2345-f012-345678910205/theoretical-physics?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/edinburgh",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "144"
   },
   {
     "name": "University of Manchester",
@@ -93,7 +98,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/f2e3d4c5-6a7b-8901-5678-901234570206/theoretical-physics?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/manchester",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "144"
   },
   {
     "name": "University of Nottingham",
@@ -109,7 +115,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/b4a5f6e7-8c9d-0123-7890-123456790207/theoretical-physics?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/nottingham",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "136"
   },
   {
     "name": "University of Birmingham",
@@ -125,7 +132,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/d6c7b8a9-0e1f-2345-9012-345678910208/theoretical-physics?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/birmingham",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "136"
   },
   {
     "name": "University of Southampton",
@@ -141,7 +149,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/d0c1b2a3-4e5f-6789-3456-789012350209/theoretical-physics?studyYear=2026",
     "matchType": "close",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/southampton",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "144"
   },
   {
     "name": "University of York",
@@ -157,7 +166,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/a3f4e5d6-7b8c-9012-6789-012345680210/theoretical-physics?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/york",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "136"
   },
   {
     "name": "University of Sussex",
@@ -167,13 +177,14 @@
     "entryGrades": "ABB",
     "typicalOffer": "ABB",
     "gradProspects": "77%",
-    "notes": "Verified UCAS 2026 exact title match; 4-year MPhys Theoretical Physics; historically strong — Abdus Salam (Nobel 1979) worked here; Sussex Centre for Quantum Technologies",
+    "notes": "Verified UCAS 2026 exact title match; 4-year MPhys Theoretical Physics; historically strong \u2014 Abdus Salam (Nobel 1979) worked here; Sussex Centre for Quantum Technologies",
     "courseName": "Theoretical Physics (MPhys)",
     "applicationCode": "F340",
     "sourceUrl": "https://digital.ucas.com/explore/courses/a5f6e7d8-9b0c-1234-8901-234567800211/theoretical-physics?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/sussex",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "128"
   },
   {
     "name": "University of Liverpool",
@@ -189,6 +200,7 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/f4e5d6c7-8a9b-0123-7890-123456790212/theoretical-physics?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/liverpool",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "128"
   }
 ]

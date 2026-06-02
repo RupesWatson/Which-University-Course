@@ -13,7 +13,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/dbf00bd8-24d6-4522-a006-9b500feb8c09/finance-and-financial-technology?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-southampton",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "136"
   },
   {
     "name": "University of Sussex",
@@ -29,7 +30,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/a03e4f4d-b9e1-42a9-b059-987e518b866a/finance-and-technology-fintech?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-sussex",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "128"
   },
   {
     "name": "University of Reading",
@@ -45,7 +47,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/e39aa54c-a19b-4f92-aafe-f719bfb1e8b1/finance-fintech?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-reading",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "128"
   },
   {
     "name": "City St George's, University of London",
@@ -61,7 +64,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/c650927c-a8f5-4369-8b45-282eb777eefa/finance?studyYear=2026",
     "matchType": "close",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/city-st-george-s-university-of-london",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "128"
   },
   {
     "name": "University of Glasgow",
@@ -77,7 +81,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/df7581e1-3230-af35-0748-fc2c4cbe809e/finance-and-statistics?studyYear=2026",
     "matchType": "close",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-glasgow",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "136"
   },
   {
     "name": "University of Strathclyde",
@@ -93,6 +98,7 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/3079cd54-dba0-411b-b0c8-89e372e06bd0/finance?studyYear=2026",
     "matchType": "close",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-strathclyde",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "144"
   }
 ]

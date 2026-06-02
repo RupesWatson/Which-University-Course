@@ -169,5 +169,93 @@
       "Think twice if you don't enjoy advanced mathematics — electromagnetism and control theory are abstract and mathematically demanding.",
       "Think twice if you prefer macro-scale projects over detailed design — much electrical engineering involves careful circuit design and signal integrity."
     ]
+  },
+  "chemical": {
+    "id": "chemical",
+    "title": "Chemical Engineering",
+    "duration": "3 years (BEng) / 4 years (MEng integrated Masters)",
+    "overview": "Chemical engineering is the discipline that transforms raw materials into useful products at industrial scale — from oil refining and pharmaceutical manufacturing to food processing, water treatment and battery production. Chemical engineers design, optimise and scale up chemical processes, applying principles from chemistry, physics and mathematics. The UK chemical sector employs over 500,000 people and contributes more than £15 billion to GDP annually. Chemical engineers are among the highest-paid STEM graduates, with strong demand across pharmaceuticals, energy, food, consumer goods and emerging green industries.",
+    "yearByYear": [
+      { "year": 1, "focus": "Foundations of Chemical Engineering", "modules": ["Engineering Mathematics I & II", "Thermodynamics and Phase Equilibria", "Material and Energy Balances", "Fluid Mechanics and Heat Transfer", "Chemistry for Chemical Engineers (Organic, Inorganic, Physical)", "Laboratory Skills and Process Safety"] },
+      { "year": 2, "focus": "Core Process Engineering", "modules": ["Mass Transfer and Separation Processes", "Chemical Reaction Engineering", "Heat Exchanger Design", "Process Control and Instrumentation", "Transport Phenomena", "Chemical Engineering Design Project I", "HAZOP and Process Safety Management"] },
+      { "year": 3, "focus": "Specialisation and Design", "modules": ["Major Design Project (Plant Design)", "Biochemical Engineering and Bioprocessing", "Sustainable Process Engineering", "Advanced Thermodynamics", "Polymer Engineering or Electrochemical Engineering (options)", "Plant Economics and Costing", "Environmental Impact Assessment"] },
+      { "year": 4, "focus": "MEng Research and Advanced Topics", "modules": ["Extended Research Project", "Advanced Topics (e.g. Carbon Capture, Green Hydrogen, Pharmaceutical Manufacturing)", "Process Optimisation and Modelling", "Professional Engineering Practice", "Enterprise and Innovation"] }
+    ],
+    "skills": [
+      "Process simulation software (Aspen Plus, HYSYS, gPROMS)",
+      "Mass and energy balance calculations",
+      "Process control system design (PID, DCS)",
+      "HAZOP (Hazard and Operability) and risk assessment",
+      "Scale-up from laboratory to industrial processes",
+      "P&ID drawing interpretation and plant design",
+      "Sustainability and life-cycle assessment"
+    ],
+    "professionalBodies": [
+      { "name": "Institution of Chemical Engineers (IChemE)", "benefit": "Accredited MEng leads to Chartered Chemical Engineer (CEng) status. IChemE accreditation is the internationally recognised gold standard for chemical engineering degrees; held by all major UK departments." },
+      { "name": "Engineering Council (EC)", "benefit": "BEng from an IChemE-accredited programme contributes toward Incorporated Engineer (IEng) or, with further study, Chartered Engineer (CEng) status." }
+    ],
+    "careers": [
+      { "role": "Process Engineer (Oil, Gas & Chemicals)", "salary": "£32,000–£45,000 starting / £60,000–£100,000+ senior", "demand": "Very High" },
+      { "role": "Pharmaceutical Process Engineer", "salary": "£30,000–£42,000 starting / £55,000–£90,000 senior", "demand": "Very High" },
+      { "role": "Bioprocess / Biochemical Engineer", "salary": "£30,000–£42,000 starting / £55,000–£85,000 senior", "demand": "High" },
+      { "role": "Energy & Sustainability Engineer (Green Hydrogen, CCS)", "salary": "£32,000–£45,000 starting / £60,000–£95,000 senior", "demand": "Growing" },
+      { "role": "Food and Consumer Products Process Engineer", "salary": "£28,000–£38,000 starting / £50,000–£75,000 senior", "demand": "High" },
+      { "role": "Consulting Engineer (Arup, Wood, Worley)", "salary": "£35,000–£50,000 starting / £70,000–£120,000+ senior", "demand": "High" }
+    ],
+    "topEmployers": ["BP", "Shell", "ExxonMobil", "AstraZeneca", "GlaxoSmithKline", "Pfizer", "Unilever", "Procter & Gamble", "Rolls-Royce (nuclear)", "National Grid", "Wood Group", "Worley", "Ineos", "Siemens Energy"],
+    "employerPerspective": "Chemical engineering graduates are among the most sought-after in industry. The oil and gas sector pays the highest starting salaries; pharmaceutical manufacturers (AstraZeneca, GSK, Pfizer) run major graduate schemes specifically targeting chemical engineers for process development and manufacturing roles. The green transition — green hydrogen, carbon capture, battery manufacturing — is creating a new wave of demand for chemical engineers in the energy sector.",
+    "entryRequirements": "Typical offer: A*AA–AAB at A-level. Mathematics and Chemistry are both required at virtually all institutions. Physics is required or strongly recommended at most universities. GCSE Maths at grade 7/A or above is commonly required.",
+    "furtherStudy": "MEng Chemical Engineering, MSc Process Engineering, MSc Petroleum Engineering, MSc Biochemical Engineering, PhD Chemical Engineering, Chartered Chemical Engineer (CEng via IChemE).",
+    "isItForYou": [
+      "Study this if you enjoy chemistry and mathematics equally and want to apply them to large-scale industrial problems.",
+      "Study this if you want some of the highest graduate salaries in engineering — oil, gas and pharmaceutical chemical engineers are consistently among the top earners.",
+      "Study this if you are interested in the green transition — chemical engineers are essential to hydrogen production, carbon capture and battery manufacturing.",
+      "Think twice if you dislike open-ended design problems — chemical engineering requires iterative, multi-variable design rather than single correct answers.",
+      "Think twice if you are expecting a primarily lab-based degree — chemical engineering is predominantly design, calculation and simulation work, not bench chemistry."
+    ]
+  },
+  "aerospace": {
+    "id": "aerospace",
+    "title": "Aerospace Engineering",
+    "duration": "3 years (BEng) / 4 years (MEng integrated Masters)",
+    "overview": "Aerospace engineering is the design, development and testing of aircraft, spacecraft, satellites and the systems within them. It combines aerodynamics, propulsion, structural mechanics, avionics and materials science into one of the most technically demanding engineering disciplines. The UK has a world-leading aerospace industry — second only to the USA in terms of revenue — employing over 110,000 people and generating £36 billion annually. Airbus UK (Broughton and Filton), Rolls-Royce (Derby), BAE Systems and Leonardo are the sector's dominant employers.",
+    "yearByYear": [
+      { "year": 1, "focus": "Engineering and Aerospace Foundations", "modules": ["Engineering Mathematics I & II", "Introduction to Aerodynamics", "Materials for Aerospace", "Mechanics and Dynamics", "Thermodynamics and Propulsion Introduction", "CAD and Engineering Drawing", "Professional Practice"] },
+      { "year": 2, "focus": "Core Aerospace Engineering", "modules": ["Aerodynamics and Computational Fluid Dynamics", "Aerospace Structures and Stress Analysis", "Flight Mechanics and Control", "Aircraft Propulsion (Gas Turbines)", "Avionics and Instrumentation", "Design Project I", "Manufacturing and Materials for Aerospace"] },
+      { "year": 3, "focus": "Specialisation and Design", "modules": ["Major Aerospace Design Project", "Advanced Aerodynamics", "Composite Structures", "Spacecraft Engineering (optional)", "Aircraft Systems and Airworthiness", "Aircraft Noise and Emissions", "Engineering Management and Economics"] },
+      { "year": 4, "focus": "MEng Research", "modules": ["Extended Research or Industrial Project", "Advanced Topics (e.g. Hypersonics, UAV Systems, Electric Propulsion)", "Aerospace Systems Engineering", "Airworthiness Regulation (EASA/CAA)", "Professional Development"] }
+    ],
+    "skills": [
+      "CFD (Computational Fluid Dynamics) — ANSYS Fluent, OpenFOAM",
+      "FEA (Finite Element Analysis) — ABAQUS, NASTRAN",
+      "CAD software — CATIA, SolidWorks",
+      "Flight mechanics modelling and simulation (MATLAB/Simulink)",
+      "Composite materials design and manufacture",
+      "Gas turbine performance analysis",
+      "Airworthiness standards and certification processes (EASA Part-21)"
+    ],
+    "professionalBodies": [
+      { "name": "Royal Aeronautical Society (RAeS)", "benefit": "RAeS accreditation of MEng degrees supports the pathway to Chartered Engineer (CEng) status. Student and Graduate membership provides access to world-class aerospace journals, conferences and the RAeS global network." },
+      { "name": "Institution of Mechanical Engineers (IMechE)", "benefit": "IMechE accreditation (held by many aerospace programmes) also supports CEng registration for aerospace graduates." }
+    ],
+    "careers": [
+      { "role": "Aerodynamics Engineer (Aircraft / Motorsport)", "salary": "£30,000–£42,000 starting / £55,000–£90,000 senior", "demand": "High" },
+      { "role": "Structures and Stress Engineer", "salary": "£30,000–£42,000 starting / £55,000–£88,000 senior", "demand": "High" },
+      { "role": "Propulsion / Gas Turbine Engineer", "salary": "£32,000–£45,000 starting / £60,000–£95,000 senior", "demand": "Very High" },
+      { "role": "Systems Engineer (Avionics / Defence)", "salary": "£32,000–£48,000 starting / £60,000–£100,000 senior", "demand": "Very High" },
+      { "role": "Spacecraft / Satellite Engineer", "salary": "£32,000–£45,000 starting / £60,000–£100,000 senior", "demand": "Growing" },
+      { "role": "Flight Test Engineer", "salary": "£35,000–£50,000 starting / £65,000–£100,000 senior", "demand": "High" }
+    ],
+    "topEmployers": ["Rolls-Royce", "BAE Systems", "Airbus UK", "Leonardo (UK)", "MBDA", "QinetiQ", "GKN Aerospace", "Safran (UK)", "Boeing UK", "Babcock International", "Defence Science and Technology Laboratory (DSTL)", "Virgin Orbit / space sector start-ups"],
+    "employerPerspective": "Rolls-Royce runs one of the UK's most prestigious graduate schemes for aerospace engineers, recruiting heavily from Bristol, Bath, Loughborough, Sheffield and Imperial. BAE Systems and MBDA are major defence sector employers; both provide graduate schemes. Airbus UK at Filton (Bristol) recruits primarily from Bristol, Southampton and Bath. The growing commercial space sector (Surrey Satellite Technology, In-Space Missions, UK Space Agency) creates new demand for spacecraft engineering graduates.",
+    "entryRequirements": "Typical offer: A*AA–AAB at A-level. Mathematics and Physics are both required at virtually all institutions. Further Mathematics is advantageous, particularly at Cambridge, Imperial and Bristol. GCSE Maths at grade 7/A or above is required.",
+    "furtherStudy": "MEng Aerospace Engineering, MSc Astronautics and Space Engineering (Cranfield), MSc Aircraft Performance (Cranfield), PhD Aerospace Engineering, Chartered Engineer (CEng via RAeS or IMechE).",
+    "isItForYou": [
+      "Study this if aircraft, spacecraft and the physics of flight genuinely excite you — the discipline is highly specialised and works best if you are passionate about the field.",
+      "Study this if you want to work in one of the UK's most prestigious and well-paid engineering industries — the aerospace sector offers structured graduate schemes and strong long-term career progression.",
+      "Study this if you want to combine multiple engineering disciplines — aerodynamics, structures, materials and propulsion all feature in a single degree.",
+      "Think twice if you primarily want flexibility — aerospace graduates primarily work in aerospace and defence; career pivots are possible but less common than from Mechanical Engineering.",
+      "Think twice if you dislike rigorous maths — compressible flow, structural dynamics and control theory are all mathematically demanding subjects at the core of the degree."
+    ]
   }
 }

@@ -97,6 +97,16 @@ export default function StrandHome() {
             >
               IB
             </button>
+            <button
+              onClick={() => setGradeType('ucasPoints')}
+              className={`px-3 py-1 rounded text-xs font-medium transition-colors ${
+                gradeType === 'ucasPoints'
+                  ? 'bg-blue-600 text-white'
+                  : 'bg-slate-800 text-slate-400 hover:bg-slate-700'
+              }`}
+            >
+              UCAS Points
+            </button>
           </div>
         </div>
 

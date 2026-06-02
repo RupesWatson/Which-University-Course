@@ -13,7 +13,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/a1f2e3d4-5b6c-7890-abcd-ef1234560001/physics?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-oxford",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "160"
   },
   {
     "name": "University of Cambridge",
@@ -23,13 +24,14 @@
     "entryGrades": "A*A*A",
     "typicalOffer": "A*A*A",
     "gradProspects": "94%",
-    "notes": "Verified UCAS 2026 close title match; Natural Sciences (Physical) — students specialise in Physics from Year 2; NSAA test required; access to Cavendish Laboratory",
+    "notes": "Verified UCAS 2026 close title match; Natural Sciences (Physical) \u2014 students specialise in Physics from Year 2; NSAA test required; access to Cavendish Laboratory",
     "courseName": "Natural Sciences (Physical)",
     "applicationCode": "BC01",
     "sourceUrl": "https://digital.ucas.com/explore/courses/b2a3f4e5-6c7d-8901-bcde-f01234560002/physics?studyYear=2026",
     "matchType": "close",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-cambridge",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "160"
   },
   {
     "name": "University of St Andrews",
@@ -45,7 +47,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/c3b4a5f6-7d8e-9012-cdef-012345680003/physics?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-st-andrews",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "152"
   },
   {
     "name": "Imperial College London",
@@ -61,7 +64,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/d4c5b6a7-8e9f-0123-def0-123456780004/physics?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/imperial-college-london",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "152"
   },
   {
     "name": "Durham University",
@@ -77,7 +81,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/e5d6c7b8-9f0a-1234-ef01-234567890005/physics?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/durham",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "152"
   },
   {
     "name": "University of Edinburgh",
@@ -93,7 +98,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/f6e7d8c9-0a1b-2345-f012-345678910006/physics?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/edinburgh",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "144"
   },
   {
     "name": "University of Warwick",
@@ -109,7 +115,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/a7f8e9d0-1b2c-3456-0123-456789020007/physics?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/warwick",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "152"
   },
   {
     "name": "University of Bristol",
@@ -125,7 +132,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/b8a9f0e1-2c3d-4567-1234-567890130008/physics?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/bristol",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "144"
   },
   {
     "name": "University College London",
@@ -141,7 +149,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/c9b0a1f2-3d4e-5678-2345-678901240009/physics?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-college-london",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "152"
   },
   {
     "name": "University of Southampton",
@@ -157,7 +166,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/d0c1b2a3-4e5f-6789-3456-789012350010/physics?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/southampton",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "144"
   },
   {
     "name": "University of Bath",
@@ -173,7 +183,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/e1d2c3b4-5f6a-7890-4567-890123460011/physics?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/bath",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "136"
   },
   {
     "name": "University of Manchester",
@@ -189,7 +200,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/f2e3d4c5-6a7b-8901-5678-901234570012/physics?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/manchester",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "144"
   },
   {
     "name": "University of York",
@@ -205,7 +217,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/a3f4e5d6-7b8c-9012-6789-012345680013/physics?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/york",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "136"
   },
   {
     "name": "University of Nottingham",
@@ -221,7 +234,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/b4a5f6e7-8c9d-0123-7890-123456790014/physics?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/nottingham",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "136"
   },
   {
     "name": "University of Exeter",
@@ -237,7 +251,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/c5b6a7f8-9d0e-1234-8901-234567800015/physics?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/exeter",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "136"
   },
   {
     "name": "University of Birmingham",
@@ -253,7 +268,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/d6c7b8a9-0e1f-2345-9012-345678910016/physics?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/birmingham",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "136"
   },
   {
     "name": "University of Leeds",
@@ -269,7 +285,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/e7d8c9b0-1f2a-3456-0123-456789020017/physics?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/leeds",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "136"
   },
   {
     "name": "King's College London",
@@ -285,7 +302,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/f8e9d0c1-2a3b-4567-1234-567890130018/physics?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/king-s-college-london",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "136"
   },
   {
     "name": "Cardiff University",
@@ -301,7 +319,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/a9f0e1d2-3b4c-5678-2345-678901240019/physics?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/cardiff",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "128"
   },
   {
     "name": "University of Sheffield",
@@ -317,7 +336,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/b0a1f2e3-4c5d-6789-3456-789012350020/physics?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/sheffield",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "128"
   },
   {
     "name": "Newcastle University",
@@ -333,7 +353,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/c1b2a3f4-5d6e-7890-4567-890123460021/physics?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/newcastle",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "128"
   },
   {
     "name": "University of Glasgow",
@@ -349,7 +370,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/d2c3b4a5-6e7f-8901-5678-901234570022/physics?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/glasgow",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "136"
   },
   {
     "name": "University of Leicester",
@@ -359,13 +381,14 @@
     "entryGrades": "ABB",
     "typicalOffer": "ABB",
     "gradProspects": "78%",
-    "notes": "Verified UCAS 2026 exact title match; 4-year MPhys; Space Research Centre — birthplace of X-ray astronomy; strong planetary science and space instrumentation",
+    "notes": "Verified UCAS 2026 exact title match; 4-year MPhys; Space Research Centre \u2014 birthplace of X-ray astronomy; strong planetary science and space instrumentation",
     "courseName": "Physics (MPhys)",
     "applicationCode": "F303",
     "sourceUrl": "https://digital.ucas.com/explore/courses/e3d4c5b6-7f8a-9012-6789-012345680023/physics?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/leicester",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "128"
   },
   {
     "name": "University of Liverpool",
@@ -381,7 +404,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/f4e5d6c7-8a9b-0123-7890-123456790024/physics?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/liverpool",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "128"
   },
   {
     "name": "University of Sussex",
@@ -391,12 +415,13 @@
     "entryGrades": "ABB",
     "typicalOffer": "ABB",
     "gradProspects": "77%",
-    "notes": "Verified UCAS 2026 exact title match; 4-year MPhys; Sussex Centre for Quantum Technologies; historically strong theoretical physics — Abdus Salam (Nobel 1979) worked here",
+    "notes": "Verified UCAS 2026 exact title match; 4-year MPhys; Sussex Centre for Quantum Technologies; historically strong theoretical physics \u2014 Abdus Salam (Nobel 1979) worked here",
     "courseName": "Physics (MPhys)",
     "applicationCode": "F303",
     "sourceUrl": "https://digital.ucas.com/explore/courses/a5f6e7d8-9b0c-1234-8901-234567800025/physics?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/sussex",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "128"
   }
 ]

@@ -14,7 +14,9 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/4d33b75a-440e-4152-8ed3-0f4d93f1de11/accounting-and-finance?studyYear=2026",
     "matchType": "exact",
     "entryGrades": "AAA",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-manchester"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-manchester",
+    "ucasPoints": "144",
+    "ibGrades": "6-6-6 (18/21)"
   },
   {
     "name": "University of Birmingham",
@@ -31,7 +33,9 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/b3f75d9e-dcaf-8f5e-6555-6b6fe55878e3/accounting-and-finance?studyYear=2026",
     "matchType": "exact",
     "entryGrades": "AAA",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-birmingham"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-birmingham",
+    "ucasPoints": "144",
+    "ibGrades": "6-6-6 (18/21)"
   },
   {
     "name": "University of Leeds",
@@ -48,7 +52,9 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/1ffd209c-9599-0b3d-a928-19ddcc7699b9/accounting-and-finance?studyYear=2026",
     "matchType": "exact",
     "entryGrades": "AAA",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-leeds"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-leeds",
+    "ucasPoints": "144",
+    "ibGrades": "6-6-6 (18/21)"
   },
   {
     "name": "University of Liverpool",
@@ -65,7 +71,9 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/6c991b73-915e-19de-2cef-024ff394bef7/accounting-and-finance?studyYear=2026",
     "matchType": "exact",
     "entryGrades": "AAB",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-liverpool"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-liverpool",
+    "ucasPoints": "136",
+    "ibGrades": "6-6-5 (17/21)"
   },
   {
     "name": "University of Bristol",
@@ -82,7 +90,9 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/2b880f21-7e96-2189-52e1-362971ab549a/accounting-and-finance?studyYear=2026",
     "matchType": "exact",
     "entryGrades": "AAA",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-bristol"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-bristol",
+    "ucasPoints": "144",
+    "ibGrades": "6-6-6 (18/21)"
   },
   {
     "name": "University of Reading",
@@ -99,7 +109,9 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/716a8afa-5f37-fc6b-9c42-445d58c34ceb/accounting-and-finance?studyYear=2026",
     "matchType": "exact",
     "entryGrades": "ABB",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-reading"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-reading",
+    "ucasPoints": "128",
+    "ibGrades": "6-5-5 (16/21)"
   },
   {
     "name": "University of Nottingham",
@@ -116,7 +128,9 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/c7f3bf7e-0899-ef76-9831-8ae4c66fa3c2/finance-accounting-and-management?studyYear=2026",
     "matchType": "exact",
     "entryGrades": "AAA",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-nottingham"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-nottingham",
+    "ucasPoints": "144",
+    "ibGrades": "6-6-6 (18/21)"
   },
   {
     "name": "Newcastle University",
@@ -133,7 +147,9 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/105f88a8-bcdf-af31-8c3c-a001f6e4206e/accounting-and-finance?studyYear=2026",
     "matchType": "exact",
     "entryGrades": "AAB",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/newcastle-university"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/newcastle-university",
+    "ucasPoints": "136",
+    "ibGrades": "6-6-5 (17/21)"
   },
   {
     "name": "Cardiff University",
@@ -150,7 +166,9 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/6f355ca4-dd77-c538-32f9-9bce85d76155/accounting-and-finance?studyYear=2026",
     "matchType": "exact",
     "entryGrades": "AAB",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/cardiff-university"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/cardiff-university",
+    "ucasPoints": "136",
+    "ibGrades": "6-6-5 (17/21)"
   },
   {
     "name": "University of Leicester",
@@ -167,7 +185,9 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/edefb8ca-15c6-1fa2-2e82-48ac29beb868/accounting-and-finance?studyYear=2026",
     "matchType": "exact",
     "entryGrades": "ABB",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-leicester"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-leicester",
+    "ucasPoints": "128",
+    "ibGrades": "6-5-5 (16/21)"
   },
   {
     "name": "University of Warwick",
@@ -184,7 +204,9 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/08f75aa8-833c-914b-6ab5-326579a2e087/accounting-and-finance?studyYear=2026",
     "matchType": "exact",
     "entryGrades": "A*AA",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-warwick"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-warwick",
+    "ucasPoints": "152",
+    "ibGrades": "7-6-6 (19/21)"
   },
   {
     "name": "University of Bath",
@@ -201,7 +223,9 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/37794ef4-1236-4167-a2a3-ba99de29bc2a/accounting-and-finance?studyYear=2026",
     "matchType": "exact",
     "entryGrades": "A*AA",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-bath"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-bath",
+    "ucasPoints": "152",
+    "ibGrades": "7-6-6 (19/21)"
   },
   {
     "name": "University of Exeter",
@@ -218,7 +242,9 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/677966f0-1dbf-5080-6db5-8b80298ad211/accounting-and-finance?studyYear=2026",
     "matchType": "exact",
     "entryGrades": "AAB",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-exeter"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-exeter",
+    "ucasPoints": "136",
+    "ibGrades": "6-6-5 (17/21)"
   },
   {
     "name": "Lancaster University",
@@ -235,7 +261,9 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/767be70e-8d39-91d8-9969-b664a04d789a/accounting-and-finance?studyYear=2026",
     "matchType": "exact",
     "entryGrades": "AAB",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/lancaster-university"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/lancaster-university",
+    "ucasPoints": "136",
+    "ibGrades": "6-6-5 (17/21)"
   },
   {
     "name": "Loughborough University",
@@ -252,7 +280,9 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/e883df34-be15-4930-a715-6e619f050465/accounting-and-finance?studyYear=2026",
     "matchType": "exact",
     "entryGrades": "AAB",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/loughborough-university"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/loughborough-university",
+    "ucasPoints": "136",
+    "ibGrades": "6-6-5 (17/21)"
   },
   {
     "name": "University of Southampton",
@@ -269,7 +299,9 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/fa0cc659-721f-e971-6e6a-fd34533b5142/accounting-and-finance?studyYear=2026",
     "matchType": "exact",
     "entryGrades": "AAB",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-southampton"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-southampton",
+    "ucasPoints": "136",
+    "ibGrades": "6-6-5 (17/21)"
   },
   {
     "name": "University of York",
@@ -286,7 +318,9 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/d01eac67-31c3-485a-9505-f0a260cbae91/accounting-and-finance?studyYear=2026",
     "matchType": "exact",
     "entryGrades": "AAB",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-york"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-york",
+    "ucasPoints": "136",
+    "ibGrades": "6-6-5 (17/21)"
   },
   {
     "name": "University of Sussex",
@@ -303,7 +337,9 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/ff3a5efd-7bb0-5b33-8ac9-82d226059ae3/accounting-and-finance?studyYear=2026",
     "matchType": "exact",
     "entryGrades": "ABB",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-sussex"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-sussex",
+    "ucasPoints": "128",
+    "ibGrades": "6-5-5 (16/21)"
   },
   {
     "name": "University of Kent",
@@ -320,7 +356,9 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/bcacb627-318c-912a-e16c-aba88f35cac2/accounting-and-finance?studyYear=2026",
     "matchType": "exact",
     "entryGrades": "ABB",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-kent"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-kent",
+    "ucasPoints": "128",
+    "ibGrades": "6-5-5 (16/21)"
   },
   {
     "name": "London School of Economics and Political Science",
@@ -337,7 +375,9 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/ab69667b-ecf2-9dde-4e1a-910339a49528/accounting-and-finance?studyYear=2026",
     "matchType": "exact",
     "entryGrades": "A*AA",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/london-school-of-economics-and-political-science"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/london-school-of-economics-and-political-science",
+    "ucasPoints": "152",
+    "ibGrades": "7-6-6 (19/21)"
   },
   {
     "name": "Durham University",
@@ -354,7 +394,9 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/2dd498e6-7bf6-1fa7-44fb-732f2a4de108/accounting-and-finance?studyYear=2026",
     "matchType": "exact",
     "entryGrades": "AAB",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/durham-university"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/durham-university",
+    "ucasPoints": "136",
+    "ibGrades": "6-6-5 (17/21)"
   },
   {
     "name": "Queen's University Belfast",
@@ -371,7 +413,9 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/8263749b-1cf1-d8f8-40b2-65a934fb93d6/accounting-finance-and-analytics?studyYear=2026",
     "matchType": "close",
     "entryGrades": "ABB",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/queen-s-university-belfast"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/queen-s-university-belfast",
+    "ucasPoints": "128",
+    "ibGrades": "6-5-5 (16/21)"
   },
   {
     "name": "University of Glasgow",
@@ -388,7 +432,9 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/7e84ac92-2d52-bdbb-16a1-5965f8ab0665/accountancy-with-finance?studyYear=2026",
     "matchType": "exact",
     "entryGrades": "AAB",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-glasgow"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-glasgow",
+    "ucasPoints": "136",
+    "ibGrades": "6-6-5 (17/21)"
   },
   {
     "name": "City St George's, University of London",
@@ -405,7 +451,9 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/91735523-ae79-afbd-0781-6daf244b762e/accounting-and-finance?studyYear=2026",
     "matchType": "exact",
     "entryGrades": "AAB",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/city-st-george-s-university-of-london"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/city-st-george-s-university-of-london",
+    "ucasPoints": "136",
+    "ibGrades": "6-6-5 (17/21)"
   },
   {
     "name": "King's College London",
@@ -422,7 +470,9 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/16a4f4cd-c683-4053-80e7-23c229ecb3bf/accounting-and-finance?studyYear=2026",
     "matchType": "exact",
     "entryGrades": "A*AA",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/king-s-college-london"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/king-s-college-london",
+    "ucasPoints": "152",
+    "ibGrades": "7-6-6 (19/21)"
   },
   {
     "name": "University of Strathclyde",
@@ -439,7 +489,9 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/0097e3c0-c1a4-4b71-a460-38d7fbaf876b/accounting-and-finance?studyYear=2026",
     "matchType": "exact",
     "entryGrades": "AAA",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-strathclyde"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-strathclyde",
+    "ucasPoints": "144",
+    "ibGrades": "6-6-6 (18/21)"
   },
   {
     "name": "University of Sheffield",
@@ -456,7 +508,9 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/8bed5622-ee02-86db-dc1d-1e018bf46e4e/accounting-and-financial-management?studyYear=2026",
     "matchType": "close",
     "entryGrades": "AAB",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-sheffield"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-sheffield",
+    "ucasPoints": "136",
+    "ibGrades": "6-6-5 (17/21)"
   },
   {
     "name": "University of Edinburgh",
@@ -473,7 +527,9 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/4b9594e0-7c04-a5cd-c627-9a6d2b960ec7/accounting-and-finance?studyYear=2026",
     "matchType": "exact",
     "entryGrades": "AAA",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/the-university-of-edinburgh"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/the-university-of-edinburgh",
+    "ucasPoints": "144",
+    "ibGrades": "6-6-6 (18/21)"
   },
   {
     "name": "University of Aberdeen",
@@ -490,7 +546,9 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/515c07c1-03e8-a572-a2b4-4b9a86103920/accountancy-and-finance?studyYear=2026",
     "matchType": "close",
     "entryGrades": "BBC",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-aberdeen"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-aberdeen",
+    "ucasPoints": "112",
+    "ibGrades": "5-5-4 (14/21)"
   },
   {
     "name": "University of Dundee",
@@ -507,6 +565,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/ff2acf8e-b7b5-4f89-af51-52412d2e481a/accounting-and-finance?studyYear=2026",
     "matchType": "exact",
     "entryGrades": "BBB",
-    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-dundee"
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-dundee",
+    "ucasPoints": "120",
+    "ibGrades": "5-5-5 (15/21)"
   }
 ]

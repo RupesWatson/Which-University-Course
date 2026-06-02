@@ -132,7 +132,9 @@ export const STRANDS = {
       'Exact course titles and availability verified against UCAS 2026. All course tables show table position within the verified comparison set. ' +
       'A-level and IB equivalents are provided; always confirm exact entry requirements on the university website.',
     courseGroups: [
-      { label: 'Core Engineering', ids: ['engineering', 'mechanical', 'civil', 'electrical'] },
+      { label: 'Broad & Civil', ids: ['engineering', 'civil'] },
+      { label: 'Mechanical & Aerospace', ids: ['mechanical', 'aerospace'] },
+      { label: 'Electrical & Chemical', ids: ['electrical', 'chemical'] },
     ],
     courses: engineeringCourses,
     courseDetails: engineeringCourseDetails,

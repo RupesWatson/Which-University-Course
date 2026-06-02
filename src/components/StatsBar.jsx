@@ -1,7 +1,30 @@
 function avgGrade(universities, gradeType = 'aLevel') {
   if (!universities.length) return '-';
 
-  const gradeKey = gradeType === 'ib' ? 'ibGrades' : 'entryGrades';
+  const gradeKey = gradeType === 'ib' ? 'ibGrades' : gradeType === 'ucasPoints' ? 'ucasPoints' : 'entryGrades';
+
+  if (gradeType === 'ucasPoints') {
+    // For UCAS points, calculate the most common points value
+    const counts = {};
+    universities.forEach(university => {
+      const points = (university[gradeKey] || '').trim();
+      if (points) counts[points] = (counts[points] || 0) + 1;
+    });
+
+    let best = null;
+    let bestCount = 0;
+
+    for (const [points, count] of Object.entries(counts)) {
+      if (count > bestCount) {
+        best = points;
+        bestCount = count;
+      }
+    }
+
+    return best || '-';
+  }
+
+  // For A-Level and IB, extract and count the first token
   const counts = {};
   universities.forEach(university => {
     const grade = (university[gradeKey] || '').replace(/[*]/g, '').split(' ')[0].trim();

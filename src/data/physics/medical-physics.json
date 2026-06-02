@@ -13,7 +13,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/c1b2a3f4-5d6e-7890-4567-890123460701/medical-physics?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/surrey",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "136"
   },
   {
     "name": "University of Nottingham",
@@ -23,13 +24,14 @@
     "entryGrades": "AAB",
     "typicalOffer": "AAB",
     "gradProspects": "83%",
-    "notes": "Verified UCAS 2026 exact title match; 4-year MPhys Medical Physics; Sir Peter Mansfield Imaging Centre — MRI inventor; unrivalled academic heritage in medical imaging; strong NHS links",
+    "notes": "Verified UCAS 2026 exact title match; 4-year MPhys Medical Physics; Sir Peter Mansfield Imaging Centre \u2014 MRI inventor; unrivalled academic heritage in medical imaging; strong NHS links",
     "courseName": "Medical Physics (MPhys)",
     "applicationCode": "B611",
     "sourceUrl": "https://digital.ucas.com/explore/courses/b4a5f6e7-8c9d-0123-7890-123456790704/medical-physics?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/nottingham",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "136"
   },
   {
     "name": "King's College London",
@@ -45,7 +47,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/f8e9d0c1-2a3b-4567-1234-567890130705/medical-physics?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/king-s-college-london",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "136"
   },
   {
     "name": "University of Birmingham",
@@ -61,7 +64,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/d6c7b8a9-0e1f-2345-9012-345678910707/medical-physics?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/birmingham",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "136"
   },
   {
     "name": "University of Leeds",
@@ -77,7 +81,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/e7d8c9b0-1f2a-3456-0123-456789020708/medical-physics?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/leeds",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "136"
   },
   {
     "name": "University of Liverpool",
@@ -93,7 +98,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/f4e5d6c7-8a9b-0123-7890-123456790702/medical-physics?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/liverpool",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "128"
   },
   {
     "name": "University College London",
@@ -109,7 +115,8 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/c9b0a1f2-3d4e-5678-2345-678901240706/medical-physics?studyYear=2026",
     "matchType": "close",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-college-london",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "152"
   },
   {
     "name": "University of Exeter",
@@ -125,6 +132,7 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/c5b6a7f8-9d0e-1234-8901-234567800703/medical-physics?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/exeter",
-    "ibGrades": "6"
+    "ibGrades": "6",
+    "ucasPoints": "136"
   }
 ]

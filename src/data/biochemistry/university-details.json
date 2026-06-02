@@ -77,7 +77,133 @@
       "Largest biochemistry department in the UK by research output",
       "Over 70 Nobel Prize-winning alumni and staff",
       "4-year MBiochem provides integrated Masters-level qualification"
-    ]
+    ],
+    "website": "https://www.ox.ac.uk",
+    "prospectus": "https://www.ox.ac.uk/digital-prospectus",
+    "socials": {
+      "instagram": "https://www.instagram.com/oxford_uni/",
+      "twitter": "https://twitter.com/UniofOxford",
+      "youtube": "https://www.youtube.com/oxford",
+      "tiktok": "https://www.tiktok.com/@uni.of.oxford",
+      "linkedin": "https://www.linkedin.com/school/oxforduni/"
+    },
+    "rankings": {
+      "complete": 1,
+      "guardian": 1,
+      "times": 1,
+      "qsWorld": 3,
+      "theWorld": 1,
+      "russellGroup": true,
+      "year": "2025"
+    },
+    "reputation": "Oxford is consistently ranked among the top 3 universities globally. Its Biochemistry department is the largest in Europe by research output and has produced multiple Nobel laureates. The university's tutorial system — small-group teaching with leading academics — is unique and intensely demanding.",
+    "fees": {
+      "homeUndergrad": "£9,535/year",
+      "internationalUndergrad": "£35,080–£48,620/year",
+      "livingCostEstimate": "£15,140–£21,950/year (Oxford guidance)"
+    },
+    "funding": {
+      "scholarships": [
+        "Reach Oxford Scholarship (full-cost for low-income international students)",
+        "Crankstart Scholarship (UK students from low-income households)",
+        "Oxford Bursary (up to £6,000/year, means-tested)",
+        "Moritz-Heyman Scholarship (household income under £27,500)"
+      ],
+      "bursaries": "Oxford Bursary is automatically assessed via UCAS — covers up to £6,000/year for UK students from households earning under £42,875.",
+      "paymentPlan": "Tuition fees can be paid in three instalments via the university's online portal."
+    },
+    "employability": {
+      "graduateEmploymentRate": "94%",
+      "medianSalary": "£38,500 (15 months after graduation, biochemistry graduates)",
+      "topEmployers": [
+        "GlaxoSmithKline",
+        "AstraZeneca",
+        "Oxford Nanopore Technologies",
+        "McKinsey & Company",
+        "Goldman Sachs",
+        "NHS",
+        "University research roughly 35% continue to PhD"
+      ],
+      "careersService": "The Oxford Careers Service offers 1:1 advice, employer events with major recruiters, internship boards, and the Oxford Strategy Challenge for consulting careers.",
+      "placementYearAvailable": false
+    },
+    "research": {
+      "refRating": "GPA 3.51/4.0 — top 3 in UK for Biological Sciences (REF 2021)",
+      "strengthAreas": [
+        "Structural biology and X-ray crystallography",
+        "Enzyme mechanism and catalysis",
+        "Cancer cell biology",
+        "Infectious disease and vaccine development",
+        "Synthetic biology"
+      ],
+      "notableFacilities": [
+        "Department of Biochemistry building (one of Europe's largest)",
+        "Wellcome Centre for Human Genetics",
+        "Diamond Light Source synchrotron (Harwell, 20 min away)",
+        "Sir William Dunn School of Pathology"
+      ],
+      "industryPartners": [
+        "AstraZeneca (long-standing collaboration)",
+        "GSK",
+        "Oxford Nanopore (university spinout)",
+        "Vaccitech (Oxford-AstraZeneca COVID vaccine spinout)",
+        "Exscientia (AI drug discovery)"
+      ]
+    },
+    "facilities": {
+      "libraries": [
+        "Bodleian Library — one of the oldest in Europe, legal deposit library (13M+ items)",
+        "Radcliffe Science Library — primary science library, open 7 days a week",
+        "Each college also has its own library, many open 24/7"
+      ],
+      "sportsFacilities": "Iffley Road Sports Complex (track, pool, gym, climbing wall), University Parks for cricket/rugby, college rowing on the Isis, and 80+ university sports clubs.",
+      "studySpaces": "24/7 study spaces in most colleges; departmental libraries open until 10pm; bookable group study rooms across the Bodleian system.",
+      "labs": "Department of Biochemistry teaching labs are among the best-equipped in the UK — students from year 2 onward have access to research-grade equipment for their projects.",
+      "wellbeing": "Each college has a dedicated welfare team (junior dean, college nurse, peer supporters). University Counselling Service offers free confidential support, and Togetherall provides 24/7 online mental health support."
+    },
+    "satisfaction": {
+      "nssOverall": 82,
+      "teachingQuality": 88,
+      "academicSupport": 85,
+      "learningResources": 91
+    },
+    "travelFromLondon": {
+      "trainTime": "55 minutes (fastest)",
+      "trainFromStation": "London Paddington / London Marylebone",
+      "trainToStation": "Oxford",
+      "coachTime": "1h 40m (Oxford Tube — runs 24 hours)",
+      "drivingTime": "1h 30m (M40, off-peak)",
+      "distanceMiles": "57 miles north-west of London",
+      "nearestAirport": "London Heathrow (45 min by direct coach via The Airline)"
+    },
+    "accessibility": {
+      "disabilityService": "Oxford's Disability Advisory Service provides 1:1 advice, support plans, and arranges reasonable adjustments. Each college also has a dedicated disability lead.",
+      "accessibleAccommodation": "All 39 colleges have some accessible rooms; specific buildings such as Castle Mill (graduates) and newer college blocks are fully accessible. Adjustments can be arranged on request.",
+      "mentalHealthSupport": "University Counselling Service (free, confidential), college welfare teams, Togetherall (24/7), and specialist NHS pathway via Oxford University Health Centre.",
+      "dyslexiaSupport": "Specialist study skills tuition, exam adjustments (extra time, alternative formats), assistive technology and screening assessments via the Disability Advisory Service.",
+      "campusAccessibility": "Oxford's historic buildings present some accessibility challenges — but the modern science area, including the Biochemistry Department, is fully step-free with lifts and accessible toilets."
+    },
+    "international": {
+      "visaSupport": "Student Visa Immigration Service provides free advice on Student visas, post-study Graduate Route visas, and dependents. Pre-arrival webinars and CAS issuance via the application portal.",
+      "englishRequirements": "IELTS 7.5 overall (7.0 in each component) for higher-level courses including Biochemistry; equivalent TOEFL/Cambridge Advanced accepted.",
+      "orientationProgramme": "International Student Welcome (one week before term) covering UK banking, NHS registration, GP signup, college life, and academic culture.",
+      "internationalSocietiesCount": "60+ international and cultural societies",
+      "popularCountries": [
+        "United States",
+        "China",
+        "India",
+        "Singapore",
+        "Germany",
+        "Canada",
+        "Hong Kong"
+      ]
+    },
+    "contact": {
+      "admissionsEmail": "undergraduate.admissions@admin.ox.ac.uk",
+      "admissionsPhone": "+44 (0)1865 288000",
+      "address": "University Offices, Wellington Square, Oxford OX1 2JD",
+      "openDayContact": "study@ox.ac.uk"
+    }
   },
   "cambridge": {
     "slug": "cambridge",
@@ -158,7 +284,134 @@
       "More Nobel Prize-winning scientists than any other institution outside the USA",
       "The MRC Laboratory of Molecular Biology is attached to the university",
       "AstraZeneca global HQ is based at the Cambridge Biomedical Campus"
-    ]
+    ],
+    "website": "https://www.cam.ac.uk",
+    "prospectus": "https://www.undergraduate.study.cam.ac.uk/apply/prospectus",
+    "socials": {
+      "instagram": "https://www.instagram.com/cambridgeuniversity/",
+      "twitter": "https://twitter.com/Cambridge_Uni",
+      "youtube": "https://www.youtube.com/cambridgeuniversity",
+      "tiktok": "https://www.tiktok.com/@cambridgeuniversity",
+      "linkedin": "https://www.linkedin.com/school/university-of-cambridge/"
+    },
+    "rankings": {
+      "complete": 1,
+      "guardian": 1,
+      "times": 1,
+      "qsWorld": 2,
+      "theWorld": 2,
+      "russellGroup": true,
+      "year": "2025"
+    },
+    "reputation": "Cambridge is the world's second-ranked university and the UK's top-ranked institution in multiple global league tables. Its Natural Sciences Tripos is the gold-standard route into biochemistry — students study broadly across biological and physical sciences before specialising. The MRC Laboratory of Molecular Biology, which has generated more Nobel Prizes in biochemistry than any other institution in the world, sits adjacent to the campus. Cambridge biochemistry graduates are among the most sought-after in the global pharmaceutical and biotech industries.",
+    "fees": {
+      "homeUndergrad": "£9,535/year",
+      "internationalUndergrad": "£37,760–£58,038/year",
+      "livingCostEstimate": "£15,140–£22,140/year (Cambridge guidance — higher than most UK cities)"
+    },
+    "funding": {
+      "scholarships": [
+        "Cambridge Bursary Scheme (up to £3,500/year for UK students from low-income households)",
+        "Prince Philip Scholarship (for students from Malaysia)",
+        "Gates Cambridge Scholarship (postgraduate; highly prestigious)",
+        "Cambridge Trust scholarships for international undergraduates"
+      ],
+      "bursaries": "Cambridge Bursary is automatically assessed — students from households with income under £42,620 receive support on a sliding scale. Colleges also provide supplementary bursaries independently.",
+      "paymentPlan": "Fees paid termly (three instalments). Colleges often bill separately for accommodation and meals."
+    },
+    "employability": {
+      "graduateEmploymentRate": "95%",
+      "medianSalary": "£40,000 (15 months after graduation — among the highest for UK biochemistry graduates)",
+      "topEmployers": [
+        "AstraZeneca",
+        "GSK",
+        "MRC Laboratory of Molecular Biology",
+        "McKinsey & Company",
+        "Goldman Sachs",
+        "Wellcome Sanger Institute",
+        "Oxford Nanopore Technologies"
+      ],
+      "careersService": "Cambridge Careers Service offers 1:1 advice, employer fairs, and the Careers Fair (one of the UK's largest). The collegiate system provides additional networking through alumni mentors. Roughly 40% of Cambridge biochemistry graduates continue to PhD programmes.",
+      "placementYearAvailable": false
+    },
+    "research": {
+      "refRating": "GPA 3.62/4.0 — Biological Sciences, #1 in UK (REF 2021)",
+      "strengthAreas": [
+        "Structural biology and cryo-electron microscopy",
+        "DNA replication and repair",
+        "Cell division and signalling",
+        "Metabolic biochemistry and enzyme mechanisms",
+        "Neuroscience and protein misfolding diseases"
+      ],
+      "notableFacilities": [
+        "MRC Laboratory of Molecular Biology — world-leading structural and cell biology (Nobel Prize factory)",
+        "Wellcome Sanger Institute (Hinxton, 12 miles away) — human genome research",
+        "Cambridge Biomedical Campus — one of Europe's largest biomedical clusters",
+        "Cryo-EM facility in the Department of Biochemistry",
+        "Cambridge Stem Cell Institute"
+      ],
+      "industryPartners": [
+        "AstraZeneca (global HQ at Cambridge Biomedical Campus)",
+        "GSK",
+        "Pfizer",
+        "Agilent Technologies",
+        "Illumina"
+      ]
+    },
+    "facilities": {
+      "libraries": [
+        "University Library — legal deposit library with 8M+ items, open to all students",
+        "Each college has its own library, many open 24/7",
+        "Biochemistry Department Library — specialist science collections"
+      ],
+      "sportsFacilities": "University Centre, college boat clubs on the Cam, 100+ sports clubs including the famous Cambridge University Athletic Club. Fenner's cricket ground and a wide range of college-specific facilities.",
+      "studySpaces": "24/7 study access in most college libraries; University Library open until midnight; bookable study rooms across the collegiate system.",
+      "labs": "Department of Biochemistry is one of the best-equipped teaching and research laboratories in the world. Second-year students begin independent practical projects in research-grade labs.",
+      "wellbeing": "Each college has a dedicated welfare team (junior dean, nurse, counsellor). University Counselling Service provides free confidential sessions. Togetherall (24/7 online). Cambridge Mind runs mental health drop-ins."
+    },
+    "satisfaction": {
+      "nssOverall": 85,
+      "teachingQuality": 91,
+      "academicSupport": 88,
+      "learningResources": 90
+    },
+    "travelFromLondon": {
+      "trainTime": "50 minutes (fastest)",
+      "trainFromStation": "London King's Cross",
+      "trainToStation": "Cambridge",
+      "coachTime": "2h 00m (National Express from Victoria)",
+      "drivingTime": "1h 20m (A14/M11, off-peak)",
+      "distanceMiles": "60 miles north of London",
+      "nearestAirport": "London Stansted Airport (30 min by train — direct service)"
+    },
+    "accessibility": {
+      "disabilityService": "Disability Resource Centre (DRC) provides support plans, exam adjustments, assistive technology and disability-related funding advice. Each college also has a disability liaison officer.",
+      "accessibleAccommodation": "Colleges vary — most have some accessible rooms and lift access. Accessibility requirements must be declared on the UCAS application to allow colleges to allocate appropriate accommodation. New purpose-built accommodation is fully accessible.",
+      "mentalHealthSupport": "University Counselling Service (free, up to 8 sessions), college nurse and welfare dean, Togetherall (24/7), and Samaritans partnership. Cambridge has invested heavily in mental health provision in recent years.",
+      "dyslexiaSupport": "DRC provides SpLD assessment, specialist study skills tuition, assistive technology (Dragon, Read&Write), and automatic exam adjustments once a support plan is in place.",
+      "campusAccessibility": "Cambridge's historic buildings vary considerably in accessibility. The Department of Biochemistry (Tennis Court Road) is step-free. The university publishes an AccessAble guide for each building."
+    },
+    "international": {
+      "visaSupport": "International Student Team handles CAS issuance, visa guidance, and pre-arrival webinars. Dedicated graduate immigration adviser for post-study Graduate Route and sponsorship queries.",
+      "englishRequirements": "IELTS 7.5 overall (7.0 in each component) for Natural Sciences (Biochemistry pathway).",
+      "orientationProgramme": "International Welcome Week before Michaelmas term: UK banking, NHS registration, cycling safety, cultural orientation, and college-specific events. Buddy scheme via Cambridge SU.",
+      "internationalSocietiesCount": "80+ international and cultural societies",
+      "popularCountries": [
+        "United States",
+        "China",
+        "India",
+        "Singapore",
+        "Germany",
+        "Canada",
+        "Hong Kong"
+      ]
+    },
+    "contact": {
+      "admissionsEmail": "admissions@cam.ac.uk",
+      "admissionsPhone": "+44 (0)1223 333308",
+      "address": "University of Cambridge, The Old Schools, Trinity Lane, Cambridge CB2 1TN",
+      "openDayContact": "admissions@cam.ac.uk"
+    }
   },
   "imperial-college-london": {
     "slug": "imperial-college-london",
@@ -240,7 +493,134 @@
       "100% research rated 'internationally excellent or world-leading' in REF 2021",
       "Located next to the Francis Crick Institute and the Hammersmith Hospital research campus",
       "Strong A*AA entry requirement reflects its position as one of the most selective science universities in the UK"
-    ]
+    ],
+    "website": "https://www.imperial.ac.uk",
+    "prospectus": "https://www.imperial.ac.uk/study/apply/undergraduate/",
+    "socials": {
+      "instagram": "https://www.instagram.com/imperialcollege/",
+      "twitter": "https://twitter.com/imperialcollege",
+      "youtube": "https://www.youtube.com/channel/UCcRV5FPxxWFdS4Fjnk9FQvA",
+      "tiktok": "https://www.tiktok.com/@imperialcollege",
+      "linkedin": "https://www.linkedin.com/school/imperial-college-london/"
+    },
+    "rankings": {
+      "complete": 5,
+      "guardian": 5,
+      "times": 5,
+      "qsWorld": 8,
+      "theWorld": 11,
+      "russellGroup": true,
+      "year": "2025"
+    },
+    "reputation": "Imperial is the UK's only university dedicated entirely to science, engineering, medicine and business, and is consistently ranked in the global top 10. Its Department of Life Sciences is internationally renowned and its biochemistry graduates are among the most employable in the world. Imperial is uniquely placed in the heart of London's knowledge economy — the South Kensington campus sits alongside the Natural History Museum, Science Museum and the V&A, and the Hammersmith campus is next to a major NHS teaching hospital.",
+    "fees": {
+      "homeUndergrad": "£9,535/year",
+      "internationalUndergrad": "£38,750–£42,550/year",
+      "livingCostEstimate": "£17,000–£25,000/year (London costs are the highest in the UK)"
+    },
+    "funding": {
+      "scholarships": [
+        "Imperial Scholarship (full tuition fee waiver for exceptional international students)",
+        "President's Undergraduate Scholarship (awarded to highest-performing UK first-years)",
+        "Imperial Bursary (up to £5,000/year for UK students from low-income households)",
+        "Chevening and Commonwealth scholarships accepted"
+      ],
+      "bursaries": "Imperial Bursary automatically assessed from UCAS — UK students from households earning under £45,000 receive up to £5,000/year on a sliding scale.",
+      "paymentPlan": "Fees paid in three instalments per year via the student portal. Instalment plan available for international students."
+    },
+    "employability": {
+      "graduateEmploymentRate": "96%",
+      "medianSalary": "£37,000 (15 months after graduation — one of the highest in UK for life sciences)",
+      "topEmployers": [
+        "GlaxoSmithKline",
+        "AstraZeneca",
+        "Johnson & Johnson",
+        "McKinsey & Company",
+        "Goldman Sachs",
+        "NHS",
+        "Wellcome Trust"
+      ],
+      "careersService": "Imperial Careers provides 1:1 advisory sessions, employer presentations, the Imperial Plus Award, and sector-specific programmes including a dedicated life sciences careers stream. Employer access via London's financial and biotech networks is unmatched.",
+      "placementYearAvailable": true
+    },
+    "research": {
+      "refRating": "100% of research rated 'internationally excellent or world-leading' — Biological Sciences (REF 2021)",
+      "strengthAreas": [
+        "Structural and molecular biology",
+        "Cellular and molecular immunology",
+        "Infection biology and global health",
+        "Cancer biology and drug target discovery",
+        "Synthetic biology and metabolic engineering"
+      ],
+      "notableFacilities": [
+        "Sir Alexander Fleming Building — flagship life sciences research building",
+        "Francis Crick Institute (partner institution — walking distance)",
+        "Hammersmith Hospital Campus — clinical research and imaging",
+        "London Bioscience Innovation Centre",
+        "MRC Centre for Molecular Bacteriology and Infection"
+      ],
+      "industryPartners": [
+        "GlaxoSmithKline",
+        "AstraZeneca",
+        "Pfizer",
+        "Johnson & Johnson",
+        "Sanofi"
+      ]
+    },
+    "facilities": {
+      "libraries": [
+        "Central Library — open 24/7 during term time, 400,000+ items",
+        "Hammersmith Campus Library — medical and life sciences specialist collections",
+        "Digital access to 400,000+ e-books and 50,000+ e-journals"
+      ],
+      "sportsFacilities": "Ethos Sports Centre — gym, 25m pool, squash courts, climbing wall, sports hall. Harlington Sports Ground (off-campus) provides outdoor pitches. 60+ sports clubs.",
+      "studySpaces": "Central Library open 24/7; 1,200+ study spaces; silent and collaborative study zones; bookable group rooms.",
+      "labs": "Best-in-class research-grade teaching labs; from Year 2 students work in the same labs as PhD and postdoc researchers. Dedicated safety training programme in Year 1.",
+      "wellbeing": "Student Support Zone provides counselling, mental health, and wellbeing services. College Health Centre on campus. Togetherall (24/7). Imperial College Union peer support network."
+    },
+    "satisfaction": {
+      "nssOverall": 77,
+      "teachingQuality": 82,
+      "academicSupport": 79,
+      "learningResources": 88
+    },
+    "travelFromLondon": {
+      "trainTime": "On campus — South Kensington is in central London",
+      "trainFromStation": "South Kensington (District/Circle/Piccadilly lines — direct from all London termini)",
+      "trainToStation": "South Kensington Underground",
+      "coachTime": "N/A — located in central London",
+      "drivingTime": "N/A — central London; parking very limited",
+      "distanceMiles": "Located in London SW7",
+      "nearestAirport": "Heathrow Airport (30 min via Piccadilly line direct)"
+    },
+    "accessibility": {
+      "disabilityService": "Disability Advisory Service provides support plans, exam adjustments, and assistive technology. Self-referral online. Dedicated disability coordinators in each department.",
+      "accessibleAccommodation": "Beit Hall and Graduate Centre have accessible rooms. Accessibility requirements should be noted on the accommodation application form. Most modern residences are step-free.",
+      "mentalHealthSupport": "Student Counselling Service (free, up to 8 sessions), mental health advisers, Togetherall (24/7), and a Student Minds chapter on campus. Imperial has expanded provision significantly in recent years.",
+      "dyslexiaSupport": "Specialist study skills support, assistive technology, and exam adjustments via the Disability Advisory Service. Self-refer through the student hub.",
+      "campusAccessibility": "South Kensington campus is largely accessible — the main quad and most buildings are step-free. Lifts installed in most older buildings. Campus accessibility guide available via estates."
+    },
+    "international": {
+      "visaSupport": "International Student Support Office provides Student Visa guidance, CAS letters, and Graduate Route advice. Pre-arrival webinar series and dedicated immigration advisers.",
+      "englishRequirements": "IELTS 6.5 overall (6.0 in each component) for most life sciences programmes; check individual course requirements.",
+      "orientationProgramme": "International Welcome Programme before term: UK banking, Oyster card setup, NHS registration, campus tour, and cultural orientation. Imperial College Union runs a Buddy Scheme.",
+      "internationalSocietiesCount": "70+ international and cultural societies",
+      "popularCountries": [
+        "China",
+        "India",
+        "United States",
+        "Singapore",
+        "Malaysia",
+        "Germany",
+        "Hong Kong"
+      ]
+    },
+    "contact": {
+      "admissionsEmail": "admissions@imperial.ac.uk",
+      "admissionsPhone": "+44 (0)20 7589 5111",
+      "address": "Imperial College London, South Kensington Campus, London SW7 2AZ",
+      "openDayContact": "admissions@imperial.ac.uk"
+    }
   },
   "university-college-london": {
     "slug": "university-college-london",
@@ -318,7 +698,134 @@
       "The Francis Crick Institute, one of Europe's largest biomedical research centres, is a UCL partner institution",
       "Strong structural biology group led by leading cryo-EM researchers",
       "Contextual offer scheme lowers entry requirements for eligible applicants"
-    ]
+    ],
+    "website": "https://www.ucl.ac.uk",
+    "prospectus": "https://www.ucl.ac.uk/prospective-students/undergraduate/",
+    "socials": {
+      "instagram": "https://www.instagram.com/ucl/",
+      "twitter": "https://twitter.com/ucl",
+      "youtube": "https://www.youtube.com/universitycollegelondon",
+      "tiktok": "https://www.tiktok.com/@uclofficial",
+      "linkedin": "https://www.linkedin.com/school/university-college-london/"
+    },
+    "rankings": {
+      "complete": 8,
+      "guardian": 8,
+      "times": 9,
+      "qsWorld": 9,
+      "theWorld": 22,
+      "russellGroup": true,
+      "year": "2025"
+    },
+    "reputation": "UCL is London's leading multidisciplinary university, ranked in the global top 10 and renowned for its tradition of openness, diversity, and radical thinking. The Department of Structural and Molecular Biology is one of the best in Europe, and UCL's partnership with the Francis Crick Institute — one of the world's largest biomedical research centres — means undergraduates gain exposure to world-class research from day one. UCL is the first university in England to admit students regardless of gender or religion.",
+    "fees": {
+      "homeUndergrad": "£9,535/year",
+      "internationalUndergrad": "£31,500–£38,000/year",
+      "livingCostEstimate": "£16,000–£23,000/year (London costs — Bloomsbury is central but transport links reduce the need to live close)"
+    },
+    "funding": {
+      "scholarships": [
+        "Provost's Scholarship (£5,000/year for high-achieving home students)",
+        "UCL Undergraduate Bursary (up to £2,550/year, means-tested)",
+        "Denys Holland Scholarship (covers fees and maintenance for exceptional students)",
+        "Bloomberg UCL Scholarship (for students from under-represented backgrounds)"
+      ],
+      "bursaries": "UCL Undergraduate Bursary is automatically assessed — available to UK students from households with income under £42,620. Amount depends on household income.",
+      "paymentPlan": "Tuition fees paid in three termly instalments. Interest-free instalment plan for home students via the student portal."
+    },
+    "employability": {
+      "graduateEmploymentRate": "93%",
+      "medianSalary": "£34,000 (15 months after graduation)",
+      "topEmployers": [
+        "GlaxoSmithKline",
+        "AstraZeneca",
+        "Francis Crick Institute",
+        "NHS",
+        "McKinsey & Company",
+        "PwC",
+        "Wellcome Trust"
+      ],
+      "careersService": "UCL Careers provides 1:1 advice, the UCL Innovation and Enterprise team supports start-up ventures, and the Biochemistry department runs dedicated careers seminars each term. London employer access is exceptional.",
+      "placementYearAvailable": true
+    },
+    "research": {
+      "refRating": "GPA 3.38/4.0 — Biological Sciences, top 8 in UK (REF 2021)",
+      "strengthAreas": [
+        "Structural biology and cryo-electron microscopy",
+        "Molecular mechanisms of disease",
+        "Chemical biology and drug discovery",
+        "Systems biology and computational genomics",
+        "Neuroscience and protein aggregation"
+      ],
+      "notableFacilities": [
+        "Francis Crick Institute (UCL partner — one of Europe's largest biomedical research centres)",
+        "UCL Crystallography Building — home to pioneering X-ray and cryo-EM facilities",
+        "UCL Cancer Institute (University College Hospital complex)",
+        "London Centre for Nanotechnology",
+        "UCL Genomics laboratory"
+      ],
+      "industryPartners": [
+        "GlaxoSmithKline",
+        "AstraZeneca",
+        "Roche",
+        "Johnson & Johnson",
+        "Bayer"
+      ]
+    },
+    "facilities": {
+      "libraries": [
+        "Science Library — primary science library in the main UCL campus, extended hours",
+        "UCL Main Library — general collections, open late during term time",
+        "Senate House Library (University of London) — available to all UCL students"
+      ],
+      "sportsFacilities": "UCL Bloomsbury gym (on campus), Shenley Sports Ground (Hertfordshire, 20 miles, reachable by minibus), and 60+ sports clubs. Pool available via nearby leisure centre.",
+      "studySpaces": "Science Library and Main Library open until midnight during term; 2,500+ study spaces across the estate; 24/7 access in some facilities during exam periods.",
+      "labs": "Biochemistry teaching labs are modern and well-equipped. Final-year project students are integrated into research groups, often co-authoring published papers.",
+      "wellbeing": "UCL Student Support and Wellbeing team provides counselling, mental health advisers, and a 24/7 crisis line. Togetherall online platform, Student Minds UCL chapter."
+    },
+    "satisfaction": {
+      "nssOverall": 80,
+      "teachingQuality": 83,
+      "academicSupport": 79,
+      "learningResources": 85
+    },
+    "travelFromLondon": {
+      "trainTime": "On campus — Bloomsbury is in central London",
+      "trainFromStation": "Euston Square / Russell Square (5-min walk from campus)",
+      "trainToStation": "Euston Square Underground (Circle/Hammersmith & City/Metropolitan lines)",
+      "coachTime": "N/A — central London location",
+      "drivingTime": "N/A — central London; parking very limited",
+      "distanceMiles": "Located in London WC1",
+      "nearestAirport": "London Heathrow (45 min via Underground), London City Airport (40 min via DLR)"
+    },
+    "accessibility": {
+      "disabilityService": "UCL Student Support and Wellbeing — Disability team provides support plans, specialist mentoring, exam adjustments, and assistive technology. Self-refer via online portal.",
+      "accessibleAccommodation": "Several UCL halls have accessible en-suite rooms. Accessibility requirements flagged at accommodation application stage. Newer residences (e.g. Carpenter's Road) fully accessible.",
+      "mentalHealthSupport": "UCL counselling service (free, up to 12 sessions), mental health advisers, Togetherall (24/7), and wellbeing drop-in appointments. Student Minds UCL peer support.",
+      "dyslexiaSupport": "SpLD assessment, specialist study skills tuition, assistive technology, and automatic exam adjustments arranged through the Disability team.",
+      "campusAccessibility": "UCL's Bloomsbury campus is largely accessible — step-free routes to main buildings, lifts installed. Older buildings vary. AccessAble guide published for each building."
+    },
+    "international": {
+      "visaSupport": "UCL Student Immigration Advice provides CAS letters, Student Visa guidance, and Graduate Route support. Pre-arrival webinars and digital immigration portal.",
+      "englishRequirements": "IELTS 6.5 overall (6.0 in each component) for Biochemistry; some routes require 7.0.",
+      "orientationProgramme": "UCL International Student Orientation Week: NHS registration, UK banking, city transport, and academic culture sessions. International buddy scheme and departmental welcome events.",
+      "internationalSocietiesCount": "75+ international and cultural societies",
+      "popularCountries": [
+        "China",
+        "India",
+        "United States",
+        "Germany",
+        "Malaysia",
+        "Singapore",
+        "Italy"
+      ]
+    },
+    "contact": {
+      "admissionsEmail": "admissions@ucl.ac.uk",
+      "admissionsPhone": "+44 (0)20 3108 8000",
+      "address": "University College London, Gower Street, London WC1E 6BT",
+      "openDayContact": "opendays@ucl.ac.uk"
+    }
   },
   "edinburgh": {
     "slug": "edinburgh",
@@ -401,7 +908,134 @@
       "Home to the Roslin Institute (cloning and animal biotechnology)",
       "Edinburgh BioQuarter is a top 5 life sciences cluster in Europe",
       "Scottish 4-year Honours degree provides an additional year of breadth before specialisation"
-    ]
+    ],
+    "website": "https://www.ed.ac.uk",
+    "prospectus": "https://www.ed.ac.uk/studying/undergraduate/",
+    "socials": {
+      "instagram": "https://www.instagram.com/edinburghuniversity/",
+      "twitter": "https://twitter.com/EdinburghUni",
+      "youtube": "https://www.youtube.com/user/EdinburghUniversity",
+      "tiktok": "https://www.tiktok.com/@edinburghuniversity",
+      "linkedin": "https://www.linkedin.com/school/university-of-edinburgh/"
+    },
+    "rankings": {
+      "complete": 5,
+      "guardian": 6,
+      "times": 6,
+      "qsWorld": 22,
+      "theWorld": 30,
+      "russellGroup": true,
+      "year": "2025"
+    },
+    "reputation": "Edinburgh is one of the UK's ancient universities and a global top 30 institution. Its School of Biological Sciences is internationally recognised, and the Roslin Institute — where Dolly the sheep was cloned — is one of the most famous biological research facilities in the world. Edinburgh's unique 4-year Honours degree structure allows students a broader first year before specialising, giving more flexibility than most English universities. The Edinburgh BioQuarter is a top-5 European life sciences cluster, providing exceptional industry exposure.",
+    "fees": {
+      "homeUndergrad": "£9,535/year (Rest of UK students; Scottish students may qualify for SAAS funding)",
+      "internationalUndergrad": "£29,900–£33,200/year",
+      "livingCostEstimate": "£13,500–£18,000/year (Edinburgh is moderately expensive — lower than London, higher than most northern cities)"
+    },
+    "funding": {
+      "scholarships": [
+        "Edinburgh Global Research Scholarships (for high-achieving international students)",
+        "Saltire Scholarships (funded by Scottish Government — for international students from select countries)",
+        "Edinburgh Award Bursary (for UK students from under-represented backgrounds)",
+        "Principal's Career Development Scholarship (postgraduate — highly competitive)"
+      ],
+      "bursaries": "Edinburgh Access Bursary provides support for UK students who have participated in widening access programmes. SAAS (Student Awards Agency Scotland) funds tuition for eligible Scottish-domiciled students.",
+      "paymentPlan": "Tuition fees paid in two semester instalments. International students may pay in instalments with a deposit required before enrolment."
+    },
+    "employability": {
+      "graduateEmploymentRate": "91%",
+      "medianSalary": "£30,000 (15 months after graduation)",
+      "topEmployers": [
+        "NHS Scotland",
+        "AstraZeneca",
+        "Novartis",
+        "MRC",
+        "Wellcome Sanger Institute",
+        "Scottish Government",
+        "University spinouts via Edinburgh Innovations"
+      ],
+      "careersService": "Edinburgh Careers Service provides 1:1 appointments, employer events, the Edinburgh Award (employability accreditation), and a dedicated sciences career pathway. Edinburgh's global alumni network of 300,000+ is a major asset.",
+      "placementYearAvailable": true
+    },
+    "research": {
+      "refRating": "GPA 3.33/4.0 — Biological Sciences, top 10 in UK (REF 2021)",
+      "strengthAreas": [
+        "Animal and plant biotechnology (Roslin Institute)",
+        "Infection, immunity and inflammation",
+        "Neuroscience and dementia research",
+        "Synthetic and chemical biology",
+        "Genome biology and bioinformatics"
+      ],
+      "notableFacilities": [
+        "Roslin Institute — world-famous animal and biotechnology research, creators of Dolly the sheep",
+        "Edinburgh BioQuarter — 2M sq ft life sciences campus (one of Europe's largest)",
+        "Queens Medical Research Institute — translational medical research",
+        "Edinburgh Genome Foundry — automated synthetic biology platform",
+        "Easter Bush Campus — large animal research facility"
+      ],
+      "industryPartners": [
+        "AstraZeneca",
+        "Novartis",
+        "Boehringer Ingelheim",
+        "MSD (Merck)",
+        "Zoetis (animal health)"
+      ]
+    },
+    "facilities": {
+      "libraries": [
+        "Main University Library — one of the largest in the UK with 2.5M+ items, open 24/7 during exams",
+        "Darwin Library — primary science library with specialist biological sciences collections",
+        "Edinburgh College of Art Library — creative arts collections"
+      ],
+      "sportsFacilities": "Pleasance Sports Complex (on-campus — gym, courts, pool), Peffermill Playing Fields (2 miles, outdoor pitches), and 50+ sports clubs including rugby, rowing and hillwalking.",
+      "studySpaces": "Main Library open 24/7 during term; 3,000+ study spaces across the estate; silent and collaborative zones; bookable rooms.",
+      "labs": "Biochemistry and biosciences teaching labs are modern and extensively equipped. Year 3 and 4 project students undertake research in front-line labs at the King's Buildings or BioQuarter campuses.",
+      "wellbeing": "Student Counselling Service (free), mental health advisers, Student Advice Place (SU-run), and Nightline peer-support phone service. Each school has a student support officer."
+    },
+    "satisfaction": {
+      "nssOverall": 83,
+      "teachingQuality": 86,
+      "academicSupport": 82,
+      "learningResources": 88
+    },
+    "travelFromLondon": {
+      "trainTime": "4h 20m (fastest LNER service)",
+      "trainFromStation": "London King's Cross",
+      "trainToStation": "Edinburgh Waverley",
+      "coachTime": "9h 00m (National Express — overnight options available)",
+      "drivingTime": "7h 00m (A1/M1, off-peak)",
+      "distanceMiles": "401 miles north of London",
+      "nearestAirport": "Edinburgh Airport (30 min by tram from city centre; flights to 150+ destinations including direct London routes from £30)"
+    },
+    "accessibility": {
+      "disabilityService": "Disability and Learning Support Service provides support plans, exam adjustments, assistive technology and specialist mentoring. Self-refer at any point in the year.",
+      "accessibleAccommodation": "Several halls including Pollock Halls have accessible rooms. Accessibility requirements noted at accommodation application — early application strongly recommended.",
+      "mentalHealthSupport": "Student Counselling Service (free, up to 8 sessions), mental health practitioners, Togetherall (24/7), and Nightline peer support (term-time evenings).",
+      "dyslexiaSupport": "SpLD screening and assessment, specialist study skills tuition, assistive technology (Dragon, Read&Write), and exam adjustments through the Disability and Learning Support Service.",
+      "campusAccessibility": "Edinburgh's multiple campuses vary in accessibility — central campus (Old College) has some historic building constraints, but the King's Buildings science campus and BioQuarter are modern and step-free. Campus access guides available."
+    },
+    "international": {
+      "visaSupport": "International Student Advisory Service provides Student Visa guidance, CAS issuance, and Graduate Route advice. Pre-arrival webinar series and a dedicated immigration helpdesk.",
+      "englishRequirements": "IELTS 6.5 overall (6.5 in writing; 6.0 in other components) for Biochemistry and Biological Sciences.",
+      "orientationProgramme": "International Student Orientation (one week before term): UK banking, NHS registration, EUSA Welcome Fair, and cultural orientation. City tours and buddy scheme included.",
+      "internationalSocietiesCount": "60+ international and cultural societies",
+      "popularCountries": [
+        "China",
+        "United States",
+        "India",
+        "Pakistan",
+        "Germany",
+        "Canada",
+        "Malaysia"
+      ]
+    },
+    "contact": {
+      "admissionsEmail": "admissions@ed.ac.uk",
+      "admissionsPhone": "+44 (0)131 650 4360",
+      "address": "University of Edinburgh, Old College, South Bridge, Edinburgh EH8 9YL",
+      "openDayContact": "opendays@ed.ac.uk"
+    }
   },
   "durham": {
     "slug": "durham",
@@ -477,7 +1111,133 @@
       "Collegiate system provides strong pastoral support and peer learning",
       "Chemistry department has particular strength in supramolecular and green chemistry",
       "Strong proximity to Newcastle's biomedical research cluster"
-    ]
+    ],
+    "website": "https://www.durham.ac.uk",
+    "prospectus": "https://www.durham.ac.uk/study/undergraduate/",
+    "socials": {
+      "instagram": "https://www.instagram.com/durhamuniversity/",
+      "twitter": "https://twitter.com/durham_uni",
+      "youtube": "https://www.youtube.com/user/durhamuniversity",
+      "linkedin": "https://www.linkedin.com/school/durham-university/"
+    },
+    "rankings": {
+      "complete": 4,
+      "guardian": 4,
+      "times": 4,
+      "qsWorld": 90,
+      "theWorld": 174,
+      "russellGroup": true,
+      "year": "2025"
+    },
+    "reputation": "Durham is consistently ranked in the UK top 5, punching well above its size. Its collegiate system — modelled on Oxford and Cambridge — creates exceptionally close-knit academic communities with strong pastoral support. The Department of Biosciences is research-active with particular strength in chemical biology, structural biochemistry and plant science. Durham's reputation for producing well-rounded graduates is outstanding — it is one of the most popular choices for students who narrowly miss Oxbridge.",
+    "fees": {
+      "homeUndergrad": "£9,535/year",
+      "internationalUndergrad": "£24,000–£27,500/year",
+      "livingCostEstimate": "£10,500–£13,500/year (Durham is one of the most affordable university cities in the UK)"
+    },
+    "funding": {
+      "scholarships": [
+        "Durham Excellence Scholarship (£2,000/year for A*A*A+ entry)",
+        "International Excellence Scholarship (£3,000 fee reduction for high-achieving international students)",
+        "Durham Access Bursary (up to £2,000/year for UK students from households under £35,000)",
+        "Sports Scholarship (for students competing at national or international level)"
+      ],
+      "bursaries": "Durham Access Bursary automatically assessed via UCAS for eligible UK students. Additional college-based hardship funds available in most of Durham's 17 colleges.",
+      "paymentPlan": "Fees paid in three termly instalments via the student portal. Hardship fund available for students in financial difficulty."
+    },
+    "employability": {
+      "graduateEmploymentRate": "94%",
+      "medianSalary": "£30,500 (15 months after graduation)",
+      "topEmployers": [
+        "NHS",
+        "AstraZeneca",
+        "Procter & Gamble",
+        "GSK",
+        "PwC",
+        "Deloitte",
+        "Newcastle NHS Foundation Trust"
+      ],
+      "careersService": "Durham Careers and Enterprise Service offers 1:1 career coaching, employer insight events, and the Duke of Edinburgh's Award programme. The collegiate system facilitates direct alumni networking, and Durham's employers are particularly strong in the pharmaceutical and North East industrial sectors.",
+      "placementYearAvailable": true
+    },
+    "research": {
+      "refRating": "GPA 3.11/4.0 — Biological Sciences (REF 2021)",
+      "strengthAreas": [
+        "Chemical biology and supramolecular chemistry",
+        "Structural biology and protein biochemistry",
+        "Plant biochemistry and food security",
+        "Neuroscience and cellular signalling",
+        "Environmental biochemistry"
+      ],
+      "notableFacilities": [
+        "Biophysical Sciences Institute — cross-disciplinary research hub",
+        "Integrated Microscopy Centre — confocal and electron microscopy",
+        "Durham X-ray Centre — protein crystallography",
+        "Northeast Proteomics Facility",
+        "Joint access to Newcastle Biomedical Research Centre (NHS)"
+      ],
+      "industryPartners": [
+        "AstraZeneca",
+        "Procter & Gamble (Tyne & Wear R&D site)",
+        "GSK",
+        "NSG Group (materials science)",
+        "Newcastle NHS Foundation Trust"
+      ]
+    },
+    "facilities": {
+      "libraries": [
+        "Palace Green Library — main university library in a historic 17th-century building; open until midnight",
+        "Bill Bryson Library — science-focused with modern study facilities, open 24/7 during exams",
+        "Each college has its own library for late-night study"
+      ],
+      "sportsFacilities": "Maiden Castle Sport and Wellness Hub — 50m pool, gym, sports hall, climbing wall, courts. College sports teams in every sport. Over 70 sports clubs across the university.",
+      "studySpaces": "Bill Bryson Library 24/7 during exams; 2,000+ study spaces; college libraries open late; bookable quiet study rooms.",
+      "labs": "Biosciences teaching labs recently refurbished — modern microscopy, cell culture and molecular biology facilities. Final-year project students work in research labs with dedicated supervisors.",
+      "wellbeing": "Student Wellbeing team provides counselling, mental health support, and a disability advisory service. Each college has a junior common room wellbeing rep and a senior tutor for pastoral matters."
+    },
+    "satisfaction": {
+      "nssOverall": 87,
+      "teachingQuality": 90,
+      "academicSupport": 88,
+      "learningResources": 89
+    },
+    "travelFromLondon": {
+      "trainTime": "2h 40m (fastest LNER service)",
+      "trainFromStation": "London King's Cross",
+      "trainToStation": "Durham",
+      "coachTime": "5h 30m (National Express)",
+      "drivingTime": "4h 30m (A1(M), off-peak)",
+      "distanceMiles": "258 miles north of London",
+      "nearestAirport": "Newcastle International Airport (30 min by car/bus; flights to 80+ destinations)"
+    },
+    "accessibility": {
+      "disabilityService": "Durham Disability Support Service provides support plans, exam adjustments, specialist mentoring, and assistive technology. Self-refer online — no GP letter required.",
+      "accessibleAccommodation": "Accessible rooms in several colleges including Josephine Butler, Van Mildert and Trevelyan. Accessibility requirements flagged at accommodation allocation — college allocations take disability into account.",
+      "mentalHealthSupport": "Durham Counselling Service (free), mental health advisers in each college, Nightline peer listening service, and Togetherall (24/7 online).",
+      "dyslexiaSupport": "SpLD assessment, specialist study skills tuition, Read&Write and Dragon assistive software, and exam adjustments co-ordinated through the Disability Support Service.",
+      "campusAccessibility": "Durham's historic city-centre campus has some hilly terrain and older buildings with limited lift access. The science site (Lower Mountjoy) is more modern and generally accessible. AccessAble guide published for each building."
+    },
+    "international": {
+      "visaSupport": "Durham International Student Experience team provides CAS letters, Student Visa guidance, and Graduate Route advice. Pre-arrival webinar series and online immigration portal.",
+      "englishRequirements": "IELTS 6.5 overall (6.0 in each component) for Biochemistry and Biosciences programmes.",
+      "orientationProgramme": "International Student Welcome Week before Michaelmas term: NHS registration, UK banking, city tour, collegiate welcome events, and the International Students' Association welcome fair.",
+      "internationalSocietiesCount": "40+ international and cultural societies",
+      "popularCountries": [
+        "China",
+        "United States",
+        "Germany",
+        "India",
+        "Malaysia",
+        "Canada",
+        "South Korea"
+      ]
+    },
+    "contact": {
+      "admissionsEmail": "admissions@durham.ac.uk",
+      "admissionsPhone": "+44 (0)191 334 2000",
+      "address": "Durham University, The Palatine Centre, Stockton Road, Durham DH1 3LE",
+      "openDayContact": "opendays@durham.ac.uk"
+    }
   },
   "bristol": {
     "slug": "bristol",
@@ -560,7 +1320,134 @@
       "Biochemistry is housed in the biomedical sciences building on the main campus",
       "Strong infection biology research group linked to Bristol NHS Trust",
       "Rated gold in TEF (Teaching Excellence Framework)"
-    ]
+    ],
+    "website": "https://www.bristol.ac.uk",
+    "prospectus": "https://www.bristol.ac.uk/study/media/undergraduate/prospectus-2026/undergraduate-prospectus-2026.pdf",
+    "socials": {
+      "instagram": "https://www.instagram.com/universityofbristol/",
+      "twitter": "https://twitter.com/bristoluni",
+      "youtube": "https://www.youtube.com/UniversityOfBristol",
+      "tiktok": "https://www.tiktok.com/@officialbristoluni",
+      "linkedin": "https://www.linkedin.com/school/university-of-bristol/"
+    },
+    "rankings": {
+      "complete": 11,
+      "guardian": 10,
+      "times": 10,
+      "qsWorld": 62,
+      "theWorld": 97,
+      "russellGroup": true,
+      "year": "2025"
+    },
+    "reputation": "Bristol is a Russell Group university with a global research reputation, consistently ranked in the UK top 12. The School of Biochemistry is world-class in structural biology, chemical biology and infection biology. Bristol is one of the most competitive universities in the UK — applications per place rival Oxford and Cambridge for some courses. Its location in one of the UK's most vibrant cities makes it a perennial top choice for applicants.",
+    "fees": {
+      "homeUndergrad": "£9,535/year",
+      "internationalUndergrad": "£26,600–£33,100/year",
+      "livingCostEstimate": "£13,500–£18,000/year (Bristol is a relatively expensive student city)"
+    },
+    "funding": {
+      "scholarships": [
+        "Bristol Think Big Scholarship (£5,000–£20,000 for international students of exceptional merit)",
+        "Bristol Access Bursary (up to £3,000/year for eligible UK students)",
+        "Sanctuary Scholarship (for students with refugee or asylum-seeker status)",
+        "Alumni Legacy Scholarship"
+      ],
+      "bursaries": "Bristol Access Bursary is available to UK students from households with residual income under £35,000 — up to £3,000/year. Automatically assessed from UCAS data.",
+      "paymentPlan": "Tuition fees payable in three termly instalments via the student portal. Direct Debit option available."
+    },
+    "employability": {
+      "graduateEmploymentRate": "92%",
+      "medianSalary": "£31,000 (15 months after graduation)",
+      "topEmployers": [
+        "GlaxoSmithKline",
+        "Pfizer",
+        "Unilever",
+        "NHS",
+        "Rolls-Royce",
+        "Airbus",
+        "Bristol Myers Squibb"
+      ],
+      "careersService": "Bristol Careers Service provides 1:1 career consultations, employer insight events, the Bristol PLUS Award (employability accreditation), and sector-specific life sciences careers pathways.",
+      "placementYearAvailable": true
+    },
+    "research": {
+      "refRating": "GPA 3.35/4.0 — Biological Sciences, top 10 in UK (REF 2021)",
+      "strengthAreas": [
+        "Structural biology and cryo-electron microscopy",
+        "Infection biology and antimicrobial resistance",
+        "Chemical biology and drug discovery",
+        "Proteomics and cell signalling",
+        "Cancer biology and tumour microenvironment"
+      ],
+      "notableFacilities": [
+        "School of Biochemistry — dedicated building with research-grade equipment",
+        "Bristol Cryo-EM Facility — state-of-the-art structural biology",
+        "BrisSynBio — synthetic biology research centre",
+        "Bristol Genomics Facility",
+        "Wolfson Bioimaging Facility"
+      ],
+      "industryPartners": [
+        "GlaxoSmithKline",
+        "Pfizer",
+        "Unilever R&D",
+        "AstraZeneca",
+        "Bristol Myers Squibb"
+      ]
+    },
+    "facilities": {
+      "libraries": [
+        "Biomedical Library — primary science and medicine library, extended opening hours",
+        "Senate House Library — general collections, open 24/7 during exam periods",
+        "Arts and Social Sciences Library — humanities collections"
+      ],
+      "sportsFacilities": "Sports, Exercise and Health building — 25m pool, gym, sports hall, squash courts, outdoor pitches. Coombe Dingle Sports Complex (2 miles from campus) offers athletics track and floodlit pitches.",
+      "studySpaces": "24/7 study spaces in Senate House; 2,000+ study spaces across the estate. Booking required at peak times.",
+      "labs": "School of Biochemistry has dedicated modern teaching labs; final-year project students work in world-class research labs alongside PhD students and postdocs.",
+      "wellbeing": "Student Wellbeing Service provides free counselling, mental health support, and a GP-linked health service (Bristol University Health Service). SU peer support programmes and MIND partnership."
+    },
+    "satisfaction": {
+      "nssOverall": 81,
+      "teachingQuality": 84,
+      "academicSupport": 80,
+      "learningResources": 86
+    },
+    "travelFromLondon": {
+      "trainTime": "1h 40m (fastest)",
+      "trainFromStation": "London Paddington",
+      "trainToStation": "Bristol Temple Meads",
+      "coachTime": "2h 30m (National Express / Megabus)",
+      "drivingTime": "1h 50m (M4, off-peak)",
+      "distanceMiles": "118 miles west of London",
+      "nearestAirport": "Bristol Airport (30 min by taxi or bus A1; flights to 100+ destinations)"
+    },
+    "accessibility": {
+      "disabilityService": "Disability Services provides support plans, exam adjustments, mentoring and specialist study skills support. Self-refer via the online portal — no GP referral needed.",
+      "accessibleAccommodation": "Accessible rooms available across multiple halls including Wills Hall and Clifton Hill House. Accessibility requirements should be flagged when accepting an accommodation offer.",
+      "mentalHealthSupport": "Student Wellbeing Service offers counselling (free, up to 12 sessions), mental health practitioner appointments, Togetherall (24/7 online platform), and an out-of-hours crisis line.",
+      "dyslexiaSupport": "Dyslexia and SpLD assessment, specialist study skills tutoring, and exam adjustments (extra time, coloured overlays, assistive technology) arranged through Disability Services.",
+      "campusAccessibility": "Bristol's hilly urban campus presents some challenges in older buildings, but the central precinct and biomedical sciences building are step-free. Campus accessibility map available from the estates team."
+    },
+    "international": {
+      "visaSupport": "International Student Advisory Service provides visa guidance, CAS letters, and post-study immigration advice including Graduate Route support. Pre-arrival webinar series and dedicated international portal.",
+      "englishRequirements": "IELTS 7.0 overall (6.5 in each component) for Biochemistry and most science programmes.",
+      "orientationProgramme": "International Welcome Week before term starts: UK banking, NHS registration, campus tour, and cultural orientation. Buddy scheme pairs new international students with continuing students.",
+      "internationalSocietiesCount": "55+ international and cultural societies",
+      "popularCountries": [
+        "China",
+        "United States",
+        "India",
+        "Germany",
+        "France",
+        "Malaysia",
+        "Hong Kong"
+      ]
+    },
+    "contact": {
+      "admissionsEmail": "choosebristol-ug@bristol.ac.uk",
+      "admissionsPhone": "+44 (0)117 394 1649",
+      "address": "University of Bristol, Senate House, Tyndall Avenue, Bristol BS8 1TH",
+      "openDayContact": "opendays@bristol.ac.uk"
+    }
   },
   "warwick": {
     "slug": "warwick",
@@ -646,7 +1533,134 @@
       "Warwick Integrative Synthetic Biology Centre is a leading UK synthetic biology research hub",
       "Chemistry department is member of the Midlands Chemical Biology Centre with Birmingham",
       "Campus model promotes inter-departmental collaboration in science and medicine"
-    ]
+    ],
+    "website": "https://warwick.ac.uk",
+    "prospectus": "https://warwick.ac.uk/study/undergraduate/",
+    "socials": {
+      "instagram": "https://www.instagram.com/uniofwarwick/",
+      "twitter": "https://twitter.com/uniofwarwick",
+      "youtube": "https://www.youtube.com/@uniofwarwick",
+      "tiktok": "https://www.tiktok.com/@uniofwarwick",
+      "linkedin": "https://www.linkedin.com/school/uniofwarwick/"
+    },
+    "rankings": {
+      "complete": 7,
+      "guardian": 6,
+      "times": 7,
+      "qsWorld": 85,
+      "theWorld": 140,
+      "russellGroup": true,
+      "year": "2025"
+    },
+    "reputation": "Warwick is one of the UK's most academically selective universities, consistently ranked in the top 8, and has built a reputation for rigorous teaching and research-led education across the sciences. Its Department of Life Sciences is a leading centre for quantitative and systems biology, structural biology and plant science. Warwick is unusual in combining a genuinely research-intensive science faculty with exceptionally strong social sciences, mathematics and economics departments — making it a favourite for interdisciplinary thinkers.",
+    "fees": {
+      "homeUndergrad": "£9,535/year",
+      "internationalUndergrad": "£25,900–£28,700/year",
+      "livingCostEstimate": "£10,500–£14,000/year (Coventry is one of the UK's most affordable university cities)"
+    },
+    "funding": {
+      "scholarships": [
+        "Warwick Undergraduate Global Excellence Scholarship (25% fee reduction for international students with outstanding academics)",
+        "Chancellor's International Scholarship (full fee waiver for exceptional international students — highly competitive)",
+        "Warwick Bursary (up to £4,000/year for UK students from low-income households)",
+        "Sports Warwick Scholarship (for elite athletes)"
+      ],
+      "bursaries": "Warwick Bursary automatically assessed from UCAS — UK students from households with income under £42,620 receive up to £4,000/year on a sliding scale.",
+      "paymentPlan": "Fees paid in three termly instalments via the online student portal."
+    },
+    "employability": {
+      "graduateEmploymentRate": "93%",
+      "medianSalary": "£31,500 (15 months after graduation)",
+      "topEmployers": [
+        "GlaxoSmithKline",
+        "AstraZeneca",
+        "NHS",
+        "Jaguar Land Rover",
+        "Deloitte",
+        "PwC",
+        "KPMG"
+      ],
+      "careersService": "Warwick Careers and Skills provides 1:1 appointments, the Warwick Award (employability accreditation), employer fairs, and a STEM careers programme. Warwick's employer network is particularly strong in pharma, professional services and tech — reflecting its cross-disciplinary strengths.",
+      "placementYearAvailable": true
+    },
+    "research": {
+      "refRating": "GPA 3.18/4.0 — Biological Sciences (REF 2021)",
+      "strengthAreas": [
+        "Systems and synthetic biology",
+        "Structural biology and protein science",
+        "Plant and environmental biochemistry",
+        "Cell biology and developmental biology",
+        "Quantitative biology and bioinformatics"
+      ],
+      "notableFacilities": [
+        "Warwick Integrative Synthetic Biology Centre (WISB)",
+        "Warwick Advanced Bioimaging Research Technology Platform",
+        "Midlands Integrative Biosciences Training Partnership (MIBTP)",
+        "Zeeman Institute for Systems Biology",
+        "Warwick X-ray and Cryo-EM Facility"
+      ],
+      "industryPartners": [
+        "GlaxoSmithKline",
+        "AstraZeneca",
+        "Syngenta",
+        "Jaguar Land Rover (materials interface)",
+        "IBM Research"
+      ]
+    },
+    "facilities": {
+      "libraries": [
+        "Warwick Library — central library with 1M+ items, open 24/7 during exam periods",
+        "Life Sciences Library — specialist collections adjacent to the science buildings",
+        "Digital access to 500,000+ e-resources"
+      ],
+      "sportsFacilities": "Sports and Wellness Hub — 50m pool, gym, climbing wall, squash courts, sports hall, outdoor pitches and athletics track. 65+ sports clubs. One of the best sport facilities of any UK campus university.",
+      "studySpaces": "Library open 24/7 during exams; 3,000+ study spaces; silent and group zones; bookable rooms via the app.",
+      "labs": "Life Sciences teaching labs are modern and well-equipped; Year 3 and 4 project students work in research labs with cutting-edge equipment including flow cytometry, cryo-EM and super-resolution microscopy.",
+      "wellbeing": "Wellbeing Support Services provides counselling, mental health practitioners, and a disability team. Nightline peer listening service run by students. Togetherall (24/7 online platform)."
+    },
+    "satisfaction": {
+      "nssOverall": 83,
+      "teachingQuality": 87,
+      "academicSupport": 83,
+      "learningResources": 88
+    },
+    "travelFromLondon": {
+      "trainTime": "1h 00m (fastest — to Coventry, then 15 min bus to campus)",
+      "trainFromStation": "London Euston",
+      "trainToStation": "Coventry (then U1/U2 bus to University)",
+      "coachTime": "2h 15m (National Express)",
+      "drivingTime": "1h 30m (M40, off-peak)",
+      "distanceMiles": "95 miles north-west of London",
+      "nearestAirport": "Birmingham Airport (20 min by car; 40 min via rail and bus)"
+    },
+    "accessibility": {
+      "disabilityService": "Disability Services provides support plans, exam adjustments, specialist mentoring and assistive technology. Self-refer online at any point during the year.",
+      "accessibleAccommodation": "A range of accessible rooms available across campus residences. Accessibility requirements flagged at the accommodation application stage — early application recommended.",
+      "mentalHealthSupport": "Wellbeing Support Services counselling (free, unlimited sessions), mental health practitioners, Togetherall (24/7), and Nightline (peer listening, evenings during term).",
+      "dyslexiaSupport": "SpLD assessment, specialist study skills tuition, assistive technology including Dragon Naturally Speaking and Read&Write, and exam adjustments coordinated by Disability Services.",
+      "campusAccessibility": "Warwick's purpose-built campus is largely step-free with accessible paths across the main precinct. Some older halls and buildings have limited lift access. Campus AccessAble guide published online."
+    },
+    "international": {
+      "visaSupport": "Warwick International Student Experience team provides Student Visa guidance, CAS issuance, and Graduate Route support. Pre-arrival webinar series and dedicated online portal.",
+      "englishRequirements": "IELTS 6.5 overall (6.0 in each component) for Life Sciences programmes; check individual course requirements.",
+      "orientationProgramme": "International Welcome Week before term: UK banking, NHS registration, campus tour, sporting and social events. Warwick Global Partners scheme pairs international students with domestic student ambassadors.",
+      "internationalSocietiesCount": "60+ international and cultural societies",
+      "popularCountries": [
+        "China",
+        "India",
+        "United States",
+        "Germany",
+        "Singapore",
+        "Malaysia",
+        "Greece"
+      ]
+    },
+    "contact": {
+      "admissionsEmail": "ugadmissions@warwick.ac.uk",
+      "admissionsPhone": "+44 (0)24 7652 3723",
+      "address": "University of Warwick, Coventry CV4 7AL",
+      "openDayContact": "opendays@warwick.ac.uk"
+    }
   },
   "bath": {
     "slug": "bath",
@@ -729,7 +1743,134 @@
       "Biochemistry and Chemistry industrial placement record is consistently among the UK's best",
       "Bath Science Park enables industry partnerships for placements and collaborative research",
       "Chemistry MChem has mandatory placement year with AstraZeneca, GSK and Pfizer partnership placements"
-    ]
+    ],
+    "website": "https://www.bath.ac.uk",
+    "prospectus": "https://www.bath.ac.uk/topics/undergraduate-study/",
+    "socials": {
+      "instagram": "https://www.instagram.com/uniofbath/",
+      "twitter": "https://twitter.com/UniofBath",
+      "youtube": "https://www.youtube.com/c/uniofbath",
+      "tiktok": "https://www.tiktok.com/@uniofbath",
+      "linkedin": "https://www.linkedin.com/school/university-of-bath/"
+    },
+    "rankings": {
+      "complete": 9,
+      "guardian": 8,
+      "times": 9,
+      "qsWorld": 175,
+      "theWorld": 251,
+      "russellGroup": false,
+      "year": "2025"
+    },
+    "reputation": "Bath is one of the UK's top 10 universities despite not being a Russell Group member — a remarkable achievement that reflects the quality of its teaching and research. It is consistently rated gold in the Teaching Excellence Framework and scores among the highest nationally for graduate employment and student satisfaction. Bath's integrated placement year — a mandatory Semester 5 industry placement — is the defining feature of its undergraduate degrees and gives graduates a decisive employability edge. The Department of Life Sciences has particular strength in structural biochemistry and biomolecular NMR.",
+    "fees": {
+      "homeUndergrad": "£9,535/year",
+      "internationalUndergrad": "£22,800–£26,500/year",
+      "livingCostEstimate": "£12,000–£16,000/year (Bath is a beautiful but relatively expensive city)"
+    },
+    "funding": {
+      "scholarships": [
+        "Bath University Scholarship (£2,000/year for students with AAA+ at A-level)",
+        "Global Excellence Scholarship (fee reduction for high-achieving international students)",
+        "Sports Performance Scholarship (for elite competing athletes)",
+        "Claverton Scholarship (for US students)"
+      ],
+      "bursaries": "Bath Support Fund provides means-tested financial support for UK students in hardship. Enhanced bursaries available for care-experienced students and estranged students.",
+      "paymentPlan": "Fees payable in three termly instalments. Instalment plan options for international students."
+    },
+    "employability": {
+      "graduateEmploymentRate": "96%",
+      "medianSalary": "£33,000 (15 months after graduation — boosted by mandatory placement year)",
+      "topEmployers": [
+        "GlaxoSmithKline",
+        "Pfizer",
+        "AstraZeneca",
+        "Procter & Gamble",
+        "Unilever",
+        "NHS",
+        "Syngenta"
+      ],
+      "careersService": "Bath Careers Service provides 1:1 advice, employer insight events, and the dedicated Placement Learning Unit which supports students in securing and succeeding in their Semester 5 industrial placement. Placement employers include GSK, Pfizer and AstraZeneca.",
+      "placementYearAvailable": true
+    },
+    "research": {
+      "refRating": "GPA 3.12/4.0 — Biological Sciences (REF 2021)",
+      "strengthAreas": [
+        "Structural biochemistry and biomolecular NMR spectroscopy",
+        "Chemical biology and enzyme design",
+        "Cell biology and developmental signalling",
+        "Infection biology and antimicrobial research",
+        "Bioinformatics and computational biology"
+      ],
+      "notableFacilities": [
+        "Department of Life Sciences — purpose-built building with research-grade teaching labs",
+        "Bath Institute for Rheumatic Diseases (clinical biochemistry)",
+        "Centre for Therapeutic Innovation",
+        "High-field NMR facility (600 MHz and 800 MHz spectrometers)",
+        "Proteomics facility"
+      ],
+      "industryPartners": [
+        "GlaxoSmithKline",
+        "Pfizer",
+        "AstraZeneca",
+        "Procter & Gamble",
+        "Reckitt"
+      ]
+    },
+    "facilities": {
+      "libraries": [
+        "University Library — central library open 24/7, over 500,000 items",
+        "Library pod study rooms — bookable for group and individual study",
+        "Digital collections via Bath library portal covering all life sciences disciplines"
+      ],
+      "sportsFacilities": "Sports Training Village (built for the 2012 Olympics pre-training) — 50m pool, athletics track, gym, courts, sports hall, tennis centre, and dance studio. One of the finest university sport facilities in the UK.",
+      "studySpaces": "Library open 24/7; 1,800+ study spaces; silent and collaborative zones; additional faculty study rooms across campus.",
+      "labs": "Life Sciences teaching labs are recently refurbished and research-grade. Placement-year students are typically placed in pharma or biotech industry labs, returning with professional lab skills far beyond the standard undergraduate level.",
+      "wellbeing": "Student Wellbeing provides counselling, mental health support, and a disability service. Students' Union peer supporter network and Togetherall (24/7 online platform)."
+    },
+    "satisfaction": {
+      "nssOverall": 88,
+      "teachingQuality": 91,
+      "academicSupport": 88,
+      "learningResources": 90
+    },
+    "travelFromLondon": {
+      "trainTime": "1h 25m (fastest)",
+      "trainFromStation": "London Paddington",
+      "trainToStation": "Bath Spa",
+      "coachTime": "2h 30m (National Express)",
+      "drivingTime": "1h 45m (M4, off-peak)",
+      "distanceMiles": "107 miles west of London",
+      "nearestAirport": "Bristol Airport (30 min by car/taxi; flights to 100+ destinations)"
+    },
+    "accessibility": {
+      "disabilityService": "Disability Service provides support plans, exam adjustments, specialist mentoring, and assistive technology. Self-refer via the online portal — no GP letter required.",
+      "accessibleAccommodation": "Several halls have accessible en-suite rooms. Accessibility requirements noted at accommodation application — contact the accommodation office early to ensure suitable allocation.",
+      "mentalHealthSupport": "Student Wellbeing counselling (free), mental health practitioners, Togetherall (24/7), and the SU peer support network. Bath has expanded mental health provision significantly in recent years.",
+      "dyslexiaSupport": "SpLD assessment, specialist study skills tuition, assistive technology, and exam adjustments arranged through the Disability Service.",
+      "campusAccessibility": "Bath's hillside campus has some accessibility challenges, but the main library, teaching buildings and Students' Union are fully step-free. Campus accessibility map and AccessAble guides available online."
+    },
+    "international": {
+      "visaSupport": "International Student Advisory Service provides Student Visa guidance, CAS letters, and Graduate Route advice. Pre-arrival webinar series and immigration drop-in sessions.",
+      "englishRequirements": "IELTS 6.5 overall (6.0 in each component) for Life Sciences programmes.",
+      "orientationProgramme": "International Welcome Week before term: UK banking, NHS registration, city tour, and academic orientation. SU International Society welcome events and buddy scheme.",
+      "internationalSocietiesCount": "45+ international and cultural societies",
+      "popularCountries": [
+        "China",
+        "United States",
+        "India",
+        "Germany",
+        "Hong Kong",
+        "Malaysia",
+        "France"
+      ]
+    },
+    "contact": {
+      "admissionsEmail": "admissions@bath.ac.uk",
+      "admissionsPhone": "+44 (0)1225 383019",
+      "address": "University of Bath, Claverton Down, Bath BA2 7AY",
+      "openDayContact": "opendays@bath.ac.uk"
+    }
   },
   "manchester": {
     "slug": "manchester",
@@ -816,7 +1957,134 @@
       "Graphene discovered at Manchester in 2004 (Geim and Novoselov)",
       "Manchester Institute of Biotechnology is a world-leading drug discovery and synthetic biology centre",
       "UK's largest single-site student population"
-    ]
+    ],
+    "website": "https://www.manchester.ac.uk",
+    "prospectus": "https://www.manchester.ac.uk/study/undergraduate/",
+    "socials": {
+      "instagram": "https://www.instagram.com/officialuom/",
+      "twitter": "https://twitter.com/officialuom",
+      "youtube": "https://www.youtube.com/@officialuom",
+      "tiktok": "https://www.tiktok.com/@officialuom",
+      "linkedin": "https://www.linkedin.com/school/university-of-manchester/"
+    },
+    "rankings": {
+      "complete": 16,
+      "guardian": 14,
+      "times": 15,
+      "qsWorld": 32,
+      "theWorld": 58,
+      "russellGroup": true,
+      "year": "2025"
+    },
+    "reputation": "Manchester is the UK's largest single-site university and a global research powerhouse, ranked in the QS World top 35. It has produced more Nobel laureates than almost any other UK university — 25 in total — including Ernest Rutherford (splitting the atom) and André Geim (graphene). The Faculty of Biology, Medicine and Health is one of the largest in Europe, with outstanding research in cancer biology, immunology and biochemistry. Manchester is also one of the most vibrant student cities in the world, consistently voted the UK's best place to be a student.",
+    "fees": {
+      "homeUndergrad": "£9,535/year",
+      "internationalUndergrad": "£27,000–£32,500/year",
+      "livingCostEstimate": "£12,000–£16,000/year (Manchester is excellent value for a major city)"
+    },
+    "funding": {
+      "scholarships": [
+        "Manchester Excellence Scholarship (up to £2,000/year for high-achieving home students)",
+        "Global Futures Scholarship (fee reduction for international students from select countries)",
+        "Manchester Bursary (up to £2,000/year for UK students from low-income households)",
+        "Sports Excellence Scholarship (for elite athletes competing at national level)"
+      ],
+      "bursaries": "Manchester Bursary automatically assessed from UCAS — available to UK students from households with income under £42,620 on a sliding scale.",
+      "paymentPlan": "Fees paid in three termly instalments. Instalment plan available for international students."
+    },
+    "employability": {
+      "graduateEmploymentRate": "91%",
+      "medianSalary": "£30,000 (15 months after graduation)",
+      "topEmployers": [
+        "AstraZeneca",
+        "NHS",
+        "GSK",
+        "Unilever",
+        "PwC",
+        "Deloitte",
+        "Cancer Research UK"
+      ],
+      "careersService": "Manchester Careers Service provides 1:1 advice, employer events, and the Manchester Gold Mentoring Programme connecting students with senior alumni. Manchester's location in the heart of the North West's life sciences and biotech cluster is a significant advantage.",
+      "placementYearAvailable": true
+    },
+    "research": {
+      "refRating": "GPA 3.28/4.0 — Biological Sciences (REF 2021)",
+      "strengthAreas": [
+        "Cancer biology and drug target discovery",
+        "Immunology and inflammatory disease",
+        "Structural biology and molecular machines",
+        "Systems biology and computational modelling",
+        "Microbiome and infection biology"
+      ],
+      "notableFacilities": [
+        "Michael Smith Building — state-of-the-art life sciences research building",
+        "Wellcome Centre for Cell-Matrix Research",
+        "Cancer Research UK Manchester Institute (Christie Hospital campus)",
+        "Manchester Institute of Biotechnology (MIB)",
+        "National Graphene Institute (cross-disciplinary materials-biology interface)"
+      ],
+      "industryPartners": [
+        "AstraZeneca",
+        "GSK",
+        "Cancer Research UK",
+        "Unilever R&D",
+        "Bruntwood SciTech (life sciences cluster)"
+      ]
+    },
+    "facilities": {
+      "libraries": [
+        "John Rylands Research Institute and Library — world-famous historic library and special collections",
+        "Main Library — open 24/7 during exams, 4M+ items",
+        "Alan Gilbert Learning Commons — modern study hub open 24/7"
+      ],
+      "sportsFacilities": "Sugden Sports Centre (on-campus — gym, pool, courts), Armitage Sports Centre (off-campus — extensive outdoor facilities). 70+ sports clubs.",
+      "studySpaces": "Alan Gilbert Learning Commons open 24/7; 4,000+ study spaces; silent, social and collaborative zones.",
+      "labs": "Michael Smith Building houses modern biochemistry teaching labs; project students in Years 3–4 are embedded in research groups at the cutting edge of cancer biology, immunology and structural biology.",
+      "wellbeing": "Student Support and Counselling service provides free counselling, mental health practitioners, and a 24/7 crisis line. Togetherall (24/7), Manchester SU peer support, and college-based welfare support."
+    },
+    "satisfaction": {
+      "nssOverall": 80,
+      "teachingQuality": 83,
+      "academicSupport": 79,
+      "learningResources": 86
+    },
+    "travelFromLondon": {
+      "trainTime": "2h 10m (fastest Avanti West Coast service)",
+      "trainFromStation": "London Euston",
+      "trainToStation": "Manchester Piccadilly",
+      "coachTime": "3h 30m (National Express / Megabus)",
+      "drivingTime": "3h 00m (M6, off-peak)",
+      "distanceMiles": "200 miles north-west of London",
+      "nearestAirport": "Manchester Airport (20 min by Metrolink tram; direct services to 200+ destinations)"
+    },
+    "accessibility": {
+      "disabilityService": "Disability Advisory and Support Service (DASS) provides support plans, exam adjustments, specialist mentoring, and assistive technology. Self-refer online at any point.",
+      "accessibleAccommodation": "Accessible rooms available in several university halls. Accessibility requirements flagged at accommodation application — early applications strongly recommended.",
+      "mentalHealthSupport": "Student Support and Counselling (free, up to 12 sessions), mental health practitioners, Togetherall (24/7), Nightline (peer listening, evenings during term), and a 24/7 crisis support line.",
+      "dyslexiaSupport": "SpLD assessment, specialist study skills tuition, assistive technology (Dragon, Read&Write), and exam adjustments co-ordinated through DASS.",
+      "campusAccessibility": "Manchester's main Oxford Road campus is largely step-free with accessible routes and lifts in most buildings. The new Michael Smith Building is fully accessible. Campus accessibility guide available."
+    },
+    "international": {
+      "visaSupport": "International Development Office provides Student Visa guidance, CAS issuance, Graduate Route support, and pre-arrival webinars. Dedicated immigration advisers on campus.",
+      "englishRequirements": "IELTS 6.5 overall (6.0 in each component) for Biochemistry and Life Sciences programmes.",
+      "orientationProgramme": "International Welcome Programme before term: UK banking, NHS registration, tram pass information, and academic orientation. Manchester SU International Society welcome events.",
+      "internationalSocietiesCount": "70+ international and cultural societies",
+      "popularCountries": [
+        "China",
+        "India",
+        "United States",
+        "Saudi Arabia",
+        "Malaysia",
+        "Nigeria",
+        "Pakistan"
+      ]
+    },
+    "contact": {
+      "admissionsEmail": "ug.admissions@manchester.ac.uk",
+      "admissionsPhone": "+44 (0)161 306 6000",
+      "address": "The University of Manchester, Oxford Road, Manchester M13 9PL",
+      "openDayContact": "opendays@manchester.ac.uk"
+    }
   },
   "sheffield": {
     "slug": "sheffield",
@@ -903,7 +2171,134 @@
       "Sheffield SU consistently rated one of the best in the UK",
       "Krebs Institute is a world-leading centre for structural biology and biochemistry",
       "Affordable city with the lowest cost of living among major Russell Group universities"
-    ]
+    ],
+    "website": "https://www.sheffield.ac.uk",
+    "prospectus": "https://www.sheffield.ac.uk/study/undergraduate",
+    "socials": {
+      "instagram": "https://www.instagram.com/sheffielduni/",
+      "twitter": "https://twitter.com/sheffielduni",
+      "youtube": "https://www.youtube.com/sheffielduniversity",
+      "tiktok": "https://www.tiktok.com/@sheffielduni",
+      "linkedin": "https://www.linkedin.com/school/university-of-sheffield/"
+    },
+    "rankings": {
+      "complete": 19,
+      "guardian": 17,
+      "times": 18,
+      "qsWorld": 105,
+      "theWorld": 160,
+      "russellGroup": true,
+      "year": "2025"
+    },
+    "reputation": "Sheffield is a Russell Group university with a long tradition of world-class science and engineering. It is consistently voted the UK's best university for student experience and has been named University of the Year multiple times. The Department of Molecular Biology and Biotechnology (known as MBB) is a well-regarded research department with particular strength in RNA biology, genome stability and microbial biochemistry. Sheffield's combination of strong science, an exceptional students' union and the most affordable major city in England makes it a top choice for students who want quality without compromise.",
+    "fees": {
+      "homeUndergrad": "£9,535/year",
+      "internationalUndergrad": "£24,450–£27,880/year",
+      "livingCostEstimate": "£10,000–£13,500/year (Sheffield is consistently ranked the most affordable major UK city for students)"
+    },
+    "funding": {
+      "scholarships": [
+        "Sheffield Excellence Award (£2,000 one-off for AAA+ applicants)",
+        "Global Award (£3,000 fee reduction for international students from select countries)",
+        "Sheffield Bursary (up to £1,250/year for UK students from households under £25,000)",
+        "Sports Sheffield Scholarship (for elite athletes)"
+      ],
+      "bursaries": "Sheffield Bursary automatically assessed from UCAS. Additional departmental hardship funds available in most faculties.",
+      "paymentPlan": "Fees paid in three termly instalments via the student portal."
+    },
+    "employability": {
+      "graduateEmploymentRate": "90%",
+      "medianSalary": "£29,000 (15 months after graduation)",
+      "topEmployers": [
+        "NHS",
+        "AstraZeneca",
+        "Unilever",
+        "Rolls-Royce",
+        "Boeing",
+        "Procter & Gamble",
+        "Sheffield Teaching Hospitals NHS Trust"
+      ],
+      "careersService": "Sheffield Careers Service provides 1:1 appointments, the Sheffield Graduate Award (employability accreditation), employer fairs, and a dedicated STEM careers programme with strong links to the South Yorkshire life sciences and NHS research network.",
+      "placementYearAvailable": true
+    },
+    "research": {
+      "refRating": "GPA 3.07/4.0 — Biological Sciences (REF 2021)",
+      "strengthAreas": [
+        "RNA biology and non-coding RNA",
+        "Genome stability and DNA damage response",
+        "Microbial biochemistry and synthetic biology",
+        "Structural biology and protein folding",
+        "Plant biochemistry and food security"
+      ],
+      "notableFacilities": [
+        "Firth Court — home of the Department of Molecular Biology and Biotechnology",
+        "Krebs Institute — named after Nobel Laureate Hans Krebs (who worked at Sheffield)",
+        "Sheffield Biosciences Shared Research Facilities",
+        "Healthy Lifespan Institute (linking biochemistry to ageing and health)",
+        "Sheffield Institute for Nucleic Acids (SInFoNiA)"
+      ],
+      "industryPartners": [
+        "AstraZeneca",
+        "Unilever",
+        "Sheffield Teaching Hospitals NHS Trust",
+        "Insigneo Institute (biomedical modelling)",
+        "Xaar (bioprinting applications)"
+      ]
+    },
+    "facilities": {
+      "libraries": [
+        "Western Bank Library — main library open 24/7 during exams with 1M+ items",
+        "Information Commons — modern 24/7 study building with 1,300 study spaces",
+        "Science and Engineering Library — specialist collections"
+      ],
+      "sportsFacilities": "SportsSheffield — extensive on-campus facilities including a 25m pool, gym, climbing wall, sports hall, squash courts and outdoor pitches. 70+ sports clubs.",
+      "studySpaces": "Information Commons open 24/7; 3,000+ study spaces across the estate; silent, group and individual zones.",
+      "labs": "MBB department teaching labs are well-equipped with modern molecular biology facilities. Final-year project students join active research groups in RNA biology, genome stability or microbial genetics.",
+      "wellbeing": "Sheffield University Health Service provides GP, counselling and mental health services on campus. Togetherall (24/7), the SU Big Night In welfare campaign, and peer-supported wellbeing events."
+    },
+    "satisfaction": {
+      "nssOverall": 85,
+      "teachingQuality": 87,
+      "academicSupport": 84,
+      "learningResources": 88
+    },
+    "travelFromLondon": {
+      "trainTime": "2h 10m (fastest East Midlands Railway/CrossCountry)",
+      "trainFromStation": "London St Pancras International",
+      "trainToStation": "Sheffield",
+      "coachTime": "3h 30m (National Express / Megabus)",
+      "drivingTime": "2h 30m (M1, off-peak)",
+      "distanceMiles": "168 miles north of London",
+      "nearestAirport": "Leeds Bradford Airport (45 min by car) or Manchester Airport (1h by car/train)"
+    },
+    "accessibility": {
+      "disabilityService": "Disability and Dyslexia Support (DDS) provides support plans, exam adjustments, specialist mentoring and assistive technology. Self-refer via Student Services.",
+      "accessibleAccommodation": "Several halls have accessible rooms including Endcliffe Village and Ranmoor. Accessibility requirements flagged during accommodation application.",
+      "mentalHealthSupport": "University Health Service counselling, mental health practitioners, Togetherall (24/7), and the SU award-winning welfare services.",
+      "dyslexiaSupport": "SpLD assessment, specialist study skills tuition, assistive technology, and exam adjustments via DDS.",
+      "campusAccessibility": "Sheffield's hillside campus has some challenging terrain; however, key academic buildings including Firth Court (MBB) and the Information Commons are accessible. Campus accessibility map online."
+    },
+    "international": {
+      "visaSupport": "Sheffield International Student Support team provides Student Visa guidance, CAS letters and Graduate Route advice. Pre-arrival webinar series and dedicated international portal.",
+      "englishRequirements": "IELTS 6.5 overall (6.0 in each component) for Biochemistry and Molecular Biology programmes.",
+      "orientationProgramme": "International Student Welcome Week before term: NHS registration, UK banking, city orientation and academic induction. SISA (Sheffield International Student Association) welcome events.",
+      "internationalSocietiesCount": "50+ international and cultural societies",
+      "popularCountries": [
+        "China",
+        "India",
+        "United States",
+        "Malaysia",
+        "Nigeria",
+        "Saudi Arabia",
+        "Germany"
+      ]
+    },
+    "contact": {
+      "admissionsEmail": "study@sheffield.ac.uk",
+      "admissionsPhone": "+44 (0)114 222 0000",
+      "address": "The University of Sheffield, Western Bank, Sheffield S10 2TN",
+      "openDayContact": "opendays@sheffield.ac.uk"
+    }
   },
   "southampton": {
     "slug": "southampton",
@@ -990,7 +2385,134 @@
       "University Hospital Southampton is a major NHS research partner",
       "Southampton Science Park provides placement and research opportunities",
       "Strong electrochemistry group and Centre for Biological Sciences"
-    ]
+    ],
+    "website": "https://www.southampton.ac.uk",
+    "prospectus": "https://www.southampton.ac.uk/study/undergraduate/",
+    "socials": {
+      "instagram": "https://www.instagram.com/uni_southampton/",
+      "twitter": "https://twitter.com/unisouthampton",
+      "youtube": "https://www.youtube.com/universityofsouthampton",
+      "tiktok": "https://www.tiktok.com/@unisouthampton",
+      "linkedin": "https://www.linkedin.com/school/university-of-southampton/"
+    },
+    "rankings": {
+      "complete": 12,
+      "guardian": 11,
+      "times": 12,
+      "qsWorld": 88,
+      "theWorld": 132,
+      "russellGroup": true,
+      "year": "2025"
+    },
+    "reputation": "Southampton is a Russell Group university consistently ranked in the UK top 15 with a global reputation particularly strong in engineering, oceanography and biosciences. Its School of Biological Sciences has excellent research groups in protein biochemistry, structural biology and systems biology. Southampton is uniquely positioned on the South Coast — its Institute for Life Sciences (IfLS) bridges basic biochemistry research with clinical translation via the Southampton General Hospital complex, one of the UK's leading teaching hospitals.",
+    "fees": {
+      "homeUndergrad": "£9,535/year",
+      "internationalUndergrad": "£23,000–£27,100/year",
+      "livingCostEstimate": "£11,500–£15,500/year (Southampton is moderate — cheaper than London and Bristol)"
+    },
+    "funding": {
+      "scholarships": [
+        "Southampton Undergraduate Excellence Scholarship (£3,000 one-off for AAA+ entry)",
+        "Vice-Chancellor's International Scholarship (£5,000 fee reduction for excellent international students)",
+        "Mayflower Scholarship (for US students with strong academic record)",
+        "Sports Performance Scholarship (for elite athletes)"
+      ],
+      "bursaries": "Southampton Bursary automatically assessed from UCAS — UK students from households with income under £40,000 receive financial support on a sliding scale. Care-experienced students receive additional support.",
+      "paymentPlan": "Fees paid in three termly instalments. Instalment plans available via the student portal."
+    },
+    "employability": {
+      "graduateEmploymentRate": "92%",
+      "medianSalary": "£30,000 (15 months after graduation)",
+      "topEmployers": [
+        "NHS (Southampton University Hospitals Trust)",
+        "AstraZeneca",
+        "IBM",
+        "Ordnance Survey",
+        "Lloyd's Register",
+        "Rolls-Royce",
+        "Parexel International"
+      ],
+      "careersService": "Southampton Careers and Employability Service provides 1:1 advice, the Southampton Award (employability accreditation), employer events, and placement placement support through the Institute for Life Sciences enterprise arm.",
+      "placementYearAvailable": true
+    },
+    "research": {
+      "refRating": "GPA 3.18/4.0 — Biological Sciences (REF 2021)",
+      "strengthAreas": [
+        "Structural biology and protein biochemistry",
+        "Systems biology and mathematical modelling",
+        "Cell biology and epigenetics",
+        "Infection and immunity",
+        "Marine biochemistry and blue biotechnology"
+      ],
+      "notableFacilities": [
+        "Institute for Life Sciences (IfLS) — bridging basic science and clinical translation",
+        "Centre for Biological Sciences — modern research building",
+        "Southampton General Hospital Research Campus (adjacent to university)",
+        "National Oceanography Centre (marine biochemistry interface)",
+        "Biomedical Imaging Unit (University Hospital)"
+      ],
+      "industryPartners": [
+        "AstraZeneca",
+        "IBM Research",
+        "Parexel International",
+        "Lloyd's Register Foundation",
+        "Southampton University Hospitals NHS Trust"
+      ]
+    },
+    "facilities": {
+      "libraries": [
+        "Hartley Library — central library, open 24/7 during exams, 1.5M+ items",
+        "Avenue Campus Library — humanities and social sciences collections",
+        "Digital resources via SotonFind covering all biological sciences disciplines"
+      ],
+      "sportsFacilities": "Wide Lane Sports Complex — 50m pool, gym, sports hall, squash courts, athletics track, outdoor pitches and tennis courts. 60+ sports clubs. Strong rowing and sailing culture reflecting the maritime setting.",
+      "studySpaces": "Hartley Library open 24/7; 2,500+ study spaces; silent, group and individual zones; bookable rooms via app.",
+      "labs": "Biological Sciences teaching labs are modern and well-equipped. Final-year project students are placed in research labs at the Centre for Biological Sciences or the Institute for Life Sciences.",
+      "wellbeing": "Student Wellbeing team provides counselling (free), mental health practitioners, and a 24/7 Student Wellbeing Line. Togetherall (24/7). SUSU (Students' Union) peer support and welfare drop-ins."
+    },
+    "satisfaction": {
+      "nssOverall": 84,
+      "teachingQuality": 86,
+      "academicSupport": 83,
+      "learningResources": 87
+    },
+    "travelFromLondon": {
+      "trainTime": "1h 15m (fastest South Western Railway service)",
+      "trainFromStation": "London Waterloo",
+      "trainToStation": "Southampton Central",
+      "coachTime": "2h 15m (National Express)",
+      "drivingTime": "1h 30m (M3, off-peak)",
+      "distanceMiles": "79 miles south-west of London",
+      "nearestAirport": "Southampton Airport (10 min by train; flights to Edinburgh, Amsterdam, Dublin and more)"
+    },
+    "accessibility": {
+      "disabilityService": "Enabling Services provides support plans, exam adjustments, specialist mentoring, and assistive technology. Self-refer via the online portal — no GP letter required.",
+      "accessibleAccommodation": "Several halls have accessible en-suite rooms. Accessibility requirements flagged during accommodation application. The Mayflower Halls are modern and fully accessible.",
+      "mentalHealthSupport": "Student Wellbeing counselling (free, up to 12 sessions), mental health practitioners, 24/7 Student Wellbeing Line, and Togetherall online platform.",
+      "dyslexiaSupport": "SpLD assessment, specialist study skills tuition, assistive technology, and exam adjustments arranged through Enabling Services.",
+      "campusAccessibility": "Highfield campus is largely step-free; main academic buildings including the Centre for Biological Sciences are accessible. Campus AccessAble guide published online."
+    },
+    "international": {
+      "visaSupport": "International Student Advisory Team provides Student Visa guidance, CAS letters, and Graduate Route support. Pre-arrival webinars and a dedicated international student portal.",
+      "englishRequirements": "IELTS 6.5 overall (6.0 in each component) for Biochemistry and Biological Sciences programmes.",
+      "orientationProgramme": "International Welcome Week before term: NHS registration, UK banking, campus tour, and cultural orientation. SUSU International Student Liaison Officer events and buddy scheme.",
+      "internationalSocietiesCount": "45+ international and cultural societies",
+      "popularCountries": [
+        "China",
+        "India",
+        "United States",
+        "Malaysia",
+        "Germany",
+        "Nigeria",
+        "Singapore"
+      ]
+    },
+    "contact": {
+      "admissionsEmail": "admissions@soton.ac.uk",
+      "admissionsPhone": "+44 (0)23 8059 5000",
+      "address": "University of Southampton, University Road, Southampton SO17 1BJ",
+      "openDayContact": "opendays@soton.ac.uk"
+    }
   },
   "nottingham": {
     "slug": "nottingham",
@@ -1825,7 +3347,133 @@
       "Living Systems Institute is a world-class multidisciplinary bioscience research facility",
       "Cornwall campus (Penryn) offers biology programmes in an exceptional coastal environment",
       "Consistent Gold rating in TEF (Teaching Excellence Framework)"
-    ]
+    ],
+    "website": "https://www.exeter.ac.uk",
+    "prospectus": "https://www.exeter.ac.uk/study/undergraduate/prospectus/",
+    "socials": {
+      "instagram": "https://www.instagram.com/uniofexeter/",
+      "twitter": "https://twitter.com/UniofExeter",
+      "youtube": "https://www.youtube.com/user/universityofexeter",
+      "tiktok": "https://www.tiktok.com/@uniofexeter",
+      "linkedin": "https://www.linkedin.com/school/university-of-exeter/"
+    },
+    "rankings": {
+      "complete": 10,
+      "guardian": 12,
+      "times": 11,
+      "qsWorld": 178,
+      "theWorld": 211,
+      "russellGroup": true,
+      "year": "2025"
+    },
+    "reputation": "Exeter is a Russell Group university with a strong national reputation for teaching quality, consistently achieving Gold in the Teaching Excellence Framework. Its Living Systems Institute is a world-class £35M multidisciplinary bioscience research facility. Exeter is particularly strong in environmental and sustainability-focused science — it leads global research on climate and earth systems — and attracts high-achieving students seeking a balance of research prestige and exceptional campus life.",
+    "fees": {
+      "homeUndergrad": "£9,535/year",
+      "internationalUndergrad": "£22,900–£27,300/year",
+      "livingCostEstimate": "£11,500–£15,000/year (Exeter is one of the more affordable UK university cities)"
+    },
+    "funding": {
+      "scholarships": [
+        "Exeter Excellence Scholarship (£2,000/year for high academic performers)",
+        "Global Excellence Scholarship (for high-achieving international students)",
+        "Cornwall Scholarship (for students studying at the Penryn campus)",
+        "Sports Scholarship (for elite athletes competing at national or international level)"
+      ],
+      "bursaries": "Exeter Bursary available for UK students from households earning under £25,000 (up to £2,000/year). Enhanced support for students from Devon and Cornwall. Automatically assessed via UCAS.",
+      "paymentPlan": "Fees can be paid in three instalments each academic year via the student portal."
+    },
+    "employability": {
+      "graduateEmploymentRate": "93%",
+      "medianSalary": "£29,500 (15 months after graduation)",
+      "topEmployers": [
+        "NHS",
+        "Public Health England",
+        "AstraZeneca",
+        "Syngenta",
+        "Environment Agency",
+        "FERA Science",
+        "Rothamsted Research"
+      ],
+      "careersService": "Exeter Careers Zone offers 1:1 appointments, employer fairs, the Exeter Award (employability accreditation), and a dedicated STEM careers programme with strong links to South West life sciences and environmental science employers.",
+      "placementYearAvailable": true
+    },
+    "research": {
+      "refRating": "GPA 3.15/4.0 — Biological Sciences (REF 2021)",
+      "strengthAreas": [
+        "Environmental biochemistry and ecotoxicology",
+        "Cell signalling and cancer biology",
+        "Metabolomics and systems biology",
+        "Infection and immunity",
+        "Plant biochemistry and food security"
+      ],
+      "notableFacilities": [
+        "Living Systems Institute — flagship £35M multidisciplinary bioscience research facility",
+        "Geoffrey Pope Building — biochemistry and biosciences teaching and research labs",
+        "Exeter Genomics Laboratory",
+        "Global Systems Institute (climate and sustainability interdisciplinary research)"
+      ],
+      "industryPartners": [
+        "AstraZeneca",
+        "Syngenta",
+        "Environment Agency",
+        "FERA Science",
+        "NHS Devon"
+      ]
+    },
+    "facilities": {
+      "libraries": [
+        "Forum Library — Exeter's flagship library, open 24/7 during term time with 700+ study spaces",
+        "Old Library — specialist collections in a historic setting",
+        "Digital resources via ExeLibraries covering all science disciplines"
+      ],
+      "sportsFacilities": "Sport Exeter — 50m swimming pool, gym, climbing wall, sports hall, outdoor courts and pitches, and access to the beautiful Reed Hall grounds.",
+      "studySpaces": "Forum Library open 24/7; multiple faculty quiet study areas; outdoor study spaces on the Streatham campus.",
+      "labs": "Geoffrey Pope Building has modern teaching labs for biochemistry; third-year project students gain access to research-grade facilities in their supervisor's laboratory.",
+      "wellbeing": "Wellbeing Services provides counselling, mental health support, a 24/7 Student Support Line (0300 555 0280), and peer wellbeing programmes. Each hall has a senior resident providing pastoral support."
+    },
+    "satisfaction": {
+      "nssOverall": 85,
+      "teachingQuality": 88,
+      "academicSupport": 84,
+      "learningResources": 87
+    },
+    "travelFromLondon": {
+      "trainTime": "2h 05m (fastest)",
+      "trainFromStation": "London Paddington",
+      "trainToStation": "Exeter St Davids",
+      "coachTime": "3h 30m (National Express)",
+      "drivingTime": "2h 30m (M3/A303, off-peak)",
+      "distanceMiles": "172 miles south-west of London",
+      "nearestAirport": "Exeter Airport (15 min from campus; flights to Amsterdam, Edinburgh, Dublin and beyond)"
+    },
+    "accessibility": {
+      "disabilityService": "Exeter's Wellbeing and Accessibility team provides support plans, exam adjustments, assistive technology and specialist mentoring. Self-refer via the AccessAbility online portal — no GP referral required.",
+      "accessibleAccommodation": "All first-year halls have accessible rooms; Streatham campus is largely step-free with accessible pathways. Students requiring adaptations should contact the accommodation office at the point of application.",
+      "mentalHealthSupport": "24/7 Student Support Line, university counselling service (free, up to 6 sessions), Togetherall (24/7 online), and Big White Wall peer support community.",
+      "dyslexiaSupport": "Dyslexia and SpLD screening, assessment and specialist study skills tuition via the AccessAbility team. Assistive technology including Read&Write provided free of charge to students.",
+      "campusAccessibility": "Streatham Park campus has good step-free access across most of the estate; an electric buggy service is available for mobility-impaired students. Some older buildings have limited lift access."
+    },
+    "international": {
+      "visaSupport": "International Student Support team provides Student Visa guidance, CAS issuance, and pre-arrival webinars. Support for the Graduate Route visa and dependants included.",
+      "englishRequirements": "IELTS 6.5 overall (6.0 in each component) for most science programmes; check individual course requirements.",
+      "orientationProgramme": "International Student Welcome Week before term: UK banking, NHS registration, campus navigation, and cultural orientation sessions included.",
+      "internationalSocietiesCount": "50+ international and cultural societies",
+      "popularCountries": [
+        "China",
+        "United States",
+        "Germany",
+        "Malaysia",
+        "India",
+        "Nigeria",
+        "Canada"
+      ]
+    },
+    "contact": {
+      "admissionsEmail": "admissions@exeter.ac.uk",
+      "admissionsPhone": "+44 (0)1392 723044",
+      "address": "University of Exeter, Northcote House, The Queen's Drive, Exeter EX4 4QJ",
+      "openDayContact": "opendays@exeter.ac.uk"
+    }
   },
   "sussex": {
     "slug": "sussex",

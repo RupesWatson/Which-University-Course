@@ -72,7 +72,7 @@ export default function Table({ universities, course, strandId, gradeType = 'aLe
   const [sortDir, setSortDir] = useState('asc');
   const [expanded, setExpanded] = useState(null);
 
-  const gradeKey = gradeType === 'ib' ? 'ibGrades' : 'entryGrades';
+  const gradeKey = gradeType === 'ib' ? 'ibGrades' : gradeType === 'ucasPoints' ? 'ucasPoints' : 'entryGrades';
   const columns = buildColumns(course?.rankLabel || 'Table Position');
 
   function handleSort(key) {
