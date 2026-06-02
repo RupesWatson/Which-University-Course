@@ -1,6 +1,5 @@
-import { useParams, useNavigate } from 'react-router-dom';
-import courseDetails from '../data/course-details.json';
-import { COURSES } from '../data/courses';
+import { useParams, useNavigate, Navigate } from 'react-router-dom';
+import { getStrand } from '../config/strands';
 
 function Section({ title, children }) {
   return (
@@ -34,10 +33,16 @@ const DEMAND_COLOR = {
 };
 
 export default function CoursePage() {
-  const { courseId } = useParams();
+  const { strand: strandId, courseId } = useParams();
   const navigate = useNavigate();
-  const course = courseDetails[courseId];
-  const courseMeta = COURSES.find(item => item.id === courseId);
+  const strand = getStrand(strandId);
+
+  if (!strand) {
+    return <Navigate to="/" replace />;
+  }
+
+  const course = strand.courseDetails[courseId];
+  const courseMeta = strand.courses.find(item => item.id === courseId);
 
   if (!course) {
     return (

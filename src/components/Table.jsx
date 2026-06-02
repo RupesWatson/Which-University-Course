@@ -67,7 +67,7 @@ function compareValues(a, b, key, dir) {
   return 0;
 }
 
-export default function Table({ universities, course }) {
+export default function Table({ universities, course, strandId }) {
   const [sortKey, setSortKey] = useState('subjectRank');
   const [sortDir, setSortDir] = useState('asc');
   const [expanded, setExpanded] = useState(null);
@@ -169,7 +169,7 @@ export default function Table({ universities, course }) {
                   <td className="px-4 py-3 text-xs text-slate-400 max-w-xs">{uni.notes}</td>
                   <td className="px-4 py-3 text-center" onClick={event => event.stopPropagation()}>
                     <Link
-                      to={`/university/${slug}`}
+                      to={`/${strandId}/university/${slug}`}
                       className="inline-flex items-center gap-1 whitespace-nowrap rounded-md border border-blue-600/30 bg-blue-600/15 px-2.5 py-1.5 text-[11px] font-semibold text-blue-400 transition-all hover:bg-blue-600/25 hover:text-blue-300"
                     >
                       {'More info ->'}

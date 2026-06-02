@@ -1,26 +1,37 @@
 import { useMemo, useState } from 'react';
-import { useSearchParams } from 'react-router-dom';
-import { COURSES } from '../data/courses';
+import { useParams, useSearchParams, Link, Navigate } from 'react-router-dom';
+import { getStrand } from '../config/strands';
 import StatsBar from '../components/StatsBar';
 import Filters from '../components/Filters';
 import CourseSelect from '../components/CourseSelect';
 import Table from '../components/Table';
 
-export default function Home() {
+export default function StrandHome() {
+  const { strand: strandId } = useParams();
+  const strand = getStrand(strandId);
   const [searchParams, setSearchParams] = useSearchParams();
   const [search, setSearch] = useState('');
   const [tier, setTier] = useState('All');
 
-  const courseId = searchParams.get('course') || COURSES[0].id;
-  const course = COURSES.find(item => item.id === courseId) || COURSES[0];
+  // Resolve current course (or null for an unknown/missing strand).
+  const courses = strand?.courses ?? [];
+  const courseId = searchParams.get('course') || courses[0]?.id;
+  const course = courses.find(item => item.id === courseId) || courses[0] || null;
 
   const filtered = useMemo(() => {
+    if (!course) return [];
     return course.data.filter(university => {
       const matchSearch = university.name.toLowerCase().includes(search.toLowerCase());
       const matchTier = tier === 'All' || university.tier === tier;
       return matchSearch && matchTier;
     });
   }, [course, search, tier]);
+
+  if (!strand) {
+    return <Navigate to="/" replace />;
+  }
+
+  const { courseGroups } = strand;
 
   function handleCourseChange(id) {
     setSearchParams({ course: id }, { replace: true });
@@ -31,37 +42,50 @@ export default function Home() {
   return (
     <div className="min-h-screen" style={{ background: 'linear-gradient(180deg, #050e1f 0%, #061428 100%)' }}>
       <div className="mx-auto max-w-screen-xl px-4 py-10 sm:px-6 lg:px-8">
+        <div className="mb-4">
+          <Link
+            to="/"
+            className="inline-flex items-center gap-1 text-xs font-medium text-blue-400/80 transition-colors hover:text-blue-300"
+          >
+            <span>←</span> Choose a different subject area
+          </Link>
+        </div>
+
         <header className="mb-10">
           <div className="mb-3 flex items-center gap-3">
             <div className="h-px flex-1 bg-gradient-to-r from-transparent to-blue-800/40" />
             <span className="text-[10px] font-semibold uppercase tracking-[0.2em] text-blue-400/60">
-              UCAS 2026 Course Audit
+              {strand.headerEyebrow}
             </span>
             <div className="h-px flex-1 bg-gradient-to-l from-transparent to-blue-800/40" />
           </div>
           <h1 className="mb-3 text-center font-display text-3xl font-bold leading-tight text-white md:text-4xl lg:text-5xl">
-            UK University Chemistry &amp;{' '}
+            {strand.headerTitleStart}
             <span
               className="bg-clip-text text-transparent"
               style={{ backgroundImage: 'linear-gradient(135deg, #93c5fd, #2563eb)' }}
             >
-              Biochemistry Comparison
+              {strand.headerTitleAccent}
             </span>
           </h1>
           <p className="mx-auto max-w-2xl text-center text-sm text-slate-400">
-            Compare verified 2026 undergraduate course matches across Russell Group and other top UK universities.
-            Course titles sourced from UCAS 2026 and rankings from the Complete University Guide 2026.
+            {strand.headerSubtitle}
           </p>
         </header>
 
-        <CourseSelect selectedId={courseId} onChange={handleCourseChange} />
+        <CourseSelect
+          selectedId={courseId}
+          onChange={handleCourseChange}
+          courses={courses}
+          groups={courseGroups}
+          strandId={strand.id}
+        />
         <StatsBar universities={filtered} course={course} />
         <Filters search={search} setSearch={setSearch} tier={tier} setTier={setTier} />
-        <Table universities={filtered} course={course} />
+        <Table universities={filtered} course={course} strandId={strand.id} />
 
         <footer className="mt-10 text-center text-xs text-slate-600">
-          Exact course titles and availability verified against UCAS 2026. Subject ranks for Biochemistry and Chemistry use CUG 2026 subject table positions;
-          all other course tables show table position within the verified comparison set.
+          {strand.footerNote}
         </footer>
       </div>
     </div>

@@ -1,5 +1,5 @@
-import { useParams, Link, useNavigate } from 'react-router-dom';
-import universityDetails from '../data/university-details.json';
+import { useParams, Link, useNavigate, Navigate } from 'react-router-dom';
+import { getStrand } from '../config/strands';
 
 function Section({ title, children }) {
   return (
@@ -36,16 +36,22 @@ function InfoGrid({ items }) {
 }
 
 export default function UniversityPage() {
-  const { slug } = useParams();
+  const { strand: strandId, slug } = useParams();
   const navigate = useNavigate();
-  const uni = universityDetails[slug];
+  const strand = getStrand(strandId);
+
+  if (!strand) {
+    return <Navigate to="/" replace />;
+  }
+
+  const uni = strand.universityDetails[slug];
 
   if (!uni) {
     return (
       <div className="min-h-screen flex items-center justify-center" style={{ background: '#050e1f' }}>
         <div className="text-center">
-          <div className="text-slate-400 mb-4">University not found.</div>
-          <Link to="/" className="text-blue-400 hover:text-blue-300 underline">← Back to comparison</Link>
+          <div className="text-slate-400 mb-4">University not found in {strand.label}.</div>
+          <Link to={`/${strandId}`} className="text-blue-400 hover:text-blue-300 underline">← Back to comparison</Link>
         </div>
       </div>
     );
@@ -149,7 +155,7 @@ export default function UniversityPage() {
           <InfoGrid items={[
             { label: 'UCAS code', value: uni.application?.ucasCode },
             { label: 'Contextual offers', value: uni.application?.contextualOffers ? 'Yes — reduced offers for eligible students' : 'Standard offers only' },
-            { label: 'Interview required', value: uni.application?.interviewRequired ? 'Yes — see course page' : 'No interview for most science courses' },
+            { label: 'Interview required', value: uni.application?.interviewRequired ? 'Yes — see course page' : 'No interview required' },
             { label: 'Typical timeline', value: uni.application?.typicalTimeline },
           ]} />
           {uni.application?.personalStatementTips && (

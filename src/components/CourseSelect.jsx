@@ -1,30 +1,16 @@
 import { Link } from 'react-router-dom';
-import { COURSES } from '../data/courses';
 
-const GROUPS = [
-  {
-    label: 'Core Sciences',
-    ids: ['biochemistry', 'chemistry', 'natSci'],
-  },
-  {
-    label: 'Life Sciences',
-    ids: ['biomedSci', 'pharmacology', 'molBiol', 'genetics', 'microbiology'],
-  },
-  {
-    label: 'Specialist & Placement',
-    ids: ['medicinalChem', 'biochemIndustry'],
-  },
-];
+export default function CourseSelect({ selectedId, onChange, courses, groups, strandId }) {
+  const visibleGroups = groups
+    .map(group => ({
+      ...group,
+      ids: group.ids.filter(id => (courses.find(course => course.id === id)?.data.length || 0) > 0),
+    }))
+    .filter(group => group.ids.length > 0);
 
-export default function CourseSelect({ selectedId, onChange }) {
-  const visibleGroups = GROUPS.map(group => ({
-    ...group,
-    ids: group.ids.filter(id => (COURSES.find(course => course.id === id)?.data.length || 0) > 0),
-  })).filter(group => group.ids.length > 0);
-
-  const visibleCourses = COURSES.filter(course => course.data.length > 0);
+  const visibleCourses = courses.filter(course => course.data.length > 0);
   const selected = visibleCourses.find(c => c.id === selectedId) || visibleCourses[0];
-  const verifiedCount = selected.data.length;
+  const verifiedCount = selected?.data.length ?? 0;
 
   return (
     <div className="mb-6">
@@ -42,7 +28,7 @@ export default function CourseSelect({ selectedId, onChange }) {
               {visibleGroups.map(group => (
                 <optgroup key={group.label} label={group.label} className="bg-[#0a1f3a]">
                   {group.ids.map(id => {
-                    const course = COURSES.find(c => c.id === id);
+                    const course = courses.find(c => c.id === id);
                     return course ? (
                       <option key={id} value={id} className="bg-[#0a1f3a] text-slate-100">
                         {course.label}
@@ -58,7 +44,7 @@ export default function CourseSelect({ selectedId, onChange }) {
               </svg>
             </div>
           </div>
-          {selected.description && (
+          {selected?.description && (
             <div className="mt-1.5 text-[11px] text-slate-600">
               {selected.description} · {verifiedCount} verified match{verifiedCount === 1 ? '' : 'es'}
             </div>
@@ -66,7 +52,7 @@ export default function CourseSelect({ selectedId, onChange }) {
         </div>
 
         <Link
-          to={`/course/${selectedId}`}
+          to={`/${strandId}/course/${selectedId}`}
           className="flex-shrink-0 inline-flex items-center gap-2 px-4 py-3 rounded-lg bg-blue-600/20 border border-blue-500/40 text-sm font-semibold text-blue-300 hover:bg-blue-600/30 hover:text-blue-200 transition-all"
         >
           <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">

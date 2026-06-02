@@ -1,14 +1,17 @@
-import { Routes, Route } from 'react-router-dom';
-import Home from './pages/Home';
+import { Routes, Route, Navigate } from 'react-router-dom';
+import Landing from './pages/Landing';
+import StrandHome from './pages/StrandHome';
 import UniversityPage from './pages/UniversityPage';
 import CoursePage from './pages/CoursePage';
 
 export default function App() {
   return (
     <Routes>
-      <Route path="/" element={<Home />} />
-      <Route path="/university/:slug" element={<UniversityPage />} />
-      <Route path="/course/:courseId" element={<CoursePage />} />
+      <Route path="/" element={<Landing />} />
+      <Route path="/:strand" element={<StrandHome />} />
+      <Route path="/:strand/university/:slug" element={<UniversityPage />} />
+      <Route path="/:strand/course/:courseId" element={<CoursePage />} />
+      <Route path="*" element={<Navigate to="/" replace />} />
     </Routes>
   );
 }
