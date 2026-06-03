@@ -1,5 +1,6 @@
 import { useParams, useNavigate, Navigate } from 'react-router-dom';
 import { getStrand } from '../config/strands';
+import { useCourseDetail } from '../hooks/useCourseDetail';
 
 function Section({ title, children }) {
   return (
@@ -36,19 +37,27 @@ export default function CoursePage() {
   const { strand: strandId, courseId } = useParams();
   const navigate = useNavigate();
   const strand = getStrand(strandId);
+  const { detail: course, loading, error } = useCourseDetail(courseId, strandId);
 
   if (!strand) {
     return <Navigate to="/" replace />;
   }
 
-  const course = strand.courseDetails[courseId];
   const courseMeta = strand.courses.find(item => item.id === courseId);
 
-  if (!course) {
+  if (loading) {
+    return (
+      <div className="flex min-h-screen items-center justify-center" style={{ background: '#050e1f' }}>
+        <div className="text-sm text-slate-500">Loading course details...</div>
+      </div>
+    );
+  }
+
+  if (error || !course) {
     return (
       <div className="flex min-h-screen items-center justify-center" style={{ background: '#050e1f' }}>
         <div className="text-center">
-          <div className="mb-4 text-slate-400">Course details not found.</div>
+          <div className="mb-4 text-slate-400">{error ? `Error: ${error}` : 'Course details not found.'}</div>
           <button onClick={() => navigate(-1)} className="text-blue-400 underline hover:text-blue-300">
             {'<- Back to comparison'}
           </button>

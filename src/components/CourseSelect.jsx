@@ -1,16 +1,22 @@
 import { Link } from 'react-router-dom';
 
-export default function CourseSelect({ selectedId, onChange, courses, groups, strandId }) {
+export default function CourseSelect({ selectedId, onChange, courses, groups, strandId, rowCounts, verifiedCount }) {
+  // rowCounts is a Map<courseId, number> populated from Supabase once the strand loads.
+  // While it's empty (still fetching), show all courses so the selector isn't blank.
+  const countsReady = rowCounts.size > 0;
+
   const visibleGroups = groups
     .map(group => ({
       ...group,
-      ids: group.ids.filter(id => (courses.find(course => course.id === id)?.data.length || 0) > 0),
+      ids: group.ids.filter(id => !countsReady || (rowCounts.get(id) ?? 0) > 0),
     }))
     .filter(group => group.ids.length > 0);
 
-  const visibleCourses = courses.filter(course => course.data.length > 0);
+  const visibleCourses = courses.filter(
+    course => !countsReady || (rowCounts.get(course.id) ?? 0) > 0,
+  );
   const selected = visibleCourses.find(c => c.id === selectedId) || visibleCourses[0];
-  const verifiedCount = selected?.data.length ?? 0;
+  const count = verifiedCount ?? 0;
 
   return (
     <div className="mb-6">
@@ -46,7 +52,7 @@ export default function CourseSelect({ selectedId, onChange, courses, groups, st
           </div>
           {selected?.description && (
             <div className="mt-1.5 text-[11px] text-slate-600">
-              {selected.description} · {verifiedCount} verified match{verifiedCount === 1 ? '' : 'es'}
+              {selected.description} · {count} verified match{count === 1 ? '' : 'es'}
             </div>
           )}
         </div>

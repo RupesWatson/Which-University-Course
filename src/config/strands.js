@@ -1,30 +1,8 @@
-// Single source of truth for subject-area "strands".
-// Each strand owns its own courses list, course/university detail blobs,
-// dropdown groupings, and page copy.
-//
-// Adding a third strand later (e.g. Engineering) means dropping new data
-// files into src/data/<strand>/, importing them here, and adding one entry
-// to STRANDS — no component changes required.
-
 import { COURSES as biochemCourses } from '../data/biochemistry/courses';
-import biochemCourseDetails from '../data/biochemistry/course-details.json';
-import biochemUniDetails from '../data/biochemistry/university-details.json';
-
 import { COURSES as financeCourses } from '../data/finance/courses';
-import financeCourseDetails from '../data/finance/course-details.json';
-import financeUniDetails from '../data/finance/university-details.json';
-
 import { COURSES as physicsCourses } from '../data/physics/courses';
-import physicsCourseDetails from '../data/physics/course-details.json';
-import physicsUniDetails from '../data/physics/university-details.json';
-
 import { COURSES as mathsCourses } from '../data/maths/courses';
-import mathsCourseDetails from '../data/maths/course-details.json';
-import mathsUniDetails from '../data/maths/university-details.json';
-
 import { COURSES as engineeringCourses } from '../data/engineering/courses';
-import engineeringCourseDetails from '../data/engineering/course-details.json';
-import engineeringUniDetails from '../data/engineering/university-details.json';
 
 export const STRANDS = {
   biochemistry: {
@@ -46,8 +24,6 @@ export const STRANDS = {
       { label: 'Specialist & Placement', ids: ['medicinalChem', 'biochemIndustry'] },
     ],
     courses: biochemCourses,
-    courseDetails: biochemCourseDetails,
-    universityDetails: biochemUniDetails,
   },
   finance: {
     id: 'finance',
@@ -71,8 +47,6 @@ export const STRANDS = {
       },
     ],
     courses: financeCourses,
-    courseDetails: financeCourseDetails,
-    universityDetails: financeUniDetails,
   },
   physics: {
     id: 'physics',
@@ -93,8 +67,6 @@ export const STRANDS = {
       { label: 'Applied & Specialist', ids: ['medicalPhysics', 'geophysics', 'physicsIndustry'] },
     ],
     courses: physicsCourses,
-    courseDetails: physicsCourseDetails,
-    universityDetails: physicsUniDetails,
   },
   maths: {
     id: 'maths',
@@ -115,8 +87,6 @@ export const STRANDS = {
       { label: 'Applied & Specialist', ids: ['operationalResearch', 'dataScience', 'mathsIndustry'] },
     ],
     courses: mathsCourses,
-    courseDetails: mathsCourseDetails,
-    universityDetails: mathsUniDetails,
   },
   engineering: {
     id: 'engineering',
@@ -137,8 +107,6 @@ export const STRANDS = {
       { label: 'Electrical & Chemical', ids: ['electrical', 'chemical'] },
     ],
     courses: engineeringCourses,
-    courseDetails: engineeringCourseDetails,
-    universityDetails: engineeringUniDetails,
   },
 };
 
