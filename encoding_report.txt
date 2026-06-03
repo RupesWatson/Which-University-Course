@@ -1,0 +1,37 @@
+
+======================================================================
+STRAND: biochemistry/university-details.json
+JSON parse:           OK
+Replacement chars:    0
+Curly quotes:         0
+Stray control chars:  0
+
+======================================================================
+STRAND: finance/university-details.json
+JSON parse:           OK
+Replacement chars:    0
+Curly quotes:         0
+Stray control chars:  0
+
+======================================================================
+STRAND: physics/university-details.json
+JSON parse:           OK
+Replacement chars:    0
+Curly quotes:         0
+Stray control chars:  0
+
+======================================================================
+STRAND: maths/university-details.json
+JSON parse:           OK
+Replacement chars:    0
+Curly quotes:         0
+Stray control chars:  0
+
+======================================================================
+STRAND: engineering/university-details.json
+JSON parse:           OK
+Replacement chars:    0
+Curly quotes:         0
+Stray control chars:  0
+
+TOTAL ISSUES: 0
