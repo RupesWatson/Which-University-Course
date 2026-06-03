@@ -1,10 +1,20 @@
 import { useMemo, useState } from 'react';
 import { useParams, useSearchParams, Link, Navigate } from 'react-router-dom';
 import { getStrand } from '../config/strands';
+import { useCourseRows } from '../hooks/useCourseRows';
+import { useStrandRowCounts } from '../hooks/useStrandRowCounts';
 import StatsBar from '../components/StatsBar';
 import Filters from '../components/Filters';
 import CourseSelect from '../components/CourseSelect';
 import Table from '../components/Table';
+
+function LoadingTable() {
+  return (
+    <div className="flex items-center justify-center rounded-xl border border-blue-900/40 py-20">
+      <div className="text-sm text-slate-500">Loading universities...</div>
+    </div>
+  );
+}
 
 export default function StrandHome() {
   const { strand: strandId } = useParams();
@@ -14,19 +24,20 @@ export default function StrandHome() {
   const [tier, setTier] = useState('All');
   const [gradeType, setGradeType] = useState('aLevel');
 
-  // Resolve current course (or null for an unknown/missing strand).
   const courses = strand?.courses ?? [];
   const courseId = searchParams.get('course') || courses[0]?.id;
   const course = courses.find(item => item.id === courseId) || courses[0] || null;
 
+  const { rows, loading: rowsLoading, error: rowsError } = useCourseRows(course?.id, strandId);
+  const { counts: rowCounts } = useStrandRowCounts(strandId);
+
   const filtered = useMemo(() => {
-    if (!course) return [];
-    return course.data.filter(university => {
+    return rows.filter(university => {
       const matchSearch = university.name.toLowerCase().includes(search.toLowerCase());
       const matchTier = tier === 'All' || university.tier === tier;
       return matchSearch && matchTier;
     });
-  }, [course, search, tier]);
+  }, [rows, search, tier]);
 
   if (!strand) {
     return <Navigate to="/" replace />;
@@ -116,10 +127,21 @@ export default function StrandHome() {
           courses={courses}
           groups={courseGroups}
           strandId={strand.id}
+          rowCounts={rowCounts}
+          verifiedCount={rows.length}
         />
         <StatsBar universities={filtered} course={course} gradeType={gradeType} />
         <Filters search={search} setSearch={setSearch} tier={tier} setTier={setTier} />
-        <Table universities={filtered} course={course} strandId={strand.id} gradeType={gradeType} />
+
+        {rowsError ? (
+          <div className="rounded-xl border border-red-900/40 bg-red-950/20 px-6 py-10 text-center text-sm text-red-400">
+            Failed to load data: {rowsError}
+          </div>
+        ) : rowsLoading ? (
+          <LoadingTable />
+        ) : (
+          <Table universities={filtered} course={course} strandId={strand.id} gradeType={gradeType} />
+        )}
 
         <footer className="mt-10 text-center text-xs text-slate-600">
           {strand.footerNote}

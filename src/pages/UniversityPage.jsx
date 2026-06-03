@@ -1,5 +1,6 @@
 import { useParams, Link, useNavigate, Navigate } from 'react-router-dom';
 import { getStrand } from '../config/strands';
+import { useUniversityDetail } from '../hooks/useUniversityDetail';
 
 function Section({ title, children }) {
   return (
@@ -173,18 +174,27 @@ export default function UniversityPage() {
   const { strand: strandId, slug } = useParams();
   const navigate = useNavigate();
   const strand = getStrand(strandId);
+  const { uni, loading, error } = useUniversityDetail(slug);
 
   if (!strand) {
     return <Navigate to="/" replace />;
   }
 
-  const uni = strand.universityDetails[slug];
+  if (loading) {
+    return (
+      <div className="min-h-screen flex items-center justify-center" style={{ background: '#050e1f' }}>
+        <div className="text-sm text-slate-500">Loading university details...</div>
+      </div>
+    );
+  }
 
-  if (!uni) {
+  if (error || !uni) {
     return (
       <div className="min-h-screen flex items-center justify-center" style={{ background: '#050e1f' }}>
         <div className="text-center">
-          <div className="text-slate-400 mb-4">University not found in {strand.label}.</div>
+          <div className="text-slate-400 mb-4">
+            {error ? `Error: ${error}` : `University not found in ${strand.label}.`}
+          </div>
           <Link to={`/${strandId}`} className="text-blue-400 hover:text-blue-300 underline">← Back to comparison</Link>
         </div>
       </div>

@@ -1,14 +1,3 @@
-import physicsData from './physics.json';
-import astrophysicsData from './astrophysics.json';
-import theoreticalPhysicsData from './theoretical-physics.json';
-import mathematicalPhysicsData from './mathematical-physics.json';
-import physicsPhilosophyData from './physics-philosophy.json';
-import spaceScienceData from './space-science.json';
-import computationalPhysicsData from './computational-physics.json';
-import medicalPhysicsData from './medical-physics.json';
-import geophysicsData from './geophysics.json';
-import physicsWithIndustryData from './physics-with-industry.json';
-
 export const COURSES = [
   {
     id: 'physics',
@@ -16,7 +5,6 @@ export const COURSES = [
     rankLabel: 'Subject Rank',
     description: 'UCAS 2026 verified Physics BSc and MPhys titles across top UK universities',
     rankingScope: 'official',
-    data: physicsData,
   },
   {
     id: 'astrophysics',
@@ -24,7 +12,6 @@ export const COURSES = [
     rankLabel: 'Table Position',
     description: 'UCAS 2026 verified Astrophysics BSc and MPhys titles — one of the most popular science degrees',
     rankingScope: 'comparison',
-    data: astrophysicsData,
   },
   {
     id: 'theoreticalPhysics',
@@ -32,7 +19,6 @@ export const COURSES = [
     rankLabel: 'Table Position',
     description: 'UCAS 2026 verified Theoretical Physics MPhys titles — the most mathematically demanding physics degree',
     rankingScope: 'comparison',
-    data: theoreticalPhysicsData,
   },
   {
     id: 'mathematicalPhysics',
@@ -40,7 +26,6 @@ export const COURSES = [
     rankLabel: 'Table Position',
     description: 'UCAS 2026 verified Mathematical Physics titles — bridging physics and mathematics at the highest level',
     rankingScope: 'comparison',
-    data: mathematicalPhysicsData,
   },
   {
     id: 'physicsPhilosophy',
@@ -48,7 +33,6 @@ export const COURSES = [
     rankLabel: 'Table Position',
     description: 'UCAS 2026 verified Physics and Philosophy degrees — exploring the deepest questions in science and philosophy',
     rankingScope: 'comparison',
-    data: physicsPhilosophyData,
   },
   {
     id: 'spaceScience',
@@ -56,7 +40,6 @@ export const COURSES = [
     rankLabel: 'Table Position',
     description: 'UCAS 2026 verified Space Science, Astronomy and Astrophysics titles — for the next generation of space scientists',
     rankingScope: 'comparison',
-    data: spaceScienceData,
   },
   {
     id: 'computationalPhysics',
@@ -64,7 +47,6 @@ export const COURSES = [
     rankLabel: 'Table Position',
     description: 'UCAS 2026 verified Computational Physics and Physics with Data Science titles — combining physics with modern computing',
     rankingScope: 'comparison',
-    data: computationalPhysicsData,
   },
   {
     id: 'medicalPhysics',
@@ -72,7 +54,6 @@ export const COURSES = [
     rankLabel: 'Table Position',
     description: 'UCAS 2026 verified Medical Physics titles — applying physics to healthcare, imaging and radiotherapy',
     rankingScope: 'comparison',
-    data: medicalPhysicsData,
   },
   {
     id: 'geophysics',
@@ -80,7 +61,6 @@ export const COURSES = [
     rankLabel: 'Table Position',
     description: 'UCAS 2026 verified Geophysics MPhys titles — physics of the Earth and applications in energy and environment',
     rankingScope: 'comparison',
-    data: geophysicsData,
   },
   {
     id: 'physicsIndustry',
@@ -88,6 +68,5 @@ export const COURSES = [
     rankLabel: 'Table Position',
     description: 'UCAS 2026 verified Physics degrees with Year in Industry — combining academic excellence with employer experience',
     rankingScope: 'comparison',
-    data: physicsWithIndustryData,
   },
 ];

@@ -1,10 +1,3 @@
-import engineeringData from './engineering.json';
-import mechanicalData from './mechanical-engineering.json';
-import civilData from './civil-engineering.json';
-import electricalData from './electrical-engineering.json';
-import chemicalData from './chemical-engineering.json';
-import aerospaceData from './aerospace-engineering.json';
-
 export const COURSES = [
   {
     id: 'engineering',
@@ -12,7 +5,6 @@ export const COURSES = [
     rankLabel: 'Table Position',
     description: 'UCAS 2026 verified Engineering BEng and MEng titles — broad-entry degrees covering all engineering disciplines',
     rankingScope: 'comparison',
-    data: engineeringData,
   },
   {
     id: 'mechanical',
@@ -20,7 +12,6 @@ export const COURSES = [
     rankLabel: 'Table Position',
     description: 'UCAS 2026 verified Mechanical Engineering BEng and MEng titles across top UK universities',
     rankingScope: 'comparison',
-    data: mechanicalData,
   },
   {
     id: 'civil',
@@ -28,7 +19,6 @@ export const COURSES = [
     rankLabel: 'Table Position',
     description: 'UCAS 2026 verified Civil Engineering BEng and MEng titles across top UK universities',
     rankingScope: 'comparison',
-    data: civilData,
   },
   {
     id: 'electrical',
@@ -36,7 +26,6 @@ export const COURSES = [
     rankLabel: 'Table Position',
     description: 'UCAS 2026 verified Electrical and Electronic Engineering BEng and MEng titles',
     rankingScope: 'comparison',
-    data: electricalData,
   },
   {
     id: 'chemical',
@@ -44,7 +33,6 @@ export const COURSES = [
     rankLabel: 'Table Position',
     description: 'UCAS 2026 verified Chemical Engineering BEng and MEng titles — process, biochemical and energy engineering',
     rankingScope: 'comparison',
-    data: chemicalData,
   },
   {
     id: 'aerospace',
@@ -52,6 +40,5 @@ export const COURSES = [
     rankLabel: 'Table Position',
     description: 'UCAS 2026 verified Aerospace and Aeronautical Engineering BEng and MEng titles',
     rankingScope: 'comparison',
-    data: aerospaceData,
   },
 ];
