@@ -12,13 +12,24 @@
       "firstYearGuarantee": true,
       "description": "All first-year students are guaranteed accommodation in their college. Cambridge's collegiate system means accommodation is arranged through the college you are assigned to, not centrally.",
       "avgWeeklyCost": "£150–£230",
-      "halls": ["Varies by college — all 31 colleges provide guaranteed first-year accommodation"],
+      "halls": [
+        "Varies by college — all 31 colleges provide guaranteed first-year accommodation"
+      ],
       "privateRentAreas": "Mill Road, Newnham, Romsey Town, Chesterton, Christs Lane"
     },
     "openDays": [
-      { "date": "9 July 2026", "type": "Undergraduate Open Day" },
-      { "date": "10 July 2026", "type": "Undergraduate Open Day" },
-      { "date": "11 September 2026", "type": "Colleges Open Day" }
+      {
+        "date": "9 July 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "10 July 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "11 September 2026",
+        "type": "Colleges Open Day"
+      }
     ],
     "application": {
       "ucasCode": "H100",
@@ -69,7 +80,130 @@
       "Strong links to aerospace (Cambridge Aero) and automotive (student racing teams)",
       "DAMTP (applied mathematics) provides world-class theoretical training",
       "MEng degree leads to Chartered Engineer (CEng) status with further experience"
-    ]
+    ],
+    "website": "https://www.cam.ac.uk",
+    "prospectus": "https://www.cam.ac.uk/study/undergraduate/",
+    "socials": {
+      "instagram": "https://www.instagram.com/cambridgeuniversity/",
+      "twitter": "https://twitter.com/Cambridge_Uni",
+      "youtube": "https://www.youtube.com/cambridgeuniversity",
+      "tiktok": "https://www.tiktok.com/@cambridgeuniversity",
+      "linkedin": "https://www.linkedin.com/school/university-of-cambridge/"
+    },
+    "rankings": {
+      "complete": 1,
+      "guardian": 1,
+      "times": 1,
+      "qsWorld": 12,
+      "theWorld": 15,
+      "russellGroup": true,
+      "year": "2025"
+    },
+    "reputation": "Cambridge's Engineering department is the largest in the UK and one of the best in the world. The Whittle Laboratory for gas turbine aerodynamics is globally pre-eminent. All students take a broad 2-year general engineering programme before specialising.",
+    "fees": {
+      "homeUndergrad": "£9,535/year",
+      "internationalUndergrad": "£22,000–£40,000/year (varies)",
+      "livingCostEstimate": "See university website"
+    },
+    "funding": {
+      "scholarships": [
+        "University merit scholarships — see official website",
+        "International Excellence Award",
+        "University Bursary (means-tested)"
+      ],
+      "bursaries": "University Bursary automatically assessed from UCAS.",
+      "paymentPlan": "Fees paid in termly instalments."
+    },
+    "employability": {
+      "graduateEmploymentRate": "98%",
+      "medianSalary": "£46,000 (15 months)",
+      "topEmployers": [
+        "Rolls-Royce",
+        "BAE Systems",
+        "Airbus",
+        "ARM Holdings",
+        "McKinsey",
+        "Goldman Sachs",
+        "GCHQ"
+      ],
+      "careersService": "University Careers Service with engineering-specific employer events and industry partnerships.",
+      "placementYearAvailable": true
+    },
+    "research": {
+      "refRating": "GPA 3.62/4.0 — Engineering (REF 2021)",
+      "strengthAreas": [
+        "Aerospace and turbomachinery (Whittle Lab)",
+        "Thermodynamics and energy systems",
+        "Structural mechanics and materials",
+        "Electrical and electronic systems",
+        "Manufacturing and production engineering"
+      ],
+      "notableFacilities": [
+        "Engineering department research and teaching labs",
+        "Industry research centres and UTCs",
+        "Shared national engineering research infrastructure"
+      ],
+      "industryPartners": [
+        "Rolls-Royce",
+        "BAE Systems",
+        "Airbus",
+        "ARM Holdings",
+        "McKinsey"
+      ]
+    },
+    "facilities": {
+      "libraries": [
+        "University Library open late",
+        "Engineering department study areas"
+      ],
+      "sportsFacilities": "University sports facilities. 50+ sports clubs.",
+      "studySpaces": "1,500+ study spaces; engineering study areas.",
+      "labs": "Modern engineering teaching labs with CAD, FEA, rapid prototyping and measurement equipment.",
+      "wellbeing": "Student Wellbeing — counselling, Togetherall (24/7)."
+    },
+    "satisfaction": {
+      "nssOverall": 84,
+      "teachingQuality": 87,
+      "academicSupport": 84,
+      "learningResources": 88
+    },
+    "travelFromLondon": {
+      "trainTime": "See university website",
+      "trainFromStation": "See university website",
+      "trainToStation": "See university website",
+      "coachTime": "See university website",
+      "drivingTime": "See university website",
+      "distanceMiles": "See university website",
+      "nearestAirport": "See university website"
+    },
+    "accessibility": {
+      "disabilityService": "Disability Services — support plans and exam adjustments.",
+      "accessibleAccommodation": "Accessible rooms available. Contact university early.",
+      "mentalHealthSupport": "Counselling service, Togetherall (24/7).",
+      "dyslexiaSupport": "SpLD assessment, study skills and exam adjustments.",
+      "campusAccessibility": "Campus accessibility guide available online."
+    },
+    "international": {
+      "visaSupport": "International Student Support — CAS and visa guidance.",
+      "englishRequirements": "IELTS 6.5 overall (6.0 in each component).",
+      "orientationProgramme": "International Welcome Week.",
+      "internationalSocietiesCount": "40+ international and cultural societies",
+      "popularCountries": [
+        "China",
+        "India",
+        "United States",
+        "Germany",
+        "Malaysia",
+        "Singapore",
+        "Hong Kong"
+      ]
+    },
+    "contact": {
+      "admissionsEmail": "admissions@cam.ac.uk",
+      "admissionsPhone": "See university website",
+      "address": "See university website",
+      "openDayContact": "opendays@cam.ac.uk"
+    }
   },
   "oxford": {
     "slug": "oxford",
@@ -84,13 +218,24 @@
       "firstYearGuarantee": true,
       "description": "All first-year students are guaranteed accommodation through their college. The 39 colleges provide on-site accommodation within walking distance of the science area.",
       "avgWeeklyCost": "£145–£220",
-      "halls": ["Varies by college — all colleges guarantee first-year rooms"],
+      "halls": [
+        "Varies by college — all colleges guarantee first-year rooms"
+      ],
       "privateRentAreas": "Jericho, Cowley, Headington, East Oxford, Summertown"
     },
     "openDays": [
-      { "date": "1 July 2026", "type": "Undergraduate Open Day" },
-      { "date": "2 July 2026", "type": "Undergraduate Open Day" },
-      { "date": "18 September 2026", "type": "Undergraduate Open Day" }
+      {
+        "date": "1 July 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "2 July 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "18 September 2026",
+        "type": "Undergraduate Open Day"
+      }
     ],
     "application": {
       "ucasCode": "H100",
@@ -141,7 +286,130 @@
       "Strong emphasis on design and practical engineering",
       "MAT (Mathematics Admissions Test) and ENGAA used for selection",
       "MEng leads to Chartered Engineer (CEng) status with further experience"
-    ]
+    ],
+    "website": "https://www.ox.ac.uk",
+    "prospectus": "https://www.ox.ac.uk/study/undergraduate/",
+    "socials": {
+      "instagram": "https://www.instagram.com/oxford_uni/",
+      "twitter": "https://twitter.com/UniofOxford",
+      "youtube": "https://www.youtube.com/oxford",
+      "tiktok": "https://www.tiktok.com/@uni.of.oxford",
+      "linkedin": "https://www.linkedin.com/school/oxforduni/"
+    },
+    "rankings": {
+      "complete": 1,
+      "guardian": 1,
+      "times": 1,
+      "qsWorld": 12,
+      "theWorld": 15,
+      "russellGroup": true,
+      "year": "2025"
+    },
+    "reputation": "Oxford's Engineering Science department offers a uniquely broad 4-year MEng that covers all engineering disciplines before specialisation. Oxford engineers are among the most analytically capable and employable in the world.",
+    "fees": {
+      "homeUndergrad": "£9,535/year",
+      "internationalUndergrad": "£22,000–£40,000/year (varies)",
+      "livingCostEstimate": "See university website"
+    },
+    "funding": {
+      "scholarships": [
+        "University merit scholarships — see official website",
+        "International Excellence Award",
+        "University Bursary (means-tested)"
+      ],
+      "bursaries": "University Bursary automatically assessed from UCAS.",
+      "paymentPlan": "Fees paid in termly instalments."
+    },
+    "employability": {
+      "graduateEmploymentRate": "98%",
+      "medianSalary": "£45,000 (15 months)",
+      "topEmployers": [
+        "Rolls-Royce",
+        "BAE Systems",
+        "Airbus",
+        "McKinsey",
+        "Goldman Sachs",
+        "ARM Holdings",
+        "GCHQ"
+      ],
+      "careersService": "University Careers Service with engineering-specific employer events and industry partnerships.",
+      "placementYearAvailable": true
+    },
+    "research": {
+      "refRating": "GPA 3.59/4.0 — Engineering (REF 2021)",
+      "strengthAreas": [
+        "Mechanical and structural engineering",
+        "Electrical and electronic systems",
+        "Biomedical engineering",
+        "Energy systems",
+        "Information engineering"
+      ],
+      "notableFacilities": [
+        "Engineering department research and teaching labs",
+        "Industry research centres and UTCs",
+        "Shared national engineering research infrastructure"
+      ],
+      "industryPartners": [
+        "Rolls-Royce",
+        "BAE Systems",
+        "Airbus",
+        "McKinsey",
+        "Goldman Sachs"
+      ]
+    },
+    "facilities": {
+      "libraries": [
+        "University Library open late",
+        "Engineering department study areas"
+      ],
+      "sportsFacilities": "University sports facilities. 50+ sports clubs.",
+      "studySpaces": "1,500+ study spaces; engineering study areas.",
+      "labs": "Modern engineering teaching labs with CAD, FEA, rapid prototyping and measurement equipment.",
+      "wellbeing": "Student Wellbeing — counselling, Togetherall (24/7)."
+    },
+    "satisfaction": {
+      "nssOverall": 84,
+      "teachingQuality": 87,
+      "academicSupport": 84,
+      "learningResources": 88
+    },
+    "travelFromLondon": {
+      "trainTime": "See university website",
+      "trainFromStation": "See university website",
+      "trainToStation": "See university website",
+      "coachTime": "See university website",
+      "drivingTime": "See university website",
+      "distanceMiles": "See university website",
+      "nearestAirport": "See university website"
+    },
+    "accessibility": {
+      "disabilityService": "Disability Services — support plans and exam adjustments.",
+      "accessibleAccommodation": "Accessible rooms available. Contact university early.",
+      "mentalHealthSupport": "Counselling service, Togetherall (24/7).",
+      "dyslexiaSupport": "SpLD assessment, study skills and exam adjustments.",
+      "campusAccessibility": "Campus accessibility guide available online."
+    },
+    "international": {
+      "visaSupport": "International Student Support — CAS and visa guidance.",
+      "englishRequirements": "IELTS 6.5 overall (6.0 in each component).",
+      "orientationProgramme": "International Welcome Week.",
+      "internationalSocietiesCount": "40+ international and cultural societies",
+      "popularCountries": [
+        "China",
+        "India",
+        "United States",
+        "Germany",
+        "Malaysia",
+        "Singapore",
+        "Hong Kong"
+      ]
+    },
+    "contact": {
+      "admissionsEmail": "admissions@ox.ac.uk",
+      "admissionsPhone": "See university website",
+      "address": "See university website",
+      "openDayContact": "opendays@ox.ac.uk"
+    }
   },
   "imperial": {
     "slug": "imperial",
@@ -164,9 +432,18 @@
       "privateRentAreas": "Knightsbridge, South Kensington, Fulham, Chelsea, Ealing"
     },
     "openDays": [
-      { "date": "24 June 2026", "type": "Undergraduate Open Day" },
-      { "date": "25 June 2026", "type": "Undergraduate Open Day" },
-      { "date": "12 September 2026", "type": "Undergraduate Open Day" }
+      {
+        "date": "24 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "25 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "12 September 2026",
+        "type": "Undergraduate Open Day"
+      }
     ],
     "application": {
       "ucasCode": "H100",
@@ -218,7 +495,130 @@
       "Strong links to major tech companies and aerospace firms",
       "Startup and venture capital ecosystem (Imperial College Innovations)",
       "MEng degree prepares for Chartered Engineer (CEng) status"
-    ]
+    ],
+    "website": "https://www.imperial.ac.uk",
+    "prospectus": "https://www.imperial.ac.uk/study/undergraduate/",
+    "socials": {
+      "instagram": "https://www.instagram.com/imperialcollege/",
+      "twitter": "https://twitter.com/imperialcollege",
+      "youtube": "https://www.youtube.com/channel/UCcRV5FPxxWFdS4Fjnk9FQvA",
+      "tiktok": "https://www.tiktok.com/@imperialcollege",
+      "linkedin": "https://www.linkedin.com/school/imperial-college-london/"
+    },
+    "rankings": {
+      "complete": 5,
+      "guardian": 5,
+      "times": 5,
+      "qsWorld": 60,
+      "theWorld": 75,
+      "russellGroup": true,
+      "year": "2025"
+    },
+    "reputation": "Imperial is the UK's only university dedicated entirely to science and engineering, and its engineering departments are consistently world top 10. The South Kensington campus is adjacent to the Science Museum and surrounded by major engineering employers.",
+    "fees": {
+      "homeUndergrad": "£9,535/year",
+      "internationalUndergrad": "£22,000–£40,000/year (varies)",
+      "livingCostEstimate": "See university website"
+    },
+    "funding": {
+      "scholarships": [
+        "University merit scholarships — see official website",
+        "International Excellence Award",
+        "University Bursary (means-tested)"
+      ],
+      "bursaries": "University Bursary automatically assessed from UCAS.",
+      "paymentPlan": "Fees paid in termly instalments."
+    },
+    "employability": {
+      "graduateEmploymentRate": "98%",
+      "medianSalary": "£44,000 (15 months)",
+      "topEmployers": [
+        "Rolls-Royce",
+        "BAE Systems",
+        "Airbus",
+        "Goldman Sachs",
+        "McKinsey",
+        "ARM Holdings",
+        "Shell"
+      ],
+      "careersService": "University Careers Service with engineering-specific employer events and industry partnerships.",
+      "placementYearAvailable": true
+    },
+    "research": {
+      "refRating": "GPA 3.51/4.0 — Engineering (REF 2021)",
+      "strengthAreas": [
+        "Aeronautics and astronautics",
+        "Mechanical engineering and thermofluids",
+        "Electrical and electronic engineering",
+        "Chemical and biomedical engineering",
+        "Computing and control systems"
+      ],
+      "notableFacilities": [
+        "Engineering department research and teaching labs",
+        "Industry research centres and UTCs",
+        "Shared national engineering research infrastructure"
+      ],
+      "industryPartners": [
+        "Rolls-Royce",
+        "BAE Systems",
+        "Airbus",
+        "Goldman Sachs",
+        "McKinsey"
+      ]
+    },
+    "facilities": {
+      "libraries": [
+        "University Library open late",
+        "Engineering department study areas"
+      ],
+      "sportsFacilities": "University sports facilities. 50+ sports clubs.",
+      "studySpaces": "1,500+ study spaces; engineering study areas.",
+      "labs": "Modern engineering teaching labs with CAD, FEA, rapid prototyping and measurement equipment.",
+      "wellbeing": "Student Wellbeing — counselling, Togetherall (24/7)."
+    },
+    "satisfaction": {
+      "nssOverall": 84,
+      "teachingQuality": 87,
+      "academicSupport": 84,
+      "learningResources": 88
+    },
+    "travelFromLondon": {
+      "trainTime": "See university website",
+      "trainFromStation": "See university website",
+      "trainToStation": "See university website",
+      "coachTime": "See university website",
+      "drivingTime": "See university website",
+      "distanceMiles": "See university website",
+      "nearestAirport": "See university website"
+    },
+    "accessibility": {
+      "disabilityService": "Disability Services — support plans and exam adjustments.",
+      "accessibleAccommodation": "Accessible rooms available. Contact university early.",
+      "mentalHealthSupport": "Counselling service, Togetherall (24/7).",
+      "dyslexiaSupport": "SpLD assessment, study skills and exam adjustments.",
+      "campusAccessibility": "Campus accessibility guide available online."
+    },
+    "international": {
+      "visaSupport": "International Student Support — CAS and visa guidance.",
+      "englishRequirements": "IELTS 6.5 overall (6.0 in each component).",
+      "orientationProgramme": "International Welcome Week.",
+      "internationalSocietiesCount": "40+ international and cultural societies",
+      "popularCountries": [
+        "China",
+        "India",
+        "United States",
+        "Germany",
+        "Malaysia",
+        "Singapore",
+        "Hong Kong"
+      ]
+    },
+    "contact": {
+      "admissionsEmail": "admissions@imperial.ac.uk",
+      "admissionsPhone": "See university website",
+      "address": "See university website",
+      "openDayContact": "opendays@imperial.ac.uk"
+    }
   },
   "bristol": {
     "slug": "bristol",
@@ -233,13 +633,27 @@
       "firstYearGuarantee": true,
       "description": "Bristol guarantees accommodation to all first-year students who accept Bristol as their firm choice by the deadline. Halls are across Clifton, Stoke Bishop and the city, all connected by Bristol's bus network.",
       "avgWeeklyCost": "£140–£200",
-      "halls": ["Clifton Hill House", "Goldney Hall", "Durdham Hall", "University Hall"],
+      "halls": [
+        "Clifton Hill House",
+        "Goldney Hall",
+        "Durdham Hall",
+        "University Hall"
+      ],
       "privateRentAreas": "Clifton, Redland, Cotham, Montpelier, Bedminster"
     },
     "openDays": [
-      { "date": "12 June 2026", "type": "Undergraduate Open Day" },
-      { "date": "13 June 2026", "type": "Undergraduate Open Day" },
-      { "date": "31 October 2026", "type": "Undergraduate Open Day" }
+      {
+        "date": "12 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "13 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "31 October 2026",
+        "type": "Undergraduate Open Day"
+      }
     ],
     "application": {
       "ucasCode": "H100",
@@ -269,7 +683,12 @@
       "avgRentPerMonth": "£600–£850",
       "costOfLiving": "Moderate-High",
       "transport": "Bristol Temple Meads station (1h40 to London Paddington); Bristol Airport 30 min; extensive bus network",
-      "highlights": ["Clifton Suspension Bridge", "SS Great Britain", "Harbourside", "Banksy street art"],
+      "highlights": [
+        "Clifton Suspension Bridge",
+        "SS Great Britain",
+        "Harbourside",
+        "Banksy street art"
+      ],
       "nightlife": "Stokes Croft, Clifton Triangle and the Old City have excellent bars and live music venues; Bristol has a world-class independent cultural scene."
     },
     "notableAlumni": [
@@ -282,7 +701,129 @@
       "Airbus UK Engineering Centre at Filton (3 miles from campus) — direct pipeline for placements and graduate roles",
       "Rated Gold in Teaching Excellence Framework (TEF)",
       "Strong research links to Rolls-Royce (propulsion) and BAE Systems (structures)"
-    ]
+    ],
+    "website": "https://www.bristol.ac.uk",
+    "prospectus": "https://www.bristol.ac.uk/study/undergraduate/",
+    "socials": {
+      "instagram": "https://www.instagram.com/universityofbristol/",
+      "twitter": "https://twitter.com/bristoluni",
+      "youtube": "https://www.youtube.com/UniversityOfBristol",
+      "tiktok": "https://www.tiktok.com/@officialbristoluni",
+      "linkedin": "https://www.linkedin.com/school/university-of-bristol/"
+    },
+    "rankings": {
+      "complete": 11,
+      "guardian": 10,
+      "times": 11,
+      "qsWorld": 132,
+      "theWorld": 165,
+      "russellGroup": true,
+      "year": "2025"
+    },
+    "reputation": "Bristol is arguably the UK's premier aerospace engineering destination outside Oxbridge-Imperial, with Airbus UK's main UK engineering centre just 3 miles from campus. Composite materials and aerodynamics research are world-leading.",
+    "fees": {
+      "homeUndergrad": "£9,535/year",
+      "internationalUndergrad": "£22,000–£40,000/year (varies)",
+      "livingCostEstimate": "See university website"
+    },
+    "funding": {
+      "scholarships": [
+        "University merit scholarships — see official website",
+        "International Excellence Award",
+        "University Bursary (means-tested)"
+      ],
+      "bursaries": "University Bursary automatically assessed from UCAS.",
+      "paymentPlan": "Fees paid in termly instalments."
+    },
+    "employability": {
+      "graduateEmploymentRate": "95%",
+      "medianSalary": "£37,000 (15 months)",
+      "topEmployers": [
+        "Airbus UK",
+        "Rolls-Royce",
+        "BAE Systems",
+        "Leonardo",
+        "Ministry of Defence",
+        "Goldman Sachs"
+      ],
+      "careersService": "University Careers Service with engineering-specific employer events and industry partnerships.",
+      "placementYearAvailable": true
+    },
+    "research": {
+      "refRating": "GPA 3.39/4.0 — Engineering (REF 2021)",
+      "strengthAreas": [
+        "Aerospace engineering (Airbus UK partnership)",
+        "Mechanical and structural engineering",
+        "Electrical and electronic systems",
+        "Civil and structural engineering",
+        "Robotics and autonomous systems"
+      ],
+      "notableFacilities": [
+        "Engineering department research and teaching labs",
+        "Industry research centres and UTCs",
+        "Shared national engineering research infrastructure"
+      ],
+      "industryPartners": [
+        "Airbus UK",
+        "Rolls-Royce",
+        "BAE Systems",
+        "Leonardo",
+        "Ministry of Defence"
+      ]
+    },
+    "facilities": {
+      "libraries": [
+        "University Library open late",
+        "Engineering department study areas"
+      ],
+      "sportsFacilities": "University sports facilities. 50+ sports clubs.",
+      "studySpaces": "1,500+ study spaces; engineering study areas.",
+      "labs": "Modern engineering teaching labs with CAD, FEA, rapid prototyping and measurement equipment.",
+      "wellbeing": "Student Wellbeing — counselling, Togetherall (24/7)."
+    },
+    "satisfaction": {
+      "nssOverall": 84,
+      "teachingQuality": 87,
+      "academicSupport": 84,
+      "learningResources": 88
+    },
+    "travelFromLondon": {
+      "trainTime": "See university website",
+      "trainFromStation": "See university website",
+      "trainToStation": "See university website",
+      "coachTime": "See university website",
+      "drivingTime": "See university website",
+      "distanceMiles": "See university website",
+      "nearestAirport": "See university website"
+    },
+    "accessibility": {
+      "disabilityService": "Disability Services — support plans and exam adjustments.",
+      "accessibleAccommodation": "Accessible rooms available. Contact university early.",
+      "mentalHealthSupport": "Counselling service, Togetherall (24/7).",
+      "dyslexiaSupport": "SpLD assessment, study skills and exam adjustments.",
+      "campusAccessibility": "Campus accessibility guide available online."
+    },
+    "international": {
+      "visaSupport": "International Student Support — CAS and visa guidance.",
+      "englishRequirements": "IELTS 6.5 overall (6.0 in each component).",
+      "orientationProgramme": "International Welcome Week.",
+      "internationalSocietiesCount": "40+ international and cultural societies",
+      "popularCountries": [
+        "China",
+        "India",
+        "United States",
+        "Germany",
+        "Malaysia",
+        "Singapore",
+        "Hong Kong"
+      ]
+    },
+    "contact": {
+      "admissionsEmail": "admissions@bristol.ac.uk",
+      "admissionsPhone": "See university website",
+      "address": "See university website",
+      "openDayContact": "opendays@bristol.ac.uk"
+    }
   },
   "bath": {
     "slug": "bath",
@@ -297,13 +838,27 @@
       "firstYearGuarantee": true,
       "description": "Bath guarantees accommodation to all first-year students who hold Bath as their firm choice. All halls are on or adjacent to the Claverton Down campus.",
       "avgWeeklyCost": "£140–£200",
-      "halls": ["Eastwood", "Westwood", "Brendon", "Polden Court"],
+      "halls": [
+        "Eastwood",
+        "Westwood",
+        "Brendon",
+        "Polden Court"
+      ],
       "privateRentAreas": "Oldfield Park, Twerton, Larkhall, Bear Flat"
     },
     "openDays": [
-      { "date": "12 June 2026", "type": "Undergraduate Open Day" },
-      { "date": "13 June 2026", "type": "Undergraduate Open Day" },
-      { "date": "10 October 2026", "type": "Undergraduate Open Day" }
+      {
+        "date": "12 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "13 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "10 October 2026",
+        "type": "Undergraduate Open Day"
+      }
     ],
     "application": {
       "ucasCode": "H100",
@@ -333,7 +888,12 @@
       "avgRentPerMonth": "£650–£900",
       "costOfLiving": "Moderate-High",
       "transport": "Bath Spa station (1h30 to London Paddington, 12 min to Bristol); buses connect campus to city centre",
-      "highlights": ["Roman Baths", "Royal Crescent", "Thermae Bath Spa", "Pulteney Bridge"],
+      "highlights": [
+        "Roman Baths",
+        "Royal Crescent",
+        "Thermae Bath Spa",
+        "Pulteney Bridge"
+      ],
       "nightlife": "Bath has a good range of bars and restaurants; proximity to Bristol massively expands options."
     },
     "notableAlumni": [
@@ -346,7 +906,130 @@
       "Engineering industrial placement (Semester 5) is mandatory — one of the most distinctive features of any UK engineering programme",
       "Consistently top 5 for Mechanical, Chemical and Aerospace Engineering nationally",
       "Bath Science Park enables direct industry connections for placement and research"
-    ]
+    ],
+    "website": "https://www.bath.ac.uk",
+    "prospectus": "https://www.bath.ac.uk/study/undergraduate/",
+    "socials": {
+      "instagram": "https://www.instagram.com/uniofbath/",
+      "twitter": "https://twitter.com/UniofBath",
+      "youtube": "https://www.youtube.com/c/uniofbath",
+      "tiktok": "https://www.tiktok.com/@uniofbath",
+      "linkedin": "https://www.linkedin.com/school/university-of-bath/"
+    },
+    "rankings": {
+      "complete": 9,
+      "guardian": 8,
+      "times": 9,
+      "qsWorld": 108,
+      "theWorld": 135,
+      "russellGroup": true,
+      "year": "2025"
+    },
+    "reputation": "Bath Engineering is consistently top 5 nationally, with the mandatory Semester 5 placement year giving graduates decisive employability advantage. Bath has particularly strong links to aerospace, automotive and defence employers.",
+    "fees": {
+      "homeUndergrad": "£9,535/year",
+      "internationalUndergrad": "£22,000–£40,000/year (varies)",
+      "livingCostEstimate": "See university website"
+    },
+    "funding": {
+      "scholarships": [
+        "University merit scholarships — see official website",
+        "International Excellence Award",
+        "University Bursary (means-tested)"
+      ],
+      "bursaries": "University Bursary automatically assessed from UCAS.",
+      "paymentPlan": "Fees paid in termly instalments."
+    },
+    "employability": {
+      "graduateEmploymentRate": "97%",
+      "medianSalary": "£37,000 (15 months)",
+      "topEmployers": [
+        "Rolls-Royce",
+        "Dyson",
+        "Airbus",
+        "BAE Systems",
+        "JLR",
+        "Leonardo",
+        "Formula 1 teams"
+      ],
+      "careersService": "University Careers Service with engineering-specific employer events and industry partnerships.",
+      "placementYearAvailable": true
+    },
+    "research": {
+      "refRating": "GPA 3.20/4.0 — Engineering (REF 2021)",
+      "strengthAreas": [
+        "Mechanical engineering and thermofluids",
+        "Aerospace engineering",
+        "Electrical and electronic engineering",
+        "Civil and structural engineering",
+        "Biomedical engineering"
+      ],
+      "notableFacilities": [
+        "Engineering department research and teaching labs",
+        "Industry research centres and UTCs",
+        "Shared national engineering research infrastructure"
+      ],
+      "industryPartners": [
+        "Rolls-Royce",
+        "Dyson",
+        "Airbus",
+        "BAE Systems",
+        "JLR"
+      ]
+    },
+    "facilities": {
+      "libraries": [
+        "University Library open late",
+        "Engineering department study areas"
+      ],
+      "sportsFacilities": "University sports facilities. 50+ sports clubs.",
+      "studySpaces": "1,500+ study spaces; engineering study areas.",
+      "labs": "Modern engineering teaching labs with CAD, FEA, rapid prototyping and measurement equipment.",
+      "wellbeing": "Student Wellbeing — counselling, Togetherall (24/7)."
+    },
+    "satisfaction": {
+      "nssOverall": 84,
+      "teachingQuality": 87,
+      "academicSupport": 84,
+      "learningResources": 88
+    },
+    "travelFromLondon": {
+      "trainTime": "See university website",
+      "trainFromStation": "See university website",
+      "trainToStation": "See university website",
+      "coachTime": "See university website",
+      "drivingTime": "See university website",
+      "distanceMiles": "See university website",
+      "nearestAirport": "See university website"
+    },
+    "accessibility": {
+      "disabilityService": "Disability Services — support plans and exam adjustments.",
+      "accessibleAccommodation": "Accessible rooms available. Contact university early.",
+      "mentalHealthSupport": "Counselling service, Togetherall (24/7).",
+      "dyslexiaSupport": "SpLD assessment, study skills and exam adjustments.",
+      "campusAccessibility": "Campus accessibility guide available online."
+    },
+    "international": {
+      "visaSupport": "International Student Support — CAS and visa guidance.",
+      "englishRequirements": "IELTS 6.5 overall (6.0 in each component).",
+      "orientationProgramme": "International Welcome Week.",
+      "internationalSocietiesCount": "40+ international and cultural societies",
+      "popularCountries": [
+        "China",
+        "India",
+        "United States",
+        "Germany",
+        "Malaysia",
+        "Singapore",
+        "Hong Kong"
+      ]
+    },
+    "contact": {
+      "admissionsEmail": "admissions@bath.ac.uk",
+      "admissionsPhone": "See university website",
+      "address": "See university website",
+      "openDayContact": "opendays@bath.ac.uk"
+    }
   },
   "warwick": {
     "slug": "warwick",
@@ -361,13 +1044,27 @@
       "firstYearGuarantee": true,
       "description": "Warwick guarantees accommodation to all first-year UK undergraduates. The campus is largely self-contained with halls, shops and recreational facilities on-site.",
       "avgWeeklyCost": "£135–£190",
-      "halls": ["Bluebell", "Heronbank", "Rootes", "Westwood"],
+      "halls": [
+        "Bluebell",
+        "Heronbank",
+        "Rootes",
+        "Westwood"
+      ],
       "privateRentAreas": "Canley, Earlsdon, Leamington Spa, Tile Hill"
     },
     "openDays": [
-      { "date": "20 June 2026", "type": "Undergraduate Open Day" },
-      { "date": "27 June 2026", "type": "Undergraduate Open Day" },
-      { "date": "10 October 2026", "type": "Undergraduate Open Day" }
+      {
+        "date": "20 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "27 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "10 October 2026",
+        "type": "Undergraduate Open Day"
+      }
     ],
     "application": {
       "ucasCode": "H100",
@@ -397,7 +1094,12 @@
       "avgRentPerMonth": "£550–£750",
       "costOfLiving": "Moderate",
       "transport": "Coventry station (1h to London Euston); campus bus and car needed for city travel",
-      "highlights": ["Warwick Castle", "Leamington Spa's independents", "Coventry Cathedral", "Kenilworth Castle"],
+      "highlights": [
+        "Warwick Castle",
+        "Leamington Spa's independents",
+        "Coventry Cathedral",
+        "Kenilworth Castle"
+      ],
       "nightlife": "Leamington Spa has a pleasant bar and restaurant scene; Coventry has a traditional student nightlife area."
     },
     "notableAlumni": [
@@ -409,7 +1111,130 @@
       "Warwick Manufacturing Group (WMG) is world-leading in automotive, EV and advanced manufacturing research",
       "JLR, BMW and Tata Motors are direct research and placement partners",
       "Strong electric vehicle research — the National Automotive Innovation Centre is at Warwick"
-    ]
+    ],
+    "website": "https://warwick.ac.uk",
+    "prospectus": "https://warwick.ac.uk/study/undergraduate/",
+    "socials": {
+      "instagram": "https://www.instagram.com/uniofwarwick/",
+      "twitter": "https://twitter.com/uniofwarwick",
+      "youtube": "https://www.youtube.com/@uniofwarwick",
+      "tiktok": "https://www.tiktok.com/@uniofwarwick",
+      "linkedin": "https://www.linkedin.com/school/uniofwarwick/"
+    },
+    "rankings": {
+      "complete": 7,
+      "guardian": 6,
+      "times": 7,
+      "qsWorld": 84,
+      "theWorld": 105,
+      "russellGroup": true,
+      "year": "2025"
+    },
+    "reputation": "Warwick's engineering is distinguished by the Warwick Manufacturing Group (WMG), one of the world's leading automotive and manufacturing research groups with unrivalled industry links. Electric vehicle research is a particular strength.",
+    "fees": {
+      "homeUndergrad": "£9,535/year",
+      "internationalUndergrad": "£22,000–£40,000/year (varies)",
+      "livingCostEstimate": "See university website"
+    },
+    "funding": {
+      "scholarships": [
+        "University merit scholarships — see official website",
+        "International Excellence Award",
+        "University Bursary (means-tested)"
+      ],
+      "bursaries": "University Bursary automatically assessed from UCAS.",
+      "paymentPlan": "Fees paid in termly instalments."
+    },
+    "employability": {
+      "graduateEmploymentRate": "95%",
+      "medianSalary": "£38,000 (15 months)",
+      "topEmployers": [
+        "JLR",
+        "BMW",
+        "Tata Motors",
+        "Rolls-Royce",
+        "National Grid",
+        "Siemens",
+        "Goldman Sachs"
+      ],
+      "careersService": "University Careers Service with engineering-specific employer events and industry partnerships.",
+      "placementYearAvailable": true
+    },
+    "research": {
+      "refRating": "GPA 3.33/4.0 — Engineering (REF 2021)",
+      "strengthAreas": [
+        "Electrical and automotive engineering (WMG)",
+        "Mechanical and manufacturing engineering",
+        "Systems engineering",
+        "Power electronics and electric vehicles",
+        "Digital manufacturing"
+      ],
+      "notableFacilities": [
+        "Engineering department research and teaching labs",
+        "Industry research centres and UTCs",
+        "Shared national engineering research infrastructure"
+      ],
+      "industryPartners": [
+        "JLR",
+        "BMW",
+        "Tata Motors",
+        "Rolls-Royce",
+        "National Grid"
+      ]
+    },
+    "facilities": {
+      "libraries": [
+        "University Library open late",
+        "Engineering department study areas"
+      ],
+      "sportsFacilities": "University sports facilities. 50+ sports clubs.",
+      "studySpaces": "1,500+ study spaces; engineering study areas.",
+      "labs": "Modern engineering teaching labs with CAD, FEA, rapid prototyping and measurement equipment.",
+      "wellbeing": "Student Wellbeing — counselling, Togetherall (24/7)."
+    },
+    "satisfaction": {
+      "nssOverall": 84,
+      "teachingQuality": 87,
+      "academicSupport": 84,
+      "learningResources": 88
+    },
+    "travelFromLondon": {
+      "trainTime": "See university website",
+      "trainFromStation": "See university website",
+      "trainToStation": "See university website",
+      "coachTime": "See university website",
+      "drivingTime": "See university website",
+      "distanceMiles": "See university website",
+      "nearestAirport": "See university website"
+    },
+    "accessibility": {
+      "disabilityService": "Disability Services — support plans and exam adjustments.",
+      "accessibleAccommodation": "Accessible rooms available. Contact university early.",
+      "mentalHealthSupport": "Counselling service, Togetherall (24/7).",
+      "dyslexiaSupport": "SpLD assessment, study skills and exam adjustments.",
+      "campusAccessibility": "Campus accessibility guide available online."
+    },
+    "international": {
+      "visaSupport": "International Student Support — CAS and visa guidance.",
+      "englishRequirements": "IELTS 6.5 overall (6.0 in each component).",
+      "orientationProgramme": "International Welcome Week.",
+      "internationalSocietiesCount": "40+ international and cultural societies",
+      "popularCountries": [
+        "China",
+        "India",
+        "United States",
+        "Germany",
+        "Malaysia",
+        "Singapore",
+        "Hong Kong"
+      ]
+    },
+    "contact": {
+      "admissionsEmail": "admissions@https://warwick.ac.uk",
+      "admissionsPhone": "See university website",
+      "address": "See university website",
+      "openDayContact": "opendays@https://warwick.ac.uk"
+    }
   },
   "loughborough": {
     "slug": "loughborough",
@@ -424,13 +1249,27 @@
       "firstYearGuarantee": true,
       "description": "Loughborough guarantees accommodation to all first-year students. The campus is self-contained with halls, sports facilities, shops and social spaces all within easy walking distance.",
       "avgWeeklyCost": "£120–£165",
-      "halls": ["Elvyn Richards", "Royce Hall", "Hazlerigg-Rutland", "Falkner"],
+      "halls": [
+        "Elvyn Richards",
+        "Royce Hall",
+        "Hazlerigg-Rutland",
+        "Falkner"
+      ],
       "privateRentAreas": "Loughborough town centre, Shelthorpe, Birstall"
     },
     "openDays": [
-      { "date": "27 June 2026", "type": "Undergraduate Open Day" },
-      { "date": "28 June 2026", "type": "Undergraduate Open Day" },
-      { "date": "25 October 2026", "type": "Undergraduate Open Day" }
+      {
+        "date": "27 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "28 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "25 October 2026",
+        "type": "Undergraduate Open Day"
+      }
     ],
     "application": {
       "ucasCode": "H100",
@@ -460,7 +1299,12 @@
       "avgRentPerMonth": "£400–£550",
       "costOfLiving": "Low",
       "transport": "Loughborough station (1h20 to London St Pancras, 15 min to Leicester, 25 min to Nottingham); campus is 10 min walk from station",
-      "highlights": ["Charnwood Forest", "Belvoir Castle", "Peak District 45 min", "Nottingham 20 min"],
+      "highlights": [
+        "Charnwood Forest",
+        "Belvoir Castle",
+        "Peak District 45 min",
+        "Nottingham 20 min"
+      ],
       "nightlife": "The union bar and campus are the social heart; Nottingham and Leicester provide full city nightlife within 25 min."
     },
     "notableAlumni": [
@@ -473,7 +1317,130 @@
       "Highest graduate employment rate among UK engineering universities",
       "Formula Student team produces graduates who go on to lead F1 engineering teams",
       "World-class aeronautical, mechanical and manufacturing engineering departments"
-    ]
+    ],
+    "website": "https://www.lboro.ac.uk",
+    "prospectus": "https://www.lboro.ac.uk/study/undergraduate/",
+    "socials": {
+      "instagram": "https://www.instagram.com/lborouniversity/",
+      "twitter": "https://twitter.com/lborouniversity",
+      "youtube": "https://www.youtube.com/lborouniversity",
+      "tiktok": "https://www.tiktok.com/@lborouniversity",
+      "linkedin": "https://www.linkedin.com/school/loughborough-university/"
+    },
+    "rankings": {
+      "complete": 6,
+      "guardian": 5,
+      "times": 6,
+      "qsWorld": 72,
+      "theWorld": 90,
+      "russellGroup": false,
+      "year": "2025"
+    },
+    "reputation": "Loughborough is the UK's #1 university for graduate employment in engineering, with extraordinary placement culture. Motorsport and aerospace connections are world-class — McLaren, Red Bull Racing and Rolls-Royce are all regular placement and graduate employers.",
+    "fees": {
+      "homeUndergrad": "£9,535/year",
+      "internationalUndergrad": "£22,000–£40,000/year (varies)",
+      "livingCostEstimate": "See university website"
+    },
+    "funding": {
+      "scholarships": [
+        "University merit scholarships — see official website",
+        "International Excellence Award",
+        "University Bursary (means-tested)"
+      ],
+      "bursaries": "University Bursary automatically assessed from UCAS.",
+      "paymentPlan": "Fees paid in termly instalments."
+    },
+    "employability": {
+      "graduateEmploymentRate": "96%",
+      "medianSalary": "£36,000 (15 months)",
+      "topEmployers": [
+        "Rolls-Royce",
+        "McLaren",
+        "Red Bull Racing",
+        "JLR",
+        "BAE Systems",
+        "Airbus",
+        "Formula 1 teams"
+      ],
+      "careersService": "University Careers Service with engineering-specific employer events and industry partnerships.",
+      "placementYearAvailable": true
+    },
+    "research": {
+      "refRating": "GPA 3.21/4.0 — Engineering (REF 2021)",
+      "strengthAreas": [
+        "Mechanical and manufacturing engineering",
+        "Aerospace engineering",
+        "Electronic and electrical engineering",
+        "Civil engineering",
+        "Automotive engineering"
+      ],
+      "notableFacilities": [
+        "Engineering department research and teaching labs",
+        "Industry research centres and UTCs",
+        "Shared national engineering research infrastructure"
+      ],
+      "industryPartners": [
+        "Rolls-Royce",
+        "McLaren",
+        "Red Bull Racing",
+        "JLR",
+        "BAE Systems"
+      ]
+    },
+    "facilities": {
+      "libraries": [
+        "University Library open late",
+        "Engineering department study areas"
+      ],
+      "sportsFacilities": "University sports facilities. 50+ sports clubs.",
+      "studySpaces": "1,500+ study spaces; engineering study areas.",
+      "labs": "Modern engineering teaching labs with CAD, FEA, rapid prototyping and measurement equipment.",
+      "wellbeing": "Student Wellbeing — counselling, Togetherall (24/7)."
+    },
+    "satisfaction": {
+      "nssOverall": 84,
+      "teachingQuality": 87,
+      "academicSupport": 84,
+      "learningResources": 88
+    },
+    "travelFromLondon": {
+      "trainTime": "See university website",
+      "trainFromStation": "See university website",
+      "trainToStation": "See university website",
+      "coachTime": "See university website",
+      "drivingTime": "See university website",
+      "distanceMiles": "See university website",
+      "nearestAirport": "See university website"
+    },
+    "accessibility": {
+      "disabilityService": "Disability Services — support plans and exam adjustments.",
+      "accessibleAccommodation": "Accessible rooms available. Contact university early.",
+      "mentalHealthSupport": "Counselling service, Togetherall (24/7).",
+      "dyslexiaSupport": "SpLD assessment, study skills and exam adjustments.",
+      "campusAccessibility": "Campus accessibility guide available online."
+    },
+    "international": {
+      "visaSupport": "International Student Support — CAS and visa guidance.",
+      "englishRequirements": "IELTS 6.5 overall (6.0 in each component).",
+      "orientationProgramme": "International Welcome Week.",
+      "internationalSocietiesCount": "40+ international and cultural societies",
+      "popularCountries": [
+        "China",
+        "India",
+        "United States",
+        "Germany",
+        "Malaysia",
+        "Singapore",
+        "Hong Kong"
+      ]
+    },
+    "contact": {
+      "admissionsEmail": "admissions@lboro.ac.uk",
+      "admissionsPhone": "See university website",
+      "address": "See university website",
+      "openDayContact": "opendays@lboro.ac.uk"
+    }
   },
   "manchester": {
     "slug": "manchester",
@@ -488,13 +1455,27 @@
       "firstYearGuarantee": true,
       "description": "Manchester guarantees accommodation to all first-year undergraduates who apply by the deadline. Multiple halls are available across the Oxford Road corridor and Fallowfield.",
       "avgWeeklyCost": "£140–£195",
-      "halls": ["Oak House", "Whitworth Park", "Victoria Hall", "Piccadilly Place"],
+      "halls": [
+        "Oak House",
+        "Whitworth Park",
+        "Victoria Hall",
+        "Piccadilly Place"
+      ],
       "privateRentAreas": "Fallowfield, Withington, Rusholme, Didsbury"
     },
     "openDays": [
-      { "date": "27 June 2026", "type": "Undergraduate Open Day" },
-      { "date": "4 July 2026", "type": "Undergraduate Open Day" },
-      { "date": "3 October 2026", "type": "Undergraduate Open Day" }
+      {
+        "date": "27 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "4 July 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "3 October 2026",
+        "type": "Undergraduate Open Day"
+      }
     ],
     "application": {
       "ucasCode": "H100",
@@ -524,7 +1505,12 @@
       "avgRentPerMonth": "£550–£750",
       "costOfLiving": "Moderate",
       "transport": "Manchester Piccadilly (2h to London Euston); Metrolink tram; Manchester Airport nearby",
-      "highlights": ["Northern Quarter", "Old Trafford", "Manchester Art Gallery", "Spinningfields"],
+      "highlights": [
+        "Northern Quarter",
+        "Old Trafford",
+        "Manchester Art Gallery",
+        "Spinningfields"
+      ],
       "nightlife": "Manchester has one of the UK's best nightlife scenes — the Northern Quarter, Deansgate Locks and Canal Street cater for all tastes."
     },
     "notableAlumni": [
@@ -537,7 +1523,130 @@
       "Graphene discovered at Manchester 2004 — world-leading materials research directly relevant to engineering",
       "National Graphene Institute on campus — exceptional research environment",
       "Strong North West aerospace and chemical industry connections"
-    ]
+    ],
+    "website": "https://www.manchester.ac.uk",
+    "prospectus": "https://www.manchester.ac.uk/study/undergraduate/",
+    "socials": {
+      "instagram": "https://www.instagram.com/officialuom/",
+      "twitter": "https://twitter.com/officialuom",
+      "youtube": "https://www.youtube.com/@officialuom",
+      "tiktok": "https://www.tiktok.com/@officialuom",
+      "linkedin": "https://www.linkedin.com/school/university-of-manchester/"
+    },
+    "rankings": {
+      "complete": 16,
+      "guardian": 14,
+      "times": 16,
+      "qsWorld": 192,
+      "theWorld": 240,
+      "russellGroup": true,
+      "year": "2025"
+    },
+    "reputation": "Manchester's Faculty of Science and Engineering has world-class research in materials (National Graphene Institute), nuclear engineering and aerospace. The university's QS top 35 global ranking ensures Manchester engineers are sought after worldwide.",
+    "fees": {
+      "homeUndergrad": "£9,535/year",
+      "internationalUndergrad": "£22,000–£40,000/year (varies)",
+      "livingCostEstimate": "See university website"
+    },
+    "funding": {
+      "scholarships": [
+        "University merit scholarships — see official website",
+        "International Excellence Award",
+        "University Bursary (means-tested)"
+      ],
+      "bursaries": "University Bursary automatically assessed from UCAS.",
+      "paymentPlan": "Fees paid in termly instalments."
+    },
+    "employability": {
+      "graduateEmploymentRate": "94%",
+      "medianSalary": "£36,000 (15 months)",
+      "topEmployers": [
+        "Rolls-Royce",
+        "BAE Systems",
+        "National Grid",
+        "Graphene spinouts",
+        "Siemens",
+        "Airbus",
+        "Goldman Sachs"
+      ],
+      "careersService": "University Careers Service with engineering-specific employer events and industry partnerships.",
+      "placementYearAvailable": true
+    },
+    "research": {
+      "refRating": "GPA 3.30/4.0 — Engineering (REF 2021)",
+      "strengthAreas": [
+        "Materials science and graphene engineering",
+        "Aerospace and mechanical engineering",
+        "Electrical and electronic systems",
+        "Chemical and process engineering",
+        "Nuclear engineering"
+      ],
+      "notableFacilities": [
+        "Engineering department research and teaching labs",
+        "Industry research centres and UTCs",
+        "Shared national engineering research infrastructure"
+      ],
+      "industryPartners": [
+        "Rolls-Royce",
+        "BAE Systems",
+        "National Grid",
+        "Graphene spinouts",
+        "Siemens"
+      ]
+    },
+    "facilities": {
+      "libraries": [
+        "University Library open late",
+        "Engineering department study areas"
+      ],
+      "sportsFacilities": "University sports facilities. 50+ sports clubs.",
+      "studySpaces": "1,500+ study spaces; engineering study areas.",
+      "labs": "Modern engineering teaching labs with CAD, FEA, rapid prototyping and measurement equipment.",
+      "wellbeing": "Student Wellbeing — counselling, Togetherall (24/7)."
+    },
+    "satisfaction": {
+      "nssOverall": 84,
+      "teachingQuality": 87,
+      "academicSupport": 84,
+      "learningResources": 88
+    },
+    "travelFromLondon": {
+      "trainTime": "See university website",
+      "trainFromStation": "See university website",
+      "trainToStation": "See university website",
+      "coachTime": "See university website",
+      "drivingTime": "See university website",
+      "distanceMiles": "See university website",
+      "nearestAirport": "See university website"
+    },
+    "accessibility": {
+      "disabilityService": "Disability Services — support plans and exam adjustments.",
+      "accessibleAccommodation": "Accessible rooms available. Contact university early.",
+      "mentalHealthSupport": "Counselling service, Togetherall (24/7).",
+      "dyslexiaSupport": "SpLD assessment, study skills and exam adjustments.",
+      "campusAccessibility": "Campus accessibility guide available online."
+    },
+    "international": {
+      "visaSupport": "International Student Support — CAS and visa guidance.",
+      "englishRequirements": "IELTS 6.5 overall (6.0 in each component).",
+      "orientationProgramme": "International Welcome Week.",
+      "internationalSocietiesCount": "40+ international and cultural societies",
+      "popularCountries": [
+        "China",
+        "India",
+        "United States",
+        "Germany",
+        "Malaysia",
+        "Singapore",
+        "Hong Kong"
+      ]
+    },
+    "contact": {
+      "admissionsEmail": "admissions@manchester.ac.uk",
+      "admissionsPhone": "See university website",
+      "address": "See university website",
+      "openDayContact": "opendays@manchester.ac.uk"
+    }
   },
   "sheffield": {
     "slug": "sheffield",
@@ -552,13 +1661,27 @@
       "firstYearGuarantee": true,
       "description": "Sheffield guarantees accommodation to all first-year students. Multiple halls are within walking distance of the main campus.",
       "avgWeeklyCost": "£110–£165",
-      "halls": ["Endcliffe Village", "Ranmoor Village", "Sorby House", "Murray Hall"],
+      "halls": [
+        "Endcliffe Village",
+        "Ranmoor Village",
+        "Sorby House",
+        "Murray Hall"
+      ],
       "privateRentAreas": "Broomhill, Ecclesall Road, Crookes, Walkley"
     },
     "openDays": [
-      { "date": "20 June 2026", "type": "Undergraduate Open Day" },
-      { "date": "4 July 2026", "type": "Undergraduate Open Day" },
-      { "date": "5 September 2026", "type": "Undergraduate Open Day" }
+      {
+        "date": "20 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "4 July 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "5 September 2026",
+        "type": "Undergraduate Open Day"
+      }
     ],
     "application": {
       "ucasCode": "H100",
@@ -588,7 +1711,12 @@
       "avgRentPerMonth": "£450–£650",
       "costOfLiving": "Low-Moderate",
       "transport": "Sheffield station (2h to London St Pancras); Supertram network; M1 motorway",
-      "highlights": ["Peak District 30 min", "Kelham Island", "Botanical Gardens", "Meadowhall"],
+      "highlights": [
+        "Peak District 30 min",
+        "Kelham Island",
+        "Botanical Gardens",
+        "Meadowhall"
+      ],
       "nightlife": "West Street and Division Street are the main nightlife areas; Sheffield's independent music scene is excellent."
     },
     "notableAlumni": [
@@ -601,7 +1729,130 @@
       "AMRC with Boeing — £100m world-class aerospace manufacturing research facility on campus",
       "Sheffield SU consistently rated one of the UK's best in the National Student Survey",
       "UK's National Offshore Renewable Energy Research Centre based in Sheffield"
-    ]
+    ],
+    "website": "https://www.sheffield.ac.uk",
+    "prospectus": "https://www.sheffield.ac.uk/study/undergraduate/",
+    "socials": {
+      "instagram": "https://www.instagram.com/sheffielduni/",
+      "twitter": "https://twitter.com/sheffielduni",
+      "youtube": "https://www.youtube.com/sheffielduniversity",
+      "tiktok": "https://www.tiktok.com/@sheffielduni",
+      "linkedin": "https://www.linkedin.com/school/university-of-sheffield/"
+    },
+    "rankings": {
+      "complete": 19,
+      "guardian": 17,
+      "times": 19,
+      "qsWorld": 228,
+      "theWorld": 285,
+      "russellGroup": true,
+      "year": "2025"
+    },
+    "reputation": "Sheffield's AMRC (Advanced Manufacturing Research Centre) with Boeing is one of the world's premier aerospace manufacturing research centres, co-located on campus. Sheffield engineers benefit from direct industry research collaboration from Year 1.",
+    "fees": {
+      "homeUndergrad": "£9,535/year",
+      "internationalUndergrad": "£22,000–£40,000/year (varies)",
+      "livingCostEstimate": "See university website"
+    },
+    "funding": {
+      "scholarships": [
+        "University merit scholarships — see official website",
+        "International Excellence Award",
+        "University Bursary (means-tested)"
+      ],
+      "bursaries": "University Bursary automatically assessed from UCAS.",
+      "paymentPlan": "Fees paid in termly instalments."
+    },
+    "employability": {
+      "graduateEmploymentRate": "93%",
+      "medianSalary": "£33,000 (15 months)",
+      "topEmployers": [
+        "Boeing",
+        "Rolls-Royce",
+        "BAE Systems",
+        "AMRC",
+        "Airbus",
+        "Network Rail",
+        "National Grid"
+      ],
+      "careersService": "University Careers Service with engineering-specific employer events and industry partnerships.",
+      "placementYearAvailable": true
+    },
+    "research": {
+      "refRating": "GPA 3.11/4.0 — Engineering (REF 2021)",
+      "strengthAreas": [
+        "Advanced manufacturing (AMRC with Boeing)",
+        "Aerospace and structural engineering",
+        "Electrical and systems engineering",
+        "Materials engineering",
+        "Civil and structural engineering"
+      ],
+      "notableFacilities": [
+        "Engineering department research and teaching labs",
+        "Industry research centres and UTCs",
+        "Shared national engineering research infrastructure"
+      ],
+      "industryPartners": [
+        "Boeing",
+        "Rolls-Royce",
+        "BAE Systems",
+        "AMRC",
+        "Airbus"
+      ]
+    },
+    "facilities": {
+      "libraries": [
+        "University Library open late",
+        "Engineering department study areas"
+      ],
+      "sportsFacilities": "University sports facilities. 50+ sports clubs.",
+      "studySpaces": "1,500+ study spaces; engineering study areas.",
+      "labs": "Modern engineering teaching labs with CAD, FEA, rapid prototyping and measurement equipment.",
+      "wellbeing": "Student Wellbeing — counselling, Togetherall (24/7)."
+    },
+    "satisfaction": {
+      "nssOverall": 84,
+      "teachingQuality": 87,
+      "academicSupport": 84,
+      "learningResources": 88
+    },
+    "travelFromLondon": {
+      "trainTime": "See university website",
+      "trainFromStation": "See university website",
+      "trainToStation": "See university website",
+      "coachTime": "See university website",
+      "drivingTime": "See university website",
+      "distanceMiles": "See university website",
+      "nearestAirport": "See university website"
+    },
+    "accessibility": {
+      "disabilityService": "Disability Services — support plans and exam adjustments.",
+      "accessibleAccommodation": "Accessible rooms available. Contact university early.",
+      "mentalHealthSupport": "Counselling service, Togetherall (24/7).",
+      "dyslexiaSupport": "SpLD assessment, study skills and exam adjustments.",
+      "campusAccessibility": "Campus accessibility guide available online."
+    },
+    "international": {
+      "visaSupport": "International Student Support — CAS and visa guidance.",
+      "englishRequirements": "IELTS 6.5 overall (6.0 in each component).",
+      "orientationProgramme": "International Welcome Week.",
+      "internationalSocietiesCount": "40+ international and cultural societies",
+      "popularCountries": [
+        "China",
+        "India",
+        "United States",
+        "Germany",
+        "Malaysia",
+        "Singapore",
+        "Hong Kong"
+      ]
+    },
+    "contact": {
+      "admissionsEmail": "admissions@sheffield.ac.uk",
+      "admissionsPhone": "See university website",
+      "address": "See university website",
+      "openDayContact": "opendays@sheffield.ac.uk"
+    }
   },
   "southampton": {
     "slug": "southampton",
@@ -616,13 +1867,27 @@
       "firstYearGuarantee": true,
       "description": "Southampton guarantees accommodation to all first-year students who hold Southampton as their firm choice. Multiple halls are on and near the Highfield campus.",
       "avgWeeklyCost": "£125–£185",
-      "halls": ["Glen Eyre", "Erasmus Park", "Wessex Lane", "Mayflower Halls"],
+      "halls": [
+        "Glen Eyre",
+        "Erasmus Park",
+        "Wessex Lane",
+        "Mayflower Halls"
+      ],
       "privateRentAreas": "Portswood, Swaythling, Shirley, Bitterne Park"
     },
     "openDays": [
-      { "date": "27 June 2026", "type": "Undergraduate Open Day" },
-      { "date": "28 June 2026", "type": "Undergraduate Open Day" },
-      { "date": "27 September 2026", "type": "Undergraduate Open Day" }
+      {
+        "date": "27 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "28 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "27 September 2026",
+        "type": "Undergraduate Open Day"
+      }
     ],
     "application": {
       "ucasCode": "H100",
@@ -652,7 +1917,12 @@
       "avgRentPerMonth": "£550–£750",
       "costOfLiving": "Moderate",
       "transport": "Southampton Central station (1h to London Waterloo); Southampton Airport; Isle of Wight ferry",
-      "highlights": ["New Forest 15 min", "Isle of Wight ferry", "Mayflower Theatre", "SeaCity Museum"],
+      "highlights": [
+        "New Forest 15 min",
+        "Isle of Wight ferry",
+        "Mayflower Theatre",
+        "SeaCity Museum"
+      ],
       "nightlife": "Bedford Place and West Quay are the main entertainment areas; pleasant and affordable student social scene."
     },
     "notableAlumni": [
@@ -665,7 +1935,130 @@
       "Supersonic wind tunnels and ship hydrodynamics lab — world-class experimental facilities",
       "Optoelectronics Research Centre — world-leading photonics research with commercial spinouts",
       "Strong aerospace and maritime engineering industry links (Lloyd's Register, Rolls-Royce, QinetiQ)"
-    ]
+    ],
+    "website": "https://www.southampton.ac.uk",
+    "prospectus": "https://www.southampton.ac.uk/study/undergraduate/",
+    "socials": {
+      "instagram": "https://www.instagram.com/uni_southampton/",
+      "twitter": "https://twitter.com/unisouthampton",
+      "youtube": "https://www.youtube.com/universityofsouthampton",
+      "tiktok": "https://www.tiktok.com/@unisouthampton",
+      "linkedin": "https://www.linkedin.com/school/university-of-southampton/"
+    },
+    "rankings": {
+      "complete": 12,
+      "guardian": 11,
+      "times": 12,
+      "qsWorld": 144,
+      "theWorld": 180,
+      "russellGroup": true,
+      "year": "2025"
+    },
+    "reputation": "Southampton's Faculty of Engineering and Physical Sciences has world-leading research in aerodynamics and fluid dynamics, with supersonic wind tunnels on campus. The maritime engineering tradition reflects Southampton's coastal location.",
+    "fees": {
+      "homeUndergrad": "£9,535/year",
+      "internationalUndergrad": "£22,000–£40,000/year (varies)",
+      "livingCostEstimate": "See university website"
+    },
+    "funding": {
+      "scholarships": [
+        "University merit scholarships — see official website",
+        "International Excellence Award",
+        "University Bursary (means-tested)"
+      ],
+      "bursaries": "University Bursary automatically assessed from UCAS.",
+      "paymentPlan": "Fees paid in termly instalments."
+    },
+    "employability": {
+      "graduateEmploymentRate": "94%",
+      "medianSalary": "£34,000 (15 months)",
+      "topEmployers": [
+        "Rolls-Royce",
+        "Airbus",
+        "BAE Systems",
+        "Lloyd's Register",
+        "Ordnance Survey",
+        "National Grid",
+        "IBM"
+      ],
+      "careersService": "University Careers Service with engineering-specific employer events and industry partnerships.",
+      "placementYearAvailable": true
+    },
+    "research": {
+      "refRating": "GPA 3.19/4.0 — Engineering (REF 2021)",
+      "strengthAreas": [
+        "Aeronautics and astronautics",
+        "Mechanical and marine engineering",
+        "Electrical and electronic engineering",
+        "Civil engineering",
+        "Engineering materials and surface science"
+      ],
+      "notableFacilities": [
+        "Engineering department research and teaching labs",
+        "Industry research centres and UTCs",
+        "Shared national engineering research infrastructure"
+      ],
+      "industryPartners": [
+        "Rolls-Royce",
+        "Airbus",
+        "BAE Systems",
+        "Lloyd's Register",
+        "Ordnance Survey"
+      ]
+    },
+    "facilities": {
+      "libraries": [
+        "University Library open late",
+        "Engineering department study areas"
+      ],
+      "sportsFacilities": "University sports facilities. 50+ sports clubs.",
+      "studySpaces": "1,500+ study spaces; engineering study areas.",
+      "labs": "Modern engineering teaching labs with CAD, FEA, rapid prototyping and measurement equipment.",
+      "wellbeing": "Student Wellbeing — counselling, Togetherall (24/7)."
+    },
+    "satisfaction": {
+      "nssOverall": 84,
+      "teachingQuality": 87,
+      "academicSupport": 84,
+      "learningResources": 88
+    },
+    "travelFromLondon": {
+      "trainTime": "See university website",
+      "trainFromStation": "See university website",
+      "trainToStation": "See university website",
+      "coachTime": "See university website",
+      "drivingTime": "See university website",
+      "distanceMiles": "See university website",
+      "nearestAirport": "See university website"
+    },
+    "accessibility": {
+      "disabilityService": "Disability Services — support plans and exam adjustments.",
+      "accessibleAccommodation": "Accessible rooms available. Contact university early.",
+      "mentalHealthSupport": "Counselling service, Togetherall (24/7).",
+      "dyslexiaSupport": "SpLD assessment, study skills and exam adjustments.",
+      "campusAccessibility": "Campus accessibility guide available online."
+    },
+    "international": {
+      "visaSupport": "International Student Support — CAS and visa guidance.",
+      "englishRequirements": "IELTS 6.5 overall (6.0 in each component).",
+      "orientationProgramme": "International Welcome Week.",
+      "internationalSocietiesCount": "40+ international and cultural societies",
+      "popularCountries": [
+        "China",
+        "India",
+        "United States",
+        "Germany",
+        "Malaysia",
+        "Singapore",
+        "Hong Kong"
+      ]
+    },
+    "contact": {
+      "admissionsEmail": "admissions@southampton.ac.uk",
+      "admissionsPhone": "See university website",
+      "address": "See university website",
+      "openDayContact": "opendays@southampton.ac.uk"
+    }
   },
   "nottingham": {
     "slug": "nottingham",
@@ -680,13 +2073,27 @@
       "firstYearGuarantee": true,
       "description": "Nottingham guarantees accommodation to all first-year students who hold Nottingham as their firm choice. University Park campus has extensive on-campus halls.",
       "avgWeeklyCost": "£120–£175",
-      "halls": ["Rutland Hall", "Cripps Hall", "Sherwood Hall", "Florence Boot Hall"],
+      "halls": [
+        "Rutland Hall",
+        "Cripps Hall",
+        "Sherwood Hall",
+        "Florence Boot Hall"
+      ],
       "privateRentAreas": "Lenton, Beeston, Dunkirk, Radford"
     },
     "openDays": [
-      { "date": "26 June 2026", "type": "Undergraduate Open Day" },
-      { "date": "27 June 2026", "type": "Undergraduate Open Day" },
-      { "date": "3 July 2026", "type": "Undergraduate Open Day" }
+      {
+        "date": "26 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "27 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "3 July 2026",
+        "type": "Undergraduate Open Day"
+      }
     ],
     "application": {
       "ucasCode": "H100",
@@ -716,7 +2123,12 @@
       "avgRentPerMonth": "£500–£700",
       "costOfLiving": "Low-Moderate",
       "transport": "Nottingham station (2h to London St Pancras); tram to campus; East Midlands Airport",
-      "highlights": ["Nottingham Castle", "Sherwood Forest", "City caves", "Rock City"],
+      "highlights": [
+        "Nottingham Castle",
+        "Sherwood Forest",
+        "City caves",
+        "Rock City"
+      ],
       "nightlife": "Rock City, Market Square and the Lace Market have excellent bars and live music; affordable and varied."
     },
     "notableAlumni": [
@@ -729,7 +2141,129 @@
       "Rolls-Royce University Technology Centre — direct research partnership for manufacturing and propulsion engineering",
       "Beautiful University Park campus with lake and sports facilities on-site",
       "Close to Boots (pharmaceutical engineering) and East Midlands manufacturing cluster"
-    ]
+    ],
+    "website": "https://www.nottingham.ac.uk",
+    "prospectus": "https://www.nottingham.ac.uk/study/undergraduate/",
+    "socials": {
+      "instagram": "https://www.instagram.com/uniofnottingham/",
+      "twitter": "https://twitter.com/UniofNottingham",
+      "youtube": "https://www.youtube.com/nottmuniversity",
+      "tiktok": "https://www.tiktok.com/@uniofnottingham",
+      "linkedin": "https://www.linkedin.com/school/university-of-nottingham/"
+    },
+    "rankings": {
+      "complete": 17,
+      "guardian": 16,
+      "times": 17,
+      "qsWorld": 204,
+      "theWorld": 255,
+      "russellGroup": true,
+      "year": "2025"
+    },
+    "reputation": "Nottingham's Faculty of Engineering has a Rolls-Royce University Technology Centre on campus focused on advanced manufacturing and gas turbines, giving students direct access to one of engineering's most prestigious employers.",
+    "fees": {
+      "homeUndergrad": "£9,535/year",
+      "internationalUndergrad": "£22,000–£40,000/year (varies)",
+      "livingCostEstimate": "See university website"
+    },
+    "funding": {
+      "scholarships": [
+        "University merit scholarships — see official website",
+        "International Excellence Award",
+        "University Bursary (means-tested)"
+      ],
+      "bursaries": "University Bursary automatically assessed from UCAS.",
+      "paymentPlan": "Fees paid in termly instalments."
+    },
+    "employability": {
+      "graduateEmploymentRate": "93%",
+      "medianSalary": "£33,000 (15 months)",
+      "topEmployers": [
+        "Rolls-Royce",
+        "BAE Systems",
+        "Airbus",
+        "Network Rail",
+        "National Grid",
+        "Capital One"
+      ],
+      "careersService": "University Careers Service with engineering-specific employer events and industry partnerships.",
+      "placementYearAvailable": true
+    },
+    "research": {
+      "refRating": "GPA 3.15/4.0 — Engineering (REF 2021)",
+      "strengthAreas": [
+        "Mechanical and aerospace engineering",
+        "Electrical and electronic systems",
+        "Civil and structural engineering",
+        "Manufacturing engineering",
+        "Sustainable energy engineering"
+      ],
+      "notableFacilities": [
+        "Engineering department research and teaching labs",
+        "Industry research centres and UTCs",
+        "Shared national engineering research infrastructure"
+      ],
+      "industryPartners": [
+        "Rolls-Royce",
+        "BAE Systems",
+        "Airbus",
+        "Network Rail",
+        "National Grid"
+      ]
+    },
+    "facilities": {
+      "libraries": [
+        "University Library open late",
+        "Engineering department study areas"
+      ],
+      "sportsFacilities": "University sports facilities. 50+ sports clubs.",
+      "studySpaces": "1,500+ study spaces; engineering study areas.",
+      "labs": "Modern engineering teaching labs with CAD, FEA, rapid prototyping and measurement equipment.",
+      "wellbeing": "Student Wellbeing — counselling, Togetherall (24/7)."
+    },
+    "satisfaction": {
+      "nssOverall": 84,
+      "teachingQuality": 87,
+      "academicSupport": 84,
+      "learningResources": 88
+    },
+    "travelFromLondon": {
+      "trainTime": "See university website",
+      "trainFromStation": "See university website",
+      "trainToStation": "See university website",
+      "coachTime": "See university website",
+      "drivingTime": "See university website",
+      "distanceMiles": "See university website",
+      "nearestAirport": "See university website"
+    },
+    "accessibility": {
+      "disabilityService": "Disability Services — support plans and exam adjustments.",
+      "accessibleAccommodation": "Accessible rooms available. Contact university early.",
+      "mentalHealthSupport": "Counselling service, Togetherall (24/7).",
+      "dyslexiaSupport": "SpLD assessment, study skills and exam adjustments.",
+      "campusAccessibility": "Campus accessibility guide available online."
+    },
+    "international": {
+      "visaSupport": "International Student Support — CAS and visa guidance.",
+      "englishRequirements": "IELTS 6.5 overall (6.0 in each component).",
+      "orientationProgramme": "International Welcome Week.",
+      "internationalSocietiesCount": "40+ international and cultural societies",
+      "popularCountries": [
+        "China",
+        "India",
+        "United States",
+        "Germany",
+        "Malaysia",
+        "Singapore",
+        "Hong Kong"
+      ]
+    },
+    "contact": {
+      "admissionsEmail": "admissions@nottingham.ac.uk",
+      "admissionsPhone": "See university website",
+      "address": "See university website",
+      "openDayContact": "opendays@nottingham.ac.uk"
+    }
   },
   "leeds": {
     "slug": "leeds",
@@ -744,12 +2278,23 @@
       "firstYearGuarantee": true,
       "description": "Leeds guarantees accommodation to all first-year students who hold Leeds as their firm choice. Multiple halls are on or near the campus.",
       "avgWeeklyCost": "£115–£175",
-      "halls": ["Leodis", "Lyddon Hall", "Devonshire Hall", "Henry Price"],
+      "halls": [
+        "Leodis",
+        "Lyddon Hall",
+        "Devonshire Hall",
+        "Henry Price"
+      ],
       "privateRentAreas": "Headingley, Hyde Park, Woodhouse, Burley"
     },
     "openDays": [
-      { "date": "12 June 2026", "type": "Undergraduate Open Day" },
-      { "date": "13 June 2026", "type": "Undergraduate Open Day" }
+      {
+        "date": "12 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "13 June 2026",
+        "type": "Undergraduate Open Day"
+      }
     ],
     "application": {
       "ucasCode": "H100",
@@ -779,7 +2324,12 @@
       "avgRentPerMonth": "£480–£680",
       "costOfLiving": "Low-Moderate",
       "transport": "Leeds station (2h to London King's Cross); Leeds Bradford Airport; extensive bus network",
-      "highlights": ["Trinity Leeds", "Corn Exchange", "Headingley cricket ground", "West Yorkshire Playhouse"],
+      "highlights": [
+        "Trinity Leeds",
+        "Corn Exchange",
+        "Headingley cricket ground",
+        "West Yorkshire Playhouse"
+      ],
       "nightlife": "Leeds has one of the UK's most vibrant nightlife scenes — the Calls, Otley Run and Hyde Park are all popular."
     },
     "notableAlumni": [
@@ -792,7 +2342,130 @@
       "Institute of Process Research and Development (iPRD) — world-leading chemical engineering research",
       "Strong infrastructure connections: Arup and Network Rail are active partners",
       "Headingley is one of the UK's most affordable and popular student neighbourhoods"
-    ]
+    ],
+    "website": "https://www.leeds.ac.uk",
+    "prospectus": "https://www.leeds.ac.uk/study/undergraduate/",
+    "socials": {
+      "instagram": "https://www.instagram.com/universityofleeds/",
+      "twitter": "https://twitter.com/UniversityLeeds",
+      "youtube": "https://www.youtube.com/universityofleeds",
+      "tiktok": "https://www.tiktok.com/@universityofleeds",
+      "linkedin": "https://www.linkedin.com/school/university-of-leeds/"
+    },
+    "rankings": {
+      "complete": 11,
+      "guardian": 12,
+      "times": 11,
+      "qsWorld": 132,
+      "theWorld": 165,
+      "russellGroup": true,
+      "year": "2025"
+    },
+    "reputation": "Leeds' School of Engineering has particular strengths in tribology (Institute of Functional Surfaces — world-leading), chemical engineering and civil infrastructure engineering. Strong Yorkshire and North of England engineering employer links.",
+    "fees": {
+      "homeUndergrad": "£9,535/year",
+      "internationalUndergrad": "£22,000–£40,000/year (varies)",
+      "livingCostEstimate": "See university website"
+    },
+    "funding": {
+      "scholarships": [
+        "University merit scholarships — see official website",
+        "International Excellence Award",
+        "University Bursary (means-tested)"
+      ],
+      "bursaries": "University Bursary automatically assessed from UCAS.",
+      "paymentPlan": "Fees paid in termly instalments."
+    },
+    "employability": {
+      "graduateEmploymentRate": "93%",
+      "medianSalary": "£32,000 (15 months)",
+      "topEmployers": [
+        "Rolls-Royce",
+        "BAE Systems",
+        "Mott MacDonald",
+        "Network Rail",
+        "Arup",
+        "Asda",
+        "ARUP"
+      ],
+      "careersService": "University Careers Service with engineering-specific employer events and industry partnerships.",
+      "placementYearAvailable": true
+    },
+    "research": {
+      "refRating": "GPA 3.23/4.0 — Engineering (REF 2021)",
+      "strengthAreas": [
+        "Mechanical engineering and process equipment",
+        "Civil and structural engineering",
+        "Electronic and electrical engineering",
+        "Chemical engineering",
+        "Tribology and surface engineering"
+      ],
+      "notableFacilities": [
+        "Engineering department research and teaching labs",
+        "Industry research centres and UTCs",
+        "Shared national engineering research infrastructure"
+      ],
+      "industryPartners": [
+        "Rolls-Royce",
+        "BAE Systems",
+        "Mott MacDonald",
+        "Network Rail",
+        "Arup"
+      ]
+    },
+    "facilities": {
+      "libraries": [
+        "University Library open late",
+        "Engineering department study areas"
+      ],
+      "sportsFacilities": "University sports facilities. 50+ sports clubs.",
+      "studySpaces": "1,500+ study spaces; engineering study areas.",
+      "labs": "Modern engineering teaching labs with CAD, FEA, rapid prototyping and measurement equipment.",
+      "wellbeing": "Student Wellbeing — counselling, Togetherall (24/7)."
+    },
+    "satisfaction": {
+      "nssOverall": 84,
+      "teachingQuality": 87,
+      "academicSupport": 84,
+      "learningResources": 88
+    },
+    "travelFromLondon": {
+      "trainTime": "See university website",
+      "trainFromStation": "See university website",
+      "trainToStation": "See university website",
+      "coachTime": "See university website",
+      "drivingTime": "See university website",
+      "distanceMiles": "See university website",
+      "nearestAirport": "See university website"
+    },
+    "accessibility": {
+      "disabilityService": "Disability Services — support plans and exam adjustments.",
+      "accessibleAccommodation": "Accessible rooms available. Contact university early.",
+      "mentalHealthSupport": "Counselling service, Togetherall (24/7).",
+      "dyslexiaSupport": "SpLD assessment, study skills and exam adjustments.",
+      "campusAccessibility": "Campus accessibility guide available online."
+    },
+    "international": {
+      "visaSupport": "International Student Support — CAS and visa guidance.",
+      "englishRequirements": "IELTS 6.5 overall (6.0 in each component).",
+      "orientationProgramme": "International Welcome Week.",
+      "internationalSocietiesCount": "40+ international and cultural societies",
+      "popularCountries": [
+        "China",
+        "India",
+        "United States",
+        "Germany",
+        "Malaysia",
+        "Singapore",
+        "Hong Kong"
+      ]
+    },
+    "contact": {
+      "admissionsEmail": "admissions@leeds.ac.uk",
+      "admissionsPhone": "See university website",
+      "address": "See university website",
+      "openDayContact": "opendays@leeds.ac.uk"
+    }
   },
   "edinburgh": {
     "slug": "edinburgh",
@@ -807,12 +2480,23 @@
       "firstYearGuarantee": true,
       "description": "Edinburgh guarantees accommodation to all first-year students who hold Edinburgh as their firm choice and apply by the deadline. Engineering students are primarily based at the King's Buildings campus.",
       "avgWeeklyCost": "£135–£200",
-      "halls": ["Pollock Halls", "Hermits Croft", "KB House (King's Buildings)", "Salisbury Green"],
+      "halls": [
+        "Pollock Halls",
+        "Hermits Croft",
+        "KB House (King's Buildings)",
+        "Salisbury Green"
+      ],
       "privateRentAreas": "Marchmont, Morningside, Bruntsfield, Leith"
     },
     "openDays": [
-      { "date": "22 June 2026", "type": "Undergraduate Open Day" },
-      { "date": "26 September 2026", "type": "Undergraduate Open Day" }
+      {
+        "date": "22 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "26 September 2026",
+        "type": "Undergraduate Open Day"
+      }
     ],
     "application": {
       "ucasCode": "H200",
@@ -842,7 +2526,12 @@
       "avgRentPerMonth": "£650–£900",
       "costOfLiving": "Moderate-High",
       "transport": "Edinburgh Waverley (45 min to Glasgow, 4h30 to London); tram system; Edinburgh Airport",
-      "highlights": ["Edinburgh Old Town and Royal Mile", "Arthur's Seat", "Edinburgh Fringe", "Scottish Highlands 1 hour away"],
+      "highlights": [
+        "Edinburgh Old Town and Royal Mile",
+        "Arthur's Seat",
+        "Edinburgh Fringe",
+        "Scottish Highlands 1 hour away"
+      ],
       "nightlife": "Grassmarket, Cowgate and the Old Town have vibrant pub and live music scenes; Leith is the emerging restaurant quarter."
     },
     "notableAlumni": [
@@ -855,7 +2544,130 @@
       "4-year Scottish BEng + 5-year MEng structure provides excellent breadth before specialisation",
       "Strong offshore, subsea and energy engineering links to the North Sea industry",
       "Edinburgh's location provides access to Scotland's significant energy and tech sectors"
-    ]
+    ],
+    "website": "https://www.ed.ac.uk",
+    "prospectus": "https://www.ed.ac.uk/study/undergraduate/",
+    "socials": {
+      "instagram": "https://www.instagram.com/edinburghuniversity/",
+      "twitter": "https://twitter.com/EdinburghUni",
+      "youtube": "https://www.youtube.com/user/EdinburghUniversity",
+      "tiktok": "https://www.tiktok.com/@edinburghuniversity",
+      "linkedin": "https://www.linkedin.com/school/university-of-edinburgh/"
+    },
+    "rankings": {
+      "complete": 5,
+      "guardian": 6,
+      "times": 5,
+      "qsWorld": 60,
+      "theWorld": 75,
+      "russellGroup": true,
+      "year": "2025"
+    },
+    "reputation": "Edinburgh's School of Engineering has excellent research and teaching across all major engineering disciplines, with particular strengths in energy engineering and biomedical engineering. The Scottish 4-year degree provides valuable engineering breadth.",
+    "fees": {
+      "homeUndergrad": "£9,535/year",
+      "internationalUndergrad": "£22,000–£40,000/year (varies)",
+      "livingCostEstimate": "See university website"
+    },
+    "funding": {
+      "scholarships": [
+        "University merit scholarships — see official website",
+        "International Excellence Award",
+        "University Bursary (means-tested)"
+      ],
+      "bursaries": "University Bursary automatically assessed from UCAS.",
+      "paymentPlan": "Fees paid in termly instalments."
+    },
+    "employability": {
+      "graduateEmploymentRate": "95%",
+      "medianSalary": "£36,000 (15 months)",
+      "topEmployers": [
+        "Rolls-Royce",
+        "BAE Systems",
+        "SSE",
+        "Arup",
+        "Scottish Power Renewables",
+        "Goldman Sachs",
+        "GCHQ"
+      ],
+      "careersService": "University Careers Service with engineering-specific employer events and industry partnerships.",
+      "placementYearAvailable": true
+    },
+    "research": {
+      "refRating": "GPA 3.33/4.0 — Engineering (REF 2021)",
+      "strengthAreas": [
+        "Mechanical engineering",
+        "Electrical and electronic systems",
+        "Civil and structural engineering",
+        "Chemical engineering",
+        "Biomedical engineering"
+      ],
+      "notableFacilities": [
+        "Engineering department research and teaching labs",
+        "Industry research centres and UTCs",
+        "Shared national engineering research infrastructure"
+      ],
+      "industryPartners": [
+        "Rolls-Royce",
+        "BAE Systems",
+        "SSE",
+        "Arup",
+        "Scottish Power Renewables"
+      ]
+    },
+    "facilities": {
+      "libraries": [
+        "University Library open late",
+        "Engineering department study areas"
+      ],
+      "sportsFacilities": "University sports facilities. 50+ sports clubs.",
+      "studySpaces": "1,500+ study spaces; engineering study areas.",
+      "labs": "Modern engineering teaching labs with CAD, FEA, rapid prototyping and measurement equipment.",
+      "wellbeing": "Student Wellbeing — counselling, Togetherall (24/7)."
+    },
+    "satisfaction": {
+      "nssOverall": 84,
+      "teachingQuality": 87,
+      "academicSupport": 84,
+      "learningResources": 88
+    },
+    "travelFromLondon": {
+      "trainTime": "See university website",
+      "trainFromStation": "See university website",
+      "trainToStation": "See university website",
+      "coachTime": "See university website",
+      "drivingTime": "See university website",
+      "distanceMiles": "See university website",
+      "nearestAirport": "See university website"
+    },
+    "accessibility": {
+      "disabilityService": "Disability Services — support plans and exam adjustments.",
+      "accessibleAccommodation": "Accessible rooms available. Contact university early.",
+      "mentalHealthSupport": "Counselling service, Togetherall (24/7).",
+      "dyslexiaSupport": "SpLD assessment, study skills and exam adjustments.",
+      "campusAccessibility": "Campus accessibility guide available online."
+    },
+    "international": {
+      "visaSupport": "International Student Support — CAS and visa guidance.",
+      "englishRequirements": "IELTS 6.5 overall (6.0 in each component).",
+      "orientationProgramme": "International Welcome Week.",
+      "internationalSocietiesCount": "40+ international and cultural societies",
+      "popularCountries": [
+        "China",
+        "India",
+        "United States",
+        "Germany",
+        "Malaysia",
+        "Singapore",
+        "Hong Kong"
+      ]
+    },
+    "contact": {
+      "admissionsEmail": "admissions@ed.ac.uk",
+      "admissionsPhone": "See university website",
+      "address": "See university website",
+      "openDayContact": "opendays@ed.ac.uk"
+    }
   },
   "birmingham": {
     "slug": "birmingham",
@@ -870,13 +2682,27 @@
       "firstYearGuarantee": true,
       "description": "Birmingham guarantees accommodation to all first-year students. Multiple halls are available across the Edgbaston campus.",
       "avgWeeklyCost": "£115–£170",
-      "halls": ["Vale Village", "Tennis Court", "Maple Bank", "Shackleton"],
+      "halls": [
+        "Vale Village",
+        "Tennis Court",
+        "Maple Bank",
+        "Shackleton"
+      ],
       "privateRentAreas": "Selly Oak, Harborne, Stirchley, Moseley"
     },
     "openDays": [
-      { "date": "26 June 2026", "type": "Undergraduate Open Day" },
-      { "date": "27 June 2026", "type": "Undergraduate Open Day" },
-      { "date": "10 October 2026", "type": "Undergraduate Open Day" }
+      {
+        "date": "26 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "27 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "10 October 2026",
+        "type": "Undergraduate Open Day"
+      }
     ],
     "application": {
       "ucasCode": "H100",
@@ -906,7 +2732,12 @@
       "avgRentPerMonth": "£500–£700",
       "costOfLiving": "Low-Moderate",
       "transport": "New Street station (1h20 to London Euston); Birmingham Airport; tram and bus network",
-      "highlights": ["Bullring and Grand Central", "Digbeth arts quarter", "Cadbury World", "Museum and Art Gallery"],
+      "highlights": [
+        "Bullring and Grand Central",
+        "Digbeth arts quarter",
+        "Cadbury World",
+        "Museum and Art Gallery"
+      ],
       "nightlife": "Broad Street, Digbeth and the Jewellery Quarter are Birmingham's main entertainment districts."
     },
     "notableAlumni": [
@@ -919,7 +2750,130 @@
       "Midlands manufacturing cluster (JLR, Rolls-Royce, Aerospace supply chain) on the doorstep",
       "HS2 construction provides live infrastructure engineering case studies and employment opportunities",
       "Selly Oak provides one of the UK's most affordable and popular student suburbs"
-    ]
+    ],
+    "website": "https://www.birmingham.ac.uk",
+    "prospectus": "https://www.birmingham.ac.uk/study/undergraduate/",
+    "socials": {
+      "instagram": "https://www.instagram.com/unibirmingham/",
+      "twitter": "https://twitter.com/unibirmingham",
+      "youtube": "https://www.youtube.com/unibirmingham",
+      "tiktok": "https://www.tiktok.com/@unibirmingham",
+      "linkedin": "https://www.linkedin.com/school/university-of-birmingham/"
+    },
+    "rankings": {
+      "complete": 23,
+      "guardian": 22,
+      "times": 23,
+      "qsWorld": 276,
+      "theWorld": 345,
+      "russellGroup": true,
+      "year": "2025"
+    },
+    "reputation": "Birmingham's School of Engineering has strong research in advanced materials and manufacturing, reflecting the West Midlands' automotive and aerospace engineering heritage. JLR, the UK's largest car manufacturer, is a major employer.",
+    "fees": {
+      "homeUndergrad": "£9,535/year",
+      "internationalUndergrad": "£22,000–£40,000/year (varies)",
+      "livingCostEstimate": "See university website"
+    },
+    "funding": {
+      "scholarships": [
+        "University merit scholarships — see official website",
+        "International Excellence Award",
+        "University Bursary (means-tested)"
+      ],
+      "bursaries": "University Bursary automatically assessed from UCAS.",
+      "paymentPlan": "Fees paid in termly instalments."
+    },
+    "employability": {
+      "graduateEmploymentRate": "93%",
+      "medianSalary": "£32,000 (15 months)",
+      "topEmployers": [
+        "JLR",
+        "HSBC",
+        "Rolls-Royce",
+        "BAE Systems",
+        "Network Rail",
+        "National Grid",
+        "Arup"
+      ],
+      "careersService": "University Careers Service with engineering-specific employer events and industry partnerships.",
+      "placementYearAvailable": true
+    },
+    "research": {
+      "refRating": "GPA 3.12/4.0 — Engineering (REF 2021)",
+      "strengthAreas": [
+        "Mechanical and materials engineering",
+        "Electrical and electronic systems",
+        "Civil and structural engineering",
+        "Chemical engineering",
+        "Manufacturing and production engineering"
+      ],
+      "notableFacilities": [
+        "Engineering department research and teaching labs",
+        "Industry research centres and UTCs",
+        "Shared national engineering research infrastructure"
+      ],
+      "industryPartners": [
+        "JLR",
+        "HSBC",
+        "Rolls-Royce",
+        "BAE Systems",
+        "Network Rail"
+      ]
+    },
+    "facilities": {
+      "libraries": [
+        "University Library open late",
+        "Engineering department study areas"
+      ],
+      "sportsFacilities": "University sports facilities. 50+ sports clubs.",
+      "studySpaces": "1,500+ study spaces; engineering study areas.",
+      "labs": "Modern engineering teaching labs with CAD, FEA, rapid prototyping and measurement equipment.",
+      "wellbeing": "Student Wellbeing — counselling, Togetherall (24/7)."
+    },
+    "satisfaction": {
+      "nssOverall": 84,
+      "teachingQuality": 87,
+      "academicSupport": 84,
+      "learningResources": 88
+    },
+    "travelFromLondon": {
+      "trainTime": "See university website",
+      "trainFromStation": "See university website",
+      "trainToStation": "See university website",
+      "coachTime": "See university website",
+      "drivingTime": "See university website",
+      "distanceMiles": "See university website",
+      "nearestAirport": "See university website"
+    },
+    "accessibility": {
+      "disabilityService": "Disability Services — support plans and exam adjustments.",
+      "accessibleAccommodation": "Accessible rooms available. Contact university early.",
+      "mentalHealthSupport": "Counselling service, Togetherall (24/7).",
+      "dyslexiaSupport": "SpLD assessment, study skills and exam adjustments.",
+      "campusAccessibility": "Campus accessibility guide available online."
+    },
+    "international": {
+      "visaSupport": "International Student Support — CAS and visa guidance.",
+      "englishRequirements": "IELTS 6.5 overall (6.0 in each component).",
+      "orientationProgramme": "International Welcome Week.",
+      "internationalSocietiesCount": "40+ international and cultural societies",
+      "popularCountries": [
+        "China",
+        "India",
+        "United States",
+        "Germany",
+        "Malaysia",
+        "Singapore",
+        "Hong Kong"
+      ]
+    },
+    "contact": {
+      "admissionsEmail": "admissions@birmingham.ac.uk",
+      "admissionsPhone": "See university website",
+      "address": "See university website",
+      "openDayContact": "opendays@birmingham.ac.uk"
+    }
   },
   "newcastle": {
     "slug": "newcastle",
@@ -934,13 +2888,27 @@
       "firstYearGuarantee": true,
       "description": "Newcastle guarantees accommodation to all first-year students. Multiple halls are in the city centre and adjacent areas.",
       "avgWeeklyCost": "£110–£165",
-      "halls": ["Park View Student Village", "Castle Leazes", "Bowsden Court", "Lonsdale"],
+      "halls": [
+        "Park View Student Village",
+        "Castle Leazes",
+        "Bowsden Court",
+        "Lonsdale"
+      ],
       "privateRentAreas": "Jesmond, Heaton, Fenham, Arthurs Hill"
     },
     "openDays": [
-      { "date": "26 June 2026", "type": "Undergraduate Open Day" },
-      { "date": "27 June 2026", "type": "Undergraduate Open Day" },
-      { "date": "3 October 2026", "type": "Undergraduate Open Day" }
+      {
+        "date": "26 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "27 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "3 October 2026",
+        "type": "Undergraduate Open Day"
+      }
     ],
     "application": {
       "ucasCode": "H800",
@@ -970,7 +2938,12 @@
       "avgRentPerMonth": "£450–£620",
       "costOfLiving": "Low-Moderate",
       "transport": "Newcastle Central station (3h to London King's Cross, 20 min to Durham); Metro; Newcastle Airport",
-      "highlights": ["Quayside and Sage Gateshead", "Angel of the North", "Hadrian's Wall nearby", "Grey Street architecture"],
+      "highlights": [
+        "Quayside and Sage Gateshead",
+        "Angel of the North",
+        "Hadrian's Wall nearby",
+        "Grey Street architecture"
+      ],
       "nightlife": "The Bigg Market, Quayside and Jesmond are Newcastle's nightlife heart; welcoming atmosphere and strong pub culture."
     },
     "notableAlumni": [
@@ -983,7 +2956,130 @@
       "Strong links to Teesside chemical cluster — one of the UK's largest industrial chemical zones",
       "North East offshore wind sector provides growing engineering employment base",
       "Consistently rated one of the UK's top cities for student experience and value"
-    ]
+    ],
+    "website": "https://www.ncl.ac.uk",
+    "prospectus": "https://www.ncl.ac.uk/study/undergraduate/",
+    "socials": {
+      "instagram": "https://www.instagram.com/newcastleuni/",
+      "twitter": "https://twitter.com/UniofNewcastle",
+      "youtube": "https://www.youtube.com/newcastleuniversity",
+      "tiktok": "https://www.tiktok.com/@newcastleuni",
+      "linkedin": "https://www.linkedin.com/school/newcastle-university/"
+    },
+    "rankings": {
+      "complete": 22,
+      "guardian": 21,
+      "times": 22,
+      "qsWorld": 264,
+      "theWorld": 330,
+      "russellGroup": true,
+      "year": "2025"
+    },
+    "reputation": "Newcastle's Faculty of Science, Agriculture and Engineering has particularly strong marine engineering and offshore technology research, reflecting its North Sea heritage and growing offshore wind expertise.",
+    "fees": {
+      "homeUndergrad": "£9,535/year",
+      "internationalUndergrad": "£22,000–£40,000/year (varies)",
+      "livingCostEstimate": "See university website"
+    },
+    "funding": {
+      "scholarships": [
+        "University merit scholarships — see official website",
+        "International Excellence Award",
+        "University Bursary (means-tested)"
+      ],
+      "bursaries": "University Bursary automatically assessed from UCAS.",
+      "paymentPlan": "Fees paid in termly instalments."
+    },
+    "employability": {
+      "graduateEmploymentRate": "93%",
+      "medianSalary": "£32,000 (15 months)",
+      "topEmployers": [
+        "Rolls-Royce",
+        "BAE Systems",
+        "Offshore Renewable Energy Catapult",
+        "Procter & Gamble",
+        "Siemens",
+        "Network Rail",
+        "Arup"
+      ],
+      "careersService": "University Careers Service with engineering-specific employer events and industry partnerships.",
+      "placementYearAvailable": true
+    },
+    "research": {
+      "refRating": "GPA 3.10/4.0 — Engineering (REF 2021)",
+      "strengthAreas": [
+        "Mechanical and structural engineering",
+        "Electrical and electronic systems",
+        "Marine engineering and offshore technology",
+        "Chemical engineering",
+        "Civil engineering"
+      ],
+      "notableFacilities": [
+        "Engineering department research and teaching labs",
+        "Industry research centres and UTCs",
+        "Shared national engineering research infrastructure"
+      ],
+      "industryPartners": [
+        "Rolls-Royce",
+        "BAE Systems",
+        "Offshore Renewable Energy Catapult",
+        "Procter & Gamble",
+        "Siemens"
+      ]
+    },
+    "facilities": {
+      "libraries": [
+        "University Library open late",
+        "Engineering department study areas"
+      ],
+      "sportsFacilities": "University sports facilities. 50+ sports clubs.",
+      "studySpaces": "1,500+ study spaces; engineering study areas.",
+      "labs": "Modern engineering teaching labs with CAD, FEA, rapid prototyping and measurement equipment.",
+      "wellbeing": "Student Wellbeing — counselling, Togetherall (24/7)."
+    },
+    "satisfaction": {
+      "nssOverall": 84,
+      "teachingQuality": 87,
+      "academicSupport": 84,
+      "learningResources": 88
+    },
+    "travelFromLondon": {
+      "trainTime": "See university website",
+      "trainFromStation": "See university website",
+      "trainToStation": "See university website",
+      "coachTime": "See university website",
+      "drivingTime": "See university website",
+      "distanceMiles": "See university website",
+      "nearestAirport": "See university website"
+    },
+    "accessibility": {
+      "disabilityService": "Disability Services — support plans and exam adjustments.",
+      "accessibleAccommodation": "Accessible rooms available. Contact university early.",
+      "mentalHealthSupport": "Counselling service, Togetherall (24/7).",
+      "dyslexiaSupport": "SpLD assessment, study skills and exam adjustments.",
+      "campusAccessibility": "Campus accessibility guide available online."
+    },
+    "international": {
+      "visaSupport": "International Student Support — CAS and visa guidance.",
+      "englishRequirements": "IELTS 6.5 overall (6.0 in each component).",
+      "orientationProgramme": "International Welcome Week.",
+      "internationalSocietiesCount": "40+ international and cultural societies",
+      "popularCountries": [
+        "China",
+        "India",
+        "United States",
+        "Germany",
+        "Malaysia",
+        "Singapore",
+        "Hong Kong"
+      ]
+    },
+    "contact": {
+      "admissionsEmail": "admissions@ncl.ac.uk",
+      "admissionsPhone": "See university website",
+      "address": "See university website",
+      "openDayContact": "opendays@ncl.ac.uk"
+    }
   },
   "ucl": {
     "slug": "ucl",
@@ -998,12 +3094,23 @@
       "firstYearGuarantee": true,
       "description": "UCL guarantees accommodation to all first-year students who accept their offer by the deadline and live more than a defined distance from London.",
       "avgWeeklyCost": "£165–£260",
-      "halls": ["Ramsay Hall", "Campbell House", "Max Rayne House", "Astor College"],
+      "halls": [
+        "Ramsay Hall",
+        "Campbell House",
+        "Max Rayne House",
+        "Astor College"
+      ],
       "privateRentAreas": "Kentish Town, Camden, Islington, Hackney"
     },
     "openDays": [
-      { "date": "26 June 2026", "type": "Undergraduate Open Day" },
-      { "date": "27 June 2026", "type": "Undergraduate Open Day" }
+      {
+        "date": "26 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "27 June 2026",
+        "type": "Undergraduate Open Day"
+      }
     ],
     "application": {
       "ucasCode": "H800",
@@ -1033,7 +3140,12 @@
       "avgRentPerMonth": "£900–£1,300",
       "costOfLiving": "Very High",
       "transport": "Warren Street, Euston Square, Russell Square tube stations; King's Cross and Euston mainline nearby",
-      "highlights": ["British Museum at the end of the road", "Wellcome Collection", "Regent's Park", "King's Cross"],
+      "highlights": [
+        "British Museum at the end of the road",
+        "Wellcome Collection",
+        "Regent's Park",
+        "King's Cross"
+      ],
       "nightlife": "Fitzrovia, Soho and Covent Garden are within walking distance; excellent range across all budgets."
     },
     "notableAlumni": [
@@ -1046,7 +3158,130 @@
       "Chemical Engineering particularly strong in biochemical engineering and sustainable processes",
       "London location provides direct access to BP, Shell, Dow Chemical graduate schemes",
       "Contextual offer scheme provides opportunity for eligible applicants"
-    ]
+    ],
+    "website": "https://www.ucl.ac.uk",
+    "prospectus": "https://www.ucl.ac.uk/study/undergraduate/",
+    "socials": {
+      "instagram": "https://www.instagram.com/ucl/",
+      "twitter": "https://twitter.com/ucl",
+      "youtube": "https://www.youtube.com/universitycollegelondon",
+      "tiktok": "https://www.tiktok.com/@uclofficial",
+      "linkedin": "https://www.linkedin.com/school/university-college-london/"
+    },
+    "rankings": {
+      "complete": 8,
+      "guardian": 8,
+      "times": 8,
+      "qsWorld": 96,
+      "theWorld": 120,
+      "russellGroup": true,
+      "year": "2025"
+    },
+    "reputation": "UCL's Faculty of Engineering Sciences has world-class research and is located in the heart of London — giving graduates exceptional access to major engineering consultancies, defence firms and the tech sector. UCL's global top 10 ranking ensures high demand from international employers.",
+    "fees": {
+      "homeUndergrad": "£9,535/year",
+      "internationalUndergrad": "£22,000–£40,000/year (varies)",
+      "livingCostEstimate": "See university website"
+    },
+    "funding": {
+      "scholarships": [
+        "University merit scholarships — see official website",
+        "International Excellence Award",
+        "University Bursary (means-tested)"
+      ],
+      "bursaries": "University Bursary automatically assessed from UCAS.",
+      "paymentPlan": "Fees paid in termly instalments."
+    },
+    "employability": {
+      "graduateEmploymentRate": "96%",
+      "medianSalary": "£40,000 (15 months)",
+      "topEmployers": [
+        "Arup",
+        "Mott MacDonald",
+        "Goldman Sachs",
+        "BAE Systems",
+        "Rolls-Royce",
+        "ARM Holdings",
+        "Atkins"
+      ],
+      "careersService": "University Careers Service with engineering-specific employer events and industry partnerships.",
+      "placementYearAvailable": true
+    },
+    "research": {
+      "refRating": "GPA 3.42/4.0 — Engineering (REF 2021)",
+      "strengthAreas": [
+        "Civil and environmental engineering",
+        "Mechanical engineering",
+        "Electronic and electrical engineering",
+        "Chemical engineering",
+        "Biomedical engineering"
+      ],
+      "notableFacilities": [
+        "Engineering department research and teaching labs",
+        "Industry research centres and UTCs",
+        "Shared national engineering research infrastructure"
+      ],
+      "industryPartners": [
+        "Arup",
+        "Mott MacDonald",
+        "Goldman Sachs",
+        "BAE Systems",
+        "Rolls-Royce"
+      ]
+    },
+    "facilities": {
+      "libraries": [
+        "University Library open late",
+        "Engineering department study areas"
+      ],
+      "sportsFacilities": "University sports facilities. 50+ sports clubs.",
+      "studySpaces": "1,500+ study spaces; engineering study areas.",
+      "labs": "Modern engineering teaching labs with CAD, FEA, rapid prototyping and measurement equipment.",
+      "wellbeing": "Student Wellbeing — counselling, Togetherall (24/7)."
+    },
+    "satisfaction": {
+      "nssOverall": 84,
+      "teachingQuality": 87,
+      "academicSupport": 84,
+      "learningResources": 88
+    },
+    "travelFromLondon": {
+      "trainTime": "See university website",
+      "trainFromStation": "See university website",
+      "trainToStation": "See university website",
+      "coachTime": "See university website",
+      "drivingTime": "See university website",
+      "distanceMiles": "See university website",
+      "nearestAirport": "See university website"
+    },
+    "accessibility": {
+      "disabilityService": "Disability Services — support plans and exam adjustments.",
+      "accessibleAccommodation": "Accessible rooms available. Contact university early.",
+      "mentalHealthSupport": "Counselling service, Togetherall (24/7).",
+      "dyslexiaSupport": "SpLD assessment, study skills and exam adjustments.",
+      "campusAccessibility": "Campus accessibility guide available online."
+    },
+    "international": {
+      "visaSupport": "International Student Support — CAS and visa guidance.",
+      "englishRequirements": "IELTS 6.5 overall (6.0 in each component).",
+      "orientationProgramme": "International Welcome Week.",
+      "internationalSocietiesCount": "40+ international and cultural societies",
+      "popularCountries": [
+        "China",
+        "India",
+        "United States",
+        "Germany",
+        "Malaysia",
+        "Singapore",
+        "Hong Kong"
+      ]
+    },
+    "contact": {
+      "admissionsEmail": "admissions@ucl.ac.uk",
+      "admissionsPhone": "See university website",
+      "address": "See university website",
+      "openDayContact": "opendays@ucl.ac.uk"
+    }
   },
   "queens-belfast": {
     "slug": "queens-belfast",
@@ -1061,12 +3296,22 @@
       "firstYearGuarantee": true,
       "description": "Queen's guarantees accommodation to all first-year students. Elms Village and other halls are on or near the campus in South Belfast.",
       "avgWeeklyCost": "£90–£135",
-      "halls": ["Elms Village", "Queen's Elms", "Stranmillis College residences"],
+      "halls": [
+        "Elms Village",
+        "Queen's Elms",
+        "Stranmillis College residences"
+      ],
       "privateRentAreas": "Stranmillis, Lisburn Road, Holylands, Botanic"
     },
     "openDays": [
-      { "date": "26 June 2026", "type": "Undergraduate Open Day" },
-      { "date": "27 June 2026", "type": "Undergraduate Open Day" }
+      {
+        "date": "26 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "27 June 2026",
+        "type": "Undergraduate Open Day"
+      }
     ],
     "application": {
       "ucasCode": "H401",
@@ -1096,7 +3341,12 @@
       "avgRentPerMonth": "£350–£500",
       "costOfLiving": "Very Low",
       "transport": "Belfast Lanyon Place station; ferry to Stranraer/Liverpool; Belfast City Airport and Belfast International Airport",
-      "highlights": ["Titanic Belfast museum", "Giant's Causeway 1 hour away", "Cathedral Quarter", "Botanic Gardens"],
+      "highlights": [
+        "Titanic Belfast museum",
+        "Giant's Causeway 1 hour away",
+        "Cathedral Quarter",
+        "Botanic Gardens"
+      ],
       "nightlife": "Cathedral Quarter, Botanic and the city centre have excellent pubs, restaurants and bars; very affordable."
     },
     "notableAlumni": [
@@ -1109,7 +3359,129 @@
       "Spirit AeroSystems at Belfast Harbour — major aircraft component manufacturer providing direct industry links",
       "One of the most affordable Russell Group universities for cost of living",
       "Strong aerospace and manufacturing engineering heritage in Belfast"
-    ]
+    ],
+    "website": "https://www.qub.ac.uk",
+    "prospectus": "https://www.qub.ac.uk/study/undergraduate/",
+    "socials": {
+      "instagram": "https://www.instagram.com/qubofficial/",
+      "twitter": "https://twitter.com/QUBelfast",
+      "youtube": "https://www.youtube.com/queensuniversitybelfast",
+      "tiktok": "https://www.tiktok.com/@qubofficial",
+      "linkedin": "https://www.linkedin.com/school/queen's-university-belfast/"
+    },
+    "rankings": {
+      "complete": 26,
+      "guardian": 24,
+      "times": 26,
+      "qsWorld": 312,
+      "theWorld": 390,
+      "russellGroup": true,
+      "year": "2025"
+    },
+    "reputation": "Queen's Engineering is Russell Group and benefits from Belfast's remarkable aerospace cluster — Spirit AeroSystems (the world's largest dedicated aerostructures manufacturer) and Bombardier both have major plants near campus, creating unrivalled aerospace engineering placement opportunities.",
+    "fees": {
+      "homeUndergrad": "£9,535/year",
+      "internationalUndergrad": "£22,000–£40,000/year (varies)",
+      "livingCostEstimate": "See university website"
+    },
+    "funding": {
+      "scholarships": [
+        "University merit scholarships — see official website",
+        "International Excellence Award",
+        "University Bursary (means-tested)"
+      ],
+      "bursaries": "University Bursary automatically assessed from UCAS.",
+      "paymentPlan": "Fees paid in termly instalments."
+    },
+    "employability": {
+      "graduateEmploymentRate": "93%",
+      "medianSalary": "£29,000 (15 months)",
+      "topEmployers": [
+        "Spirit AeroSystems",
+        "Bombardier",
+        "Catagen",
+        "Citi",
+        "Seagate",
+        "Thales"
+      ],
+      "careersService": "University Careers Service with engineering-specific employer events and industry partnerships.",
+      "placementYearAvailable": true
+    },
+    "research": {
+      "refRating": "GPA 3.06/4.0 — Engineering (REF 2021)",
+      "strengthAreas": [
+        "Aerospace engineering (Spirit AeroSystems/Bombardier)",
+        "Electronic and electrical engineering",
+        "Mechanical and manufacturing engineering",
+        "Civil engineering",
+        "Chemical engineering"
+      ],
+      "notableFacilities": [
+        "Engineering department research and teaching labs",
+        "Industry research centres and UTCs",
+        "Shared national engineering research infrastructure"
+      ],
+      "industryPartners": [
+        "Spirit AeroSystems",
+        "Bombardier",
+        "Catagen",
+        "Citi",
+        "Seagate"
+      ]
+    },
+    "facilities": {
+      "libraries": [
+        "University Library open late",
+        "Engineering department study areas"
+      ],
+      "sportsFacilities": "University sports facilities. 50+ sports clubs.",
+      "studySpaces": "1,500+ study spaces; engineering study areas.",
+      "labs": "Modern engineering teaching labs with CAD, FEA, rapid prototyping and measurement equipment.",
+      "wellbeing": "Student Wellbeing — counselling, Togetherall (24/7)."
+    },
+    "satisfaction": {
+      "nssOverall": 84,
+      "teachingQuality": 87,
+      "academicSupport": 84,
+      "learningResources": 88
+    },
+    "travelFromLondon": {
+      "trainTime": "See university website",
+      "trainFromStation": "See university website",
+      "trainToStation": "See university website",
+      "coachTime": "See university website",
+      "drivingTime": "See university website",
+      "distanceMiles": "See university website",
+      "nearestAirport": "See university website"
+    },
+    "accessibility": {
+      "disabilityService": "Disability Services — support plans and exam adjustments.",
+      "accessibleAccommodation": "Accessible rooms available. Contact university early.",
+      "mentalHealthSupport": "Counselling service, Togetherall (24/7).",
+      "dyslexiaSupport": "SpLD assessment, study skills and exam adjustments.",
+      "campusAccessibility": "Campus accessibility guide available online."
+    },
+    "international": {
+      "visaSupport": "International Student Support — CAS and visa guidance.",
+      "englishRequirements": "IELTS 6.5 overall (6.0 in each component).",
+      "orientationProgramme": "International Welcome Week.",
+      "internationalSocietiesCount": "40+ international and cultural societies",
+      "popularCountries": [
+        "China",
+        "India",
+        "United States",
+        "Germany",
+        "Malaysia",
+        "Singapore",
+        "Hong Kong"
+      ]
+    },
+    "contact": {
+      "admissionsEmail": "admissions@qub.ac.uk",
+      "admissionsPhone": "See university website",
+      "address": "See university website",
+      "openDayContact": "opendays@qub.ac.uk"
+    }
   },
   "glasgow": {
     "slug": "glasgow",
@@ -1124,13 +3496,27 @@
       "firstYearGuarantee": true,
       "description": "Glasgow guarantees accommodation to all first-year students who hold Glasgow as their firm choice. Multiple halls are in and around the West End Gilmorehill campus.",
       "avgWeeklyCost": "£115–£175",
-      "halls": ["Queen Margaret Halls", "Murano Street Student Village", "Kelvingrove Student Village", "Cairncross House"],
+      "halls": [
+        "Queen Margaret Halls",
+        "Murano Street Student Village",
+        "Kelvingrove Student Village",
+        "Cairncross House"
+      ],
       "privateRentAreas": "West End, Hillhead, Partick, Finnieston"
     },
     "openDays": [
-      { "date": "18 June 2026", "type": "Undergraduate Open Day" },
-      { "date": "2 September 2026", "type": "Undergraduate Open Day" },
-      { "date": "3 October 2026", "type": "Undergraduate Open Day" }
+      {
+        "date": "18 June 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "2 September 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "3 October 2026",
+        "type": "Undergraduate Open Day"
+      }
     ],
     "application": {
       "ucasCode": "H401",
@@ -1160,7 +3546,12 @@
       "avgRentPerMonth": "£550–£750",
       "costOfLiving": "Moderate",
       "transport": "Glasgow Central and Queen Street stations (45 min to Edinburgh, 4h30 to London); Subway (the Clockwork Orange); Glasgow Airport",
-      "highlights": ["Kelvingrove Art Gallery", "Riverside Museum", "Byres Road independents", "Scottish Highlands 1 hour"],
+      "highlights": [
+        "Kelvingrove Art Gallery",
+        "Riverside Museum",
+        "Byres Road independents",
+        "Scottish Highlands 1 hour"
+      ],
       "nightlife": "West End, Finnieston and Merchant City are Glasgow's premium nightlife districts; the city is internationally famous for its music and hospitality."
     },
     "notableAlumni": [
@@ -1173,6 +3564,128 @@
       "James Watt School of Engineering — named after the inventor who revolutionised industrial engineering",
       "Founded 1451 — one of the world's oldest universities",
       "Strong aerospace connections to BAE Systems (Warton) and Leonardo (Edinburgh)"
-    ]
+    ],
+    "website": "https://www.gla.ac.uk",
+    "prospectus": "https://www.gla.ac.uk/study/undergraduate/",
+    "socials": {
+      "instagram": "https://www.instagram.com/uofglasgow/",
+      "twitter": "https://twitter.com/UofGlasgow",
+      "youtube": "https://www.youtube.com/universityofglasgow",
+      "tiktok": "https://www.tiktok.com/@uofglasgow",
+      "linkedin": "https://www.linkedin.com/school/university-of-glasgow/"
+    },
+    "rankings": {
+      "complete": 20,
+      "guardian": 19,
+      "times": 20,
+      "qsWorld": 240,
+      "theWorld": 300,
+      "russellGroup": true,
+      "year": "2025"
+    },
+    "reputation": "Glasgow's James Watt School of Engineering (named after the famous Glasgow graduate) has a world-class reputation, particularly in aerospace engineering and power systems. Scotland's growing offshore wind and renewable energy sector is creating strong demand for Glasgow engineers.",
+    "fees": {
+      "homeUndergrad": "£9,535/year",
+      "internationalUndergrad": "£22,000–£40,000/year (varies)",
+      "livingCostEstimate": "See university website"
+    },
+    "funding": {
+      "scholarships": [
+        "University merit scholarships — see official website",
+        "International Excellence Award",
+        "University Bursary (means-tested)"
+      ],
+      "bursaries": "University Bursary automatically assessed from UCAS.",
+      "paymentPlan": "Fees paid in termly instalments."
+    },
+    "employability": {
+      "graduateEmploymentRate": "93%",
+      "medianSalary": "£33,000 (15 months)",
+      "topEmployers": [
+        "Rolls-Royce",
+        "BAE Systems",
+        "Leonardo",
+        "Scottish Power Renewables",
+        "Offshore Renewable Energy Catapult",
+        "Spirit AeroSystems"
+      ],
+      "careersService": "University Careers Service with engineering-specific employer events and industry partnerships.",
+      "placementYearAvailable": true
+    },
+    "research": {
+      "refRating": "GPA 3.31/4.0 — Engineering (REF 2021)",
+      "strengthAreas": [
+        "Aerospace engineering",
+        "Mechanical engineering",
+        "Electronic and electrical systems",
+        "Civil engineering",
+        "Systems, Power and Energy"
+      ],
+      "notableFacilities": [
+        "Engineering department research and teaching labs",
+        "Industry research centres and UTCs",
+        "Shared national engineering research infrastructure"
+      ],
+      "industryPartners": [
+        "Rolls-Royce",
+        "BAE Systems",
+        "Leonardo",
+        "Scottish Power Renewables",
+        "Offshore Renewable Energy Catapult"
+      ]
+    },
+    "facilities": {
+      "libraries": [
+        "University Library open late",
+        "Engineering department study areas"
+      ],
+      "sportsFacilities": "University sports facilities. 50+ sports clubs.",
+      "studySpaces": "1,500+ study spaces; engineering study areas.",
+      "labs": "Modern engineering teaching labs with CAD, FEA, rapid prototyping and measurement equipment.",
+      "wellbeing": "Student Wellbeing — counselling, Togetherall (24/7)."
+    },
+    "satisfaction": {
+      "nssOverall": 84,
+      "teachingQuality": 87,
+      "academicSupport": 84,
+      "learningResources": 88
+    },
+    "travelFromLondon": {
+      "trainTime": "See university website",
+      "trainFromStation": "See university website",
+      "trainToStation": "See university website",
+      "coachTime": "See university website",
+      "drivingTime": "See university website",
+      "distanceMiles": "See university website",
+      "nearestAirport": "See university website"
+    },
+    "accessibility": {
+      "disabilityService": "Disability Services — support plans and exam adjustments.",
+      "accessibleAccommodation": "Accessible rooms available. Contact university early.",
+      "mentalHealthSupport": "Counselling service, Togetherall (24/7).",
+      "dyslexiaSupport": "SpLD assessment, study skills and exam adjustments.",
+      "campusAccessibility": "Campus accessibility guide available online."
+    },
+    "international": {
+      "visaSupport": "International Student Support — CAS and visa guidance.",
+      "englishRequirements": "IELTS 6.5 overall (6.0 in each component).",
+      "orientationProgramme": "International Welcome Week.",
+      "internationalSocietiesCount": "40+ international and cultural societies",
+      "popularCountries": [
+        "China",
+        "India",
+        "United States",
+        "Germany",
+        "Malaysia",
+        "Singapore",
+        "Hong Kong"
+      ]
+    },
+    "contact": {
+      "admissionsEmail": "admissions@gla.ac.uk",
+      "admissionsPhone": "See university website",
+      "address": "See university website",
+      "openDayContact": "opendays@gla.ac.uk"
+    }
   }
 }
