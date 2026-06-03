@@ -27,7 +27,8 @@ if (!SUPABASE_URL || !SUPABASE_SERVICE_KEY) {
 const supabase = createClient(SUPABASE_URL, SUPABASE_SERVICE_KEY);
 
 function readJson(relPath) {
-  return JSON.parse(readFileSync(resolve(root, relPath), 'utf-8'));
+  const content = readFileSync(resolve(root, relPath), 'utf-8').replace(/^﻿/, '');
+  return JSON.parse(content);
 }
 
 // Mirrors Table.jsx toSlug — used to verify slugs match what the UI generates
