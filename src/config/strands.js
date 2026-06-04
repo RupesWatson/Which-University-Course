@@ -110,6 +110,47 @@ export const STRANDS = {
     ],
     courses: engineeringCourses,
   },
+  humanities: {
+    id: 'humanities',
+    label: 'Humanities',
+    tagline: 'UCAS 2026 verified humanities, languages and arts degrees',
+    headerEyebrow: 'UCAS 2026 Course Audit',
+    headerTitleStart: 'UK University Humanities & ',
+    headerTitleAccent: 'Arts Comparison',
+    headerSubtitle:
+      'Compare verified 2026 undergraduate course matches across Russell Group and other top UK universities. ' +
+      'Course titles sourced from UCAS 2026 and rankings from the Complete University Guide 2026.',
+    footerNote:
+      'Exact course titles and availability verified against UCAS 2026. English, History and Philosophy use the CUG 2026 subject ranking; ' +
+      'French, Spanish and German use CUG Modern Languages rankings; all other tables show position within the verified comparison set.',
+    courseGroups: [
+      { label: 'Core Humanities', ids: ['english', 'history', 'philosophy', 'classics'] },
+      { label: 'Languages', ids: ['french', 'spanish', 'german', 'modernLanguages'] },
+      { label: 'Literature & Creative Arts', ids: ['englishCreativeWriting', 'dramaTheatre', 'artHistory', 'musicHumanities'] },
+      { label: 'Language Science', ids: ['linguistics'] },
+    ],
+    courses: humanitiesCourses,
+  },
+  socialsciences: {
+    id: 'socialsciences',
+    label: 'Social Sciences',
+    tagline: 'UCAS 2026 verified social science, law and policy degrees',
+    headerEyebrow: 'UCAS 2026 Course Audit',
+    headerTitleStart: 'UK University Social Sciences & ',
+    headerTitleAccent: 'Law Comparison',
+    headerSubtitle:
+      'Compare verified 2026 undergraduate course matches across Russell Group and other top UK universities. ' +
+      'Course titles sourced from UCAS 2026 and rankings from the Complete University Guide 2026.',
+    footerNote:
+      'Exact course titles and availability verified against UCAS 2026. Politics, Law, Economics and Psychology use the CUG 2026 subject ranking; ' +
+      'all other tables show table position within the verified comparison set.',
+    courseGroups: [
+      { label: 'Core Social Sciences', ids: ['politics', 'law', 'economics', 'psychology'] },
+      { label: 'Specialist', ids: ['sociology', 'ppe', 'criminology', 'internationalRelations'] },
+      { label: 'Cross-Disciplinary', ids: ['politicsEconomics', 'socialPolicy', 'socialAnthropology', 'forensicPsychology', 'internationalDevelopment'] },
+    ],
+    courses: socialSciencesCourses,
+  },
 };
 
 export const STRAND_LIST = Object.values(STRANDS);

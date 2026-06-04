@@ -28,6 +28,27 @@ export const COURSES = [
     rankingScope: 'comparison',
   },
   {
+    id: 'french',
+    label: 'French',
+    rankLabel: 'Subject Rank',
+    description: 'UCAS 2026 verified French BA titles — language, literature and culture, typically with a year abroad',
+    rankingScope: 'official',
+  },
+  {
+    id: 'spanish',
+    label: 'Spanish',
+    rankLabel: 'Subject Rank',
+    description: 'UCAS 2026 verified Spanish BA titles — language, literature and Hispanic culture, typically with a year abroad',
+    rankingScope: 'official',
+  },
+  {
+    id: 'german',
+    label: 'German',
+    rankLabel: 'Subject Rank',
+    description: 'UCAS 2026 verified German BA titles — language, literature and culture across Germany, Austria and Switzerland',
+    rankingScope: 'official',
+  },
+  {
     id: 'modernLanguages',
     label: 'Modern Languages',
     rankLabel: 'Table Position',
@@ -43,7 +64,7 @@ export const COURSES = [
   },
   {
     id: 'artHistory',
-    label: 'Art History',
+    label: 'History of Art',
     rankLabel: 'Table Position',
     description: 'UCAS 2026 verified History of Art BA titles — visual culture, criticism and curatorial practice',
     rankingScope: 'comparison',
@@ -53,6 +74,20 @@ export const COURSES = [
     label: 'Music',
     rankLabel: 'Table Position',
     description: 'UCAS 2026 verified Music BA and BMus titles — composition, performance, musicology and music technology',
+    rankingScope: 'comparison',
+  },
+  {
+    id: 'englishCreativeWriting',
+    label: 'English & Creative Writing',
+    rankLabel: 'Table Position',
+    description: 'UCAS 2026 verified English with Creative Writing BA titles — literary study combined with fiction, poetry and screenwriting',
+    rankingScope: 'comparison',
+  },
+  {
+    id: 'dramaTheatre',
+    label: 'Drama & Theatre Studies',
+    rankLabel: 'Table Position',
+    description: 'UCAS 2026 verified Drama and Theatre Studies BA titles — performance, directing, design and theatre history',
     rankingScope: 'comparison',
   },
 ];
