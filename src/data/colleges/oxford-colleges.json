@@ -1,0 +1,1175 @@
+{
+  "oxford-balliol": {
+    "slug": "oxford-balliol",
+    "universitySlug": "oxford",
+    "name": "Balliol College",
+    "subjects": [],
+    "founded": 1263,
+    "location": "Broad Street, central Oxford",
+    "overview": "One of Oxford's oldest and most academically distinguished colleges, Balliol was founded around 1263 by John I de Balliol and formally established by his widow Dervorguilla of Galloway in 1282. The college occupies a prime central position on Broad Street and has a student body of approximately 399 undergraduates and 302 postgraduates.",
+    "character": "Known for its left-leaning intellectual culture, meritocratic ethos, and strong PPE tradition. Balliol has a reputation for producing prime ministers and public intellectuals, and prizes academic ambition alongside political engagement.",
+    "studentNumbers": { "undergraduates": 399, "postgraduates": 302, "total": 701 },
+    "accommodation": {
+      "yearsGuaranteed": 3,
+      "description": "First and third years live on the main Broad Street site; second years can opt for private accommodation or college-owned flats at Jowett Walk or Master's Field, a short walk away. Postgraduates are housed at Holywell Manor.",
+      "avgCost": null,
+      "inCollege": true
+    },
+    "academicStrengths": ["PPE", "Classics", "Law", "History", "Medicine"],
+    "notableAlumni": [
+      "H. H. Asquith (Prime Minister)",
+      "Harold Macmillan (Prime Minister)",
+      "Edward Heath (Prime Minister)",
+      "Boris Johnson (Prime Minister)",
+      "Richard Dawkins (Evolutionary Biologist)",
+      "Christopher Hitchens (Author and Journalist)",
+      "Robert Peston (Journalist)",
+      "Yvette Cooper (Politician)"
+    ],
+    "keyFacts": [
+      "One of Oxford's three oldest colleges, founded c.1263",
+      "Has produced 4 British Prime Ministers",
+      "13 Nobel Prize winners among alumni",
+      "Strong tradition of PPE and political engagement",
+      "Located on Broad Street in the heart of Oxford"
+    ],
+    "finances": {
+      "endowment": "~£100m",
+      "bursaries": "Oxford Bursary available for students from low-income households; Balliol also offers additional college support",
+      "description": "A well-endowed college with strong alumni giving and a commitment to access through bursaries and outreach."
+    },
+    "website": "https://www.balliol.ox.ac.uk",
+    "sortOrder": 1
+  },
+  "oxford-brasenose": {
+    "slug": "oxford-brasenose",
+    "universitySlug": "oxford",
+    "name": "Brasenose College",
+    "subjects": [],
+    "founded": 1509,
+    "location": "Radcliffe Square, central Oxford",
+    "overview": "Brasenose College was founded in 1509 by William Smyth, Bishop of Lincoln, and Sir Richard Sutton, the first lay founder of an Oxford college. Its name derives from a brazen (bronze) door knocker. The college has 382 undergraduates and 201 postgraduates.",
+    "character": "Known for a strong sporting culture alongside genuine academic excellence, Brasenose has a reputation as one of Oxford's more sociable and well-rounded colleges. It placed second in the Norrington Table in 2023.",
+    "studentNumbers": { "undergraduates": 382, "postgraduates": 201, "total": 583 },
+    "accommodation": {
+      "yearsGuaranteed": 3,
+      "description": "The college provides accommodation for all three years of an undergraduate's course, with rooms on the main site near Radcliffe Square as well as in nearby annexes.",
+      "avgCost": null,
+      "inCollege": true
+    },
+    "academicStrengths": ["Law", "PPE", "History", "English"],
+    "notableAlumni": [
+      "David Cameron (Prime Minister)",
+      "Henry Addington (Prime Minister)",
+      "John Gorton (Australian Prime Minister)",
+      "Malcolm Turnbull (Australian Prime Minister)",
+      "Michael Palin (Actor and Comedian)",
+      "George Monbiot (Environmental Journalist)"
+    ],
+    "keyFacts": [
+      "Founded 1509 by Bishop Smyth and Sir Richard Sutton",
+      "Named after a historic bronze door knocker",
+      "Produced 2 British and 2 Australian prime ministers",
+      "3 Nobel Prize winners among alumni",
+      "Second in the Norrington Table in 2023"
+    ],
+    "finances": {
+      "endowment": "~£98m",
+      "bursaries": "Oxford Bursary scheme plus college-specific support",
+      "description": "A mid-tier endowment with strong alumni engagement and commitment to student support."
+    },
+    "website": "https://www.bnc.ox.ac.uk",
+    "sortOrder": 2
+  },
+  "oxford-christ-church": {
+    "slug": "oxford-christ-church",
+    "universitySlug": "oxford",
+    "name": "Christ Church",
+    "subjects": [],
+    "founded": 1546,
+    "location": "St Aldate's, central Oxford",
+    "overview": "Christ Church is Oxford's largest and most architecturally spectacular college, founded in 1546 by King Henry VIII as a unique joint foundation of the university and the cathedral of the Oxford diocese. The college has 451 undergraduates and 172 postgraduates, and its chapel doubles as Oxford Cathedral.",
+    "character": "Historically associated with wealth, grandeur, and the English establishment, Christ Church has a reputation for social prestige alongside genuine academic distinction. It has produced more British prime ministers than any other Oxford college.",
+    "studentNumbers": { "undergraduates": 451, "postgraduates": 172, "total": 623 },
+    "accommodation": {
+      "yearsGuaranteed": 3,
+      "description": "Accommodation is provided for all years, with rooms in the iconic main site including the famous Tom Quad, as well as in college-owned properties nearby. The college's extensive grounds include Christ Church Meadow.",
+      "avgCost": null,
+      "inCollege": true
+    },
+    "academicStrengths": ["PPE", "Law", "History", "Classics", "Medicine"],
+    "notableAlumni": [
+      "William Gladstone (Prime Minister)",
+      "Anthony Eden (Prime Minister)",
+      "John Locke (Philosopher)",
+      "Lewis Carroll (Author)",
+      "W. H. Auden (Poet)",
+      "Albert Einstein (Honorary Fellow)",
+      "King Edward VII (Monarch)"
+    ],
+    "keyFacts": [
+      "Oxford's largest college by student numbers",
+      "Founded 1546 by Henry VIII",
+      "Produced 13 British Prime Ministers",
+      "College chapel is Oxford Cathedral",
+      "Famous alumni include Lewis Carroll, John Locke, and W. H. Auden"
+    ],
+    "finances": {
+      "endowment": "~£577m (wealthiest Oxford college)",
+      "bursaries": "Generous Oxford Bursary and college-specific hardship funds",
+      "description": "The wealthiest Oxford college, with an endowment exceeding £577 million, enabling extensive student support."
+    },
+    "website": "https://www.chch.ox.ac.uk",
+    "sortOrder": 3
+  },
+  "oxford-corpus-christi": {
+    "slug": "oxford-corpus-christi",
+    "universitySlug": "oxford",
+    "name": "Corpus Christi College",
+    "subjects": [],
+    "founded": 1517,
+    "location": "Merton Street, central Oxford",
+    "overview": "Corpus Christi College was founded in 1517 by Richard Fox, Bishop of Winchester, as a humanist institution emphasising Greek and Latin scholarship. It is one of Oxford's smaller colleges, with around 235 undergraduates and approximately 120 postgraduates, set around a picturesque quadrangle.",
+    "character": "A small, intimate, and academically high-performing college with a strong humanities tradition. Corpus is known for its friendly community, beautiful medieval buildings, and its famous pelican sundial in the main quad.",
+    "studentNumbers": { "undergraduates": 235, "postgraduates": 120, "total": 355 },
+    "accommodation": {
+      "yearsGuaranteed": 3,
+      "description": "The college guarantees accommodation for all undergraduate years, mostly within or immediately adjacent to the main site near Merton Street.",
+      "avgCost": null,
+      "inCollege": true
+    },
+    "academicStrengths": ["Classics", "History", "PPE", "English"],
+    "notableAlumni": [
+      "Isaiah Berlin (Philosopher)",
+      "Vikram Seth (Author)",
+      "Ed Miliband (Labour Leader)",
+      "David Miliband (Foreign Secretary)",
+      "John Rainolds (Originator of King James Bible)"
+    ],
+    "keyFacts": [
+      "Founded 1517 by Bishop Richard Fox",
+      "One of Oxford's smallest undergraduate colleges",
+      "Famous for its pelican sundial in the main quad",
+      "Strong humanities tradition since its humanist foundation",
+      "Endowment of ~£58m"
+    ],
+    "finances": {
+      "endowment": "~£58m",
+      "bursaries": "Oxford Bursary plus college support funds",
+      "description": "A smaller endowment but strong commitment to student welfare and access."
+    },
+    "website": "https://www.ccc.ox.ac.uk",
+    "sortOrder": 4
+  },
+  "oxford-exeter": {
+    "slug": "oxford-exeter",
+    "universitySlug": "oxford",
+    "name": "Exeter College",
+    "subjects": [],
+    "founded": 1314,
+    "location": "Turl Street, central Oxford",
+    "overview": "Exeter College is the fourth-oldest college at Oxford, founded in 1314 by Walter de Stapeldon, Bishop of Exeter, on Turl Street where it has remained ever since. The college has 344 undergraduates and 253 postgraduates, and is known for its award-winning Cohen Quad development in Jericho.",
+    "character": "A mid-sized, internationally minded college with a warm and friendly atmosphere. Exeter is known for producing prominent figures in the arts and literature, and for having one of the most architecturally striking modern additions (Cohen Quad) to any Oxford college.",
+    "studentNumbers": { "undergraduates": 344, "postgraduates": 253, "total": 597 },
+    "accommodation": {
+      "yearsGuaranteed": 3,
+      "description": "Accommodation is offered for all three years. First years live on the main Turl Street site; later years have access to the Cohen Quad in Jericho and other college properties in East Oxford with self-catering facilities.",
+      "avgCost": null,
+      "inCollege": true
+    },
+    "academicStrengths": ["English", "History", "PPE", "Fine Art", "Languages"],
+    "notableAlumni": [
+      "J. R. R. Tolkien (Author)",
+      "Philip Pullman (Author)",
+      "Roger Bannister (First sub-4-minute mile runner)",
+      "Alan Bennett (Playwright)",
+      "Richard Burton (Actor)",
+      "William Morris (Artist and Designer)"
+    ],
+    "keyFacts": [
+      "Fourth-oldest Oxford college, founded 1314",
+      "Located on Turl Street in central Oxford",
+      "Home to the award-winning modern Cohen Quad",
+      "Strong literary alumni including Tolkien and Pullman",
+      "International atmosphere with students from around the world"
+    ],
+    "finances": {
+      "endowment": null,
+      "bursaries": "Oxford Bursary and college-specific financial support",
+      "description": "Well-resourced college with significant recent capital investment in new accommodation and facilities."
+    },
+    "website": "https://www.exeter.ox.ac.uk",
+    "sortOrder": 5
+  },
+  "oxford-harris-manchester": {
+    "slug": "oxford-harris-manchester",
+    "universitySlug": "oxford",
+    "name": "Harris Manchester College",
+    "subjects": [],
+    "founded": 1757,
+    "location": "Mansfield Road, central Oxford",
+    "overview": "Harris Manchester College is Oxford's only college exclusively for mature students (aged 21 and over), with roots going back to 1757 as the Warrington Academy for Nonconformist students. It moved to Oxford in 1893 and achieved full college status in 1996. It is the smallest undergraduate college in either Oxford or Cambridge, with around 100 undergraduates and 150 postgraduates.",
+    "character": "An intimate, welcoming, and distinctly non-traditional college with a strong commitment to access and mature student education. The community is diverse in age and background, creating a collegial atmosphere quite different from standard Oxford undergraduate colleges.",
+    "studentNumbers": { "undergraduates": 100, "postgraduates": 150, "total": 250 },
+    "accommodation": {
+      "yearsGuaranteed": 2,
+      "description": "All accommodation is on the main college site. Students can generally live in college for at least the first and final years of their course.",
+      "avgCost": null,
+      "inCollege": true
+    },
+    "academicStrengths": ["Law", "Theology", "PPE", "History"],
+    "notableAlumni": [
+      "Lord Harris of Peckham (Benefactor and Businessman)"
+    ],
+    "keyFacts": [
+      "Oxford's only college exclusively for mature students (21+)",
+      "Founded 1757 as the Warrington Academy",
+      "Smallest undergraduate college at Oxford or Cambridge",
+      "Achieved full college status in 1996",
+      "Strong Nonconformist and liberal educational heritage"
+    ],
+    "finances": {
+      "endowment": null,
+      "bursaries": "Oxford Bursary and college hardship funds available",
+      "description": "Smaller endowment but strong donor support following the naming gift from Lord Harris of Peckham."
+    },
+    "website": "https://www.hmc.ox.ac.uk",
+    "sortOrder": 6
+  },
+  "oxford-hertford": {
+    "slug": "oxford-hertford",
+    "universitySlug": "oxford",
+    "name": "Hertford College",
+    "subjects": [],
+    "founded": 1874,
+    "location": "Catte Street, central Oxford",
+    "overview": "Hertford College has a complex history tracing back to Hart Hall in the 1280s, but was refounded in its modern form by Act of Parliament in 1874. Located on Catte Street next to the Bodleian Library, the college has about 400 undergraduates and 200 postgraduates, and is famous for its 'Bridge of Sighs' linking two of its buildings.",
+    "character": "One of Oxford's more progressive colleges, Hertford was a pioneer of state school access from the 1960s and has a higher-than-average proportion of state-educated students. It has a friendly, informal atmosphere and a strong access record.",
+    "studentNumbers": { "undergraduates": 400, "postgraduates": 200, "total": 600 },
+    "accommodation": {
+      "yearsGuaranteed": 3,
+      "description": "Undergraduates typically reside in college-owned accommodation for all three years, with rooms cleaned daily. Three meals are available each weekday in the college hall. Accommodation is spread across the main site and several annexes near Folly Bridge.",
+      "avgCost": null,
+      "inCollege": true
+    },
+    "academicStrengths": ["PPE", "Law", "History", "English", "Medicine"],
+    "notableAlumni": [
+      "Evelyn Waugh (Novelist)",
+      "Jonathan Swift (Author, via Hart Hall)",
+      "Thomas Hobbes (Philosopher, via Magdalen Hall)",
+      "William Tyndale (Bible Translator, via Hart Hall)",
+      "Fiona Bruce (Journalist and Newsreader)",
+      "Jacqui Smith (First Female Home Secretary)"
+    ],
+    "keyFacts": [
+      "Modern college founded by Act of Parliament in 1874",
+      "Located next to the Bodleian Library on Catte Street",
+      "Famous for its 'Bridge of Sighs' architectural feature",
+      "Pioneer of state school access from the 1960s",
+      "Predecessor institutions include Hart Hall (c.1282) and Magdalen Hall"
+    ],
+    "finances": {
+      "endowment": null,
+      "bursaries": "Oxford Bursary and college-specific support",
+      "description": "A well-supported college with particular commitment to access and widening participation."
+    },
+    "website": "https://www.hertford.ox.ac.uk",
+    "sortOrder": 7
+  },
+  "oxford-jesus": {
+    "slug": "oxford-jesus",
+    "universitySlug": "oxford",
+    "name": "Jesus College",
+    "subjects": [],
+    "founded": 1571,
+    "location": "Turl Street, central Oxford",
+    "overview": "Jesus College was founded by Queen Elizabeth I in 1571, largely through the efforts of Hugh Price from Brecon, Wales. It has traditionally strong ties with Wales and remains one of the few Oxford colleges with a distinctive national character. The college has 340 undergraduates and 190 postgraduates.",
+    "character": "Informally known as 'The Welsh College', Jesus has a warm, welcoming culture and takes pride in its Welsh heritage and international diversity. It is a mid-sized, friendly college with a strong sense of community.",
+    "studentNumbers": { "undergraduates": 340, "postgraduates": 190, "total": 530 },
+    "accommodation": {
+      "yearsGuaranteed": 3,
+      "description": "The college guarantees accommodation for all three years of undergraduate study, split between the main Turl Street site and Ship Street annexe.",
+      "avgCost": null,
+      "inCollege": true
+    },
+    "academicStrengths": ["PPE", "History", "Law", "Engineering", "Languages"],
+    "notableAlumni": [
+      "Harold Wilson (Prime Minister, twice)",
+      "T. E. Lawrence (Lawrence of Arabia, Archaeologist and Military Officer)",
+      "Pixley ka Isaka Seme (ANC Founder)",
+      "Norman Washington Manley (Chief Minister of Jamaica)"
+    ],
+    "keyFacts": [
+      "Founded by Royal Charter in 1571 by Queen Elizabeth I",
+      "Historically known as 'The Welsh College'",
+      "First Oxford college to have Welsh connections at its foundation",
+      "340 undergraduates and 190 postgraduates",
+      "Strong tradition of public service and political engagement"
+    ],
+    "finances": {
+      "endowment": null,
+      "bursaries": "Oxford Bursary and college access funds",
+      "description": "Good financial resources with a strong emphasis on supporting students from diverse backgrounds."
+    },
+    "website": "https://www.jesus.ox.ac.uk",
+    "sortOrder": 8
+  },
+  "oxford-keble": {
+    "slug": "oxford-keble",
+    "universitySlug": "oxford",
+    "name": "Keble College",
+    "subjects": [],
+    "founded": 1870,
+    "location": "Parks Road, central Oxford",
+    "overview": "Keble College was founded in 1870 as a memorial to John Keble of the Oxford Movement, with the aim of making Oxford education accessible to students of modest means. It is one of Oxford's largest colleges, with 465 undergraduates and 550 postgraduates, and is famous for its striking Victorian red-brick Gothic architecture.",
+    "character": "Known as one of Oxford's most welcoming and inclusive colleges, Keble has a strong communal ethos rooted in its founding ideals. Its distinctive architecture and commitment to common table (regular shared dining) create a distinctive community feel.",
+    "studentNumbers": { "undergraduates": 465, "postgraduates": 550, "total": 1015 },
+    "accommodation": {
+      "yearsGuaranteed": 3,
+      "description": "Keble offers accommodation to all undergraduates for all three years of their course, with 370 rooms on its large main site. From second year students can choose to live out.",
+      "avgCost": null,
+      "inCollege": true
+    },
+    "academicStrengths": ["Science", "Engineering", "Medicine", "Law", "PPE"],
+    "notableAlumni": [
+      "Imran Khan (Prime Minister of Pakistan)",
+      "Anne-Marie Imafidon (Founder of Stemettes)",
+      "Mark Rowley (Metropolitan Police Commissioner)"
+    ],
+    "keyFacts": [
+      "Founded 1870 as a memorial to John Keble",
+      "One of Oxford's largest colleges with over 1,000 students",
+      "Famous for its distinctive red-brick Victorian Gothic architecture",
+      "Purpose-built with a large dining hall for common table dining",
+      "Strong tradition of inclusivity and access"
+    ],
+    "finances": {
+      "endowment": null,
+      "bursaries": "Oxford Bursary and college-specific access support",
+      "description": "A well-resourced college with significant conference income supporting student facilities."
+    },
+    "website": "https://www.keble.ox.ac.uk",
+    "sortOrder": 9
+  },
+  "oxford-lady-margaret-hall": {
+    "slug": "oxford-lady-margaret-hall",
+    "universitySlug": "oxford",
+    "name": "Lady Margaret Hall",
+    "subjects": [],
+    "founded": 1878,
+    "location": "Norham Gardens, North Oxford",
+    "overview": "Lady Margaret Hall was founded in 1878 by a group of High Anglicans including Edward Talbot and his wife Lavinia, opening in October 1879 as one of Oxford's first two women's colleges under principal Elizabeth Wordsworth. The college has nearly 400 undergraduates and around 200 postgraduates, and sits in extensive grounds in North Oxford.",
+    "character": "LMH has a distinctive liberal, high-achieving culture and was among the first Oxford colleges to admit women. Since going mixed in 1979, it has maintained a strong commitment to gender equality and diversity, producing an impressive roster of high-profile women alumni.",
+    "studentNumbers": { "undergraduates": 400, "postgraduates": 200, "total": 600 },
+    "accommodation": {
+      "yearsGuaranteed": 3,
+      "description": "The college provides accommodation for all undergraduates throughout their course in its large North Oxford gardens site, offering a range of room types in historic and modern buildings.",
+      "avgCost": null,
+      "inCollege": true
+    },
+    "academicStrengths": ["PPE", "Law", "History", "English", "Medicine"],
+    "notableAlumni": [
+      "Benazir Bhutto (Prime Minister of Pakistan)",
+      "Emma Watson (Actor)",
+      "Malala Yousafzai (Nobel Peace Prize Laureate)",
+      "Nigella Lawson (Food Writer and Broadcaster)",
+      "Michael Gove (Politician)"
+    ],
+    "keyFacts": [
+      "Founded 1878 as one of Oxford's first two women's colleges",
+      "Opened October 1879 with nine students",
+      "Admitted men in 1979",
+      "Located in extensive gardens in North Oxford",
+      "Notable for producing pioneering women leaders"
+    ],
+    "finances": {
+      "endowment": null,
+      "bursaries": "Oxford Bursary and LMH access bursaries",
+      "description": "Good endowment strengthened by major alumni donations; committed to access and inclusion."
+    },
+    "website": "https://www.lmh.ox.ac.uk",
+    "sortOrder": 10
+  },
+  "oxford-lincoln": {
+    "slug": "oxford-lincoln",
+    "universitySlug": "oxford",
+    "name": "Lincoln College",
+    "subjects": [],
+    "founded": 1427,
+    "location": "Turl Street, central Oxford",
+    "overview": "Lincoln College was founded in 1427 by Richard Fleming, Bishop of Lincoln, and is one of Oxford's smaller undergraduate colleges, with around 300 undergraduates and 300 postgraduates. It is noted for preserving more of the character of a 15th-century college than any other in Oxford, according to architectural historian Nikolaus Pevsner.",
+    "character": "A small, tight-knit college with an exceptionally strong community spirit. Lincoln's compact size means students quickly become close, and its Junior Common Room plays an unusually large role in college life. Known for academic quality alongside a sociable atmosphere.",
+    "studentNumbers": { "undergraduates": 300, "postgraduates": 300, "total": 600 },
+    "accommodation": {
+      "yearsGuaranteed": 3,
+      "description": "The college guarantees accommodation for all years of an undergraduate's course. First years live in main college with en-suite bathrooms; later years are housed in nearby central Oxford properties.",
+      "avgCost": null,
+      "inCollege": true
+    },
+    "academicStrengths": ["Law", "History", "English", "PPE", "Natural Sciences"],
+    "notableAlumni": [
+      "Rishi Sunak (Prime Minister)",
+      "John le Carré (Novelist)",
+      "Dr. Seuss (Theodor Geisel) (Author, postgraduate study)",
+      "John Wesley (Founder of Methodism, Fellow)",
+      "Howard Florey (Penicillin Developer, Fellow)"
+    ],
+    "keyFacts": [
+      "Founded 1427 by Bishop Richard Fleming",
+      "Preserves more 15th-century character than any other Oxford college",
+      "Small college of around 300 undergraduates",
+      "Located on Turl Street in central Oxford",
+      "John Wesley was a Fellow here in the 1720s"
+    ],
+    "finances": {
+      "endowment": null,
+      "bursaries": "Oxford Bursary and Lincoln College bursaries",
+      "description": "Mid-sized endowment with strong commitment to student support."
+    },
+    "website": "https://lincoln.ox.ac.uk",
+    "sortOrder": 11
+  },
+  "oxford-magdalen": {
+    "slug": "oxford-magdalen",
+    "universitySlug": "oxford",
+    "name": "Magdalen College",
+    "subjects": [],
+    "founded": 1458,
+    "location": "High Street, central Oxford",
+    "overview": "Magdalen College was founded in 1458 by William Waynflete, Bishop of Winchester and Lord Chancellor. One of Oxford's wealthiest and most beautiful colleges, it is set in extensive grounds including a deer park, Water Meadow, and Addison's Walk along the River Cherwell. It is consistently one of Oxford's top-performing colleges academically.",
+    "character": "Magdalen combines academic excellence with extraordinary natural beauty, offering students an almost rural experience in the heart of the city. The college is known for its tradition of May Morning choir singing from the Great Tower, and for a balanced, high-achieving community.",
+    "studentNumbers": { "undergraduates": 400, "postgraduates": 250, "total": 650 },
+    "accommodation": {
+      "yearsGuaranteed": 3,
+      "description": "Students are housed across several residential quads on the large riverside site, including St Swithun's Quad, Longwall Quad, and the Grove Buildings. All accommodation is within the extensive college grounds.",
+      "avgCost": null,
+      "inCollege": true
+    },
+    "academicStrengths": ["Biochemistry", "Chemistry", "PPE", "History", "Law"],
+    "notableAlumni": [
+      "Oscar Wilde (Playwright and Poet)",
+      "C. S. Lewis (Author, Fellow)",
+      "Howard Florey (Nobel Prize, Penicillin)",
+      "Niall Ferguson (Historian)",
+      "Louis Theroux (Documentary Filmmaker)",
+      "Cardinal Wolsey (Statesman)",
+      "John Turner (Canadian Prime Minister)"
+    ],
+    "keyFacts": [
+      "Founded 1458 by Bishop William Waynflete",
+      "Extensive grounds include a deer park and riverside walk",
+      "10 Nobel Prize winners among alumni",
+      "Famous for May Morning singing from the Great Tower",
+      "One of Oxford's wealthiest colleges with endowment of ~£153m+"
+    ],
+    "finances": {
+      "endowment": "~£153m+",
+      "bursaries": "Oxford Bursary plus Magdalen scholarships and access awards",
+      "description": "One of Oxford's richest colleges, with strong endowment income supporting scholarships and student amenities."
+    },
+    "website": "https://www.magd.ox.ac.uk",
+    "sortOrder": 12
+  },
+  "oxford-mansfield": {
+    "slug": "oxford-mansfield",
+    "universitySlug": "oxford",
+    "name": "Mansfield College",
+    "subjects": [],
+    "founded": 1886,
+    "location": "Mansfield Road, central Oxford",
+    "overview": "Mansfield College was founded in Birmingham in 1838 as a college for Nonconformist students and moved to Oxford in 1886. It gained full university college status in 1995. The college has approximately 245 undergraduates, 145 postgraduates, and 40 visiting students, and holds one of the highest proportions of state-educated students at Oxford.",
+    "character": "Mansfield has the highest proportion of state-educated undergraduates of any Oxford college and is deeply committed to access and widening participation. It has a progressive ethos, an excellent central location, and one of the largest JCRs (common rooms) in Oxford.",
+    "studentNumbers": { "undergraduates": 245, "postgraduates": 145, "total": 390 },
+    "accommodation": {
+      "yearsGuaranteed": 3,
+      "description": "All undergraduates are guaranteed accommodation throughout their course. First years live on the main site in en-suite rooms; subsequent years are in college accommodation within easy cycling distance.",
+      "avgCost": null,
+      "inCollege": true
+    },
+    "academicStrengths": ["Law", "PPE", "History", "English", "Computer Science"],
+    "notableAlumni": [
+      "Chris Bryant (Politician and MP)",
+      "Adam Curtis (Documentary Filmmaker)",
+      "Justin Rowlatt (BBC Journalist)"
+    ],
+    "keyFacts": [
+      "Full college status achieved in 1995",
+      "Highest proportion of state-educated students of any Oxford college",
+      "One quarter of UK undergraduates are first-generation university students",
+      "Founded for Nonconformist students in 1838, moved to Oxford 1886",
+      "Located close to the Science Area and university libraries"
+    ],
+    "finances": {
+      "endowment": null,
+      "bursaries": "Oxford Bursary and Mansfield-specific access bursaries",
+      "description": "Smaller endowment compared to older colleges, but strong commitment to access and financial support for students."
+    },
+    "website": "https://www.mansfield.ox.ac.uk",
+    "sortOrder": 13
+  },
+  "oxford-merton": {
+    "slug": "oxford-merton",
+    "universitySlug": "oxford",
+    "name": "Merton College",
+    "subjects": [],
+    "founded": 1264,
+    "location": "Merton Street, central Oxford",
+    "overview": "Merton College was founded in 1264 by Walter de Merton, Lord Chancellor and Bishop of Rochester, and has a strong claim to be Oxford's oldest college, being the first to have a formal set of governing statutes. It has 315 undergraduates and 218 postgraduates, and its medieval buildings—including Mob Quad, the oldest quadrangle at any Oxford or Cambridge college—are among the finest in Oxford.",
+    "character": "Merton is known for its rigorous academic culture, intimate community, and extraordinary medieval setting. The college has a proud scholarly tradition and consistently performs well in the Norrington Table. It maintains a close-knit atmosphere with strong relationships between students and Fellows.",
+    "studentNumbers": { "undergraduates": 315, "postgraduates": 218, "total": 533 },
+    "accommodation": {
+      "yearsGuaranteed": 3,
+      "description": "The college offers accommodation for all three years of undergraduate study within or very close to the medieval main site on Merton Street.",
+      "avgCost": null,
+      "inCollege": true
+    },
+    "academicStrengths": ["Mathematics", "Physics", "Classics", "History", "English"],
+    "notableAlumni": [
+      "J. R. R. Tolkien (Author, Professor)",
+      "T. S. Eliot (Nobel Prize-winning Poet)",
+      "Liz Truss (Prime Minister)",
+      "Naruhito (Emperor of Japan)",
+      "Frederick Soddy (Nobel Prize, Chemistry)",
+      "Anthony Leggett (Nobel Prize, Physics)"
+    ],
+    "keyFacts": [
+      "Founded 1264, one of Oxford's three oldest colleges",
+      "Home to Mob Quad, the oldest college quadrangle in Oxford",
+      "5 Nobel Prize winners among alumni",
+      "J. R. R. Tolkien was Merton Professor of English here",
+      "Endowment of ~£337m (7th wealthiest Oxford college)"
+    ],
+    "finances": {
+      "endowment": "~£337m",
+      "bursaries": "Oxford Bursary and Merton scholarships",
+      "description": "One of Oxford's wealthier colleges with an endowment of around £337m, supporting strong academic resources and student welfare."
+    },
+    "website": "https://www.merton.ox.ac.uk",
+    "sortOrder": 14
+  },
+  "oxford-new-college": {
+    "slug": "oxford-new-college",
+    "universitySlug": "oxford",
+    "name": "New College",
+    "subjects": [],
+    "founded": 1379,
+    "location": "Holywell Street, central Oxford",
+    "overview": "New College was founded in 1379 by William of Wykeham, Bishop of Winchester, alongside Winchester College as its feeder school. Despite its name, it is one of Oxford's oldest colleges. The college has 426 undergraduates and 222 postgraduates, and is renowned for its medieval architecture, beautiful gardens, and Antechapel containing Epstein's Lazarus sculpture.",
+    "character": "A large, architecturally magnificent college with a reputation for academic seriousness and institutional prestige. New College has a broad and distinguished alumni base spanning law, politics, media, and the arts, and retains a powerful sense of historical identity.",
+    "studentNumbers": { "undergraduates": 426, "postgraduates": 222, "total": 648 },
+    "accommodation": {
+      "yearsGuaranteed": 3,
+      "description": "The college offers accommodation within its large site on Holywell Street for all years of undergraduate study, including rooms in the historic medieval buildings and more modern accommodation.",
+      "avgCost": null,
+      "inCollege": true
+    },
+    "academicStrengths": ["Law", "PPE", "History", "Medicine", "Music"],
+    "notableAlumni": [
+      "Hugh Grant (Actor)",
+      "Tony Benn (Politician)",
+      "Hugh Gaitskell (Labour Party Leader)",
+      "Harold Laski (Political Theorist)",
+      "Chief Rabbi Jonathan Sacks (Religious Leader)",
+      "Lucy Worsley (Historian and Broadcaster)"
+    ],
+    "keyFacts": [
+      "Founded 1379 by Bishop William of Wykeham",
+      "Produced 7 Prime Ministers, 12 Archbishops, and 50 Nobel Laureates (alumni and fellows)",
+      "Famously still called 'New' despite being 645 years old",
+      "Features Epstein's Lazarus sculpture in the Antechapel",
+      "One of Oxford's larger colleges with 426 undergraduates"
+    ],
+    "finances": {
+      "endowment": null,
+      "bursaries": "Oxford Bursary and New College scholarships",
+      "description": "Well-endowed college with strong financial support structures for students."
+    },
+    "website": "https://www.new.ox.ac.uk",
+    "sortOrder": 15
+  },
+  "oxford-oriel": {
+    "slug": "oxford-oriel",
+    "universitySlug": "oxford",
+    "name": "Oriel College",
+    "subjects": [],
+    "founded": 1326,
+    "location": "Oriel Square, central Oxford",
+    "overview": "Oriel College was founded in 1326, making it the fifth-oldest Oxford college, and was the first to be founded by a reigning monarch (Edward II). The college has approximately 300 undergraduates and 180 postgraduates, and is set around attractive quads near the Bodleian Library and Christ Church Meadow.",
+    "character": "A small, close-knit college with a notably friendly atmosphere. Oriel was the last Oxford men's college to admit women (1985), but today has roughly equal numbers of men and women. The college is known for strong pastoral support and a welcoming multi-year community.",
+    "studentNumbers": { "undergraduates": 300, "postgraduates": 180, "total": 480 },
+    "accommodation": {
+      "yearsGuaranteed": 3,
+      "description": "All undergraduates are offered accommodation throughout their studies. The main site is supplemented by a residential annexe on Rectory Road, approximately ten minutes' walk away, largely for finalists and postgraduates.",
+      "avgCost": null,
+      "inCollege": true
+    },
+    "academicStrengths": ["History", "Classics", "PPE", "Law", "English"],
+    "notableAlumni": [
+      "Sir Walter Raleigh (Explorer and Courtier)",
+      "John Henry Newman (Cardinal and Theologian)",
+      "A. J. P. Taylor (Historian)",
+      "Cecil Rhodes (Mining Magnate and Founder of Rhodes Scholarship)",
+      "James Meade (Nobel Prize, Economics)"
+    ],
+    "keyFacts": [
+      "Founded 1326 as the fifth-oldest Oxford college",
+      "First Oxford college founded by a reigning monarch (Edward II)",
+      "Last men's Oxford college to admit women (1985)",
+      "Small, close-knit community of ~300 undergraduates",
+      "Cecil Rhodes studied here; Rhodes Scholarships named in his honour"
+    ],
+    "finances": {
+      "endowment": null,
+      "bursaries": "Oxford Bursary and college access funds",
+      "description": "Mid-range endowment with strong commitment to student support."
+    },
+    "website": "https://www.oriel.ox.ac.uk",
+    "sortOrder": 16
+  },
+  "oxford-pembroke": {
+    "slug": "oxford-pembroke",
+    "universitySlug": "oxford",
+    "name": "Pembroke College",
+    "subjects": [],
+    "founded": 1624,
+    "location": "St Aldate's, central Oxford",
+    "overview": "Pembroke College was founded in 1624 by King James I and named after William Herbert, 3rd Earl of Pembroke. The college has 366 undergraduates and 179 postgraduates, and occupies a central site on St Aldate's with a mix of historic and modern buildings including the Rokos Quadrangle (2013).",
+    "character": "Pembroke is informally known as one of Oxford's 'fun' colleges, with an extremely sociable student body, strong sports culture, and a famous pink mascot theme. Despite this reputation for friendliness, the college is also academically strong.",
+    "studentNumbers": { "undergraduates": 366, "postgraduates": 179, "total": 545 },
+    "accommodation": {
+      "yearsGuaranteed": 3,
+      "description": "The college offers accommodation for all three years of undergraduate study, with rooms in both the 17th-century historic buildings and the modern Geoffrey Arthur Buildings and Rokos Quadrangle.",
+      "avgCost": null,
+      "inCollege": true
+    },
+    "academicStrengths": ["Law", "Medicine", "PPE", "Engineering", "Languages"],
+    "notableAlumni": [
+      "Samuel Johnson (Lexicographer and Writer)",
+      "J. R. R. Tolkien (Author, Fellow 1925–1945)",
+      "Roger Bannister (First sub-4-minute miler)",
+      "J. William Fulbright (US Senator, founder of Fulbright Program)",
+      "Pete Buttigieg (US Secretary of Transportation)",
+      "James Smithson (Founder of Smithsonian Institution)"
+    ],
+    "keyFacts": [
+      "Founded 1624 by King James I",
+      "J. R. R. Tolkien wrote The Hobbit and The Lord of the Rings here as a Fellow",
+      "Samuel Johnson attended but did not complete his degree",
+      "Endowment of ~£58.9m",
+      "Home to the Rokos Quadrangle (2013)"
+    ],
+    "finances": {
+      "endowment": "~£58.9m",
+      "bursaries": "Oxford Bursary and Pembroke access scholarships",
+      "description": "Solid endowment with significant recent fundraising and new building development."
+    },
+    "website": "https://www.pmb.ox.ac.uk",
+    "sortOrder": 17
+  },
+  "oxford-queens": {
+    "slug": "oxford-queens",
+    "universitySlug": "oxford",
+    "name": "The Queen's College",
+    "subjects": [],
+    "founded": 1341,
+    "location": "High Street, central Oxford",
+    "overview": "The Queen's College was founded in 1341 by Robert de Eglesfield in honour of Queen Philippa of Hainault, consort of Edward III. It has 333 undergraduates and 169 postgraduates, and is distinguished by its grand 18th-century neoclassical buildings on the High Street, designed in part by Nicholas Hawksmoor.",
+    "character": "Queen's retains a dignified, traditional atmosphere with strong academic standards. It is one of the few Oxford colleges to maintain a tabard-style uniform worn at formal dinners, and has a distinctive tradition of a trumpet fanfare before feasts.",
+    "studentNumbers": { "undergraduates": 333, "postgraduates": 169, "total": 502 },
+    "accommodation": {
+      "yearsGuaranteed": 3,
+      "description": "The college provides accommodation for all years, divided between the main High Street buildings, the Carrodus Quad (en-suite first-year rooms), and the nearby St Aldate's House annexe with 90 en-suite rooms.",
+      "avgCost": null,
+      "inCollege": true
+    },
+    "academicStrengths": ["Classics", "History", "Law", "Mathematics", "Natural Sciences"],
+    "notableAlumni": [
+      "Tim Berners-Lee (Inventor of the World Wide Web)",
+      "Rowan Atkinson (Actor and Comedian)",
+      "John Wycliffe (Theologian and Bible Translator)",
+      "Tony Abbott (Australian Prime Minister)",
+      "Henry V (English King)"
+    ],
+    "keyFacts": [
+      "Founded 1341 by Robert de Eglesfield",
+      "Grand neoclassical buildings on the High Street",
+      "Tim Berners-Lee invented the World Wide Web after studying here",
+      "Rowan Atkinson among famous alumni",
+      "Known for formal dining traditions and trumpet fanfares"
+    ],
+    "finances": {
+      "endowment": null,
+      "bursaries": "Oxford Bursary and Queen's College support",
+      "description": "Well-established endowment supporting a historic college with extensive facilities."
+    },
+    "website": "https://www.queens.ox.ac.uk",
+    "sortOrder": 18
+  },
+  "oxford-st-annes": {
+    "slug": "oxford-st-annes",
+    "universitySlug": "oxford",
+    "name": "St Anne's College",
+    "subjects": [],
+    "founded": 1879,
+    "location": "Woodstock Road, North Oxford",
+    "overview": "St Anne's College was founded in 1879 as the Society of Oxford Home Students to allow women of limited means to study at Oxford, gaining full college status in 1959. One of Oxford's larger colleges, it has approximately 425 undergraduates and 291 postgraduates, situated on Woodstock Road in North Oxford.",
+    "character": "St Anne's has a strong commitment to diversity and access, rooted in its founding mission to allow women of any financial background to study at Oxford. The college is known for its open, inclusive atmosphere and modern outlook.",
+    "studentNumbers": { "undergraduates": 425, "postgraduates": 291, "total": 716 },
+    "accommodation": {
+      "yearsGuaranteed": 3,
+      "description": "The college accommodates undergraduates on the college site for all three years in a mixture of Victorian houses and purpose-built blocks. Graduate students have access to Robert Saunders House in Summertown and Eleanor Plumer House on the college campus.",
+      "avgCost": null,
+      "inCollege": true
+    },
+    "academicStrengths": ["PPE", "Law", "English", "History", "Medicine"],
+    "notableAlumni": [
+      "Helen Fielding (Author of Bridget Jones)",
+      "Simon Rattle (Conductor)",
+      "Tina Brown (Magazine Editor)",
+      "Danny Alexander (Politician)",
+      "Edwina Currie (Politician)"
+    ],
+    "keyFacts": [
+      "Founded 1879 as the Society of Oxford Home Students",
+      "Full college status achieved in 1959",
+      "Located on Woodstock Road in North Oxford",
+      "One of Oxford's larger colleges with over 700 students",
+      "Founded with mission to allow women of all financial backgrounds to study at Oxford"
+    ],
+    "finances": {
+      "endowment": null,
+      "bursaries": "Oxford Bursary and St Anne's access scholarships",
+      "description": "Good financial resources with strong emphasis on access in line with the college's founding mission."
+    },
+    "website": "https://www.st-annes.ox.ac.uk",
+    "sortOrder": 19
+  },
+  "oxford-st-catharines": {
+    "slug": "oxford-st-catharines",
+    "universitySlug": "oxford",
+    "name": "St Catherine's College",
+    "subjects": [],
+    "founded": 1962,
+    "location": "Manor Road, central Oxford",
+    "overview": "St Catherine's College achieved full college status in 1962, having grown from the Delegacy for Unattached Students founded in 1868. The college campus was designed entirely by Danish architect Arne Jacobsen and is a Grade I-listed masterpiece of modernist design. It has 494 undergraduates and 337 postgraduates, making it one of the largest Oxbridge colleges.",
+    "character": "St Catherine's has a uniquely modern aesthetic and open, progressive culture. Its Jacobsen-designed buildings, grounds, and even furniture make it architecturally unlike any other Oxford college. It attracts students who value a less traditional Oxford experience.",
+    "studentNumbers": { "undergraduates": 494, "postgraduates": 337, "total": 831 },
+    "accommodation": {
+      "yearsGuaranteed": 3,
+      "description": "The college provides accommodation for all years of undergraduate study, primarily in the purpose-built Jacobsen buildings and more recent additions on the main Manor Road site.",
+      "avgCost": null,
+      "inCollege": true
+    },
+    "academicStrengths": ["Engineering", "Science", "PPE", "Law", "Modern Languages"],
+    "notableAlumni": [
+      "Jeanette Winterson (Author)",
+      "Matthew Pinsent (Olympic Rower)",
+      "John Cornforth (Nobel Prize, Chemistry)",
+      "Eric Williams (Prime Minister of Trinidad and Tobago)"
+    ],
+    "keyFacts": [
+      "Full college status in 1962; roots in 1868 Delegacy",
+      "Entire campus designed by Arne Jacobsen in the 1960s",
+      "Buildings, furniture and gardens are Grade I-listed",
+      "One of the largest Oxford colleges with 831 students",
+      "Architectural historian Pevsner called it 'a perfect piece of architecture'"
+    ],
+    "finances": {
+      "endowment": null,
+      "bursaries": "Oxford Bursary and college access support",
+      "description": "Well-resourced modern college with significant facilities on a purpose-designed campus."
+    },
+    "website": "https://www.stcatz.ox.ac.uk",
+    "sortOrder": 20
+  },
+  "oxford-st-edmund-hall": {
+    "slug": "oxford-st-edmund-hall",
+    "universitySlug": "oxford",
+    "name": "St Edmund Hall",
+    "subjects": [],
+    "founded": 1236,
+    "location": "Queen's Lane, central Oxford",
+    "overview": "St Edmund Hall — known as 'Teddy Hall' — is estimated to have been founded around 1236 and is the only surviving medieval academic hall in Oxford, predating the formal college system. It has approximately 400 undergraduates and 200 postgraduates, set around a picturesque small quadrangle in the heart of Oxford.",
+    "character": "Teddy Hall is known for its exceptionally strong sports culture and very high levels of student satisfaction alongside good academic performance. It has a particularly tight-knit, friendly community and an informally proud Aularian identity as the last surviving medieval hall.",
+    "studentNumbers": { "undergraduates": 400, "postgraduates": 200, "total": 600 },
+    "accommodation": {
+      "yearsGuaranteed": 3,
+      "description": "The college provides accommodation for all years of undergraduate study, in buildings on and near the compact main site on Queen's Lane.",
+      "avgCost": null,
+      "inCollege": true
+    },
+    "academicStrengths": ["Law", "History", "PPE", "Modern Languages", "Medicine"],
+    "notableAlumni": [
+      "Keir Starmer (Prime Minister)",
+      "Mark Sedwill (Former Cabinet Secretary)",
+      "Samira Ahmed (Journalist and Broadcaster)",
+      "Richard Onslow, 1st Baron Onslow (Politician)"
+    ],
+    "keyFacts": [
+      "The only surviving medieval academic hall at Oxford, c.1236",
+      "Known as 'Teddy Hall' by students",
+      "Strong sporting culture and high student satisfaction",
+      "Members are known as Aularians, not 'members of college'",
+      "Keir Starmer is a notable modern alumnus"
+    ],
+    "finances": {
+      "endowment": null,
+      "bursaries": "Oxford Bursary and Teddy Hall support funds",
+      "description": "Mid-range endowment with strong emphasis on student community and welfare."
+    },
+    "website": "https://www.seh.ox.ac.uk",
+    "sortOrder": 21
+  },
+  "oxford-st-hildas": {
+    "slug": "oxford-st-hildas",
+    "universitySlug": "oxford",
+    "name": "St Hilda's College",
+    "subjects": [],
+    "founded": 1893,
+    "location": "Cowley Place, east Oxford (Cherwell riverside)",
+    "overview": "St Hilda's College was founded in 1893 by Dorothea Beale as a women's college, and remained all-female until 2008 when it became the last Oxford college to go coeducational. The college has 410 undergraduates and 283 postgraduates, and is the only Oxford college lying east of the River Cherwell.",
+    "character": "St Hilda's is an inclusive, friendly college with a beautiful riverside setting and a strong commitment to student wellbeing. Its late transition to coeducation has given it a distinctive identity, and it maintains a warm, accessible atmosphere.",
+    "studentNumbers": { "undergraduates": 410, "postgraduates": 283, "total": 693 },
+    "accommodation": {
+      "yearsGuaranteed": 3,
+      "description": "All first years live on the main college site and students may choose to live in college for all years of their degree. The college has a dining hall overlooking the river, offering sustainable, local and seasonal food.",
+      "avgCost": null,
+      "inCollege": true
+    },
+    "academicStrengths": ["PPE", "English", "Law", "History", "Modern Languages"],
+    "notableAlumni": [
+      "Zanny Minton Beddoes (First Female Editor-in-Chief, The Economist)",
+      "Zeinab Badawi (BBC Journalist, President of SOAS)",
+      "Susan Kramer, Baroness Kramer (Politician)"
+    ],
+    "keyFacts": [
+      "Founded 1893 by Dorothea Beale as a women's college",
+      "Last Oxford college to admit men (2008)",
+      "Only Oxford college east of the River Cherwell",
+      "Beautiful riverside site with gardens",
+      "Over 400 undergraduates and strong postgraduate community"
+    ],
+    "finances": {
+      "endowment": null,
+      "bursaries": "Oxford Bursary and St Hilda's bursaries",
+      "description": "Good endowment supporting student welfare, with riverside facilities and strong community ethos."
+    },
+    "website": "https://www.st-hildas.ox.ac.uk",
+    "sortOrder": 22
+  },
+  "oxford-st-hughs": {
+    "slug": "oxford-st-hughs",
+    "universitySlug": "oxford",
+    "name": "St Hugh's College",
+    "subjects": [],
+    "founded": 1886,
+    "location": "St Margaret's Road, North Oxford",
+    "overview": "St Hugh's College was founded in 1886 by Elizabeth Wordsworth as a women's college to provide affordable Oxford education for women of limited means. The college admitted its first male students in 1986 in its centenary year. It has approximately 400 undergraduates and 400 postgraduates, set in 14 acres of beautiful gardens in North Oxford.",
+    "character": "St Hugh's is known for its informal, welcoming atmosphere and extraordinary garden setting. The college is proud of its history as a women's college and actively strives to maintain a diverse, inclusive community. Gowns are rarely worn, and the relaxed tone is a distinctive feature.",
+    "studentNumbers": { "undergraduates": 400, "postgraduates": 400, "total": 800 },
+    "accommodation": {
+      "yearsGuaranteed": 3,
+      "description": "The college is large enough to accommodate all undergraduates throughout their degree in its extensive North Oxford site.",
+      "avgCost": null,
+      "inCollege": true
+    },
+    "academicStrengths": ["Law", "Medicine", "PPE", "History", "Modern Languages"],
+    "notableAlumni": [
+      "Theresa May (Prime Minister)",
+      "Aung San Suu Kyi (Nobel Peace Prize Laureate, Politician)",
+      "Amal Clooney (Human Rights Barrister)",
+      "Heather Hallett, Baroness Hallett (Chair of COVID-19 Inquiry)"
+    ],
+    "keyFacts": [
+      "Founded 1886 by Elizabeth Wordsworth",
+      "Went coeducational in 1986 (its centenary year)",
+      "14 acres of gardens — among the largest of any Oxford college",
+      "Known as 'the island site' for its secluded garden setting",
+      "Notable for producing high-profile women in law and politics"
+    ],
+    "finances": {
+      "endowment": null,
+      "bursaries": "Oxford Bursary and St Hugh's hardship/access funds",
+      "description": "Good resources supporting a large college with extensive grounds and facilities."
+    },
+    "website": "https://www.st-hughs.ox.ac.uk",
+    "sortOrder": 23
+  },
+  "oxford-st-johns": {
+    "slug": "oxford-st-johns",
+    "universitySlug": "oxford",
+    "name": "St John's College",
+    "subjects": [],
+    "founded": 1555,
+    "location": "St Giles', central Oxford",
+    "overview": "St John's College was founded in 1555 by Sir Thomas White, a merchant and Lord Mayor of London, and is the wealthiest Oxford college with assets over £790 million as of 2022. It has 419 undergraduates and 244 postgraduates, situated on St Giles' in central Oxford.",
+    "character": "St John's is renowned for exceptional academic standards, unmatched financial resources, and a highly supportive environment. Its wealth means undergraduates benefit from some of the best-funded college facilities and financial support at Oxford.",
+    "studentNumbers": { "undergraduates": 419, "postgraduates": 244, "total": 663 },
+    "accommodation": {
+      "yearsGuaranteed": 4,
+      "description": "St John's is able to accommodate all undergraduates for the entirety of their course, including fourth years. Its substantial wealth enables it to offer heavily subsidised accommodation and meals.",
+      "avgCost": "£120–£150/week (heavily subsidised)",
+      "inCollege": true
+    },
+    "academicStrengths": ["PPE", "Mathematics", "Natural Sciences", "Law", "Classics"],
+    "notableAlumni": [
+      "Tony Blair (Prime Minister)",
+      "Philip Larkin (Poet)",
+      "A. E. Housman (Poet)",
+      "Robert Graves (Poet)",
+      "Kingsley Amis (Novelist)",
+      "Lester B. Pearson (Canadian Prime Minister, Nobel Peace Prize)",
+      "Archbishop William Laud (Archbishop of Canterbury)"
+    ],
+    "keyFacts": [
+      "Founded 1555 by Sir Thomas White",
+      "Oxford's wealthiest college with assets over £790m",
+      "Guarantees accommodation for all four years of undergraduate study",
+      "Tony Blair studied PPE here",
+      "Heavily subsidised food and accommodation due to large endowment"
+    ],
+    "finances": {
+      "endowment": "~£790m+ (wealthiest Oxford college by assets)",
+      "bursaries": "Exceptionally generous bursaries and scholarships; among the most supportive in Oxford",
+      "description": "By far the wealthiest Oxford college, with huge endowment income enabling heavily subsidised student costs and extensive support."
+    },
+    "website": "https://www.sjc.ox.ac.uk",
+    "sortOrder": 24
+  },
+  "oxford-st-peters": {
+    "slug": "oxford-st-peters",
+    "universitySlug": "oxford",
+    "name": "St Peter's College",
+    "subjects": [],
+    "founded": 1929,
+    "location": "New Inn Hall Street, central Oxford",
+    "overview": "St Peter's College was founded in 1929 as St Peter's Hall by Francis Chavasse, former Bishop of Liverpool, with the explicit aim of providing an Oxford education for students deterred by costs. It achieved full collegiate status in 1961. The college has 353 undergraduates and 224 postgraduates, on a site incorporating medieval buildings on New Inn Hall Street.",
+    "character": "St Peter's is known for its strong commitment to diversity and inclusion, informal atmosphere, and excellent relations between students and tutors. It was unusual among Oxford colleges in having Black undergraduates from its very foundation in 1929, and maintains a progressive, welcoming ethos.",
+    "studentNumbers": { "undergraduates": 353, "postgraduates": 224, "total": 577 },
+    "accommodation": {
+      "yearsGuaranteed": 3,
+      "description": "The college provides accommodation for all three years of undergraduate study, with rooms on the historic main site on New Inn Hall Street and in college-owned properties nearby.",
+      "avgCost": null,
+      "inCollege": true
+    },
+    "academicStrengths": ["Law", "PPE", "Medicine", "Engineering", "History"],
+    "notableAlumni": [
+      "Edward Akuto-Addo (Prime Minister of Ghana)",
+      "Simon Beaufoy (Oscar-winning Screenwriter, Slumdog Millionaire)",
+      "Carl Albert (Speaker of the US House of Representatives)"
+    ],
+    "keyFacts": [
+      "Founded 1929 as St Peter's Hall by Bishop Chavasse",
+      "Full collegiate status achieved 1961",
+      "Founded with mission to make Oxford accessible regardless of cost",
+      "Had Black undergraduates from its very foundation",
+      "Strong commitment to diversity and inclusion"
+    ],
+    "finances": {
+      "endowment": null,
+      "bursaries": "Oxford Bursary and St Peter's access support",
+      "description": "Smaller endowment than older colleges, but deeply committed to access and student financial support."
+    },
+    "website": "https://www.spc.ox.ac.uk",
+    "sortOrder": 25
+  },
+  "oxford-somerville": {
+    "slug": "oxford-somerville",
+    "universitySlug": "oxford",
+    "name": "Somerville College",
+    "subjects": [],
+    "founded": 1879,
+    "location": "Woodstock Road, central Oxford",
+    "overview": "Somerville College was founded in 1879 as one of Oxford's first two women's colleges, with a nondenominational ethos to distinguish it from the High Anglican Lady Margaret Hall. It began admitting men in 1994. The college has 408 undergraduates and 207 postgraduates, and is one of only three Oxford colleges that can house all its undergraduates on the main site for all years.",
+    "character": "Somerville has a proud tradition of producing trailblazing women in public life, and retains a liberal, egalitarian culture. It is known for its strong academics, welcoming community, and relaxed tone — gowns are not worn at Formal Hall.",
+    "studentNumbers": { "undergraduates": 408, "postgraduates": 207, "total": 615 },
+    "accommodation": {
+      "yearsGuaranteed": 3,
+      "description": "One of only three Oxford colleges that provides on-site accommodation for all undergraduates throughout their entire degree. The Dorothy Hodgkin Quad features self-contained flats with communal kitchens.",
+      "avgCost": null,
+      "inCollege": true
+    },
+    "academicStrengths": ["PPE", "Natural Sciences", "Medicine", "History", "English"],
+    "notableAlumni": [
+      "Margaret Thatcher (Prime Minister)",
+      "Indira Gandhi (Prime Minister of India)",
+      "Dorothy Hodgkin (Nobel Prize, Chemistry — only British woman to win a science Nobel)",
+      "Iris Murdoch (Philosopher and Novelist)",
+      "Vera Brittain (Author and Pacifist)",
+      "Dorothy L. Sayers (Crime Writer)"
+    ],
+    "keyFacts": [
+      "Founded 1879 as one of Oxford's first two women's colleges",
+      "Nondenominational from the outset",
+      "Admitted men from 1994",
+      "Produced two prime ministers: Thatcher and Gandhi",
+      "Endowment of over £91m"
+    ],
+    "finances": {
+      "endowment": "~£91m+",
+      "bursaries": "Oxford Bursary and Somerville access scholarships",
+      "description": "Growing endowment (now over £91m) supporting a well-resourced college with strong access commitments."
+    },
+    "website": "https://www.some.ox.ac.uk",
+    "sortOrder": 26
+  },
+  "oxford-trinity": {
+    "slug": "oxford-trinity",
+    "universitySlug": "oxford",
+    "name": "Trinity College",
+    "subjects": [],
+    "founded": 1555,
+    "location": "Broad Street, central Oxford",
+    "overview": "Trinity College was founded in 1555 by Sir Thomas Pope on land previously occupied by Durham College. One of Oxford's larger historic colleges in terms of buildings, it has approximately 400 undergraduates and sits on extensive grounds in the heart of Oxford between Balliol and the Sheldonian Theatre.",
+    "character": "Trinity has a reputation for academic quality and a traditional, lively social culture. It has produced three British prime ministers, and its gardens and grounds give it a surprisingly spacious feel in the centre of the city.",
+    "studentNumbers": { "undergraduates": 400, "postgraduates": 150, "total": 550 },
+    "accommodation": {
+      "yearsGuaranteed": 3,
+      "description": "The college provides accommodation for all three years of undergraduate study, primarily within or adjacent to the main Broad Street site and its substantial gardens.",
+      "avgCost": null,
+      "inCollege": true
+    },
+    "academicStrengths": ["Mathematics", "Natural Sciences", "PPE", "History", "Classics"],
+    "notableAlumni": [
+      "William Pitt the Elder (Prime Minister)",
+      "Lord North (Frederick North, Prime Minister)",
+      "John Henry Newman (Cardinal and Saint)",
+      "Henry Moseley (Physicist, Atomic Numbers)",
+      "Cardinal Reginald Pole (Last Catholic Archbishop of Canterbury)"
+    ],
+    "keyFacts": [
+      "Founded 1555 by Sir Thomas Pope",
+      "Produced 3 British Prime Ministers",
+      "Endowment of ~£224m (£191m financial endowment)",
+      "Located between Balliol and the Sheldonian on Broad Street",
+      "Extensive gardens for a central Oxford college"
+    ],
+    "finances": {
+      "endowment": "~£224m total funds",
+      "bursaries": "Oxford Bursary and Trinity scholarships",
+      "description": "Well-endowed college with total funds exceeding £224m, supporting strong student facilities."
+    },
+    "website": "https://www.trinity.ox.ac.uk",
+    "sortOrder": 27
+  },
+  "oxford-university-college": {
+    "slug": "oxford-university-college",
+    "universitySlug": "oxford",
+    "name": "University College",
+    "subjects": [],
+    "founded": 1249,
+    "location": "High Street, central Oxford",
+    "overview": "University College — known as 'Univ' — was founded in 1249 by William of Durham and has a strong claim to be Oxford's oldest college. It has 401 undergraduates and 223 postgraduates, located on the High Street in central Oxford. The college expelled Percy Bysshe Shelley in 1811 for publishing a pamphlet on atheism.",
+    "character": "Univ has a serious academic reputation, a central location, and a friendly, well-rounded student community. Its alumni span politics, literature, science, and media, and the college takes pride in intellectual diversity alongside high academic standards.",
+    "studentNumbers": { "undergraduates": 401, "postgraduates": 223, "total": 624 },
+    "accommodation": {
+      "yearsGuaranteed": 3,
+      "description": "The college aims to accommodate all undergraduates for their entire course. It has over 400 study bedrooms, with more than 300 on the main High Street site, plus an annexe in North Oxford on Staverton Road and some rooms on Iffley Road.",
+      "avgCost": null,
+      "inCollege": true
+    },
+    "academicStrengths": ["PPE", "Law", "Natural Sciences", "Mathematics", "History"],
+    "notableAlumni": [
+      "Bill Clinton (US President)",
+      "Clement Attlee (Prime Minister)",
+      "Harold Wilson (Prime Minister)",
+      "Stephen Hawking (Physicist)",
+      "C. S. Lewis (Author, undergraduate)",
+      "Percy Bysshe Shelley (Poet)",
+      "V. S. Naipaul (Nobel Prize, Literature)"
+    ],
+    "keyFacts": [
+      "Founded 1249 by William of Durham — Oxford's oldest college",
+      "Known as 'Univ' by students",
+      "Expelled Percy Bysshe Shelley in 1811",
+      "Endowment of ~£255m total assets",
+      "Bill Clinton and Stephen Hawking both attended"
+    ],
+    "finances": {
+      "endowment": "~£156m financial endowment (£255m total assets)",
+      "bursaries": "Oxford Bursary and Univ scholarships and hardship funds",
+      "description": "Strong endowment supporting a well-resourced central Oxford college."
+    },
+    "website": "https://www.univ.ox.ac.uk",
+    "sortOrder": 28
+  },
+  "oxford-wadham": {
+    "slug": "oxford-wadham",
+    "universitySlug": "oxford",
+    "name": "Wadham College",
+    "subjects": [],
+    "founded": 1610,
+    "location": "Parks Road, central Oxford",
+    "overview": "Wadham College was founded in 1610 by Dorothy Wadham in accordance with the will of her late husband Nicholas Wadham, and is one of Oxford's largest colleges with about 480 undergraduates and 240 postgraduates. The college is noted for its scientific heritage: the Oxford Philosophical Club, precursor to the Royal Society, met at Wadham in the 1650s.",
+    "character": "Wadham is consistently regarded as one of Oxford's most liberal and progressive colleges. It was among the first to admit women (1974), flies the rainbow flag during Queer Week, and is known for its activist, inclusive, and informal culture. The college attracts students who want genuine intellectual and social engagement.",
+    "studentNumbers": { "undergraduates": 480, "postgraduates": 240, "total": 720 },
+    "accommodation": {
+      "yearsGuaranteed": 3,
+      "description": "The college provides accommodation for all three years of undergraduate study on its large central site on Parks Road, with various room types and shared facilities.",
+      "avgCost": null,
+      "inCollege": true
+    },
+    "academicStrengths": ["Natural Sciences", "Law", "PPE", "Engineering", "Mathematics"],
+    "notableAlumni": [
+      "Sir Christopher Wren (Architect)",
+      "Robert Blake (Cromwell's Admiral)",
+      "John Wilmot, 2nd Earl of Rochester (Poet)",
+      "Michael Foot (Labour Party Leader)",
+      "Melvyn Bragg (Broadcaster and Author)"
+    ],
+    "keyFacts": [
+      "Founded 1610 by Dorothy Wadham",
+      "Precursor to the Royal Society met at Wadham in the 1650s",
+      "One of the first Oxford colleges to admit women (1974)",
+      "Known for liberal, progressive culture and strong LGBTQ+ support",
+      "One of Oxford's largest colleges with ~720 students"
+    ],
+    "finances": {
+      "endowment": null,
+      "bursaries": "Oxford Bursary and Wadham access support",
+      "description": "Well-resourced college with strong commitment to access and a large, active student community."
+    },
+    "website": "https://www.wadham.ox.ac.uk",
+    "sortOrder": 29
+  },
+  "oxford-worcester": {
+    "slug": "oxford-worcester",
+    "universitySlug": "oxford",
+    "name": "Worcester College",
+    "subjects": [],
+    "founded": 1714,
+    "location": "Walton Street, central Oxford",
+    "overview": "Worcester College was founded in 1714 through the benefaction of Sir Thomas Cookes of Worcestershire, on a site where Gloucester College—a monastic institution—had stood since the 13th century. The college has 411 undergraduates and 187 postgraduates, and is set in 26 acres of award-winning gardens including a private lake.",
+    "character": "Worcester is known for its happy, supportive community, stunning grounds, and architecturally diverse buildings spanning medieval to Georgian. It attracts students who value excellent facilities, an oasis of green space in central Oxford, and a strong but unpretentious academic culture.",
+    "studentNumbers": { "undergraduates": 411, "postgraduates": 187, "total": 598 },
+    "accommodation": {
+      "yearsGuaranteed": 3,
+      "description": "Worcester provides accommodation for all undergraduates for three years, with all rooms on the main site or within 300 metres of the perimeter. Over two-thirds of bedrooms are en-suite. Buildings include the historic Gloucester House and the modern Earl and Linbury Buildings.",
+      "avgCost": null,
+      "inCollege": true
+    },
+    "academicStrengths": ["PPE", "Law", "Natural Sciences", "Engineering", "Film Studies"],
+    "notableAlumni": [
+      "Rupert Murdoch (Media Mogul)",
+      "Emma Watson (Actor)",
+      "Russell T Davies (TV Writer/Producer)",
+      "Elena Kagan (US Supreme Court Justice)",
+      "Richard Adams (Author of Watership Down)",
+      "Bill Bradley (US Senator and Basketball Player)"
+    ],
+    "keyFacts": [
+      "Founded 1714 by benefaction of Sir Thomas Cookes",
+      "26 acres of gardens including a private lake",
+      "Medieval buildings alongside 18th-century neoclassical architecture",
+      "All accommodation within 300m of the main site",
+      "Endowment of ~£60m"
+    ],
+    "finances": {
+      "endowment": "~£60m",
+      "bursaries": "Oxford Bursary and Worcester College support funds",
+      "description": "Solid endowment of ~£60m supporting a well-maintained college with outstanding grounds and facilities."
+    },
+    "website": "https://www.worc.ox.ac.uk",
+    "sortOrder": 30
+  }
+}
