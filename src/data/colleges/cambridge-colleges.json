@@ -1,0 +1,1362 @@
+{
+  "cambridge-christs": {
+    "slug": "cambridge-christs",
+    "universitySlug": "cambridge",
+    "name": "Christ's College",
+    "subjects": [],
+    "founded": 1505,
+    "location": "St Andrew's Street, central Cambridge",
+    "overview": "Christ's College was originally founded as God's House in 1437 by William Byngham, and refounded and endowed in 1505 by Lady Margaret Beaufort, mother of King Henry VII. Home to around 450 undergraduates and 170 graduates, it occupies a central position near the market and arts faculties. The college is notable for its medieval courts, a rare outdoor swimming pool thought to be the oldest in the UK, and a strong tradition of academic excellence.",
+    "character": "Christ's has a reputation for high academic achievement and intellectual ambition, consistently placing near the top of the Tompkins Table. It fosters a collegiate atmosphere where students from diverse backgrounds pursue excellence across the full range of Cambridge subjects.",
+    "studentNumbers": {
+      "undergraduates": 450,
+      "postgraduates": 170,
+      "total": 620
+    },
+    "accommodation": {
+      "yearsGuaranteed": 3,
+      "description": "Undergraduates are housed within five minutes' walk of the main College facilities. Rooms range from medieval buildings to Victorian and modernist New Court; around half are en suite.",
+      "avgCost": "~£150/week",
+      "inCollege": true
+    },
+    "academicStrengths": [
+      "Natural Sciences",
+      "Mathematics",
+      "Engineering",
+      "History"
+    ],
+    "notableAlumni": [
+      "Charles Darwin (Naturalist, Theory of Evolution)",
+      "John Milton (Poet, Paradise Lost)",
+      "Sacha Baron Cohen (Comedian and Actor)",
+      "John Oliver (Comedian and TV Host)",
+      "Simon Schama (Historian and Broadcaster)",
+      "Rowan Williams (Archbishop of Canterbury)"
+    ],
+    "keyFacts": [
+      "Refounded in 1505 by Lady Margaret Beaufort",
+      "Home to one of the oldest outdoor swimming pools in the UK",
+      "Sixth-largest producer of Nobel Prize winners among Cambridge colleges",
+      "Around a third of undergraduates come from outside the UK"
+    ],
+    "finances": {
+      "endowment": null,
+      "bursaries": "Cambridge Bursary Scheme plus college-specific awards",
+      "description": "Christ's participates in the Cambridge Bursary scheme and offers supplementary college awards for students from lower-income backgrounds."
+    },
+    "website": "https://www.christs.cam.ac.uk",
+    "sortOrder": 1
+  },
+  "cambridge-churchill": {
+    "slug": "cambridge-churchill",
+    "universitySlug": "cambridge",
+    "name": "Churchill College",
+    "subjects": [],
+    "founded": 1960,
+    "location": "Storey's Way, west Cambridge",
+    "overview": "Churchill College was established in 1960 as a national memorial to Sir Winston Churchill, with a Royal Charter granted in that year and the first undergraduates arriving in 1961. Its 42-acre campus in west Cambridge houses around 500 undergraduates and 300 postgraduates. The college's statutes require approximately 70% of its student intake to study science, technology, engineering, or mathematics subjects.",
+    "character": "Churchill has a strong STEM identity and a modern, campus-style atmosphere set apart from the historic city centre. It is known for its inclusivity, large and well-equipped facilities, and a community that prizes scientific and technological innovation.",
+    "studentNumbers": {
+      "undergraduates": 500,
+      "postgraduates": 300,
+      "total": 800
+    },
+    "accommodation": {
+      "yearsGuaranteed": 3,
+      "description": "All undergraduates are guaranteed on-site accommodation for the duration of their course. The campus includes extensive modern rooms, sports fields, theatre, gym, music centre, and the largest dining hall in Cambridge.",
+      "avgCost": "~£155/week",
+      "inCollege": true
+    },
+    "academicStrengths": [
+      "Computer Science",
+      "Engineering",
+      "Natural Sciences",
+      "Mathematics",
+      "Physics"
+    ],
+    "notableAlumni": [
+      "Sir Tim Berners-Lee (Inventor of the World Wide Web)",
+      "Mary Beard (Classical Scholar and Broadcaster)",
+      "Iain Duncan Smith (Former Leader of the Conservative Party)",
+      "Martin Rees (Astronomer Royal and Astrophysicist)",
+      "Michael Burrows (Pioneer of early internet search technology)"
+    ],
+    "keyFacts": [
+      "Founded 1960 as a national memorial to Sir Winston Churchill",
+      "Statutes require ~70% of students to study STEM subjects",
+      "One of the first three previously all-male colleges to admit women, in 1972",
+      "More than twenty members have won the Nobel Prize",
+      "42-acre campus with one of the largest dining halls in Cambridge"
+    ],
+    "finances": {
+      "endowment": null,
+      "bursaries": "Cambridge Bursary Scheme plus college awards",
+      "description": "Churchill participates in the Cambridge Bursary scheme and provides additional college-level financial support."
+    },
+    "website": "https://www.chu.cam.ac.uk",
+    "sortOrder": 2
+  },
+  "cambridge-clare": {
+    "slug": "cambridge-clare",
+    "universitySlug": "cambridge",
+    "name": "Clare College",
+    "subjects": [],
+    "founded": 1326,
+    "location": "Trinity Lane, central Cambridge",
+    "overview": "Clare College is the second-oldest college in Cambridge, founded in 1326 and endowed a few years later by Lady Elizabeth de Clare, granddaughter of King Edward I. Occupying elegant courts on both sides of the River Cam, it has around 460 undergraduates and 300 postgraduates. Clare was one of the first three Cambridge colleges to admit women as undergraduates in 1972, and is internationally renowned for its choir, founded in 1866.",
+    "character": "Clare has a reputation as one of Cambridge's most beautiful and musical colleges, with a warm, inclusive community and consistently strong academic results. It is particularly noted for its choral tradition and annual Clare May Ball.",
+    "studentNumbers": {
+      "undergraduates": 460,
+      "postgraduates": 300,
+      "total": 760
+    },
+    "accommodation": {
+      "yearsGuaranteed": 3,
+      "description": "First-year students live in Memorial Court, designed by Giles Gilbert Scott and situated across the river. Upper-year students move to Castle Court, a ten-minute walk away.",
+      "avgCost": "~£150/week",
+      "inCollege": true
+    },
+    "academicStrengths": [
+      "Natural Sciences",
+      "Economics",
+      "Law",
+      "Engineering",
+      "History"
+    ],
+    "notableAlumni": [
+      "Sir David Attenborough (Broadcaster and Natural Historian)",
+      "Andrew Wiles (Mathematician, proved Fermat's Last Theorem)",
+      "Siegfried Sassoon (First World War Poet)",
+      "James Watson (Co-discoverer of DNA structure, Nobel Prize)",
+      "Henry Sidgwick (Philosopher)"
+    ],
+    "keyFacts": [
+      "Second-oldest college in Cambridge, founded 1326",
+      "One of the first Cambridge colleges to admit women undergraduates, 1972",
+      "Clare Choir has performed internationally since 1866",
+      "Clare Bridge (1640) is the oldest surviving bridge over the Cam"
+    ],
+    "finances": {
+      "endowment": null,
+      "bursaries": "Cambridge Bursary Scheme plus Clare College bursaries",
+      "description": "Clare participates in the Cambridge Bursary scheme and offers additional college-funded awards for students from low-income backgrounds."
+    },
+    "website": "https://www.clare.cam.ac.uk",
+    "sortOrder": 3
+  },
+  "cambridge-corpus-christi": {
+    "slug": "cambridge-corpus-christi",
+    "universitySlug": "cambridge",
+    "name": "Corpus Christi College",
+    "subjects": [],
+    "founded": 1352,
+    "location": "Trumpington Street, central Cambridge",
+    "overview": "Corpus Christi College was founded in 1352 by the Guild of Corpus Christi and the Guild of the Blessed Virgin Mary, making it the only Cambridge college founded by the town's citizens rather than royalty or nobility. With around 300 undergraduates and 200 postgraduates, it is one of the smaller traditional colleges. Corpus is home to the Parker Library, one of the world's most important collections of medieval manuscripts, assembled by Archbishop Matthew Parker.",
+    "character": "Corpus is a compact, intimate college with a strong academic culture and a close-knit community. Its small size fosters strong relationships between students and fellows, and it consistently ranks well in the Tompkins Table.",
+    "studentNumbers": {
+      "undergraduates": 300,
+      "postgraduates": 200,
+      "total": 500
+    },
+    "accommodation": {
+      "yearsGuaranteed": 3,
+      "description": "Corpus guarantees accommodation for all undergraduates throughout their course, including rooms in the historic Old Court and modern annexes close to the main site.",
+      "avgCost": "~£150/week",
+      "inCollege": true
+    },
+    "academicStrengths": [
+      "Law",
+      "History",
+      "English",
+      "Natural Sciences",
+      "Classics"
+    ],
+    "notableAlumni": [
+      "Christopher Marlowe (Elizabethan Playwright)",
+      "Matthew Parker (Archbishop of Canterbury, compiler of Parker Library)",
+      "Hugh Bonneville (Actor, Downton Abbey)",
+      "Kevin McCloud (Designer and TV Presenter, Grand Designs)",
+      "John Fletcher (Jacobean Playwright)"
+    ],
+    "keyFacts": [
+      "The only Cambridge college founded by the townspeople, in 1352",
+      "Home to the Parker Library, containing priceless medieval manuscripts",
+      "College assets and endowment valued at over £230 million",
+      "One of Cambridge's smaller traditional colleges, fostering close community"
+    ],
+    "finances": {
+      "endowment": "~£230m+",
+      "bursaries": "Cambridge Bursary Scheme plus college-specific bursaries",
+      "description": "Corpus participates in the Cambridge Bursary scheme and offers supplementary college financial support."
+    },
+    "website": "https://www.corpus.cam.ac.uk",
+    "sortOrder": 4
+  },
+  "cambridge-downing": {
+    "slug": "cambridge-downing",
+    "universitySlug": "cambridge",
+    "name": "Downing College",
+    "subjects": [],
+    "founded": 1800,
+    "location": "Regent Street, central Cambridge",
+    "overview": "Downing College was founded by royal charter in 1800 following the will of Sir George Downing, 3rd Baronet, making it the only college added to Cambridge between 1596 and 1869. Set around an unusually spacious neoclassical campus on Regent Street, Downing has around 425 undergraduates and 500 postgraduates. The college was originally founded to encourage study of Law, Medicine, and Moral and Natural Science, and maintains a particular reputation in Law.",
+    "character": "Downing is known as 'the Law college' and has a reputation for academic ambition combined with a sociable, open culture. Its neoclassical courts set it apart architecturally from older Cambridge colleges.",
+    "studentNumbers": {
+      "undergraduates": 425,
+      "postgraduates": 501,
+      "total": 926
+    },
+    "accommodation": {
+      "yearsGuaranteed": 3,
+      "description": "Undergraduates are accommodated on the central campus for all three or four years of their course, with a mix of traditional and newer rooms around the college courts.",
+      "avgCost": "~£155/week",
+      "inCollege": true
+    },
+    "academicStrengths": [
+      "Law",
+      "Medicine",
+      "Natural Sciences",
+      "Economics"
+    ],
+    "notableAlumni": [
+      "John Cleese (Actor and Comedian, Monty Python)",
+      "Michael Atherton (Cricketer and Broadcaster)",
+      "Trevor Nunn (Theatre Director)",
+      "F.R. Leavis (Literary Critic)",
+      "John Butterfield (Physiologist)"
+    ],
+    "keyFacts": [
+      "Founded 1800, oldest of the 'new' Cambridge colleges",
+      "Only college added between 1596 and 1869",
+      "Renowned for its neoclassical Regency architecture",
+      "Particular strength in Law, named one of the 'Law Colleges'",
+      "Named one of two most eco-friendly Cambridge colleges in 2012"
+    ],
+    "finances": {
+      "endowment": null,
+      "bursaries": "Cambridge Bursary Scheme plus college awards",
+      "description": "Downing participates in the Cambridge Bursary scheme and provides additional college-level support for students in financial need."
+    },
+    "website": "https://www.dow.cam.ac.uk",
+    "sortOrder": 5
+  },
+  "cambridge-emmanuel": {
+    "slug": "cambridge-emmanuel",
+    "universitySlug": "cambridge",
+    "name": "Emmanuel College",
+    "subjects": [],
+    "founded": 1584,
+    "location": "St Andrew's Street, central Cambridge",
+    "overview": "Emmanuel College was founded in 1584 by Sir Walter Mildmay, Chancellor of the Exchequer to Elizabeth I, initially as a centre for the training of Puritan preachers. Today it is one of the larger Cambridge colleges with around 500 undergraduates and over 200 postgraduates. The college's chapel (1677) is one of three Cambridge buildings designed by Sir Christopher Wren, and its beautiful gardens include an ornamental duck pond.",
+    "character": "Emmanuel has a reputation for being academically strong and friendly, with a broad range of subjects and a particular historic connection to America—Harvard University was modelled on Emmanuel and founded by Emmanuel alumnus John Harvard.",
+    "studentNumbers": {
+      "undergraduates": 500,
+      "postgraduates": 200,
+      "total": 700
+    },
+    "accommodation": {
+      "yearsGuaranteed": 3,
+      "description": "Emmanuel guarantees accommodation to all undergraduates throughout their course, with rooms spread across historic and modern parts of the college.",
+      "avgCost": "~£150/week",
+      "inCollege": true
+    },
+    "academicStrengths": [
+      "Natural Sciences",
+      "Engineering",
+      "Law",
+      "Mathematics",
+      "History"
+    ],
+    "notableAlumni": [
+      "John Harvard (Clergyman, Founder of Harvard University)",
+      "Frederick Gowland Hopkins (Biochemist, Nobel Prize for discovering vitamins)",
+      "Sebastian Faulks (Novelist, Birdsong)",
+      "Graham Chapman (Comedian, Monty Python)",
+      "Griff Rhys Jones (Comedian and Actor)",
+      "Thomas Young (Physicist, established wave theory of light)"
+    ],
+    "keyFacts": [
+      "Founded 1584 by Sir Walter Mildmay, Chancellor of the Exchequer",
+      "Chapel (1677) is one of three Cambridge buildings designed by Christopher Wren",
+      "Harvard University was founded by Emmanuel alumnus John Harvard in 1636",
+      "One third of the first 100 New England graduates were Emmanuel-educated",
+      "First admitted women in 1979"
+    ],
+    "finances": {
+      "endowment": null,
+      "bursaries": "Cambridge Bursary Scheme plus Emmanuel College awards",
+      "description": "Emmanuel participates in the Cambridge Bursary scheme and offers supplementary college-funded financial support."
+    },
+    "website": "https://www.emma.cam.ac.uk",
+    "sortOrder": 6
+  },
+  "cambridge-fitzwilliam": {
+    "slug": "cambridge-fitzwilliam",
+    "universitySlug": "cambridge",
+    "name": "Fitzwilliam College",
+    "subjects": [],
+    "founded": 1869,
+    "location": "Storey's Way, west Cambridge",
+    "overview": "Fitzwilliam College traces its origins to 1869 as the Non-Collegiate Students Board, providing academically strong students of all backgrounds access to Cambridge. It became a full college in 1966 and moved to its current purpose-built campus on Storey's Way. Today it has around 500 undergraduates and 400 postgraduates, and is consistently the Cambridge college with the highest proportion of state-school students (70–75%).",
+    "character": "Fitzwilliam is known for its commitment to widening participation and a welcoming, diverse community. It has a modern campus and is particularly strong in Natural Sciences and Music.",
+    "studentNumbers": {
+      "undergraduates": 500,
+      "postgraduates": 400,
+      "total": 900
+    },
+    "accommodation": {
+      "yearsGuaranteed": 3,
+      "description": "Fitzwilliam accommodates all undergraduates on or near the campus for the duration of their course, in a mix of modern ensuite and traditional rooms.",
+      "avgCost": "~£150/week",
+      "inCollege": true
+    },
+    "academicStrengths": [
+      "Natural Sciences",
+      "Music",
+      "Politics",
+      "Law",
+      "Economics"
+    ],
+    "notableAlumni": [
+      "Joseph Stiglitz (Economist, Nobel Prize 2001)",
+      "Angus Deaton (Economist, Nobel Prize 2015)",
+      "César Milstein (Biochemist, Nobel Prize 1984)",
+      "Ernst Boris Chain (Biochemist, Nobel Prize 1945 for penicillin)",
+      "Steve Backshall (Wildlife Presenter and Explorer)"
+    ],
+    "keyFacts": [
+      "Roots in 1869 Non-Collegiate Students Board; full college status in 1966",
+      "Among the highest proportions of state-school students in Cambridge (70–75%)",
+      "Six alumni have won the Nobel Prize",
+      "Modern campus between Huntingdon Road and Storey's Way"
+    ],
+    "finances": {
+      "endowment": null,
+      "bursaries": "Cambridge Bursary Scheme plus Fitzwilliam College bursaries",
+      "description": "Fitzwilliam is particularly committed to widening participation and offers generous financial support through the Cambridge Bursary scheme and college-specific awards."
+    },
+    "website": "https://www.fitz.cam.ac.uk",
+    "sortOrder": 7
+  },
+  "cambridge-girton": {
+    "slug": "cambridge-girton",
+    "universitySlug": "cambridge",
+    "name": "Girton College",
+    "subjects": [],
+    "founded": 1869,
+    "location": "Huntingdon Road, 2 miles northwest of Cambridge city centre",
+    "overview": "Girton College was founded in 1869 as Britain's first residential institution for women's higher education, by Emily Davies and Barbara Leigh Smith Bodichon. Relocated to its current 65-acre campus in 1873, Girton became coeducational in 1976, the first women's college to do so. It now has around 500 undergraduates and 280 postgraduates, and is known for its spacious grounds and strong sporting traditions.",
+    "character": "Girton has a proud pioneering heritage and a strong community spirit. Its campus is further from the city centre than most colleges, which fosters a particularly close-knit student community. It is known for academic excellence across a broad range of subjects.",
+    "studentNumbers": {
+      "undergraduates": 500,
+      "postgraduates": 280,
+      "total": 780
+    },
+    "accommodation": {
+      "yearsGuaranteed": 3,
+      "description": "Most undergraduates are housed on Girton's spacious 65-acre campus throughout their studies. The college offers a wide range of room types in both heritage and modern buildings.",
+      "avgCost": "~£145/week",
+      "inCollege": true
+    },
+    "academicStrengths": [
+      "Natural Sciences",
+      "Law",
+      "History",
+      "Modern Languages",
+      "Economics"
+    ],
+    "notableAlumni": [
+      "Baroness Hale (First Female President of the UK Supreme Court)",
+      "Arianna Huffington (Co-founder of the Huffington Post)",
+      "Sandi Toksvig (Comedian and Broadcaster)",
+      "Joan Robinson (Economist)",
+      "Hertha Ayrton (Physicist, first woman elected to the IEE)",
+      "Rosalind Franklin (X-ray Crystallographer, key to DNA discovery)"
+    ],
+    "keyFacts": [
+      "Founded 1869, first residential college for women's higher education in Britain",
+      "First Cambridge women's college to become coeducational, in 1976",
+      "65-acre campus with extensive gardens and sporting facilities",
+      "Over 15,000 students have studied at Girton since 1869"
+    ],
+    "finances": {
+      "endowment": null,
+      "bursaries": "Cambridge Bursary Scheme plus Girton College awards",
+      "description": "Girton participates in the Cambridge Bursary scheme and offers college-specific financial support."
+    },
+    "website": "https://www.girton.cam.ac.uk",
+    "sortOrder": 8
+  },
+  "cambridge-gonville-and-caius": {
+    "slug": "cambridge-gonville-and-caius",
+    "universitySlug": "cambridge",
+    "name": "Gonville & Caius College",
+    "subjects": [],
+    "founded": 1348,
+    "location": "Trinity Street, central Cambridge",
+    "overview": "Gonville & Caius (pronounced 'Keys') College was founded in 1348 by Edmund Gonville and refounded in 1557 by the physician John Caius, an alumnus who also established the college's famous triumphal gates—Humility, Virtue, and Honour. It is the fourth-oldest Cambridge college, with over 850 students in total and one of the largest undergraduate populations. The college has produced 15 Nobel Prize winners, the second-highest of any Oxbridge college.",
+    "character": "Caius is one of Cambridge's most academically celebrated colleges, with particular strengths in Medicine and the Sciences. It combines deep historical tradition with a lively and engaged student community.",
+    "studentNumbers": {
+      "undergraduates": 600,
+      "postgraduates": 260,
+      "total": 860
+    },
+    "accommodation": {
+      "yearsGuaranteed": 3,
+      "description": "Caius guarantees accommodation for all undergraduates throughout their course, in rooms across several courts in the centre of Cambridge.",
+      "avgCost": "~£155/week",
+      "inCollege": true
+    },
+    "academicStrengths": [
+      "Medicine",
+      "Natural Sciences",
+      "Mathematics",
+      "Law",
+      "History"
+    ],
+    "notableAlumni": [
+      "Stephen Hawking (Theoretical Physicist)",
+      "Francis Crick (Co-discoverer of DNA structure, Nobel Prize)",
+      "James Chadwick (Physicist, discovered the neutron, Nobel Prize)",
+      "Howard Florey (Developer of penicillin, Nobel Prize)",
+      "Harold Abrahams (Olympic sprinter, subject of Chariots of Fire)",
+      "William Harvey (Physician, discovered blood circulation)"
+    ],
+    "keyFacts": [
+      "Founded 1348, fourth-oldest college in Cambridge",
+      "15 Nobel Prize winners, second-highest of any Oxbridge college",
+      "Refounded 1557 by physician John Caius, who built the Three Gates",
+      "Endowment of £271 million (2024)",
+      "One of Cambridge's wealthiest colleges"
+    ],
+    "finances": {
+      "endowment": "~£271m",
+      "bursaries": "Cambridge Bursary Scheme plus Caius College bursaries",
+      "description": "As one of Cambridge's wealthier colleges, Caius offers generous financial support through the Cambridge Bursary scheme and college-specific awards."
+    },
+    "website": "https://www.cai.cam.ac.uk",
+    "sortOrder": 9
+  },
+  "cambridge-homerton": {
+    "slug": "cambridge-homerton",
+    "universitySlug": "cambridge",
+    "name": "Homerton College",
+    "subjects": [],
+    "founded": 1768,
+    "location": "Hills Road, south Cambridge",
+    "overview": "Homerton College has roots dating to 1768, originally as a Nonconformist training institution in Hackney, London, moving to Cambridge in 1894. It received its Royal Charter as a full college of the University in 2010. With around 600 undergraduates and 750 postgraduates, Homerton is by total student numbers the largest college in Cambridge. It is located about a mile south of the city centre on a spacious campus near the Biomedical Campus.",
+    "character": "Homerton is known for being a welcoming, down-to-earth community with a diverse student body. Its newer college status gives it a somewhat different culture from older colleges, and it prides itself on its connections to education, public service, and the arts.",
+    "studentNumbers": {
+      "undergraduates": 600,
+      "postgraduates": 750,
+      "total": 1350
+    },
+    "accommodation": {
+      "yearsGuaranteed": 3,
+      "description": "Homerton accommodates all undergraduates on campus for the duration of their course. The campus has extensive modern accommodation at competitive prices.",
+      "avgCost": "~£130/week",
+      "inCollege": true
+    },
+    "academicStrengths": [
+      "Education",
+      "Natural Sciences",
+      "Social Sciences",
+      "Arts and Humanities"
+    ],
+    "notableAlumni": [
+      "Olivia Colman (Academy Award-winning Actress)",
+      "Carol Ann Duffy (Poet Laureate 2009–2019)",
+      "Peter Maxwell Davies (Composer and Master of the Queen's Music)",
+      "Evelyn Glennie (Virtuoso Percussionist)",
+      "Jeremy Kyle (Television Presenter)"
+    ],
+    "keyFacts": [
+      "Origins in 1768 Hackney; moved to Cambridge 1894; full college status 2010",
+      "Largest college in Cambridge by total student numbers",
+      "Located a mile south of the city centre near the Biomedical Campus",
+      "Particularly welcoming to students from non-traditional educational backgrounds"
+    ],
+    "finances": {
+      "endowment": null,
+      "bursaries": "Cambridge Bursary Scheme plus Homerton College awards",
+      "description": "Homerton participates in the Cambridge Bursary scheme and offers supplementary college financial support."
+    },
+    "website": "https://www.homerton.cam.ac.uk",
+    "sortOrder": 10
+  },
+  "cambridge-hughes-hall": {
+    "slug": "cambridge-hughes-hall",
+    "universitySlug": "cambridge",
+    "name": "Hughes Hall",
+    "subjects": [],
+    "founded": 1885,
+    "location": "Mortimer Road, central Cambridge",
+    "overview": "Hughes Hall was founded in 1885 as the Cambridge Training College for Women, becoming the first Cambridge institution for women graduates. It was renamed in honour of its founding principal, Elizabeth Phillips Hughes, and received its Royal Charter as a full college in 2006. Hughes Hall is one of Cambridge's three mature colleges, accepting undergraduates aged 21 and over. It has around 200 mature undergraduates and 700 postgraduates.",
+    "character": "Hughes Hall is a friendly, informal college whose mature student intake brings a diverse range of backgrounds and life experience. It became the first of the all-female colleges to admit men in 1973 and is known for its inclusive, supportive environment.",
+    "studentNumbers": {
+      "undergraduates": 200,
+      "postgraduates": 700,
+      "total": 900
+    },
+    "accommodation": {
+      "yearsGuaranteed": 3,
+      "description": "Hughes Hall provides accommodation on or near campus. Mature students benefit from a mix of single and partner/family rooms.",
+      "avgCost": "~£140/week",
+      "inCollege": true
+    },
+    "academicStrengths": [
+      "Education",
+      "Law",
+      "Social Sciences",
+      "Natural Sciences"
+    ],
+    "notableAlumni": [
+      "Elizabeth Phillips Hughes (Educationalist and First Principal)",
+      "Leah Manning (MP and Social Reformer)"
+    ],
+    "keyFacts": [
+      "Founded 1885 as Cambridge Training College for Women; named Hughes Hall 1949",
+      "One of three Cambridge mature colleges (undergraduates must be aged 21+)",
+      "First all-female Cambridge college to admit men, in 1973",
+      "Full college status by Royal Charter in 2006"
+    ],
+    "finances": {
+      "endowment": null,
+      "bursaries": "Cambridge Bursary Scheme plus college awards",
+      "description": "Hughes Hall participates in the Cambridge Bursary scheme and provides targeted support for mature students."
+    },
+    "website": "https://www.hughes.cam.ac.uk",
+    "sortOrder": 11
+  },
+  "cambridge-jesus": {
+    "slug": "cambridge-jesus",
+    "universitySlug": "cambridge",
+    "name": "Jesus College",
+    "subjects": [],
+    "founded": 1496,
+    "location": "Jesus Lane, central Cambridge",
+    "overview": "Jesus College was founded in 1496 by John Alcock, Bishop of Ely, on the site of a twelfth-century Benedictine nunnery. With around 500 undergraduates and 400 postgraduates, it is one of the larger colleges. The college buildings, arranged around several courts and incorporating remains of the medieval nunnery, give Jesus a distinctive, almost monastic architectural character. College assets stand at approximately £375 million.",
+    "character": "Jesus is known for its active, sociable student community, strong sporting traditions, and a broad academic outlook. The college's unusual amount of space relative to its student population makes it attractive to those who value an open environment.",
+    "studentNumbers": {
+      "undergraduates": 500,
+      "postgraduates": 400,
+      "total": 900
+    },
+    "accommodation": {
+      "yearsGuaranteed": 3,
+      "description": "Jesus guarantees accommodation for all undergraduates throughout their course, with rooms in various courts across the spacious main site.",
+      "avgCost": "~£150/week",
+      "inCollege": true
+    },
+    "academicStrengths": [
+      "Architecture",
+      "Natural Sciences",
+      "Engineering",
+      "Law",
+      "History"
+    ],
+    "notableAlumni": [
+      "Samuel Taylor Coleridge (Poet, The Rime of the Ancient Mariner)",
+      "Thomas Cranmer (Archbishop of Canterbury)",
+      "John Flamsteed (First Astronomer Royal)",
+      "Alistair Darling (Chancellor of the Exchequer)",
+      "Nick Park (Animator, Wallace & Gromit)"
+    ],
+    "keyFacts": [
+      "Founded 1496 on site of a twelfth-century Benedictine nunnery",
+      "College assets of approximately £375 million",
+      "Cambridge's seventh-wealthiest college",
+      "First woman Master, Sonita Alleyne, elected in 2019"
+    ],
+    "finances": {
+      "endowment": "~£375m",
+      "bursaries": "Cambridge Bursary Scheme plus Jesus College bursaries",
+      "description": "Jesus participates in the Cambridge Bursary scheme and provides supplementary college-funded financial support."
+    },
+    "website": "https://www.jesus.cam.ac.uk",
+    "sortOrder": 12
+  },
+  "cambridge-kings": {
+    "slug": "cambridge-kings",
+    "universitySlug": "cambridge",
+    "name": "King's College",
+    "subjects": [],
+    "founded": 1441,
+    "location": "King's Parade, central Cambridge",
+    "overview": "King's College was founded in 1441 by King Henry VI. Its iconic Chapel, begun in 1446 and completed in 1544, is widely regarded as one of the finest examples of Gothic architecture in the world, with the largest fan vault ever built. The college has around 420 undergraduates and a comparable number of postgraduates, and its endowment stands at approximately £283 million.",
+    "character": "King's has a reputation for progressive politics, an unusually diverse and internationalist student body, and a strong tradition of arts, literature, and economics. The annual Christmas Eve Festival of Nine Lessons and Carols is broadcast globally.",
+    "studentNumbers": {
+      "undergraduates": 420,
+      "postgraduates": 300,
+      "total": 720
+    },
+    "accommodation": {
+      "yearsGuaranteed": 3,
+      "description": "King's guarantees accommodation for all undergraduates throughout their course, with rooms in the historic college buildings as well as modern annexes close to the main site.",
+      "avgCost": "~£155/week",
+      "inCollege": true
+    },
+    "academicStrengths": [
+      "Economics",
+      "English",
+      "History",
+      "Mathematics",
+      "Computer Science"
+    ],
+    "notableAlumni": [
+      "John Maynard Keynes (Economist, founded modern macroeconomics)",
+      "Alan Turing (Computer Scientist, father of theoretical computer science)",
+      "E.M. Forster (Novelist, A Passage to India)",
+      "Rupert Brooke (First World War Poet)",
+      "Zadie Smith (Novelist, White Teeth)",
+      "Salman Rushdie (Novelist, Midnight's Children)"
+    ],
+    "keyFacts": [
+      "Founded 1441 by Henry VI; chapel completed 1544 by Henry VIII",
+      "King's College Chapel has the world's largest fan vault",
+      "Festival of Nine Lessons and Carols broadcast globally since 1928",
+      "Endowment of approximately £283 million",
+      "Alan Turing and John Maynard Keynes both named in Time's 100 most influential people of the 20th century"
+    ],
+    "finances": {
+      "endowment": "~£283m",
+      "bursaries": "Cambridge Bursary Scheme plus King's College awards",
+      "description": "King's offers a generous bursary scheme supplementing the Cambridge Bursary, and is known for actively supporting students from disadvantaged backgrounds."
+    },
+    "website": "https://www.kings.cam.ac.uk",
+    "sortOrder": 13
+  },
+  "cambridge-magdalene": {
+    "slug": "cambridge-magdalene",
+    "universitySlug": "cambridge",
+    "name": "Magdalene College",
+    "subjects": [],
+    "founded": 1428,
+    "location": "Magdalene Street, central Cambridge",
+    "overview": "Magdalene College was originally founded in 1428 as a Benedictine hostel (Buckingham College) and refounded in 1542 as the College of St Mary Magdalene under the patronage of Lord Chancellor Thomas Audley. One of Cambridge's smaller traditional colleges with around 400 undergraduates and 200 postgraduates, Magdalene occupies a picturesque site on the north bank of the Cam. Its library houses the collection and diary of Samuel Pepys.",
+    "character": "Magdalene has a reputation as one of Cambridge's most socially welcoming colleges, with a tight-knit community and beautiful riverside setting. Its hall is unique in Cambridge for relying solely on candlelight.",
+    "studentNumbers": {
+      "undergraduates": 400,
+      "postgraduates": 200,
+      "total": 600
+    },
+    "accommodation": {
+      "yearsGuaranteed": 3,
+      "description": "Magdalene guarantees accommodation for all undergraduates throughout their degree, with rooms in the medieval courts and in annexes on Magdalene Street.",
+      "avgCost": "~£150/week",
+      "inCollege": true
+    },
+    "academicStrengths": [
+      "English",
+      "History",
+      "Law",
+      "Natural Sciences",
+      "Archaeology"
+    ],
+    "notableAlumni": [
+      "Samuel Pepys (Diarist and Naval Administrator)",
+      "Patrick Blackett (Physicist, Nobel Prize 1948)",
+      "Julian Fellowes (Writer and Creator of Downton Abbey)",
+      "C.S. Lewis (Author, The Chronicles of Narnia, later a Fellow)",
+      "Bamber Gascoigne (Television Presenter, University Challenge)",
+      "Monty Don (Horticulturalist and TV Presenter)"
+    ],
+    "keyFacts": [
+      "Foundations dating to 1428; refounded 1542 by Thomas Audley",
+      "Last all-male Oxford or Cambridge college to admit women, in 1988",
+      "Home to the Pepys Library, containing Samuel Pepys' diary and book collection",
+      "Hall is the only Oxbridge dining hall lit entirely by candlelight"
+    ],
+    "finances": {
+      "endowment": null,
+      "bursaries": "Cambridge Bursary Scheme plus Magdalene College awards",
+      "description": "Magdalene participates in the Cambridge Bursary scheme and provides supplementary college-level financial support."
+    },
+    "website": "https://www.magd.cam.ac.uk",
+    "sortOrder": 14
+  },
+  "cambridge-murray-edwards": {
+    "slug": "cambridge-murray-edwards",
+    "universitySlug": "cambridge",
+    "name": "Murray Edwards College",
+    "subjects": [],
+    "founded": 1954,
+    "location": "Huntingdon Road, north Cambridge",
+    "overview": "Murray Edwards College (formerly New Hall) was founded in 1954 as Cambridge's third women's college and was renamed in 2008 following a £30 million donation from alumna Ros Edwards and her husband Steve Edwards. The college accepts only female undergraduates and is home to around 400 students in total. Its distinctive domed modernist buildings were designed by Chamberlin, Powell and Bon, the architects of London's Barbican.",
+    "character": "Murray Edwards is committed to the education and empowerment of women and has a vibrant, inclusive community. It is home to the Women's Art Collection, the largest collection of women's art in Europe.",
+    "studentNumbers": {
+      "undergraduates": 330,
+      "postgraduates": 130,
+      "total": 460
+    },
+    "accommodation": {
+      "yearsGuaranteed": 3,
+      "description": "Murray Edwards guarantees accommodation for all undergraduates in its modernist buildings on the Huntingdon Road site for the full duration of their course.",
+      "avgCost": "~£145/week",
+      "inCollege": true
+    },
+    "academicStrengths": [
+      "Natural Sciences",
+      "Medicine",
+      "Engineering",
+      "Law",
+      "Humanities"
+    ],
+    "notableAlumni": [
+      "Jocelyn Bell Burnell (Astrophysicist, discovered pulsars)",
+      "Claudia Winkleman (Television Presenter)",
+      "Rosalind Edwards (Philanthropist and Alumna Benefactor)",
+      "Joanna MacGregor (Concert Pianist)"
+    ],
+    "keyFacts": [
+      "Founded 1954 as Cambridge's third women's college (then New Hall)",
+      "Renamed Murray Edwards in 2008 after a £30 million donation",
+      "Women-only undergraduate admissions",
+      "Home to the Women's Art Collection, largest in Europe",
+      "Distinctive domed buildings designed by architects of the Barbican"
+    ],
+    "finances": {
+      "endowment": null,
+      "bursaries": "Cambridge Bursary Scheme plus Murray Edwards College awards",
+      "description": "Murray Edwards participates in the Cambridge Bursary scheme and provides generous college-specific bursaries, particularly supporting women from under-represented backgrounds."
+    },
+    "website": "https://www.murrayedwards.cam.ac.uk",
+    "sortOrder": 15
+  },
+  "cambridge-newnham": {
+    "slug": "cambridge-newnham",
+    "universitySlug": "cambridge",
+    "name": "Newnham College",
+    "subjects": [],
+    "founded": 1871,
+    "location": "Sidgwick Avenue, west Cambridge",
+    "overview": "Newnham College was established in 1871 by philosopher Henry Sidgwick and others to provide residential education for women in Cambridge. It is the second women's college to be founded at Cambridge, and remains today the oldest college run by women, for women. Newnham accepts only female undergraduates and has around 400 undergraduates and 300 postgraduates. Its beautiful red-brick gardens and Arts and Crafts buildings are regarded as among the finest in Cambridge.",
+    "character": "Newnham has a strong tradition of academic excellence and feminist scholarship, having educated many of the most distinguished women in public life. The college is noted for its beautiful gardens, supportive atmosphere, and commitment to gender equality.",
+    "studentNumbers": {
+      "undergraduates": 400,
+      "postgraduates": 300,
+      "total": 700
+    },
+    "accommodation": {
+      "yearsGuaranteed": 3,
+      "description": "Newnham guarantees accommodation for all undergraduates throughout their course within the beautiful college grounds.",
+      "avgCost": "~£145/week",
+      "inCollege": true
+    },
+    "academicStrengths": [
+      "English",
+      "History",
+      "Natural Sciences",
+      "Law",
+      "Modern Languages"
+    ],
+    "notableAlumni": [
+      "Rosalind Franklin (X-ray Crystallographer, key to DNA discovery)",
+      "Emma Thompson (Actress and Screenwriter, Academy Award winner)",
+      "Sylvia Plath (Poet and Author)",
+      "Mary Beard (Classical Scholar and Broadcaster)",
+      "Diane Abbott (First Black Female MP in the UK)",
+      "Jane Goodall (Primatologist and Conservationist)"
+    ],
+    "keyFacts": [
+      "Founded 1871 by Henry Sidgwick, second women's college at Cambridge",
+      "Remains a women-only undergraduate college",
+      "Oldest Cambridge college governed and run by women",
+      "Featured as 'Fernham' in Virginia Woolf's A Room of One's Own"
+    ],
+    "finances": {
+      "endowment": null,
+      "bursaries": "Cambridge Bursary Scheme plus Newnham College bursaries",
+      "description": "Newnham participates in the Cambridge Bursary scheme and offers generous college-specific financial support for women in need."
+    },
+    "website": "https://www.newn.cam.ac.uk",
+    "sortOrder": 16
+  },
+  "cambridge-pembroke": {
+    "slug": "cambridge-pembroke",
+    "universitySlug": "cambridge",
+    "name": "Pembroke College",
+    "subjects": [],
+    "founded": 1347,
+    "location": "Trumpington Street, central Cambridge",
+    "overview": "Pembroke College was founded on Christmas Eve 1347 by Marie de St Pol, Countess of Pembroke, making it the third-oldest surviving college in Cambridge. It has over 700 students and fellows, and has consistently ranked near the top of the Tompkins Table in recent years. Pembroke contains the first chapel designed by Sir Christopher Wren (1663) and received a landmark £34 million bequest from alumnus Ray Dolby in 2015.",
+    "character": "Pembroke is known for its consistently high academic performance, beautiful historic architecture in the heart of Cambridge, and a particularly strong tradition in science and comedy. It is regularly amongst the top-performing colleges in examinations.",
+    "studentNumbers": {
+      "undergraduates": 490,
+      "postgraduates": 230,
+      "total": 720
+    },
+    "accommodation": {
+      "yearsGuaranteed": 3,
+      "description": "Pembroke guarantees accommodation for all undergraduates throughout their course. Rooms are available within the college and in nearby properties.",
+      "avgCost": "~£155/week",
+      "inCollege": true
+    },
+    "academicStrengths": [
+      "Natural Sciences",
+      "Mathematics",
+      "Medicine",
+      "Law",
+      "Engineering"
+    ],
+    "notableAlumni": [
+      "William Pitt the Younger (British Prime Minister, youngest ever at 24)",
+      "Eric Idle (Comedian, Monty Python)",
+      "Tom Hiddleston (Actor)",
+      "Edmund Spenser (Poet, The Faerie Queene)",
+      "Ted Hughes (Poet Laureate)",
+      "Ray Dolby (Inventor of Dolby Sound)"
+    ],
+    "keyFacts": [
+      "Third-oldest Cambridge college, founded 1347 by Countess of Pembroke",
+      "Contains the first chapel designed by Christopher Wren (1663)",
+      "Received a £34 million bequest from alumnus Ray Dolby in 2015",
+      "Endowment supported by c. £139 million",
+      "Regularly places second in the Tompkins Table"
+    ],
+    "finances": {
+      "endowment": "~£139m",
+      "bursaries": "Cambridge Bursary Scheme plus Pembroke College awards",
+      "description": "Pembroke participates in the Cambridge Bursary scheme and offers supplementary college-level financial support."
+    },
+    "website": "https://www.pem.cam.ac.uk",
+    "sortOrder": 17
+  },
+  "cambridge-peterhouse": {
+    "slug": "cambridge-peterhouse",
+    "universitySlug": "cambridge",
+    "name": "Peterhouse",
+    "subjects": [],
+    "founded": 1284,
+    "location": "Trumpington Street, central Cambridge",
+    "overview": "Peterhouse is the oldest and smallest college in Cambridge, founded in 1284 by Hugh de Balsham, Bishop of Ely. With around 300 undergraduates and 175 postgraduates, it maintains the atmosphere of a small, intimate academic community. Its medieval hall, built in the 13th century, is the oldest collegiate building in Cambridge still in use.",
+    "character": "Peterhouse has a reputation for strong academic achievement, particularly in the sciences and engineering, and a conservative but intellectually stimulating atmosphere. Its small size creates a close community between students and the high ratio of fellows.",
+    "studentNumbers": {
+      "undergraduates": 300,
+      "postgraduates": 175,
+      "total": 475
+    },
+    "accommodation": {
+      "yearsGuaranteed": 3,
+      "description": "Peterhouse guarantees accommodation for all undergraduates throughout their course. Rooms are available in the historic college buildings and in modern annexes nearby.",
+      "avgCost": "~£150/week",
+      "inCollege": true
+    },
+    "academicStrengths": [
+      "Natural Sciences",
+      "Engineering",
+      "History",
+      "Mathematics",
+      "Philosophy"
+    ],
+    "notableAlumni": [
+      "Lord Kelvin (Physicist, established absolute temperature scale)",
+      "Charles Babbage (Mathematician, pioneer of computing)",
+      "Sam Mendes (Oscar-winning Film Director)",
+      "Max Perutz (Biochemist, Nobel Prize 1962)",
+      "Thomas Gray (Poet, Elegy Written in a Country Churchyard)",
+      "David Mitchell (Comedian and Author)"
+    ],
+    "keyFacts": [
+      "Oldest and smallest college in Cambridge, founded 1284",
+      "Its medieval dining hall (13th century) is Cambridge's oldest collegiate building in use",
+      "Five Nobel Prize winners in the sciences",
+      "High ratio of Fellows to students ensures strong academic support"
+    ],
+    "finances": {
+      "endowment": null,
+      "bursaries": "Cambridge Bursary Scheme plus Peterhouse awards",
+      "description": "Peterhouse participates in the Cambridge Bursary scheme and offers supplementary college financial support."
+    },
+    "website": "https://www.pet.cam.ac.uk",
+    "sortOrder": 18
+  },
+  "cambridge-queens": {
+    "slug": "cambridge-queens",
+    "universitySlug": "cambridge",
+    "name": "Queens' College",
+    "subjects": [],
+    "founded": 1448,
+    "location": "Queens' Lane / Silver Street, central Cambridge",
+    "overview": "Queens' College was founded in 1448 by Margaret of Anjou and refounded in 1465 by Elizabeth Woodville—hence the possessive 'Queens'' (not 'Queen's'). One of Cambridge's larger colleges, it has around 550 undergraduates and 400 postgraduates. The college's buildings famously straddle the River Cam, connected by the iconic Mathematical Bridge. Demis Hassabis (DeepMind/AlphaFold) became Queens' first Nobel Prize winner in 2024.",
+    "character": "Queens' is known for its lively student community, strong music and drama traditions, a beautiful riverside setting, and consistent academic excellence across all subjects.",
+    "studentNumbers": {
+      "undergraduates": 550,
+      "postgraduates": 400,
+      "total": 950
+    },
+    "accommodation": {
+      "yearsGuaranteed": 3,
+      "description": "Queens' guarantees accommodation for all undergraduates throughout their course, with rooms on both sides of the River Cam connected by the Mathematical Bridge.",
+      "avgCost": "~£155/week",
+      "inCollege": true
+    },
+    "academicStrengths": [
+      "Natural Sciences",
+      "Mathematics",
+      "Economics",
+      "Law",
+      "Engineering"
+    ],
+    "notableAlumni": [
+      "Stephen Fry (Author, Actor and Broadcaster)",
+      "Emily Maitlis (Journalist and Broadcaster)",
+      "Erasmus of Rotterdam (Renaissance Humanist Scholar, former resident)",
+      "Andrew Bailey (Governor of the Bank of England)",
+      "Demis Hassabis (AI Pioneer, Nobel Prize 2024)",
+      "Nick Clegg (Former Deputy Prime Minister) - actually Robinson, not Queens'"
+    ],
+    "keyFacts": [
+      "Founded 1448 by Margaret of Anjou; refounded 1465 by Elizabeth Woodville",
+      "Buildings straddle the River Cam, linked by the iconic Mathematical Bridge",
+      "Name spelled Queens' to honour its two royal founders",
+      "Demis Hassabis won Nobel Prize in Chemistry 2024 as Queens' first Nobel laureate",
+      "Strong traditions in music and drama"
+    ],
+    "finances": {
+      "endowment": null,
+      "bursaries": "Cambridge Bursary Scheme plus Queens' College awards",
+      "description": "Queens' participates in the Cambridge Bursary scheme and provides supplementary college-specific financial support."
+    },
+    "website": "https://www.queens.cam.ac.uk",
+    "sortOrder": 19
+  },
+  "cambridge-robinson": {
+    "slug": "cambridge-robinson",
+    "universitySlug": "cambridge",
+    "name": "Robinson College",
+    "subjects": [],
+    "founded": 1977,
+    "location": "Grange Road, west Cambridge",
+    "overview": "Robinson College was founded in 1977 by entrepreneur and philanthropist Sir David Robinson, and formally opened by the Queen in 1981. It is one of Cambridge's newest colleges and was unique in being intended from its inception for both men and women undergraduates and graduates. Set on a 12.5-acre wooded campus near the University Library and Sidgwick Site, Robinson has around 380 undergraduates and 300 postgraduates.",
+    "character": "Robinson is known as one of the more relaxed and modern colleges in Cambridge, with an inclusive culture, modern brick architecture, and a friendly community. It is well-regarded for its modern conference facilities and art collection.",
+    "studentNumbers": {
+      "undergraduates": 380,
+      "postgraduates": 300,
+      "total": 680
+    },
+    "accommodation": {
+      "yearsGuaranteed": 3,
+      "description": "Robinson guarantees accommodation for all undergraduates on the wooded campus throughout their course, in largely modern rooms.",
+      "avgCost": "~£140/week",
+      "inCollege": true
+    },
+    "academicStrengths": [
+      "Natural Sciences",
+      "Computer Science",
+      "Engineering",
+      "Humanities",
+      "Social Sciences"
+    ],
+    "notableAlumni": [
+      "Nick Clegg (Former Deputy Prime Minister and Leader of the Liberal Democrats)",
+      "Robert Webb (Comedian and Actor, Mitchell and Webb)",
+      "Matt Brittin (Vice President, Google EMEA)",
+      "Dame Athene Donald (Physicist and Deputy Head of Cavendish Laboratory)",
+      "Greg Hands (Politician, former Chief Secretary to the Treasury)"
+    ],
+    "keyFacts": [
+      "Founded 1977, one of Cambridge's newest colleges",
+      "Funded by a donation of ~£17 million from Sir David Robinson",
+      "Designed from the outset for mixed-sex undergraduate and graduate students",
+      "12.5-acre wooded campus in west Cambridge",
+      "Modern redbrick architecture by architects Gillespie, Kidd & Coia"
+    ],
+    "finances": {
+      "endowment": null,
+      "bursaries": "Cambridge Bursary Scheme plus Robinson College awards",
+      "description": "Robinson participates in the Cambridge Bursary scheme and provides supplementary college financial support."
+    },
+    "website": "https://www.robinson.cam.ac.uk",
+    "sortOrder": 20
+  },
+  "cambridge-st-catharines": {
+    "slug": "cambridge-st-catharines",
+    "universitySlug": "cambridge",
+    "name": "St Catharine's College",
+    "subjects": [],
+    "founded": 1473,
+    "location": "Trumpington Street, central Cambridge",
+    "overview": "St Catharine's College (known as 'Catz') was founded in 1473 by Robert Woodlark, Provost of King's College, and received its royal charter from Edward IV in 1475. With around 400 undergraduates and 150 postgraduates, it occupies a prime central location on Trumpington Street. In 2015, Catz became the first Cambridge college to introduce a gender-neutral dress code for Formal Hall.",
+    "character": "St Catharine's has a friendly, approachable atmosphere and a strong sense of community. Its central location and open-fronted main court make it one of the most visible colleges in Cambridge.",
+    "studentNumbers": {
+      "undergraduates": 400,
+      "postgraduates": 150,
+      "total": 550
+    },
+    "accommodation": {
+      "yearsGuaranteed": 3,
+      "description": "St Catharine's guarantees accommodation to all undergraduates throughout their course, with rooms in the main college and in nearby properties on the Trumpington Street site.",
+      "avgCost": "~£150/week",
+      "inCollege": true
+    },
+    "academicStrengths": [
+      "Natural Sciences",
+      "Law",
+      "Medicine",
+      "History",
+      "Music"
+    ],
+    "notableAlumni": [
+      "Ian McKellen (Actor, Gandalf in The Lord of the Rings)",
+      "Jeremy Paxman (Journalist and Broadcaster)",
+      "Ben Miller (Actor and Comedian)",
+      "Tunku Abdul Rahman (First Prime Minister of Malaysia)",
+      "John Ray (Naturalist, 'Father of English Natural History')",
+      "John Addenbrooke (Physician, Founder of Addenbrooke's Hospital)"
+    ],
+    "keyFacts": [
+      "Founded 1473 by Robert Woodlark; nickname 'Catz'",
+      "First Cambridge college to introduce a gender-neutral Formal Hall dress code (2015)",
+      "John Addenbrooke, founder of Addenbrooke's Hospital, was a Catz alumnus",
+      "Open-fronted main court is one of Cambridge's most distinctive architectural spaces"
+    ],
+    "finances": {
+      "endowment": null,
+      "bursaries": "Cambridge Bursary Scheme plus St Catharine's College awards",
+      "description": "St Catharine's participates in the Cambridge Bursary scheme and offers supplementary college-specific financial support."
+    },
+    "website": "https://www.caths.cam.ac.uk",
+    "sortOrder": 21
+  },
+  "cambridge-st-edmunds": {
+    "slug": "cambridge-st-edmunds",
+    "universitySlug": "cambridge",
+    "name": "St Edmund's College",
+    "subjects": [],
+    "founded": 1896,
+    "location": "Mount Pleasant, north Cambridge",
+    "overview": "St Edmund's College was founded in 1896 by the 15th Duke of Norfolk and Baron Anatole von Hügel to provide accommodation for Roman Catholic students at Cambridge after the lifting of the papal ban on attending Oxford and Cambridge. It is one of Cambridge's three mature colleges, accepting only students aged 21 and over for undergraduate courses, and has around 120 mature undergraduates and 350 postgraduates.",
+    "character": "St Edmund's has a particularly international and ecumenical character, with students from a wide range of backgrounds, ages, and nationalities. The mature student environment creates a collegial atmosphere of mutual support.",
+    "studentNumbers": {
+      "undergraduates": 120,
+      "postgraduates": 350,
+      "total": 470
+    },
+    "accommodation": {
+      "yearsGuaranteed": 3,
+      "description": "St Edmund's provides accommodation for all its undergraduates on or near campus throughout their course, with rooms suited to mature and international students.",
+      "avgCost": "~£130/week",
+      "inCollege": true
+    },
+    "academicStrengths": [
+      "Theology",
+      "History",
+      "Law",
+      "Natural Sciences",
+      "Social Sciences"
+    ],
+    "notableAlumni": [
+      "Baron Anatole von Hügel (Co-founder and first curator of the Cambridge Museum of Archaeology)",
+      "Baron Friedrich von Hügel (Catholic Modernist philosopher)"
+    ],
+    "keyFacts": [
+      "Founded 1896 for Roman Catholic students at Cambridge",
+      "One of three Cambridge mature colleges (undergraduates must be aged 21+)",
+      "Has grown from six Catholic students to a diverse, international community",
+      "Particularly strong ecumenical and international character"
+    ],
+    "finances": {
+      "endowment": null,
+      "bursaries": "Cambridge Bursary Scheme plus St Edmund's College awards",
+      "description": "St Edmund's participates in the Cambridge Bursary scheme and provides targeted financial support for mature and international students."
+    },
+    "website": "https://www.st-edmunds.cam.ac.uk",
+    "sortOrder": 22
+  },
+  "cambridge-st-johns": {
+    "slug": "cambridge-st-johns",
+    "universitySlug": "cambridge",
+    "name": "St John's College",
+    "subjects": [],
+    "founded": 1511,
+    "location": "St John's Street, central Cambridge",
+    "overview": "St John's College was founded in 1511 by Lady Margaret Beaufort, the same patron who had refounded Christ's College. One of the two largest Cambridge colleges, it has over 580 undergraduates and over 300 postgraduates. Its impressive collection of courts and buildings—including the Bridge of Sighs, New Court's neo-Gothic 'Wedding Cake', and the original 16th-century hall—make it one of Cambridge's most architecturally spectacular colleges. All undergraduates are guaranteed accommodation throughout their course.",
+    "character": "St John's is known for its academic excellence, extensive financial support for students, strong sporting traditions—particularly rowing—and a grand historic atmosphere. It is one of Cambridge's wealthiest colleges.",
+    "studentNumbers": {
+      "undergraduates": 580,
+      "postgraduates": 320,
+      "total": 900
+    },
+    "accommodation": {
+      "yearsGuaranteed": 3,
+      "description": "St John's guarantees accommodation for all undergraduates throughout their course, with rooms in the historic courts and nearby hostels. First years live on the main College site.",
+      "avgCost": "~£160/week",
+      "inCollege": true
+    },
+    "academicStrengths": [
+      "Mathematics",
+      "Natural Sciences",
+      "Law",
+      "History",
+      "Engineering"
+    ],
+    "notableAlumni": [
+      "William Wordsworth (Romantic Poet)",
+      "Douglas Adams (Author, The Hitchhiker's Guide to the Galaxy)",
+      "William Wilberforce (Abolitionist and Politician)",
+      "Lord Palmerston (British Prime Minister)",
+      "Manmohan Singh (Prime Minister of India)",
+      "Cecil Beaton (Photographer and Designer)"
+    ],
+    "keyFacts": [
+      "Founded 1511 by Lady Margaret Beaufort",
+      "One of the two largest colleges in Cambridge by student numbers",
+      "Home to the Bridge of Sighs, one of Cambridge's most iconic structures",
+      "Over 1,000 former members listed in the Oxford Dictionary of National Biography",
+      "One of Cambridge's most generous colleges for student financial support"
+    ],
+    "finances": {
+      "endowment": null,
+      "bursaries": "Cambridge Bursary Scheme plus substantial St John's College bursaries",
+      "description": "St John's is one of Cambridge's most generous colleges for financial support, offering substantial awards above and beyond the Cambridge Bursary scheme."
+    },
+    "website": "https://www.joh.cam.ac.uk",
+    "sortOrder": 23
+  },
+  "cambridge-selwyn": {
+    "slug": "cambridge-selwyn",
+    "universitySlug": "cambridge",
+    "name": "Selwyn College",
+    "subjects": [],
+    "founded": 1882,
+    "location": "Grange Road, west Cambridge",
+    "overview": "Selwyn College was founded in 1882 by the Selwyn Memorial Committee in memory of George Augustus Selwyn, first Bishop of New Zealand. Originally founded to provide affordable education for students of modest means with a focus on theology, Selwyn today is a fully rounded academic community with around 370 undergraduates and 250 postgraduates. In 2024 it ranked fifth in the Tompkins Table.",
+    "character": "Selwyn has a reputation for a friendly, unpretentious community with strong sporting and musical traditions. It was one of the first Cambridge colleges to go mixed in 1976 and maintains a progressive, inclusive atmosphere.",
+    "studentNumbers": {
+      "undergraduates": 370,
+      "postgraduates": 250,
+      "total": 620
+    },
+    "accommodation": {
+      "yearsGuaranteed": 3,
+      "description": "Selwyn guarantees accommodation for all undergraduates throughout their course. Rooms are available across Old Court, Ann's Court, and the modern Cripps Court.",
+      "avgCost": "~£150/week",
+      "inCollege": true
+    },
+    "academicStrengths": [
+      "Natural Sciences",
+      "Theology",
+      "Engineering",
+      "English",
+      "History"
+    ],
+    "notableAlumni": [
+      "Hugh Laurie (Actor and Musician, House M.D.)",
+      "Michael Frayn (Playwright, Noises Off and Copenhagen)",
+      "John Sentamu (Archbishop of York)",
+      "Robert Harris (Novelist, Fatherland, Archangel)",
+      "Tom Hollander (Actor)"
+    ],
+    "keyFacts": [
+      "Founded 1882 in memory of George Augustus Selwyn, first Bishop of New Zealand",
+      "Originally focused on theology and affordable education for modest means",
+      "One of the first Cambridge colleges to admit women, in 1976",
+      "Ranked fifth in the 2024 Tompkins Table",
+      "Three courts: Old Court, Ann's Court, and Cripps Court"
+    ],
+    "finances": {
+      "endowment": null,
+      "bursaries": "Cambridge Bursary Scheme plus Selwyn College awards",
+      "description": "Selwyn participates in the Cambridge Bursary scheme and provides supplementary college-level financial support."
+    },
+    "website": "https://www.sel.cam.ac.uk",
+    "sortOrder": 24
+  },
+  "cambridge-sidney-sussex": {
+    "slug": "cambridge-sidney-sussex",
+    "universitySlug": "cambridge",
+    "name": "Sidney Sussex College",
+    "subjects": [],
+    "founded": 1596,
+    "location": "Sidney Street, central Cambridge",
+    "overview": "Sidney Sussex College was founded in 1596 under the terms of the will of Frances Sidney, Countess of Sussex, as an avowedly Protestant foundation. Today it has around 355 undergraduates and 275 postgraduates, making it one of Cambridge's smaller traditional colleges. Sidney Sussex is perhaps most famous as the college of Oliver Cromwell, parts of whose skull are buried within its chapel walls.",
+    "character": "Sidney Sussex has a friendly, informal atmosphere despite its historic setting. It is known for its strong academic record in law and sciences, and its central location makes it one of the most conveniently situated colleges in Cambridge.",
+    "studentNumbers": {
+      "undergraduates": 355,
+      "postgraduates": 275,
+      "total": 630
+    },
+    "accommodation": {
+      "yearsGuaranteed": 3,
+      "description": "Sidney Sussex guarantees accommodation for all undergraduates throughout their course, with rooms in the main college and in nearby college-owned properties.",
+      "avgCost": "~£150/week",
+      "inCollege": true
+    },
+    "academicStrengths": [
+      "Law",
+      "Natural Sciences",
+      "History",
+      "Engineering",
+      "Computer Science"
+    ],
+    "notableAlumni": [
+      "Oliver Cromwell (Lord Protector of the Commonwealth)",
+      "Paul Dirac (Physicist, Nobel Prize for quantum mechanics)",
+      "Carol Vorderman (Mathematician and Television Presenter)",
+      "Michael Portillo (Politician and Broadcaster)",
+      "John Madden (Film Director, Shakespeare in Love)",
+      "Sir Benjamin Lockspeiser (First President of CERN)"
+    ],
+    "keyFacts": [
+      "Founded 1596 under the will of Frances Sidney, Countess of Sussex",
+      "Oliver Cromwell was a student; parts of his skull rest in the chapel",
+      "Avowedly Protestant from its founding",
+      "Claims to have the cheapest bar in Cambridge"
+    ],
+    "finances": {
+      "endowment": null,
+      "bursaries": "Cambridge Bursary Scheme plus Sidney Sussex College awards",
+      "description": "Sidney Sussex participates in the Cambridge Bursary scheme and provides supplementary college financial support."
+    },
+    "website": "https://www.sid.cam.ac.uk",
+    "sortOrder": 25
+  },
+  "cambridge-trinity": {
+    "slug": "cambridge-trinity",
+    "universitySlug": "cambridge",
+    "name": "Trinity College",
+    "subjects": [],
+    "founded": 1546,
+    "location": "Trinity Street, central Cambridge",
+    "overview": "Trinity College is the largest college in Cambridge, founded in 1546 by King Henry VIII from the merger of two existing colleges, King's Hall (founded 1317) and Michaelhouse (founded 1324). With around 730 undergraduates and 350 postgraduates, it is also the wealthiest Cambridge college, with an investment portfolio of approximately £2.5 billion. Trinity has produced more Nobel Prize winners (34) than most countries.",
+    "character": "Trinity is renowned for its extraordinary academic record and historic grandeur. It is particularly associated with mathematics, natural sciences, and philosophy. While its scale and wealth can feel imposing, it offers unparalleled resources and a diverse, intellectually stimulating community.",
+    "studentNumbers": {
+      "undergraduates": 730,
+      "postgraduates": 350,
+      "total": 1080
+    },
+    "accommodation": {
+      "yearsGuaranteed": 3,
+      "description": "Trinity guarantees accommodation for all undergraduates throughout their course. First years live in Great Court or Whewell's Court; upper years in a variety of college properties in central Cambridge.",
+      "avgCost": "~£180/week",
+      "inCollege": true
+    },
+    "academicStrengths": [
+      "Mathematics",
+      "Natural Sciences",
+      "Philosophy",
+      "Law",
+      "Engineering"
+    ],
+    "notableAlumni": [
+      "Isaac Newton (Mathematician and Physicist)",
+      "Francis Bacon (Philosopher and Statesman)",
+      "Lord Byron (Romantic Poet)",
+      "Jawaharlal Nehru (First Prime Minister of India)",
+      "Bertrand Russell (Philosopher and Nobel Laureate)",
+      "Ludwig Wittgenstein (Philosopher)",
+      "Srinivasa Ramanujan (Mathematician)"
+    ],
+    "keyFacts": [
+      "Largest Cambridge college, founded 1546 by Henry VIII",
+      "34 Nobel Prize winners, more than most countries",
+      "Investment portfolio of approximately £2.5 billion",
+      "Great Court is the largest enclosed courtyard in Europe",
+      "Six British Prime Ministers among its alumni, the most of any Cambridge college"
+    ],
+    "finances": {
+      "endowment": "~£2.5bn (investment portfolio)",
+      "bursaries": "Cambridge Bursary Scheme plus substantial Trinity College bursaries",
+      "description": "Trinity is the wealthiest Cambridge college and provides highly generous financial support, including significant bursaries and travel grants above the Cambridge Bursary scheme."
+    },
+    "website": "https://www.trin.cam.ac.uk",
+    "sortOrder": 26
+  },
+  "cambridge-trinity-hall": {
+    "slug": "cambridge-trinity-hall",
+    "universitySlug": "cambridge",
+    "name": "Trinity Hall",
+    "subjects": [],
+    "founded": 1350,
+    "location": "Trinity Lane, central Cambridge",
+    "overview": "Trinity Hall is the fifth-oldest surviving college in Cambridge, founded in 1350 by William Bateman, Bishop of Norwich, to train clergymen in canon and civil law after the depletions of the Black Death. Often confused with Trinity College, it is in fact a distinct and smaller college with around 400 undergraduates and 300 postgraduates. Trinity Hall has a particular reputation for Law and rowing.",
+    "character": "Trinity Hall is known for its intimate, friendly atmosphere, outstanding riverside location, and strong Law and rowing traditions. Its small size creates a very close community of students and fellows.",
+    "studentNumbers": {
+      "undergraduates": 400,
+      "postgraduates": 300,
+      "total": 700
+    },
+    "accommodation": {
+      "yearsGuaranteed": 3,
+      "description": "Trinity Hall guarantees accommodation for all undergraduates throughout their course, with rooms in the main college, in Wychfield (a nearby site), and in college-managed properties.",
+      "avgCost": "~£155/week",
+      "inCollege": true
+    },
+    "academicStrengths": [
+      "Law",
+      "Natural Sciences",
+      "Economics",
+      "History",
+      "Medicine"
+    ],
+    "notableAlumni": [
+      "Stephen Hawking (Theoretical Physicist, PhD student)",
+      "Rachel Weisz (Academy Award-winning Actress)",
+      "J.B. Priestley (Novelist and Playwright, An Inspector Calls)",
+      "David Thouless (Physicist, Nobel Prize 2016)",
+      "Marshall McLuhan (Media Theorist)",
+      "Donald Tusk (Former President of the European Council)"
+    ],
+    "keyFacts": [
+      "Fifth-oldest Cambridge college, founded 1350",
+      "Founded specifically to teach canon and civil law after the Black Death",
+      "Trinity Hall Boat Club (founded 1827) held Head of the Mays for 33 consecutive days 1890–1898",
+      "Not to be confused with the much larger Trinity College",
+      "First woman Master, Mary Hockaday, elected 2022"
+    ],
+    "finances": {
+      "endowment": null,
+      "bursaries": "Cambridge Bursary Scheme plus Trinity Hall awards",
+      "description": "Trinity Hall participates in the Cambridge Bursary scheme and provides supplementary college-level financial support."
+    },
+    "website": "https://www.trinhall.cam.ac.uk",
+    "sortOrder": 27
+  },
+  "cambridge-wolfson": {
+    "slug": "cambridge-wolfson",
+    "universitySlug": "cambridge",
+    "name": "Wolfson College",
+    "subjects": [],
+    "founded": 1965,
+    "location": "Barton Road, west Cambridge",
+    "overview": "Wolfson College was founded in 1965 as University College and renamed in 1973 following a major donation from the Wolfson Foundation. It accepts only mature students aged 21 and over and is primarily a postgraduate college, though around 15% of its students are mature undergraduates. Set on a spacious riverside site in west Cambridge, Wolfson is known for its particularly international and diverse community.",
+    "character": "Wolfson has a welcoming, cosmopolitan atmosphere where mature and international students from many different backgrounds come together. Its emphasis on prior life experience and unconventional pathways makes it distinct from traditional Cambridge colleges.",
+    "studentNumbers": {
+      "undergraduates": 150,
+      "postgraduates": 900,
+      "total": 1050
+    },
+    "accommodation": {
+      "yearsGuaranteed": 3,
+      "description": "Wolfson provides accommodation for undergraduates and postgraduates on its riverside Barton Road campus, with facilities suited to mature and international students including family accommodation.",
+      "avgCost": "~£135/week",
+      "inCollege": true
+    },
+    "academicStrengths": [
+      "Natural Sciences",
+      "Social Sciences",
+      "Law",
+      "Humanities",
+      "Medicine"
+    ],
+    "notableAlumni": [
+      "Athene Donald (Physicist and former Master of Churchill)",
+      "Tessa Jowell (Politician and former Culture Secretary)"
+    ],
+    "keyFacts": [
+      "Founded 1965; renamed Wolfson College 1973 after Wolfson Foundation donation",
+      "One of three Cambridge mature colleges (undergraduates must be aged 21+)",
+      "Primarily postgraduate; ~15% of students are mature undergraduates",
+      "Highly international community with students from over 60 countries",
+      "Riverside campus in west Cambridge"
+    ],
+    "finances": {
+      "endowment": null,
+      "bursaries": "Cambridge Bursary Scheme plus Wolfson College awards",
+      "description": "Wolfson participates in the Cambridge Bursary scheme and provides targeted support for mature and international students."
+    },
+    "website": "https://www.wolfson.cam.ac.uk",
+    "sortOrder": 28
+  }
+}
