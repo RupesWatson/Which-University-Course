@@ -1,0 +1,525 @@
+{
+  "courtauld-institute-of-art": {
+    "slug": "courtauld-institute-of-art",
+    "name": "The Courtauld Institute of Art",
+    "city": "London",
+    "overview": "The Courtauld Institute of Art is the world's leading centre for the study of art history, housed in the magnificent Somerset House on the Strand in central London. Founded in 1932, it is a self-governing college of the University of London, combining a world-class research institute with an internationally renowned gallery. Its intimate scale, exceptional library, and unrivalled access to original artworks make it a uniquely immersive environment for the serious study of art and its histories.",
+    "founded": 1932,
+    "totalStudents": 500,
+    "internationalStudents": "40%",
+    "campusType": "City (single building)",
+    "accommodation": {
+      "firstYearGuarantee": false,
+      "description": "As a small specialist institution, the Courtauld does not operate its own halls of residence. Students are supported in finding private accommodation in central London and can access intercollegiate halls through the University of London.",
+      "avgWeeklyCost": "£200–£280",
+      "halls": ["University of London intercollegiate halls (via UoL)"],
+      "privateRentAreas": "Covent Garden, Waterloo, Southwark, Holborn, Elephant and Castle"
+    },
+    "openDays": [
+      { "date": "October 2026", "type": "Undergraduate Open Day (date TBC)" },
+      { "date": "June 2026", "type": "Postgraduate Information Event" }
+    ],
+    "application": {
+      "ucasCode": "W130",
+      "contextualOffers": false,
+      "interviewRequired": true,
+      "personalStatementTips": [
+        "Demonstrate deep engagement with the history and theory of art — visit galleries and write about specific works",
+        "Show breadth of reading across art historical periods and methodological approaches",
+        "Articulate why the Courtauld's unique combination of gallery, library, and research community appeals to you"
+      ],
+      "typicalTimeline": "Apply via UCAS by 29 January; shortlisted applicants invited to interview in person at Somerset House; offers made on interview performance"
+    },
+    "studentLife": {
+      "union": "Courtauld Students' Union",
+      "societiesCount": "20+",
+      "sportsTeams": "5+",
+      "highlights": [
+        "Unrivalled access to the Courtauld Gallery, home to masterpieces by Manet, Monet, Van Gogh, and Rubens",
+        "Regular study trips to museums and collections across Europe",
+        "Close-knit academic community with direct access to world-leading scholars and curators"
+      ]
+    },
+    "cityLife": {
+      "description": "The Courtauld sits at the heart of London's cultural quarter on the Strand, minutes from the National Gallery, Tate Modern, and the West End. Students benefit from extraordinary access to London's unparalleled concentration of museums, auction houses, galleries, and art institutions.",
+      "avgRentPerMonth": "£900–£1,400",
+      "costOfLiving": "High",
+      "transport": "Excellent — Temple and Charing Cross stations on the doorstep; central London location gives easy access to the entire tube and rail network",
+      "highlights": [
+        "Somerset House itself hosts world-class exhibitions, events, and a summer skate rink",
+        "Walking distance to the National Gallery, National Portrait Gallery, and Tate Modern",
+        "Direct proximity to Sotheby's, Christie's, and major commercial galleries in Mayfair"
+      ],
+      "nightlife": "The Strand and Covent Garden offer world-class theatre, restaurants, and bars; the South Bank and Soho are minutes away for a broader night out."
+    },
+    "notableAlumni": [
+      "Sir Nicholas Serota — former Director of Tate",
+      "Anish Kapoor — sculptor",
+      "Caro Howell — Director of the Foundling Museum"
+    ],
+    "keyFacts": [
+      "Ranked the world's leading art history institution by QS World University Rankings by Subject",
+      "The Courtauld Gallery houses one of the finest collections of Impressionist and Post-Impressionist paintings in the UK",
+      "Library of over 200,000 volumes and 500,000 photographs — the most comprehensive art history research library in the UK"
+    ]
+  },
+
+  "royal-academy-of-music": {
+    "slug": "royal-academy-of-music",
+    "name": "Royal Academy of Music",
+    "city": "London",
+    "overview": "The Royal Academy of Music is the UK's oldest conservatoire, founded in 1822 and a constituent college of the University of London. Located in Marylebone in the heart of London, it trains performers, composers, and conductors of the highest calibre and consistently produces musicians who go on to define the international stage. Students benefit from world-class tuition, outstanding performance facilities, and unrivalled professional connections.",
+    "founded": 1822,
+    "totalStudents": 900,
+    "internationalStudents": "55%",
+    "campusType": "City (single site)",
+    "accommodation": {
+      "firstYearGuarantee": false,
+      "description": "The Academy does not operate its own halls of residence but provides dedicated support to help students find suitable accommodation in London. University of London intercollegiate halls are available to apply for. Many students live in the Marylebone, Camden, and Islington areas.",
+      "avgWeeklyCost": "£200–£300",
+      "halls": ["University of London intercollegiate halls (via UoL)"],
+      "privateRentAreas": "Marylebone, Camden, Islington, Kentish Town, Finsbury Park"
+    },
+    "openDays": [
+      { "date": "October 2026", "type": "Undergraduate Open Day (date TBC)" },
+      { "date": "February 2026", "type": "Audition Preparation Day" }
+    ],
+    "application": {
+      "ucasCode": "K310",
+      "contextualOffers": false,
+      "interviewRequired": true,
+      "personalStatementTips": [
+        "Focus on your principal instrument or voice and the depth and breadth of your performance experience",
+        "Describe what distinguishes your musical voice — recordings, competitions, or significant performances",
+        "Show awareness of the professional landscape: conducting, chamber music, contemporary music, early music"
+      ],
+      "typicalTimeline": "Apply via UCAS by 15 October (music conservatoires); auditions held January–March; offers conditional on final audition grade; deferred entry rarely available"
+    },
+    "studentLife": {
+      "union": "Royal Academy of Music Students' Union",
+      "societiesCount": "25+",
+      "sportsTeams": "5+",
+      "highlights": [
+        "Over 500 public concerts and performances staged each year in the Duke's Hall and Angela Burgess Recital Hall",
+        "Regular masterclasses from internationally recognised soloists and conductors",
+        "Strong chamber music and contemporary ensemble culture with regular collaboration with professional orchestras"
+      ]
+    },
+    "cityLife": {
+      "description": "Located in Marylebone, the Academy is within walking distance of Wigmore Hall, the Barbican, and the South Bank — London's world-class concert venues. Students have unparalleled access to professional orchestras, opera companies, and the wider London music industry.",
+      "avgRentPerMonth": "£950–£1,500",
+      "costOfLiving": "High",
+      "transport": "Baker Street and Regent's Park tube stations are adjacent; excellent bus connections and close proximity to Marylebone mainline station",
+      "highlights": [
+        "Adjacent to Regent's Park for outdoor breaks between practice sessions",
+        "Wigmore Hall — one of the world's great chamber music venues — is a five-minute walk",
+        "Rich professional network: the BBC Symphony, Philharmonia, and London Symphony Orchestras are local"
+      ],
+      "nightlife": "Marylebone village offers excellent restaurants and bars; Soho and the West End are minutes away for broader cultural and social events."
+    },
+    "notableAlumni": [
+      "Sir Elton John — singer-songwriter",
+      "Annie Lennox — singer and activist",
+      "Simon Rattle — conductor, former Chief Conductor of the Berlin Philharmonic"
+    ],
+    "keyFacts": [
+      "Consistently ranked among the top five music conservatoires in the world by QS",
+      "Over 500 live performances per academic year open to the public",
+      "Graduates hold principal positions in virtually every major UK and European orchestra"
+    ]
+  },
+
+  "university-of-east-anglia": {
+    "slug": "university-of-east-anglia",
+    "name": "University of East Anglia",
+    "city": "Norwich",
+    "overview": "The University of East Anglia (UEA) is a research-intensive plate-glass university based on a striking campus just outside Norwich city centre. Founded in 1963, it is internationally celebrated for its Creative Writing programme — arguably the most famous in the UK — and houses the landmark Sainsbury Centre for Visual Arts. UEA consistently performs strongly in student satisfaction rankings and offers a distinctive blend of excellent teaching, pioneering research, and a tight-knit campus community.",
+    "founded": 1963,
+    "totalStudents": 15000,
+    "internationalStudents": "26%",
+    "campusType": "Campus",
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "UEA guarantees on-campus accommodation to all first-year undergraduates who firm the university and apply by the deadline. Halls are located on or adjacent to the campus and range from classic village-style terraces to modern en-suite blocks.",
+      "avgWeeklyCost": "£120–£175",
+      "halls": ["Suffolk Terrace", "Norfolk Terrace", "Constable Terrace", "Ziggurats"],
+      "privateRentAreas": "Golden Triangle, Earlham, Chapelfield, City Centre"
+    },
+    "openDays": [
+      { "date": "21 June 2026", "type": "Undergraduate Open Day" },
+      { "date": "26 September 2026", "type": "Undergraduate Open Day" },
+      { "date": "17 October 2026", "type": "Undergraduate Open Day" }
+    ],
+    "application": {
+      "ucasCode": "E14",
+      "contextualOffers": true,
+      "interviewRequired": false,
+      "personalStatementTips": [
+        "For Creative Writing, submit a writing portfolio (prose, poetry, or drama) and explain the writers who have most shaped your own voice",
+        "For Literature, demonstrate wide and independent reading beyond the A-level curriculum",
+        "Show genuine engagement with UEA's literary heritage — the MA, the LRB Winter Lectures, and its published alumni"
+      ],
+      "typicalTimeline": "Apply via UCAS by 29 January; most decisions made by April; firm and insurance choice deadline in May; Clearing opens August"
+    },
+    "studentLife": {
+      "union": "Union of UEA Students (UUEAS)",
+      "societiesCount": "200+",
+      "sportsTeams": "50+",
+      "highlights": [
+        "The UEA Literary Festival brings world-famous authors, poets, and playwrights to campus each year",
+        "The LCR (Lower Common Room) is one of the UK's most celebrated student music venues",
+        "Active creative writing, poetry, drama, and literary journalism societies"
+      ]
+    },
+    "cityLife": {
+      "description": "Norwich is one of England's most characterful and walkable cities — a medieval cathedral city with a thriving arts scene, independent food and drink culture, and low costs relative to the UK average. The campus is served by a dedicated bus route and is only 15 minutes from the city centre.",
+      "avgRentPerMonth": "£550–£750",
+      "costOfLiving": "Low to moderate",
+      "transport": "Regular direct buses from campus to Norwich city centre; Norwich railway station serves London Liverpool Street in approximately 1 hour 50 minutes",
+      "highlights": [
+        "Norwich Cathedral and the Norman Castle Museum are landmarks of the medieval city",
+        "Vibrant independent restaurant and café scene in the Lanes and on Magdalen Street",
+        "Sainsbury Centre for Visual Arts on campus houses a world-class collection including works by Giacometti, Picasso, and Moore"
+      ],
+      "nightlife": "Norwich offers a lively, affordable student nightlife scene centred on Prince of Wales Road, the Lanes, and the Norwich Arts Centre."
+    },
+    "notableAlumni": [
+      "Ian McEwan — novelist, Booker Prize winner",
+      "Kazuo Ishiguro — Nobel Prize laureate in Literature",
+      "Rose Tremain — novelist and former UEA Chancellor"
+    ],
+    "keyFacts": [
+      "Home to the UK's most famous Creative Writing programme, which has produced more published novelists than any other",
+      "The Sainsbury Centre for Visual Arts is one of the UK's leading public galleries and the first building designed by Norman Foster",
+      "Consistently ranked top 25 in the Guardian University Guide for Arts and Humanities subjects"
+    ]
+  },
+
+  "university-of-hull": {
+    "slug": "university-of-hull",
+    "name": "University of Hull",
+    "city": "Hull",
+    "overview": "The University of Hull is a civic university established in 1927 on a compact, leafy campus in the west of Hull. It has a strong tradition in the humanities and social sciences, and has been reinvigorated in recent years with major investment in facilities and a focus on social justice and employability. The university played a central role in Hull's 2017 UK City of Culture year, deepening its already close ties with the city's arts and cultural community.",
+    "founded": 1927,
+    "totalStudents": 15000,
+    "internationalStudents": "18%",
+    "campusType": "Campus",
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "Hull guarantees university accommodation to all first-year UK undergraduates who firm the university. There is a variety of catered and self-catered halls on and adjacent to campus, with some of the most affordable university accommodation in England.",
+      "avgWeeklyCost": "£90–£145",
+      "halls": ["Thwaite Hall", "Grant Court", "Lawns Centre"],
+      "privateRentAreas": "Newland Avenue, Princes Avenue, Cottingham, Beverley Road"
+    },
+    "openDays": [
+      { "date": "27 June 2026", "type": "Undergraduate Open Day" },
+      { "date": "10 October 2026", "type": "Undergraduate Open Day" }
+    ],
+    "application": {
+      "ucasCode": "H72",
+      "contextualOffers": true,
+      "interviewRequired": false,
+      "personalStatementTips": [
+        "Highlight any engagement with Hull's cultural heritage — Philip Larkin, the Maritime Museum, Hull Truck Theatre",
+        "For History or English, demonstrate independent reading and analysis beyond the A-level set texts",
+        "Show awareness of the university's strengths in social justice, sustainability, and public humanities"
+      ],
+      "typicalTimeline": "Apply via UCAS by 29 January; rolling offers typically made from February; Clearing places available in August"
+    },
+    "studentLife": {
+      "union": "Hull University Union",
+      "societiesCount": "100+",
+      "sportsTeams": "40+",
+      "highlights": [
+        "Hull is the home city of Philip Larkin — the university holds his archive and runs the annual Larkin with Toads arts festival",
+        "Strong links with Hull Truck Theatre and the Humber Street Gallery",
+        "Compact campus fosters a particularly close-knit and inclusive student community"
+      ]
+    },
+    "cityLife": {
+      "description": "Hull is a city with a rich maritime heritage, a rapidly developing waterfront, and one of the most affordable costs of living for students in the UK. Following its transformation as UK City of Culture 2017, it boasts an increasingly vibrant arts and food scene.",
+      "avgRentPerMonth": "£400–£600",
+      "costOfLiving": "Low",
+      "transport": "Local buses and cycling infrastructure are the primary means of getting around; Hull Paragon Interchange connects to Leeds in under an hour and to London King's Cross in approximately 2.5 hours",
+      "highlights": [
+        "The Deep — one of the UK's most spectacular aquariums — is a short cycle from campus",
+        "Humber Street Gallery showcases contemporary visual art in the regenerated Fruit Market district",
+        "Hull Old Town and the historic waterfront area offer an atmospheric backdrop for leisure and culture"
+      ],
+      "nightlife": "Hull has an affordable and lively student nightlife scene centred on Princes Avenue and the Old Town, with a growing number of independent bars and music venues."
+    },
+    "notableAlumni": [
+      "Philip Larkin — poet (worked at Hull as University Librarian)",
+      "John Prescott — former Deputy Prime Minister",
+      "Maureen Lipman — actress"
+    ],
+    "keyFacts": [
+      "Home to the Philip Larkin Archive and the Philip Larkin Society — a major centre for twentieth-century literary scholarship",
+      "Among the most affordable UK universities for student living costs, consistently cited in money guides",
+      "Played a leading role in Hull's 2017 UK City of Culture programme, embedding arts in the curriculum"
+    ]
+  },
+
+  "university-of-york": {
+    "slug": "university-of-york",
+    "name": "University of York",
+    "city": "York",
+    "overview": "The University of York is a research-intensive Russell Group university founded in 1963 on the Heslington campus outside the historic city of York. It is renowned for its strengths in the arts and humanities — particularly History, English, Philosophy, and Theatre, Film and Television — and for its beautiful campus centred on an artificial lake. York consistently ranks among the top UK universities for student satisfaction and research quality.",
+    "founded": 1963,
+    "totalStudents": 21000,
+    "internationalStudents": "24%",
+    "campusType": "Campus",
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "York guarantees accommodation to all first-year students who hold the university as their firm choice and apply by the deadline. Halls are arranged in colleges across the Heslington East and West campuses, each with its own bar, common room, and social calendar.",
+      "avgWeeklyCost": "£125–£185",
+      "halls": ["Derwent College", "Langwith College", "Alcuin College", "James College"],
+      "privateRentAreas": "Heslington, Fulford, Tang Hall, Fishergate"
+    },
+    "openDays": [
+      { "date": "20 June 2026", "type": "Undergraduate Open Day" },
+      { "date": "19 September 2026", "type": "Undergraduate Open Day" },
+      { "date": "17 October 2026", "type": "Undergraduate Open Day" }
+    ],
+    "application": {
+      "ucasCode": "Y50",
+      "contextualOffers": true,
+      "interviewRequired": false,
+      "personalStatementTips": [
+        "For History, demonstrate wide independent reading and an ability to construct analytical arguments beyond the A-level curriculum",
+        "For English or Philosophy, show close engagement with primary texts and awareness of different critical traditions",
+        "Highlight any relevant co-curricular activities — theatre, journalism, creative writing, debating — that demonstrate intellectual curiosity"
+      ],
+      "typicalTimeline": "Apply via UCAS by 29 January; offers typically made January–March; firm and insurance deadlines in May; Clearing opens August"
+    },
+    "studentLife": {
+      "union": "University of York Students' Union (YUSU)",
+      "societiesCount": "300+",
+      "sportsTeams": "60+",
+      "highlights": [
+        "York's collegiate system creates a strong sense of community — each college hosts its own sports teams, events, and traditions",
+        "The Drama Barn and Central Hall provide exceptional student theatre opportunities",
+        "York Vision (student newspaper) and YSTV (student television) are nationally recognised outlets"
+      ]
+    },
+    "cityLife": {
+      "description": "York is one of England's most beautiful and historically rich cities — a compact, walkable medieval city with Viking and Roman heritage, independent boutiques, and a thriving food and drink scene. Students enjoy easy access to the city's cultural riches at affordable living costs.",
+      "avgRentPerMonth": "£550–£750",
+      "costOfLiving": "Moderate",
+      "transport": "Frequent buses between campus and city centre; York railway station is a major hub with direct services to London King's Cross in 1 hour 50 minutes, Leeds in 25 minutes, and Edinburgh in 2.5 hours",
+      "highlights": [
+        "York Minster — one of Europe's greatest Gothic cathedrals — is in the heart of the city",
+        "The National Railway Museum and the Yorkshire Museum are world-class institutions",
+        "Shambles and the city walls offer one of England's most distinctive urban environments"
+      ],
+      "nightlife": "York has a vibrant and student-friendly nightlife scene centred on Micklegate, the city centre, and Goodramgate — with a mix of historic pubs, clubs, and live music venues."
+    },
+    "notableAlumni": [
+      "Charlie Brooker — writer and creator of Black Mirror",
+      "Mary Beard — classicist and broadcaster",
+      "Tim Gardam — former principal of St Anne's College, Oxford, and television executive"
+    ],
+    "keyFacts": [
+      "Russell Group member consistently ranked top 15 in the UK for Arts and Humanities subjects",
+      "Over 80% of York's research rated 'world-leading' or 'internationally excellent' in REF 2021",
+      "The Centre for Medieval Studies and the Borthwick Institute are internationally recognised research centres"
+    ]
+  },
+
+  "university-of-st-andrews": {
+    "slug": "university-of-st-andrews",
+    "name": "University of St Andrews",
+    "city": "St Andrews",
+    "overview": "The University of St Andrews is Scotland's oldest university, founded in 1413, and consistently ranks first or second in UK national league tables. Situated in the picturesque coastal town of St Andrews in Fife, it combines medieval collegiate atmosphere with world-class research and extraordinary student satisfaction. Its faculties of Arts and Divinity are among the strongest in the UK, and the university attracts a highly international and academically driven student body.",
+    "founded": 1413,
+    "totalStudents": 10000,
+    "internationalStudents": "45%",
+    "campusType": "Town campus",
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "St Andrews guarantees all first-year undergraduate students a place in university accommodation. Halls are distributed across the historic town and include traditional stone residences and modern self-catered flats.",
+      "avgWeeklyCost": "£130–£195",
+      "halls": ["University Hall", "McIntosh Hall", "Agnes Blackadder Hall", "Andrew Melville Hall"],
+      "privateRentAreas": "South Street, North Street, Argyle Street, Largo Road"
+    },
+    "openDays": [
+      { "date": "14 June 2026", "type": "Undergraduate Open Day" },
+      { "date": "26 September 2026", "type": "Undergraduate Open Day" }
+    ],
+    "application": {
+      "ucasCode": "S36",
+      "contextualOffers": false,
+      "interviewRequired": false,
+      "personalStatementTips": [
+        "Demonstrate breadth of intellectual curiosity — St Andrews's flexible MA degree allows students to combine subjects across faculties",
+        "Highlight independent reading, academic prizes, or research experience that shows genuine scholarly engagement",
+        "Show awareness of the distinctive St Andrews experience — the Pier Walk, academic gowns, and close academic-student relationships"
+      ],
+      "typicalTimeline": "Apply via UCAS by 29 January (15 October for Oxford/Cambridge applicants only); offers made from January; firm deadline May; Scottish Clearing in August"
+    },
+    "studentLife": {
+      "union": "Students' Association of the University of St Andrews",
+      "societiesCount": "170+",
+      "sportsTeams": "45+",
+      "highlights": [
+        "The famous Kate Kennedy Club and Raisin Weekend uphold centuries-old traditions unique to St Andrews",
+        "Active debating, philosophy, and literary societies with a strong tradition of public speaking",
+        "Close proximity to the Old Course and student golf culture — golf was invented in St Andrews"
+      ]
+    },
+    "cityLife": {
+      "description": "St Andrews is a small, safe, and extraordinarily beautiful town on the east coast of Scotland, famous for golf, the ruins of its ancient cathedral, and one of the UK's most distinctive student cultures. Life is lived largely within a compact medieval streetscape with a strong sense of shared community.",
+      "avgRentPerMonth": "£600–£850",
+      "costOfLiving": "Moderate to high (for a small town)",
+      "transport": "No direct railway to St Andrews — the nearest station is Leuchars (5 miles), with regular bus connections; direct trains to Edinburgh take under 1 hour from Leuchars",
+      "highlights": [
+        "The West Sands beach, immortalised in Chariots of Fire, is minutes from the university",
+        "The Old Course at St Andrews is the home of golf and open to visitors and students",
+        "Dundee and Edinburgh are both within easy reach for weekend trips"
+      ],
+      "nightlife": "St Andrews is a small town and its nightlife reflects that — centred on a handful of bars and the Vic (student bar) — but the social scene is exceptionally rich through university societies and events."
+    },
+    "notableAlumni": [
+      "Prince William — King Charles III's eldest son studied Art History here",
+      "John Cleese — comedian and actor",
+      "Chris Hoy — six-time Olympic gold-medallist cyclist"
+    ],
+    "keyFacts": [
+      "Ranked 1st in the UK in The Guardian and The Times/Sunday Times University Guides multiple years running",
+      "Scotland's oldest university, founded in 1413, with a distinctive four-year MA degree structure",
+      "Among the highest student satisfaction scores in the UK, consistently above 90% overall"
+    ]
+  },
+
+  "lancaster-university": {
+    "slug": "lancaster-university",
+    "name": "Lancaster University",
+    "city": "Lancaster",
+    "overview": "Lancaster University is a research-intensive collegiate university founded in 1964 on a self-contained campus four miles south of Lancaster city. A consistent top-ten performer in UK league tables, Lancaster combines strong academic excellence with a lively campus community built around its unique collegiate system. It is particularly highly regarded for English Literature, History, Philosophy, and the creative arts.",
+    "founded": 1964,
+    "totalStudents": 14000,
+    "internationalStudents": "28%",
+    "campusType": "Campus",
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "Lancaster guarantees accommodation to all first-year students who firm the university and apply by the deadline. Students are allocated to one of the eight undergraduate colleges on campus, each with its own bar, common room, and sports and social programme.",
+      "avgWeeklyCost": "£110–£165",
+      "halls": ["Bowland College", "Furness College", "Grizedale College", "Pendle College"],
+      "privateRentAreas": "Scotforth, Bowerham, Greaves, Lancaster city centre"
+    },
+    "openDays": [
+      { "date": "20 June 2026", "type": "Undergraduate Open Day" },
+      { "date": "26 September 2026", "type": "Undergraduate Open Day" },
+      { "date": "17 October 2026", "type": "Undergraduate Open Day" }
+    ],
+    "application": {
+      "ucasCode": "L14",
+      "contextualOffers": true,
+      "interviewRequired": false,
+      "personalStatementTips": [
+        "For English and Creative Writing, show the depth and breadth of your reading and explain what draws you to the critical study of literature",
+        "For History or Philosophy, demonstrate your capacity for independent argument through examples from your studies and wider reading",
+        "Mention Lancaster-specific strengths — the Institute for Contemporary Arts, the Ruskin Library, or specific research centres"
+      ],
+      "typicalTimeline": "Apply via UCAS by 29 January; offers made on a rolling basis from January; firm/insurance choice deadline May; Clearing opens August"
+    },
+    "studentLife": {
+      "union": "Lancaster University Students' Union (LUSU)",
+      "societiesCount": "150+",
+      "sportsTeams": "45+",
+      "highlights": [
+        "The collegiate system means students have a strong social base within their college as well as their department",
+        "The Peter Scott Gallery hosts regular contemporary art exhibitions",
+        "The Nuffield Theatre and Lancaster arts venues provide strong co-curricular performance opportunities"
+      ]
+    },
+    "cityLife": {
+      "description": "Lancaster is a compact historic city with a castle, Roman heritage, and an independent arts scene. The university's campus is self-contained with its own shops, cafes, bar, and sports facilities, making it ideal for students who want a focused campus experience. The Lake District is 30 minutes away.",
+      "avgRentPerMonth": "£500–£700",
+      "costOfLiving": "Low to moderate",
+      "transport": "Regular bus services between campus and Lancaster city centre; Lancaster railway station is 10 minutes by bus and offers direct services to Manchester (1 hour), Leeds (1.5 hours), and London Euston (2.5 hours)",
+      "highlights": [
+        "Lancaster Castle — a working court and historic prison — sits at the heart of the city",
+        "The Lake District National Park is 30 minutes away, offering world-class walking and outdoor recreation",
+        "Morecambe Bay is a short bus ride away and offers spectacular views and seafood"
+      ],
+      "nightlife": "Lancaster has a friendly student nightlife centred on the city's historic pubs, Dalton Square bars, and The Sugarhouse student nightclub."
+    },
+    "notableAlumni": [
+      "Robert Carr, Baron Carr of Hadley — Home Secretary under Edward Heath",
+      "Tim Farron — former leader of the Liberal Democrats",
+      "Carey Mulligan — actress (attended briefly)"
+    ],
+    "keyFacts": [
+      "Consistently ranked in the UK top 10 in The Guardian and The Times University Guides",
+      "The Ruskin Library holds the world's most important collection of John Ruskin's manuscripts, letters, and artworks",
+      "Lancaster's collegiate system creates outstanding student satisfaction — among the top five in the UK"
+    ]
+  },
+
+  "university-of-exeter": {
+    "slug": "university-of-exeter",
+    "name": "University of Exeter",
+    "city": "Exeter",
+    "overview": "The University of Exeter is a Russell Group research university founded in 1955, with a beautiful main campus on a hill overlooking the historic cathedral city of Exeter in Devon. Exeter is consistently ranked among the UK's top twelve universities and is particularly renowned for its humanities and social sciences, as well as its strong student satisfaction and exceptional employability record. A second campus at Penryn in Cornwall serves science and arts programmes in a stunning coastal setting.",
+    "founded": 1955,
+    "totalStudents": 28000,
+    "internationalStudents": "25%",
+    "campusType": "Hillside campus (+ Penryn campus in Cornwall)",
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "Exeter guarantees accommodation to all first-year undergraduates who firm the university and apply by the deadline. Halls are spread across the Streatham campus and the nearby St Luke's campus, with a range of catered and self-catered options.",
+      "avgWeeklyCost": "£130–£200",
+      "halls": ["Birks Grange Village", "Holland Hall", "Lafrowda", "St Germain's"],
+      "privateRentAreas": "St James, Pennsylvania, Heavitree, Newtown"
+    },
+    "openDays": [
+      { "date": "21 June 2026", "type": "Undergraduate Open Day" },
+      { "date": "26 September 2026", "type": "Undergraduate Open Day" },
+      { "date": "17 October 2026", "type": "Undergraduate Open Day" }
+    ],
+    "application": {
+      "ucasCode": "E56",
+      "contextualOffers": true,
+      "interviewRequired": false,
+      "personalStatementTips": [
+        "For History, English, or Classics, demonstrate wide independent reading and a strong analytical argument in your statement",
+        "Highlight any relevant work experience in heritage, publishing, journalism, or public engagement with the humanities",
+        "Show awareness of Exeter's particular research strengths — medieval studies, Gothic fiction, the Digital Humanities"
+      ],
+      "typicalTimeline": "Apply via UCAS by 29 January; offers made on a rolling basis from January onwards; May firm/insurance deadline; Clearing opens August"
+    },
+    "studentLife": {
+      "union": "Exeter Students' Guild",
+      "societiesCount": "350+",
+      "sportsTeams": "65+",
+      "highlights": [
+        "Exeter is known for an active and well-resourced sports culture — one of the top universities for sport in the UK",
+        "The Forum student hub is an award-winning social and learning space at the heart of the Streatham campus",
+        "Strong drama, debating, and journalism societies with close links to regional arts organisations"
+      ]
+    },
+    "cityLife": {
+      "description": "Exeter is a thriving cathedral city with a well-preserved medieval core, excellent independent shops and restaurants, and easy access to Dartmoor and the South Devon coast. It consistently ranks highly in quality-of-life surveys and offers students a sophisticated but affordable urban environment.",
+      "avgRentPerMonth": "£600–£850",
+      "costOfLiving": "Moderate",
+      "transport": "Regular buses between campus and city centre; Exeter St David's station offers direct trains to London Paddington in under 2 hours and to Bristol in 1 hour",
+      "highlights": [
+        "Exeter Cathedral and the Royal Albert Memorial Museum are outstanding cultural institutions",
+        "Dartmoor National Park is 20 minutes by bus — exceptional for walking and outdoor pursuits",
+        "The Quayside is a vibrant leisure destination with independent cafes, restaurants, and bars"
+      ],
+      "nightlife": "Exeter has a lively and varied nightlife — from historic pubs in the cathedral quarter to clubs and live music venues on Fore Street and in the city centre."
+    },
+    "notableAlumni": [
+      "J.K. Rowling — author of the Harry Potter series",
+      "Robert Bolt — playwright and screenwriter",
+      "Angela Carter — novelist (honorary graduate)"
+    ],
+    "keyFacts": [
+      "Russell Group member consistently ranked in the UK top 12; top 10 for student satisfaction in multiple surveys",
+      "Exeter's humanities faculty includes the internationally recognised Exeter Centre for the Study of Esotericism (EXESESO) and the Centre for Medical History",
+      "Over 87% of Exeter graduates are in employment or further study within 15 months of graduation"
+    ]
+  }
+}
