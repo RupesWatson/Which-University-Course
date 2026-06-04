@@ -1,0 +1,461 @@
+{
+  "london-school-of-economics-and-political-science": {
+    "slug": "london-school-of-economics-and-political-science",
+    "name": "London School of Economics and Political Science",
+    "city": "London",
+    "overview": "The London School of Economics and Political Science (LSE) is the world's leading specialist social science university, ranked #2 globally for social sciences and management by QS. Founded in 1895 and located in the heart of London between Aldwych and Holborn, LSE is a constituent college of the University of London and a member of the Russell Group. Its unique concentration on the social sciences — economics, politics, sociology, law, anthropology, geography, and more — makes it the definitive destination for students who want to understand and shape the modern world.",
+    "founded": 1895,
+    "totalStudents": 12000,
+    "internationalStudents": "70%",
+    "campusType": "City (central London)",
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "LSE guarantees accommodation to all first-year undergraduate students who hold LSE as their firm choice and apply by the deadline. A range of LSE-managed and intercollegiate halls is available within walking distance or a short tube ride of the main campus in Holborn.",
+      "avgWeeklyCost": "£195–£310",
+      "halls": ["Bankside House", "Carr-Saunders Hall", "Rosebery Hall", "Passfield Hall"],
+      "privateRentAreas": "Elephant and Castle, Bermondsey, Holborn, Bloomsbury, Waterloo"
+    },
+    "openDays": [
+      { "date": "October 2026", "type": "Undergraduate Open Day (date TBC)" },
+      { "date": "June 2026", "type": "Undergraduate Information Day" }
+    ],
+    "application": {
+      "ucasCode": "L72",
+      "contextualOffers": false,
+      "interviewRequired": false,
+      "personalStatementTips": [
+        "Demonstrate genuine intellectual engagement with the social sciences — read LSE academic blogs, working papers, and policy reports",
+        "Show rigorous analytical thinking: LSE values precision, evidence-based argument, and awareness of competing theoretical frameworks",
+        "Explain what specifically draws you to LSE's unique social science environment over a more generalist university"
+      ],
+      "typicalTimeline": "Apply via UCAS by 29 January; LSE sets its own assessment exercises for some programmes; offers typically made February–April; firm/insurance deadline May"
+    },
+    "studentLife": {
+      "union": "LSE Students' Union",
+      "societiesCount": "200+",
+      "sportsTeams": "40+",
+      "highlights": [
+        "LSE SU is one of the UK's most politically active student unions — home to over 20 political societies representing every shade of opinion",
+        "The annual LSE Festival opens the university's research to the public on a major theme each year",
+        "Strong investment, economics, law, and international relations societies with direct links to top graduate employers"
+      ]
+    },
+    "cityLife": {
+      "description": "LSE occupies a dense urban campus between the Strand, Kingsway, and Aldwych in central London — one of the most intellectually stimulating addresses in the world. Students are steps from the Royal Courts of Justice, the Inns of Court, the LSE's own public lecture programme, and the full cultural life of the capital.",
+      "avgRentPerMonth": "£950–£1,500",
+      "costOfLiving": "High",
+      "transport": "Holborn tube station is adjacent; Temple and Charing Cross are within walking distance; the entire London transport network is on the doorstep",
+      "highlights": [
+        "The Strand and Covent Garden are neighbouring — world-class theatre, restaurants, and culture at every turn",
+        "The City and Canary Wharf financial districts are 20–40 minutes away, home to LSE's extensive graduate employer network",
+        "Somerset House and the National Gallery are minutes away for cultural relief between seminars"
+      ],
+      "nightlife": "Central London offers infinite options — Soho, Clerkenwell, and the South Bank are all nearby; LSE's bar and events programme is lively despite the compact campus."
+    },
+    "notableAlumni": [
+      "George Soros — investor and philanthropist",
+      "Mick Jagger — musician (briefly attended)",
+      "John F. Kennedy — 35th US President (briefly attended)"
+    ],
+    "keyFacts": [
+      "Ranked #2 in the world for Social Sciences and Management by QS World University Rankings",
+      "18 current or former heads of government and state among LSE's alumni and former students",
+      "Russell Group member; among the highest graduate salary premium of any UK university"
+    ]
+  },
+
+  "queen-mary-university-of-london": {
+    "slug": "queen-mary-university-of-london",
+    "name": "Queen Mary University of London",
+    "city": "London",
+    "overview": "Queen Mary University of London (QMUL) is a Russell Group research university and a constituent college of the University of London, based at a vibrant campus in Mile End, east London. With roots dating to 1887 through the merger of several east London colleges, it has grown into a major research-intensive institution of around 32,000 students. Queen Mary is particularly distinguished in law, economics, politics, and the social sciences, and offers students an authentically diverse, cosmopolitan, and academically rigorous London university experience.",
+    "founded": 1887,
+    "totalStudents": 32000,
+    "internationalStudents": "43%",
+    "campusType": "Campus (Mile End, east London)",
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "Queen Mary guarantees accommodation to all first-year undergraduates who hold QMUL as their firm choice and apply before the deadline. Most first-year students live in the modern halls on or adjacent to the Mile End campus in east London.",
+      "avgWeeklyCost": "£165–£250",
+      "halls": ["Arbour House", "Feilden House", "Pooley House", "iQ East Village"],
+      "privateRentAreas": "Bethnal Green, Bow, Stepney Green, Whitechapel, Hackney"
+    },
+    "openDays": [
+      { "date": "20 June 2026", "type": "Undergraduate Open Day" },
+      { "date": "10 October 2026", "type": "Undergraduate Open Day" },
+      { "date": "7 November 2026", "type": "Undergraduate Open Day" }
+    ],
+    "application": {
+      "ucasCode": "Q50",
+      "contextualOffers": true,
+      "interviewRequired": false,
+      "personalStatementTips": [
+        "For Politics or Sociology, demonstrate engagement with current affairs and an ability to analyse social phenomena with evidence",
+        "For Economics, show strong mathematical aptitude and an awareness of both theoretical and applied economics",
+        "Highlight why QMUL's east London location — its diversity and its connections to policy, public services, and law — appeals to you"
+      ],
+      "typicalTimeline": "Apply via UCAS by 29 January; offers typically made February–April; May firm/insurance deadline; Clearing places available in August"
+    },
+    "studentLife": {
+      "union": "Queen Mary Students' Union",
+      "societiesCount": "250+",
+      "sportsTeams": "55+",
+      "highlights": [
+        "One of the most ethnically and internationally diverse student communities of any UK university",
+        "Strong law, economics, politics, and finance societies with links to the City and legal profession",
+        "The Dramaсоc drama society and QMTV media society provide strong creative co-curricular opportunities"
+      ]
+    },
+    "cityLife": {
+      "description": "Queen Mary's Mile End campus sits at the meeting point of east London's creative and multicultural communities — Hackney, Bethnal Green, Whitechapel, and Shoreditch are all within cycling distance. The campus itself has a genuine campus feel — unusual for a central London university — with green space, bars, and accommodation all on site.",
+      "avgRentPerMonth": "£800–£1,200",
+      "costOfLiving": "Moderate to high (cheaper than central London)",
+      "transport": "Mile End underground station (District and Hammersmith & City lines) is at the campus gates; Stratford International is 15 minutes by tube for High Speed 1 connections",
+      "highlights": [
+        "Shoreditch, Brick Lane, and Columbia Road Flower Market are on the doorstep — some of London's most creative neighbourhoods",
+        "The 2012 Olympic Park at Stratford is a short tube ride away and offers world-class sporting and cultural venues",
+        "The City of London financial district is 20 minutes away by tube"
+      ],
+      "nightlife": "East London has one of the UK's most celebrated and diverse nightlife scenes — from Fabric and Corsica Studios to Netil 360 and Broadway Market, all within easy reach of campus."
+    },
+    "notableAlumni": [
+      "Sir Salman Rushdie — novelist (honorary graduate)",
+      "Helena Bonham Carter — actress (honorary graduate)",
+      "Peter Kosminsky — BAFTA-winning television director"
+    ],
+    "keyFacts": [
+      "Russell Group member ranked in the global top 130 by QS; particularly strong in Law (top 10 UK), Economics, and Politics",
+      "One of the most diverse universities in the UK — students from over 160 countries",
+      "QMUL's School of Law is among the largest and most highly regarded in the UK"
+    ]
+  },
+
+  "university-of-sussex": {
+    "slug": "university-of-sussex",
+    "name": "University of Sussex",
+    "city": "Brighton",
+    "overview": "The University of Sussex is a research-intensive plate-glass university founded in 1961 on a campus in Falmer, on the edge of the South Downs and just three miles from Brighton city centre. Sussex has long been one of the UK's most intellectually adventurous universities, with a pioneering role in interdisciplinary social sciences, development studies, and gender studies. The Institute of Development Studies (IDS), co-located on campus, is globally recognised as one of the world's leading research centres for international development and social justice.",
+    "founded": 1961,
+    "totalStudents": 19000,
+    "internationalStudents": "33%",
+    "campusType": "Campus (Falmer, near Brighton)",
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "Sussex guarantees on-campus accommodation to all first-year undergraduates who firm the university and apply by the deadline. A wide range of self-catered halls is available on campus, from traditional blocks to modern en-suite studios.",
+      "avgWeeklyCost": "£125–£195",
+      "halls": ["Park Village", "East Slope", "Lewes Court", "Brighthelm"],
+      "privateRentAreas": "Moulsecoomb, Lewes Road, Bevendean, Hanover (Brighton)"
+    },
+    "openDays": [
+      { "date": "20 June 2026", "type": "Undergraduate Open Day" },
+      { "date": "19 September 2026", "type": "Undergraduate Open Day" },
+      { "date": "17 October 2026", "type": "Undergraduate Open Day" }
+    ],
+    "application": {
+      "ucasCode": "S75",
+      "contextualOffers": true,
+      "interviewRequired": false,
+      "personalStatementTips": [
+        "For International Development or Sociology, demonstrate awareness of global inequality, development debates, and the social sciences' contribution to policy",
+        "For Politics, show engagement with current affairs and the ability to analyse competing political ideas rigorously",
+        "Highlight Sussex's pioneering role in interdisciplinary study — explain how your interests cross boundaries"
+      ],
+      "typicalTimeline": "Apply via UCAS by 29 January; offers made on a rolling basis from January; May firm/insurance deadline; Clearing places available in August"
+    },
+    "studentLife": {
+      "union": "University of Sussex Students' Union (USSU)",
+      "societiesCount": "150+",
+      "sportsTeams": "40+",
+      "highlights": [
+        "Sussex has a historic tradition of student activism and social justice engagement — home to Amnesty International's first UK university group",
+        "The Gardner Arts Centre hosts theatre, music, and visual arts events on campus",
+        "Close links with Brighton's thriving arts, music, and tech scene through student societies and placements"
+      ]
+    },
+    "cityLife": {
+      "description": "Sussex benefits from an outstanding location between the South Downs National Park and the vibrant, progressive city of Brighton — one of the UK's most creative and inclusive cities. Brighton offers a world-class arts and music scene, a celebrated food culture, and a famously diverse and welcoming community.",
+      "avgRentPerMonth": "£700–£1,000",
+      "costOfLiving": "Moderate",
+      "transport": "Falmer railway station is on campus with direct trains to Brighton (8 minutes) and London Victoria (under 1 hour); buses also run frequently to Brighton city centre",
+      "highlights": [
+        "Brighton's North Laine is one of England's most vibrant independent shopping and arts districts",
+        "The South Downs National Park is adjacent to campus — exceptional walking and cycling country",
+        "Brighton's beaches, the Royal Pavilion, and the Brighton Festival make the city one of the UK's most culturally rich"
+      ],
+      "nightlife": "Brighton has one of the UK's most celebrated nightlife scenes — from clubs on West Street to jazz bars in the Lanes and live music at the Concorde 2 — and is renowned for its LGBTQ+ inclusive culture."
+    },
+    "notableAlumni": [
+      "Ian Hislop — editor of Private Eye and Have I Got News For You panellist",
+      "Zoe Ball — broadcaster",
+      "Miranda Hart — comedian and actress"
+    ],
+    "keyFacts": [
+      "Home to the Institute of Development Studies (IDS) — ranked among the top three development research institutes in the world",
+      "Pioneer of interdisciplinary social sciences in the UK, founding departments in Gender Studies and Science and Technology Studies",
+      "Ranked in the top 25 UK universities for Social Sciences in multiple national and international tables"
+    ]
+  },
+
+  "university-of-kent": {
+    "slug": "university-of-kent",
+    "name": "University of Kent",
+    "city": "Canterbury",
+    "overview": "The University of Kent is a research university founded in 1965 on a hillside campus overlooking the cathedral city of Canterbury. Known as the 'UK's European university', Kent has a strong international outlook, extensive study-abroad provision, and a dedicated European campus in Brussels. It is particularly highly regarded for its social sciences, with criminology, social anthropology, sociology, and social policy among its strongest subjects nationally. Kent's combination of a beautiful campus, affordable costs, and outstanding social science research makes it a distinctive choice.",
+    "founded": 1965,
+    "totalStudents": 20000,
+    "internationalStudents": "27%",
+    "campusType": "Campus",
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "Kent guarantees accommodation to all first-year undergraduates who hold Kent as their firm choice and apply by the deadline. Halls are spread across the main Canterbury campus on the hill above the city and include catered and self-catered options.",
+      "avgWeeklyCost": "£120–£175",
+      "halls": ["Keynes College", "Darwin College", "Eliot College", "Rutherford College"],
+      "privateRentAreas": "Hales Place, St Stephens, Sturry Road, Canterbury city centre"
+    },
+    "openDays": [
+      { "date": "27 June 2026", "type": "Undergraduate Open Day" },
+      { "date": "26 September 2026", "type": "Undergraduate Open Day" },
+      { "date": "24 October 2026", "type": "Undergraduate Open Day" }
+    ],
+    "application": {
+      "ucasCode": "K24",
+      "contextualOffers": true,
+      "interviewRequired": false,
+      "personalStatementTips": [
+        "For Criminology or Sociology, demonstrate awareness of current social issues and an interest in how social science research can inform policy and public debate",
+        "For Social Anthropology, show curiosity about cultural difference and the methods anthropologists use to study it",
+        "Highlight interest in Kent's European orientation — many programmes offer a year in Brussels or other European partner institutions"
+      ],
+      "typicalTimeline": "Apply via UCAS by 29 January; offers made on a rolling basis from January; May firm/insurance deadline; Clearing places available in August"
+    },
+    "studentLife": {
+      "union": "Kent Union",
+      "societiesCount": "150+",
+      "sportsTeams": "50+",
+      "highlights": [
+        "Kent's collegiate system — Keynes, Darwin, Eliot, Rutherford, and others — provides a strong social framework for first-years",
+        "The Gulbenkian arts centre on campus hosts theatre, cinema, and live music throughout the year",
+        "Active criminology, law, and politics societies with links to policy organisations and NGOs in Brussels and London"
+      ]
+    },
+    "cityLife": {
+      "description": "Canterbury is one of England's most beautiful and historically significant cities — a UNESCO World Heritage Site centred on its magnificent Norman cathedral. It is a compact, walkable city with a lively student population, affordable living costs, and excellent transport links to London and the continent via the Channel Tunnel.",
+      "avgRentPerMonth": "£550–£750",
+      "costOfLiving": "Low to moderate",
+      "transport": "Canterbury West and Canterbury East stations both run frequent direct services to London St Pancras (under 1 hour on the high-speed service) and London Victoria; Eurostar connections via Ashford International are 25 minutes away",
+      "highlights": [
+        "Canterbury Cathedral — a UNESCO World Heritage Site and one of England's greatest medieval buildings — is in the city centre",
+        "The Marlowe Theatre is one of the UK's most celebrated regional theatres, hosting major touring productions",
+        "The Kent coast — Whitstable, Broadstairs, and Margate — is under 30 minutes away for seaside escapes"
+      ],
+      "nightlife": "Canterbury has a lively and affordable student nightlife centred on St Dunstan's Street, the Westgate area, and the city centre bars and clubs — all within easy walking distance of campus via a downhill path."
+    },
+    "notableAlumni": [
+      "Kazuo Ishiguro — Nobel Prize laureate in Literature (studied here briefly)",
+      "Colin Malakowski — diplomat and senior civil servant",
+      "Mary Beard — classicist (honorary degree)"
+    ],
+    "keyFacts": [
+      "Ranked among the top UK universities for Criminology in all major national league tables",
+      "The Brussels School of International Studies offers unique postgraduate programmes in the heart of the EU",
+      "Among the highest proportions of students undertaking a year abroad of any UK university"
+    ]
+  },
+
+  "university-of-bath": {
+    "slug": "university-of-bath",
+    "name": "University of Bath",
+    "city": "Bath",
+    "overview": "The University of Bath is a research-intensive campus university established in 1966 on Claverton Down above the UNESCO World Heritage city of Bath. It is consistently ranked among the UK's top ten universities and is particularly renowned for its placement year provision — one of the highest take-up rates of any UK university — and for producing highly employable graduates. Bath's School of Management and its social science programmes in Economics, Politics, and Sociology offer an excellent combination of rigorous academic study and real-world professional preparation.",
+    "founded": 1966,
+    "totalStudents": 17000,
+    "internationalStudents": "30%",
+    "campusType": "Campus",
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "Bath guarantees university accommodation to all first-year undergraduates who hold Bath as their firm choice and apply by the deadline. Halls are located on campus with stunning views over the surrounding hills, and in the city below via off-campus managed accommodation.",
+      "avgWeeklyCost": "£135–£200",
+      "halls": ["Eastwood", "Brendon", "Solsbury Court", "Westwood"],
+      "privateRentAreas": "Oldfield Park, Bear Flat, Twerton, Larkhall"
+    },
+    "openDays": [
+      { "date": "20 June 2026", "type": "Undergraduate Open Day" },
+      { "date": "12 September 2026", "type": "Undergraduate Open Day" },
+      { "date": "10 October 2026", "type": "Undergraduate Open Day" }
+    ],
+    "application": {
+      "ucasCode": "B16",
+      "contextualOffers": false,
+      "interviewRequired": false,
+      "personalStatementTips": [
+        "Emphasise your interest in Bath's distinctive placement year — explain which sectors you want to work in and why work-integrated learning appeals to you",
+        "For Economics or Politics, demonstrate analytical rigour and an engagement with real-world policy questions",
+        "Show awareness of Bath's research strengths — IPR (Institute for Policy Research) or the Centre for Development Studies"
+      ],
+      "typicalTimeline": "Apply via UCAS by 29 January; offers made from February onwards; firm/insurance choice deadline in May; Bath is selective and offers fewer Clearing places than many universities"
+    },
+    "studentLife": {
+      "union": "University of Bath Students' Union",
+      "societiesCount": "200+",
+      "sportsTeams": "55+",
+      "highlights": [
+        "Bath is one of the UK's top sporting universities — home to the National Training Centre for several Olympic sports",
+        "The Placement Learning Unit provides dedicated support for securing competitive placement year positions",
+        "Active economics, politics, entrepreneurship, and consulting societies with strong employer networks"
+      ]
+    },
+    "cityLife": {
+      "description": "Bath is one of England's most beautiful cities — a compact Georgian masterpiece and UNESCO World Heritage Site built around its famous Roman Baths. It is a sophisticated, affluent city with exceptional restaurants, independent boutiques, and a rich cultural programme, though students should be aware living costs are moderate to high for a city of its size.",
+      "avgRentPerMonth": "£650–£900",
+      "costOfLiving": "Moderate to high",
+      "transport": "Regular First bus services run between campus and Bath city centre throughout the day; Bath Spa station offers direct services to London Paddington in approximately 1.5 hours and to Bristol Temple Meads in 15 minutes",
+      "highlights": [
+        "The Roman Baths and Bath Abbey are among the most visited heritage sites in England",
+        "The annual Bath International Music Festival and the Bath Literature Festival attract world-class performers and writers",
+        "Bristol — a major city with a vibrant arts and music scene — is under 30 minutes by train"
+      ],
+      "nightlife": "Bath has a relatively sophisticated rather than typical student nightlife — centred on independent bars and restaurants in the city centre and Walcot Street, alongside the university's own events programme."
+    },
+    "notableAlumni": [
+      "James Dyson — inventor and entrepreneur (honorary doctorate)",
+      "Damian Lewis — actor",
+      "Tom Daley — Olympic gold-medallist diver (honorary doctorate)"
+    ],
+    "keyFacts": [
+      "Consistently ranked in the UK top 10 — 5th in The Times/Sunday Times University Guide 2025",
+      "One of the UK's highest placement year take-up rates — over 60% of eligible students undertake a 12-month professional placement",
+      "The Institute for Policy Research (IPR) conducts internationally recognised social science research with direct policy impact"
+    ]
+  },
+
+  "university-of-st-andrews": {
+    "slug": "university-of-st-andrews",
+    "name": "University of St Andrews",
+    "city": "St Andrews",
+    "overview": "The University of St Andrews is Scotland's oldest university, founded in 1413, and consistently ranks first or second in UK national league tables. Located in the picturesque coastal town of St Andrews in Fife, it combines a medieval collegiate atmosphere with world-class research and extraordinary student satisfaction. Its social sciences — including Politics, International Relations, and Social Anthropology — are among the strongest in the UK, drawing students from around the world with its unique four-year MA degree structure and remarkable academic community.",
+    "founded": 1413,
+    "totalStudents": 10000,
+    "internationalStudents": "45%",
+    "campusType": "Town campus",
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "St Andrews guarantees all first-year undergraduate students a place in university accommodation. Halls are distributed across the historic town and include traditional stone residences and modern self-catered flats with stunning sea views.",
+      "avgWeeklyCost": "£130–£195",
+      "halls": ["University Hall", "McIntosh Hall", "Agnes Blackadder Hall", "Andrew Melville Hall"],
+      "privateRentAreas": "South Street, North Street, Argyle Street, Largo Road"
+    },
+    "openDays": [
+      { "date": "14 June 2026", "type": "Undergraduate Open Day" },
+      { "date": "26 September 2026", "type": "Undergraduate Open Day" }
+    ],
+    "application": {
+      "ucasCode": "S36",
+      "contextualOffers": false,
+      "interviewRequired": false,
+      "personalStatementTips": [
+        "Demonstrate intellectual breadth and genuine curiosity — St Andrews's flexible MA allows interdisciplinary combination of social sciences, humanities, and sciences",
+        "For Politics or International Relations, show serious engagement with international affairs and the theoretical traditions of political science",
+        "Highlight awareness of the distinctive St Andrews community — the Pier Walk, academic gowns, and the expectation of rigorous independent study"
+      ],
+      "typicalTimeline": "Apply via UCAS by 29 January; offers made from January; firm/insurance deadline May; Scottish Clearing available in August"
+    },
+    "studentLife": {
+      "union": "Students' Association of the University of St Andrews",
+      "societiesCount": "170+",
+      "sportsTeams": "45+",
+      "highlights": [
+        "The Kate Kennedy Club and Raisin Weekend uphold centuries-old university traditions unique to St Andrews",
+        "Active Model United Nations, debating, and international affairs societies with a strong global outlook",
+        "Close academic-student relationships — many social science lectures are small seminars with direct access to leading academics"
+      ]
+    },
+    "cityLife": {
+      "description": "St Andrews is a small, safe, and extraordinarily beautiful town on the east coast of Scotland, famous for golf, its ancient cathedral ruins, and one of the UK's most distinctive and close-knit student cultures. Life is lived largely within a compact medieval streetscape with a strong sense of shared community.",
+      "avgRentPerMonth": "£600–£850",
+      "costOfLiving": "Moderate to high (for a small town)",
+      "transport": "No direct railway to St Andrews — the nearest station is Leuchars (5 miles), served by frequent bus connections; direct trains from Leuchars to Edinburgh take under 1 hour",
+      "highlights": [
+        "The West Sands beach, immortalised in Chariots of Fire, is minutes from the centre of town",
+        "Dundee and Edinburgh are both within easy reach for weekend trips and cultural events",
+        "The old town of St Andrews — its castle, cathedral ruins, and medieval streets — is one of Scotland's most atmospheric places"
+      ],
+      "nightlife": "St Andrews is a small town and its nightlife is intimate — centred on a handful of bars and the student union — but the social scene is exceptionally rich through university societies, balls, and traditions."
+    },
+    "notableAlumni": [
+      "Prince William — King Charles III's eldest son studied Art History here",
+      "John Cleese — comedian and actor",
+      "Chris Hoy — six-time Olympic gold-medallist cyclist"
+    ],
+    "keyFacts": [
+      "Ranked 1st in the UK in The Guardian and The Times/Sunday Times University Guides multiple years running",
+      "Scotland's oldest university, founded 1413, with a distinctive four-year MA structure allowing flexible subject combinations",
+      "Among the highest student satisfaction scores in the UK, consistently above 90% overall"
+    ]
+  },
+
+  "lancaster-university": {
+    "slug": "lancaster-university",
+    "name": "Lancaster University",
+    "city": "Lancaster",
+    "overview": "Lancaster University is a research-intensive collegiate university founded in 1964 on a self-contained campus four miles south of Lancaster city. A consistent top-ten performer in UK league tables, Lancaster has particularly strong social science departments — Sociology, Criminology, Politics, and Social Work — alongside a tradition of innovative interdisciplinary research in areas such as digital society, environmental social science, and health. Its distinctive collegiate system and close-knit campus community create an exceptional student experience.",
+    "founded": 1964,
+    "totalStudents": 14000,
+    "internationalStudents": "28%",
+    "campusType": "Campus",
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "Lancaster guarantees accommodation to all first-year students who firm the university and apply by the deadline. Students are allocated to one of the eight undergraduate colleges on campus, each with its own bar, common room, and sports and social programme.",
+      "avgWeeklyCost": "£110–£165",
+      "halls": ["Bowland College", "Furness College", "Grizedale College", "Pendle College"],
+      "privateRentAreas": "Scotforth, Bowerham, Greaves, Lancaster city centre"
+    },
+    "openDays": [
+      { "date": "20 June 2026", "type": "Undergraduate Open Day" },
+      { "date": "26 September 2026", "type": "Undergraduate Open Day" },
+      { "date": "17 October 2026", "type": "Undergraduate Open Day" }
+    ],
+    "application": {
+      "ucasCode": "L14",
+      "contextualOffers": true,
+      "interviewRequired": false,
+      "personalStatementTips": [
+        "For Sociology or Criminology, demonstrate genuine engagement with social questions — reading beyond the curriculum and awareness of key sociological debates",
+        "For Politics, show a capacity for rigorous analytical argument and engagement with both theoretical and empirical dimensions of political science",
+        "Highlight Lancaster-specific strengths — the Institute for Social Futures, the Dialect Dynamics research centre, or the university's sustainability agenda"
+      ],
+      "typicalTimeline": "Apply via UCAS by 29 January; offers made on a rolling basis from January; firm/insurance choice deadline May; Clearing opens August"
+    },
+    "studentLife": {
+      "union": "Lancaster University Students' Union (LUSU)",
+      "societiesCount": "150+",
+      "sportsTeams": "45+",
+      "highlights": [
+        "The collegiate system gives every student a social home within their college as well as their department",
+        "Active politics, law, criminology, and environmental societies with links to policy organisations and NGOs",
+        "The Nuffield Theatre and Lancaster arts venues provide co-curricular performance and culture"
+      ]
+    },
+    "cityLife": {
+      "description": "Lancaster is a compact historic city with a castle, Roman heritage, and an independent arts scene. The university's self-contained campus creates a focused academic environment, while the Lake District — a short bus or drive away — provides outstanding outdoor recreation. Living costs are among the lowest of any UK top-ten university.",
+      "avgRentPerMonth": "£500–£700",
+      "costOfLiving": "Low to moderate",
+      "transport": "Regular bus services between campus and Lancaster city centre; Lancaster railway station offers direct services to Manchester (1 hour), Leeds (1.5 hours), and London Euston (2.5 hours)",
+      "highlights": [
+        "Lancaster Castle — a working court and historic prison open for tours — is a focal point of the city",
+        "The Lake District National Park is 30 minutes away with world-class walking, climbing, and outdoor recreation",
+        "Morecambe Bay is nearby and the surrounding north Lancashire countryside is spectacularly scenic"
+      ],
+      "nightlife": "Lancaster has a friendly, affordable student nightlife centred on the city's historic pubs, Dalton Square bars, and The Sugarhouse student nightclub — plus college bars on campus."
+    },
+    "notableAlumni": [
+      "Tim Farron — former leader of the Liberal Democrats",
+      "Diane Abbott — politician (honorary doctorate)",
+      "John Whittingdale — former Secretary of State for Culture, Media and Sport"
+    ],
+    "keyFacts": [
+      "Consistently ranked in the UK top 10 — top 5 in The Guardian University Guide multiple years",
+      "Lancaster's Department of Sociology is among the most research-active in the UK, with REF 2021 placing it in the national top five",
+      "The collegiate system produces some of the highest student satisfaction scores in the UK"
+    ]
+  }
+}

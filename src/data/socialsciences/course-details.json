@@ -1,0 +1,1210 @@
+{
+  "politics": {
+    "id": "politics",
+    "title": "Politics & International Relations BA",
+    "duration": "3 years",
+    "overview": "Politics & International Relations is the systematic study of power — how it is acquired, organised, exercised, legitimated and contested at every level from local councils to the United Nations. The degree draws on political theory, comparative politics, international relations theory and empirical research methods, equipping students to analyse elections and constitutions, foreign policy and international organisations, social movements and authoritarian regimes with equal rigour. The combination of Politics and International Relations reflects the contemporary reality that domestic and global politics are inseparable: Brexit, climate change, migration and nuclear proliferation are all simultaneously domestic and international phenomena. Graduates are highly recruited into the Civil Service, think tanks, NGOs, journalism, law and finance.",
+    "yearByYear": [
+      {
+        "year": 1,
+        "focus": "Foundations of political analysis",
+        "modules": [
+          "Introduction to Political Theory: Justice, Liberty and Democracy",
+          "Comparative Government: Democracies and Authoritarian Regimes",
+          "Introduction to International Relations: Realism, Liberalism and Constructivism",
+          "Research Methods in Politics: Quantitative and Qualitative Approaches",
+          "British Politics and Government"
+        ]
+      },
+      {
+        "year": 2,
+        "focus": "Thematic and regional depth",
+        "modules": [
+          "Foreign Policy Analysis and US Foreign Policy",
+          "The Politics of the European Union",
+          "Global Political Economy: Trade, Finance and Development",
+          "Security Studies: War, Terrorism and Peacebuilding",
+          "Political Parties, Elections and Voting Behaviour"
+        ]
+      },
+      {
+        "year": 3,
+        "focus": "Advanced theory and independent research",
+        "modules": [
+          "Human Rights, Humanitarian Intervention and International Law",
+          "The Politics of Climate Change and Global Environmental Governance",
+          "Democratic Backsliding and Illiberal Politics",
+          "Dissertation in Politics or International Relations"
+        ]
+      }
+    ],
+    "skills": [
+      "Analytical reading of political texts, policy documents and academic literature, with the ability to identify key arguments and evaluate evidence",
+      "Comparative political analysis — explaining variation in political outcomes across different states and systems using rigorous theoretical frameworks",
+      "Quantitative and qualitative research methods, including statistical literacy, case study design and content analysis",
+      "Persuasive essay writing and argumentation, synthesising complex academic debates into clear, well-structured prose",
+      "Oral presentation and debate, including structured seminar discussion of contested political questions"
+    ],
+    "professionalBodies": [
+      {
+        "name": "Political Studies Association (PSA)",
+        "benefit": "The PSA is the UK's leading professional association for political scientists, offering student membership, an annual conference, specialist working groups, the journal Political Studies and early-career bursaries"
+      },
+      {
+        "name": "British International Studies Association (BISA)",
+        "benefit": "BISA supports IR scholars and practitioners with an annual conference, specialist working groups across every IR subfield, the journal Millennium and networking events connecting academics and practitioners"
+      },
+      {
+        "name": "UK Parliament Placement Scheme",
+        "benefit": "Although not a professional body, Parliament's competitive placement scheme for Politics undergraduates provides invaluable direct experience of legislative work and is highly regarded by employers in policy and government"
+      }
+    ],
+    "careers": [
+      {
+        "role": "Civil Service Fast Stream (Generalist or Diplomatic)",
+        "salary": "£30,000–£32,000 starting / £45,000–£65,000 at 5 years",
+        "demand": "Very High"
+      },
+      {
+        "role": "Policy Adviser (Think Tank, NGO or Government)",
+        "salary": "£28,000–£38,000 starting / £45,000–£70,000 at 5 years",
+        "demand": "Very High"
+      },
+      {
+        "role": "Journalist / Political Correspondent",
+        "salary": "£24,000–£32,000 starting / £40,000–£65,000 at 5 years",
+        "demand": "High"
+      },
+      {
+        "role": "International Development / NGO Programme Officer",
+        "salary": "£25,000–£35,000 starting / £40,000–£60,000 at 5 years",
+        "demand": "Growing"
+      }
+    ],
+    "topEmployers": ["UK Civil Service / Cabinet Office", "FCDO (Foreign Commonwealth & Development Office)", "Chatham House", "Oxfam", "BBC Political Programmes", "Control Risks"],
+    "employerPerspective": "Politics and IR graduates are some of the most analytically able candidates we see. They have been trained to navigate large amounts of complex, contested information under time pressure and to produce clear, evidence-based assessments — precisely what policy analysis and diplomatic reporting require. The best graduates combine quantitative literacy with the ability to write well and think independently about why situations develop as they do rather than simply describing events. We value the research methods training as much as the substantive political knowledge.",
+    "entryRequirements": "Typical offer: AAB–ABB at A-level; no specific subject required at most universities, though Politics, Government & Politics, History, Economics or a social science are seen in most successful applications. Top universities (LSE AAA, Oxford A*AA for PPE/Politics) are highly competitive. GCSE: English at grade 5/C expected. Politics A-level is not required and is taught at a minority of schools.",
+    "furtherStudy": "MSc in International Relations, International Security, Political Theory, Comparative Politics, European Politics, Peace and Conflict Studies, Development Studies or Public Policy. GDL for law conversion. MSc in Public Administration (MPA) for policy-focused careers. PhD for academic careers. The Blavatnik School of Government (Oxford) and LSE offer prestigious policy-focused postgraduate programmes.",
+    "isItForYou": [
+      "Study this if you are genuinely engaged by contemporary political events and want to understand them analytically — not just following the news but being able to explain why political outcomes occur and how they might be different",
+      "Study this if you are drawn to careers in the Civil Service, diplomacy, policy, journalism, development or international organisations where a systematic understanding of power and governance is directly relevant",
+      "Think twice if you hope for direct vocational training — Politics does not have a defined professional pathway like Medicine or Law, and graduates need to be proactive about internships, placements and building experience alongside the degree"
+    ]
+  },
+
+  "law": {
+    "id": "law",
+    "title": "Law LLB",
+    "duration": "3 years",
+    "overview": "Law is the undergraduate qualification that leads most directly to a career as a solicitor or barrister in England and Wales — the LLB (Bachelor of Laws) covers the seven 'Foundations of Legal Knowledge' required by the Solicitors Regulation Authority and Bar Standards Board, equipping graduates to proceed directly to the Solicitors Qualifying Examination (SQE) or Bar Practice Course without further conversion study. The degree develops legal reasoning of the highest order: the ability to identify relevant principles, apply them precisely to novel facts, anticipate counter-arguments and present conclusions with clarity and confidence. Beyond the legal profession, Law graduates are prized in finance, business, public policy and any context requiring sophisticated analytical thinking and precise written communication.",
+    "yearByYear": [
+      {
+        "year": 1,
+        "focus": "Foundations of legal knowledge and reasoning",
+        "modules": [
+          "Contract Law",
+          "Criminal Law",
+          "Public Law: Constitutional and Administrative Law",
+          "Legal Methods, Skills and Reasoning",
+          "Tort Law"
+        ]
+      },
+      {
+        "year": 2,
+        "focus": "Core legal subjects and contextual analysis",
+        "modules": [
+          "Land Law (Property)",
+          "Equity and Trusts",
+          "EU Law (Retained EU Law and International Dimensions)",
+          "Evidence and Civil Procedure",
+          "Human Rights Law"
+        ]
+      },
+      {
+        "year": 3,
+        "focus": "Electives and advanced legal study",
+        "modules": [
+          "Commercial Law and International Trade",
+          "Family Law",
+          "Company Law and Corporate Governance",
+          "Dissertation in Law (LLB Dissertation)"
+        ]
+      }
+    ],
+    "skills": [
+      "Legal reasoning: identifying applicable rules of law, applying them to novel fact patterns and reaching defensible conclusions with intellectual precision",
+      "Statutory interpretation and case analysis — reading legislation and case law with close attention to language, context and precedent",
+      "Problem-solving: structuring legal advice in a systematic, client-focused way that addresses the most critical issues first",
+      "Persuasive legal writing — from academic essays to legal memos, skeleton arguments and structured advice notes",
+      "Oral advocacy and mooting — constructing and delivering oral arguments under pressure in front of a judge or examining panel"
+    ],
+    "professionalBodies": [
+      {
+        "name": "Law Society of England & Wales",
+        "benefit": "The Law Society is the professional body for solicitors; LLB graduates proceed to the Solicitors Qualifying Examination (SQE) as the route to qualification, and the Society provides resources on training contracts, CPD and practice management"
+      },
+      {
+        "name": "Bar Council",
+        "benefit": "The Bar Council represents barristers and oversees access to the Bar; LLB graduates wishing to be called to the Bar proceed to the Bar Practice Course (BPC) and pupillage, and the Bar Council provides scholarship information and careers guidance"
+      },
+      {
+        "name": "Chartered Institute of Legal Executives (CILEx)",
+        "benefit": "CILEx provides an alternative route to legal qualification as a Chartered Legal Executive — particularly relevant for graduates who do not secure a training contract but wish to remain in the legal profession"
+      }
+    ],
+    "careers": [
+      {
+        "role": "Solicitor (City/Commercial or High Street)",
+        "salary": "£27,000–£35,000 starting (regional) / £50,000–£100,000+ at 5 years (City)",
+        "demand": "Very High"
+      },
+      {
+        "role": "Barrister (upon completion of pupillage)",
+        "salary": "£20,000–£40,000 during pupillage / £60,000–£150,000+ at 5 years",
+        "demand": "High"
+      },
+      {
+        "role": "In-House Counsel (Corporate Legal Department)",
+        "salary": "£35,000–£55,000 starting / £65,000–£120,000 at 5 years",
+        "demand": "Very High"
+      },
+      {
+        "role": "Policy Adviser / Legal Policy Analyst (Government or NGO)",
+        "salary": "£28,000–£38,000 starting / £45,000–£70,000 at 5 years",
+        "demand": "High"
+      }
+    ],
+    "topEmployers": ["Clifford Chance", "Linklaters", "Allen & Overy", "Crown Prosecution Service", "Government Legal Department", "Magic Circle / Silver Circle Firms"],
+    "employerPerspective": "An LLB from a strong university is the foundation of everything we look for in a trainee solicitor. We want candidates who can read a 200-page contract, identify the three clauses that matter and explain the risk clearly — the LLB teaches exactly that capacity for precise, hierarchical analysis. Beyond the technical legal skills, we value the mooting experience, the seminar advocacy and the written work that demonstrates a candidate can construct a sophisticated argument under time pressure. Law firms also increasingly value interdisciplinary thinking, so graduates who have combined Law with another subject — Economics, Languages, Politics — often stand out.",
+    "entryRequirements": "Typical offer: AAA–AAB at A-level; no specific subject required, but English, History, Maths and the sciences all appear in successful applications. Top firms' preferred universities (Oxford, Cambridge, UCL, LSE, Durham, Bristol, Exeter) recruit heavily from AAA candidates. GCSE: English Language at grade 6/B or above strongly expected, given the centrality of written communication to legal practice. Non-law graduates can convert via the Graduate Diploma in Law (GDL).",
+    "furtherStudy": "Solicitors Qualifying Examination (SQE 1 and SQE 2) plus two years' Qualifying Work Experience for solicitor qualification. Bar Practice Course (BPC) and pupillage for barristers. LLM (Master of Laws) in Commercial Law, International Law, Human Rights Law, Criminal Justice or EU Law. PhD in Law for academic careers. LLM from a US law school (e.g. Columbia, Harvard) for international practice.",
+    "isItForYou": [
+      "Study this if you enjoy the challenge of precise analytical reasoning, like constructing arguments from rules and facts rather than personal opinion, and are drawn to the idea of a professional career in law, business or public policy",
+      "Study this if you are committed to one of the legal profession's clear qualification routes — the LLB is the most direct path to becoming a solicitor or barrister in England and Wales, and the degree is widely respected in non-legal careers too",
+      "Think twice if your primary interest is justice as a social concept rather than law as a technical discipline — the LLB focuses heavily on legal doctrine, and students who find detailed rule-based analysis less engaging than broad social theory can find the degree frustrating"
+    ]
+  },
+
+  "economics": {
+    "id": "economics",
+    "title": "Economics BSc",
+    "duration": "3 years",
+    "overview": "Economics is the scientific study of how individuals, firms, governments and societies allocate scarce resources — and why outcomes differ from what simple models predict. At degree level, it is a mathematically rigorous discipline: students learn microeconomic theory (how individual agents make decisions), macroeconomic theory (how national and global economies function) and econometrics (how to test economic models with real data). The degree combines abstract theoretical modelling with empirical investigation of real-world phenomena from inequality and unemployment to monetary policy and international trade. Economics graduates are among the highest-earning of all graduates: they are recruited in very large numbers into investment banking, management consulting, the Government Economic Service, international organisations and financial regulation.",
+    "yearByYear": [
+      {
+        "year": 1,
+        "focus": "Mathematical and economic foundations",
+        "modules": [
+          "Microeconomics I: Consumer and Producer Theory",
+          "Macroeconomics I: National Income, Inflation and Unemployment",
+          "Mathematics for Economists: Calculus, Linear Algebra and Optimisation",
+          "Statistics and Probability for Economists",
+          "Introduction to Econometrics"
+        ]
+      },
+      {
+        "year": 2,
+        "focus": "Intermediate theory and applied economics",
+        "modules": [
+          "Microeconomics II: Game Theory, Market Failure and Public Economics",
+          "Macroeconomics II: Open Economy Models and Monetary Policy",
+          "Econometrics: Regression Analysis and Causal Inference",
+          "Industrial Organisation and Regulatory Economics",
+          "Labour Economics and the Economics of Education"
+        ]
+      },
+      {
+        "year": 3,
+        "focus": "Advanced topics and dissertation",
+        "modules": [
+          "Advanced Macroeconomics: DSGE Models and Monetary Economics",
+          "Financial Economics and Asset Pricing",
+          "Behavioural Economics and Experimental Methods",
+          "Dissertation in Economics"
+        ]
+      }
+    ],
+    "skills": [
+      "Mathematical modelling of economic behaviour using calculus, optimisation and game theory",
+      "Econometric analysis — specifying, estimating and interpreting regression models using Stata, R or Python",
+      "Theoretical reasoning: constructing and evaluating formal economic arguments from first principles",
+      "Data literacy: sourcing, cleaning and analysing large economic and financial datasets",
+      "Economic policy analysis — assessing the likely effects of fiscal, monetary and regulatory interventions using evidence"
+    ],
+    "professionalBodies": [
+      {
+        "name": "Royal Economic Society (RES)",
+        "benefit": "The RES promotes the study and application of economics in the UK, publishing the Economic Journal, holding an annual conference and running an Easter school for early-career economists and PhD students"
+      },
+      {
+        "name": "Government Economic Service (GES)",
+        "benefit": "The GES is the largest employer of professional economists in the UK; Economics graduates joining the Civil Service through the Fast Stream or direct entry as Economists receive structured professional development towards GES membership"
+      },
+      {
+        "name": "Society of Professional Economists (SPE)",
+        "benefit": "The SPE connects economists working in the private sector, public sector and academia, with events, a mentoring scheme and the journal Economic Outlook covering applied policy economics"
+      }
+    ],
+    "careers": [
+      {
+        "role": "Investment Banking Analyst (IBD / Markets)",
+        "salary": "£50,000–£75,000 starting (including bonus) / £80,000–£150,000+ at 5 years",
+        "demand": "Very High"
+      },
+      {
+        "role": "Management Consultant (Strategy / Economic Consulting)",
+        "salary": "£35,000–£55,000 starting / £65,000–£100,000 at 5 years",
+        "demand": "Very High"
+      },
+      {
+        "role": "Government Economist (GES Fast Stream)",
+        "salary": "£30,000–£35,000 starting / £48,000–£70,000 at 5 years",
+        "demand": "High"
+      },
+      {
+        "role": "Policy Analyst (International Organisation — IMF, World Bank, OECD)",
+        "salary": "£35,000–£55,000 starting / £60,000–£90,000 at 5 years",
+        "demand": "High"
+      }
+    ],
+    "topEmployers": ["Goldman Sachs", "McKinsey & Company", "HM Treasury", "Bank of England", "International Monetary Fund", "Competition and Markets Authority (CMA)"],
+    "employerPerspective": "Economics graduates are our most consistently strong analytical hires. The combination of formal theoretical training and rigorous quantitative methods means they can model a problem, identify the key assumptions, test them against data and produce a clear recommendation — the core loop of investment banking, consulting and economic policy work. The best Economics graduates from strong UK universities are genuinely competitive with international peers from US Ivy League programmes, particularly in quantitative finance and economic regulation.",
+    "entryRequirements": "Typical offer: AAA–AAB at A-level; Mathematics A-level at grade A (or A*) is required or strongly preferred by virtually all universities offering Economics BSc. Further Mathematics is highly advantageous at top departments (LSE, UCL, Warwick, Cambridge). Economics A-level is useful but not normally required. GCSE: Mathematics at grade 7/A or above expected at selective universities.",
+    "furtherStudy": "MSc in Economics, Econometrics, Financial Economics, Mathematical Finance or Development Economics. MRes or PhD in Economics for academic or research careers at central banks or international organisations. CFA Charter for investment analysis. Financial Risk Manager (FRM) or Certificate in Quantitative Finance (CQF) for risk roles. MBA for senior management transitions.",
+    "isItForYou": [
+      "Study this if you enjoy mathematics — particularly calculus and algebra — and want to apply rigorous quantitative methods to understand real-world phenomena from financial markets to poverty and climate policy",
+      "Study this if you are drawn to high-earning careers in investment banking, consulting, economic regulation or international economic policy, where an Economics degree provides one of the clearest and most recognised pathways",
+      "Think twice if you are primarily interested in economics as a social or political subject rather than a mathematical one — the BSc is heavily quantitative, and students who are not comfortable with mathematical modelling at A-level standard find the first year very demanding"
+    ]
+  },
+
+  "psychology": {
+    "id": "psychology",
+    "title": "Psychology BSc",
+    "duration": "3 years",
+    "overview": "Psychology is the scientific study of mind and behaviour — how people perceive the world, how they think, feel, remember and decide, and how individual psychology interacts with social, biological and cultural contexts. At degree level in the UK, Psychology is a science: the BSc involves substantial training in research methods and statistics, laboratory work and the critical evaluation of empirical evidence. A BPS-accredited degree (offered by the vast majority of UK psychology departments) confers Graduate Basis for Chartered Membership (GBC) of the British Psychological Society — the essential foundation for professional routes into clinical, counselling, forensic, educational, occupational and health psychology. The degree is one of the most popular in the UK and produces highly versatile graduates.",
+    "yearByYear": [
+      {
+        "year": 1,
+        "focus": "Core psychology and scientific foundations",
+        "modules": [
+          "Biological Psychology: Brain, Behaviour and Evolution",
+          "Cognitive Psychology: Perception, Memory and Attention",
+          "Social Psychology: Attitudes, Groups and Influence",
+          "Developmental Psychology: From Infancy to Adulthood",
+          "Research Methods and Statistics I: Design, ANOVA and Reporting"
+        ]
+      },
+      {
+        "year": 2,
+        "focus": "Applied psychology and advanced methods",
+        "modules": [
+          "Abnormal and Clinical Psychology: Classification and Psychological Therapies",
+          "Personality, Individual Differences and Intelligence",
+          "Health Psychology and Behaviour Change",
+          "Research Methods and Statistics II: Regression, Factor Analysis and Open Science",
+          "Neuroscience of Emotion and Motivation"
+        ]
+      },
+      {
+        "year": 3,
+        "focus": "Advanced topics and empirical dissertation",
+        "modules": [
+          "Forensic Psychology: Offender Profiling and Criminal Justice",
+          "Organisational and Occupational Psychology",
+          "Child and Adolescent Mental Health",
+          "Empirical Dissertation in Psychology (original data collection)"
+        ]
+      }
+    ],
+    "skills": [
+      "Research design: constructing experimental, quasi-experimental and survey studies with appropriate controls and sampling strategies",
+      "Statistical analysis using SPSS, R or JASP — from descriptive statistics and t-tests through ANOVA, regression and multilevel modelling",
+      "Critical evaluation of psychological research, including assessment of effect sizes, replication and open science practices",
+      "Evidence-based communication: writing APA-format research reports and translating psychological findings for non-specialist audiences",
+      "Understanding of ethical principles in research and professional practice, including BPS and APA codes of ethics"
+    ],
+    "professionalBodies": [
+      {
+        "name": "British Psychological Society (BPS)",
+        "benefit": "A BPS-accredited BSc confers Graduate Basis for Chartered Membership (GBC), the essential prerequisite for all BPS-accredited postgraduate professional training routes into clinical, counselling, forensic, educational and occupational psychology. Membership provides access to The Psychologist journal, specialist divisions and professional guidance"
+      },
+      {
+        "name": "Health and Care Professions Council (HCPC)",
+        "benefit": "The HCPC registers practitioner psychologists (Clinical, Counselling, Forensic, Educational, Health and Occupational) in the UK — registration is mandatory for use of the protected title 'Psychologist'. HCPC-approved training routes require the BPS GBC as a prerequisite"
+      },
+      {
+        "name": "Division of Clinical Psychology (DCP, BPS)",
+        "benefit": "The DCP is the largest BPS division and sets standards for clinical psychology training; its resources on the Doctorate in Clinical Psychology (DClinPsy) route, assistant psychologist roles and clinical workforce development are essential for students planning a clinical career"
+      }
+    ],
+    "careers": [
+      {
+        "role": "Clinical Psychologist (via DClinPsy)",
+        "salary": "£35,392–£42,618 starting (NHS Band 7) / £51,000–£70,000 at 5 years post-qualification",
+        "demand": "Very High"
+      },
+      {
+        "role": "Human Resources / Occupational Psychology Consultant",
+        "salary": "£25,000–£35,000 starting / £45,000–£70,000 at 5 years",
+        "demand": "Very High"
+      },
+      {
+        "role": "UX Researcher / Behavioural Insights Analyst",
+        "salary": "£28,000–£40,000 starting / £50,000–£75,000 at 5 years",
+        "demand": "Growing"
+      },
+      {
+        "role": "Assistant Psychologist / Research Associate (NHS or University)",
+        "salary": "£24,000–£29,000 starting (NHS Band 4–5) / £35,000–£50,000 at 5 years",
+        "demand": "High"
+      }
+    ],
+    "topEmployers": ["NHS Psychological Therapies Services", "Behavioural Insights Team", "PwC People Advisory", "YouGov", "Childline / NSPCC", "GCHQ"],
+    "employerPerspective": "Psychology graduates are among our most data-literate humanities candidates — they can design a study, collect and analyse data and write up findings in a structured, evidence-based way, which is directly applicable to UX research, HR analytics and behavioural policy. The clinical and applied modules give them an understanding of why people behave as they do that goes well beyond common sense. We particularly value their training in research ethics, which reflects well on how they approach data collection and evidence-based decision-making in commercial contexts.",
+    "entryRequirements": "Typical offer: ABB–AAB at A-level; Psychology A-level is useful but not normally required (and is not available at all schools). Mathematics at grade B or above at A-level or GCSE is strongly recommended, given the statistical demands of the degree. Biology is useful for biological psychology modules. GCSE: Mathematics and English at grade 5/C or above expected. Some universities specify grade 6 or above in Maths GCSE.",
+    "furtherStudy": "DClinPsy (Doctorate in Clinical Psychology — the NHS-funded route into clinical psychology, highly competitive with approximately 25% acceptance rate). MSc in Occupational Psychology, Forensic Psychology, Health Psychology, Neuropsychology, Educational Psychology or Research Methods. Doctorate in Counselling Psychology (DCounsPsy). PhD for academic careers. MSc Conversion in Psychology for non-psychology graduates. CPsychol (Chartered Psychologist) status via the BPS following appropriate postgraduate training.",
+    "isItForYou": [
+      "Study this if you are genuinely interested in understanding human behaviour scientifically — not just intuitively — and are comfortable with statistics, experimental design and evidence-based thinking rather than just personal reflection",
+      "Study this if you are considering a clinical, counselling, forensic or educational psychology career and understand that the BSc is the foundation of a long professional training journey, not the destination itself",
+      "Think twice if you are drawn to psychology primarily through interest in counselling or therapy and expect the degree to focus on those areas — the BSc is scientific and research-focused, with clinical applications explored theoretically rather than through direct therapeutic practice"
+    ]
+  },
+
+  "sociology": {
+    "id": "sociology",
+    "title": "Sociology BA",
+    "duration": "3 years",
+    "overview": "Sociology is the study of society: how it is organised, how it reproduces itself, how it changes and who benefits and who loses from its structures. It examines social inequality through the lenses of class, race, gender, sexuality and disability; investigates institutions from the family and education to religion and the media; and analyses social change from industrialisation to globalisation and the digital revolution. Sociology at university level is simultaneously empirical — involving research methods training and engagement with data on social phenomena — and theoretical, drawing on classical thinkers like Durkheim, Marx and Weber alongside contemporary theorists including Bourdieu, Foucault and Butler. Graduates are valued across social research, policy, the public sector, journalism and any role requiring sophisticated understanding of how social structures shape individual lives.",
+    "yearByYear": [
+      {
+        "year": 1,
+        "focus": "Foundations of sociological thinking",
+        "modules": [
+          "Classical Social Theory: Marx, Durkheim and Weber",
+          "Introduction to Social Research Methods: Surveys, Interviews and Ethnography",
+          "Social Stratification: Class, Race, Gender and Inequality",
+          "The Sociology of Everyday Life",
+          "Globalisation, Culture and Society"
+        ]
+      },
+      {
+        "year": 2,
+        "focus": "Applied sociology and advanced methods",
+        "modules": [
+          "Contemporary Social Theory: Bourdieu, Foucault, Butler",
+          "Quantitative Research Methods and Social Statistics",
+          "Sociology of Race, Ethnicity and Migration",
+          "The Sociology of Education and Social Mobility",
+          "Digital Society: Technology, Media and Social Change"
+        ]
+      },
+      {
+        "year": 3,
+        "focus": "Specialism and original research",
+        "modules": [
+          "Criminology and Social Control",
+          "Sociology of Health, Illness and the Body",
+          "Urban Sociology: Space, Place and Power",
+          "Dissertation in Sociology"
+        ]
+      }
+    ],
+    "skills": [
+      "Sociological imagination — the ability to connect personal experience to broader social structures and historical forces",
+      "Qualitative research skills: designing and conducting semi-structured interviews, focus groups and ethnographic observation",
+      "Quantitative data analysis: working with survey data, secondary datasets and official statistics using SPSS or R",
+      "Critical engagement with social theory, synthesising complex theoretical arguments and applying them to empirical material",
+      "Evidence-based policy analysis — evaluating social interventions against research evidence and theoretical frameworks"
+    ],
+    "professionalBodies": [
+      {
+        "name": "British Sociological Association (BSA)",
+        "benefit": "The BSA is the UK's professional body for sociologists, offering student membership, the journal Sociology, specialist study groups, an annual conference and careers resources for social researchers and practitioners"
+      },
+      {
+        "name": "Social Research Association (SRA)",
+        "benefit": "The SRA supports professional social researchers across all sectors, offering an ethical guidelines framework, professional development, the Research Matters journal and a jobs board for research roles in government, consultancy and the third sector"
+      },
+      {
+        "name": "National Centre for Social Research (NatCen)",
+        "benefit": "NatCen offers competitive graduate research assistant roles and internships; its training programmes in qualitative and quantitative social research methods are highly regarded preparation for careers in applied social research"
+      }
+    ],
+    "careers": [
+      {
+        "role": "Social Researcher (Government, Think Tank or Commercial)",
+        "salary": "£25,000–£32,000 starting / £40,000–£60,000 at 5 years",
+        "demand": "Very High"
+      },
+      {
+        "role": "Policy Officer / Analyst (Local or Central Government, NGO)",
+        "salary": "£26,000–£34,000 starting / £42,000–£62,000 at 5 years",
+        "demand": "Very High"
+      },
+      {
+        "role": "Social Worker (via accredited PGCE/MA Social Work)",
+        "salary": "£27,000–£33,000 starting / £35,000–£50,000 at 5 years",
+        "demand": "Very High"
+      },
+      {
+        "role": "Journalist / Media Researcher (Social Affairs)",
+        "salary": "£24,000–£30,000 starting / £38,000–£55,000 at 5 years",
+        "demand": "Growing"
+      }
+    ],
+    "topEmployers": ["NatCen Social Research", "Ipsos MORI", "Home Office Research", "Joseph Rowntree Foundation", "BBC Social Affairs", "Local Government Association"],
+    "employerPerspective": "Sociology graduates understand the complexity of social phenomena in a way that purely quantitative graduates often do not — they know that a survey dataset tells you what is happening but qualitative research tells you why, and they have the skills to do both. In applied social research, that combination is essential: our best policy evaluations draw on mixed-methods approaches that require exactly the toolkit Sociology degrees develop. Graduates who have conducted their own dissertation research — particularly fieldwork — consistently hit the ground running.",
+    "entryRequirements": "Typical offer: ABB–BBB at A-level; no specific subject required at most universities, though Sociology, Psychology, Politics, History or a related social science are common. Sociology A-level is available at many colleges but not all schools. GCSE: English at grade 5/C expected. Some universities look for evidence of quantitative aptitude, particularly in programmes with a strong social statistics component.",
+    "furtherStudy": "MSc in Social Research, Sociology, Social Policy, Criminology, Gender Studies, Race and Ethnicity Studies or Urban Studies. PGCE for teaching. MSW (Masters in Social Work) for qualified social worker status. PhD for academic careers — ESRC doctoral training partnerships fund Sociology and related social science research. PGDip in Counselling or Psychotherapy for therapeutic careers.",
+    "isItForYou": [
+      "Study this if you are fascinated by inequality, social change and the forces that shape human lives and want to investigate them with both empirical rigour and theoretical depth rather than simply expressing opinions about them",
+      "Study this if you are drawn to careers in social research, policy, social work, the public sector or journalism, where understanding how social structures operate is directly applicable to your day-to-day work",
+      "Think twice if you are primarily interested in psychology as an individual-level science — Sociology focuses on social structures, institutions and collective phenomena, and the theoretical reading can feel abstract if your interests are primarily at the level of individual behaviour"
+    ]
+  },
+
+  "ppe": {
+    "id": "ppe",
+    "title": "Philosophy, Politics & Economics BA (PPE)",
+    "duration": "3 years",
+    "overview": "Philosophy, Politics and Economics — universally known as PPE — is one of the most prestigious and influential undergraduate degrees in the UK, and Oxford's PPE is the most famous single degree programme in British public life, having produced multiple Prime Ministers, chancellors, cabinet ministers and leading journalists. The degree combines three disciplines that are individually rigorous and jointly transformative: Philosophy provides tools for precise reasoning about ethics, justice and what constitutes a valid argument; Politics develops analytical frameworks for understanding power, institutions and governance; and Economics provides quantitative models for understanding resource allocation, incentives and market behaviour. The combination produces graduates of unusual intellectual range and analytical power who go on to leadership roles in politics, government, finance, policy, journalism and consulting.",
+    "yearByYear": [
+      {
+        "year": 1,
+        "focus": "Foundations across all three disciplines",
+        "modules": [
+          "Microeconomics: Consumer Theory, Firm Theory and Market Structures",
+          "Macroeconomics: National Income, Money and Open Economies",
+          "Political Theory: Hobbes, Locke, Rousseau and the Social Contract",
+          "Logic, Argumentation and the Philosophy of Knowledge",
+          "Comparative Government and Political Institutions"
+        ]
+      },
+      {
+        "year": 2,
+        "focus": "Advanced integration and applied analysis",
+        "modules": [
+          "Political Philosophy: Rawls, Nozick and Theories of Justice",
+          "Intermediate Econometrics and Quantitative Political Analysis",
+          "The Politics of International Relations and International Organisations",
+          "Behavioural Economics and Decision Theory",
+          "Ethics: Normative and Applied"
+        ]
+      },
+      {
+        "year": 3,
+        "focus": "Specialist electives and dissertation",
+        "modules": [
+          "Philosophy of Economics and Social Science",
+          "Political Economy: Institutions, Growth and Inequality",
+          "Advanced Topics in Democratic Theory",
+          "Dissertation (Philosophy, Politics or Economics)"
+        ]
+      }
+    ],
+    "skills": [
+      "Integrative analytical reasoning — the ability to bring philosophical, political and economic frameworks to bear simultaneously on complex real-world problems",
+      "Formal economic modelling and quantitative analysis, including econometrics and game-theoretic reasoning",
+      "Philosophical argument construction — identifying valid forms of inference, testing normative claims and engaging with the ethics of policy",
+      "Political analysis: comparative institutional analysis, electoral behaviour and the study of political power and legitimacy",
+      "High-level written communication — producing polished, persuasive analysis across essay, report and policy brief formats"
+    ],
+    "professionalBodies": [
+      {
+        "name": "Political Studies Association (PSA)",
+        "benefit": "The PSA's student membership, specialist working groups and annual conference support PPE graduates developing careers in political science, policy analysis and public administration"
+      },
+      {
+        "name": "Royal Economic Society (RES)",
+        "benefit": "RES membership provides access to the Economic Journal, the annual conference and student bursaries — particularly relevant for PPE graduates with a strong economics specialism moving towards economic consultancy or policy"
+      },
+      {
+        "name": "British Philosophical Association (BPA)",
+        "benefit": "The BPA supports PPE graduates pursuing philosophy-led careers in ethics consultancy, AI policy and academic philosophy, with bursaries, conferences and a student mentoring network"
+      }
+    ],
+    "careers": [
+      {
+        "role": "Politician / Parliamentary Researcher / Political Adviser",
+        "salary": "£28,000–£40,000 starting / £45,000–£80,000 at 5 years",
+        "demand": "Growing"
+      },
+      {
+        "role": "Policy Adviser (Government, Think Tank, International Organisation)",
+        "salary": "£30,000–£40,000 starting / £50,000–£80,000 at 5 years",
+        "demand": "Very High"
+      },
+      {
+        "role": "Journalist / Political Commentator / Broadcast Analyst",
+        "salary": "£25,000–£35,000 starting / £45,000–£80,000 at 5 years",
+        "demand": "High"
+      },
+      {
+        "role": "Investment Banker / Economic Consultant",
+        "salary": "£45,000–£70,000 starting / £80,000–£150,000+ at 5 years",
+        "demand": "Very High"
+      }
+    ],
+    "topEmployers": ["UK Cabinet Office / Treasury", "McKinsey & Company", "Goldman Sachs", "Chatham House / IPPR / Resolution Foundation", "BBC / The Economist", "European Commission"],
+    "employerPerspective": "PPE graduates are the people who can walk into a room, understand the political constraints, model the economic implications and make a philosophical argument for the right course of action — all at the same time. That is a genuinely rare combination. Oxford PPE, in particular, is one of the most recognised qualifications in UK public life and signals intellectual seriousness, analytical range and the ability to synthesise across disciplines. We recruit PPE graduates into senior analytical roles where the stakes are too high to rely on narrow disciplinary thinking.",
+    "entryRequirements": "Typical offer: A*AA–AAB at A-level. Oxford PPE is one of the most competitive courses in the UK, requiring A*AA with strong performance in written tests (TSA) and interviews. Other strong PPE programmes: Warwick (AAA), UCL (A*AA), Durham (AAA), King's College London (AAA). Mathematics or Economics A-level strongly preferred, often required, given the quantitative economics component. GCSE: broadly strong grades expected at all selective institutions.",
+    "furtherStudy": "MSc in Economics, Public Policy, International Development, Political Theory, Political Philosophy or European Politics. GDL for law conversion. MPA (Master of Public Administration) at LSE, Oxford or Harvard for policy leadership roles. MBA for business transitions. PhD in Economics, Political Science or Philosophy for academic careers.",
+    "isItForYou": [
+      "Study this if you have genuine intellectual breadth and want to develop serious analytical skills across three rigorous disciplines simultaneously — PPE rewards students who are not just broadly curious but are prepared to work hard across quantitative economics, political theory and philosophical argumentation",
+      "Study this if you are drawn to the highest levels of public life — politics, international institutions, finance, journalism and consultancy — where the combination of economic literacy, political sophistication and philosophical precision is precisely what is needed",
+      "Think twice if you are hoping to specialise deeply in a single area from the start — PPE's strength is breadth, and students who want to focus exclusively on economics, philosophy or politics will find that a single-honours degree lets them go deeper and faster in their chosen discipline"
+    ]
+  },
+
+  "criminology": {
+    "id": "criminology",
+    "title": "Criminology BSc",
+    "duration": "3 years",
+    "overview": "Criminology is the multidisciplinary study of crime, its causes, its control and its consequences — for individuals, communities and society as a whole. Drawing on sociology, psychology, law, philosophy and statistics, the degree examines why people commit crimes, how the criminal justice system responds, what works in reducing offending and how different social groups experience both crime and policing very differently. Students learn to think critically about concepts of crime and deviance that most people take for granted, engaging with debates about criminalisation, punishment, prison, rehabilitation and the politics of 'law and order'. Criminology BSc includes substantial research methods and statistics training, preparing graduates for careers in the criminal justice system, social research, policy and public health.",
+    "yearByYear": [
+      {
+        "year": 1,
+        "focus": "Foundations of criminological thought and research",
+        "modules": [
+          "Introduction to Criminology: Crime, Deviance and Society",
+          "Classical and Positivist Criminology: Beccaria, Lombroso and Beyond",
+          "The Criminal Justice System: Police, Courts and Prisons",
+          "Research Methods for Criminologists: Surveys, Interviews and Observation",
+          "Victimology: Understanding the Experience of Crime"
+        ]
+      },
+      {
+        "year": 2,
+        "focus": "Applied criminology and specialist themes",
+        "modules": [
+          "Critical Criminology: Race, Gender, Class and Crime",
+          "Penology: Punishment, Prison and Alternatives to Custody",
+          "Youth Justice and Juvenile Delinquency",
+          "Quantitative Criminology: Crime Statistics and Data Analysis",
+          "Organised Crime, Cybercrime and White-Collar Offending"
+        ]
+      },
+      {
+        "year": 3,
+        "focus": "Policy, practice and original research",
+        "modules": [
+          "Terrorism, Radicalisation and Counter-Extremism",
+          "Evidence-Based Crime Reduction: What Works in Policing and Prevention",
+          "Restorative Justice and Community Responses to Crime",
+          "Dissertation in Criminology"
+        ]
+      }
+    ],
+    "skills": [
+      "Critical criminological analysis — questioning commonsense assumptions about crime and criminal justice using theoretical and empirical evidence",
+      "Research methods: quantitative crime data analysis and qualitative methods including interviews with justice-involved populations",
+      "Knowledge of the criminal justice system and the legal frameworks governing policing, prosecution and punishment in England and Wales",
+      "Policy analysis — evaluating crime reduction interventions against the evidence and identifying effective and ineffective strategies",
+      "Ethical sensitivity in research and practice with vulnerable populations, including offenders, victims and justice-involved individuals"
+    ],
+    "professionalBodies": [
+      {
+        "name": "British Society of Criminology (BSC)",
+        "benefit": "The BSC is the UK's professional body for criminologists, offering student membership, an annual conference, the journal Criminology & Criminal Justice and a code of ethics for criminological research"
+      },
+      {
+        "name": "Chartered Society of Forensic Sciences (CSFS)",
+        "benefit": "For graduates moving into forensic or crime science roles, the CSFS provides professional membership, quality standards, CPD resources and a register of forensic practitioners"
+      },
+      {
+        "name": "Probation Institute",
+        "benefit": "The Probation Institute supports professionals working in probation, offender management and community justice, offering membership, professional development, standards and a community of practice for graduates entering the probation service"
+      }
+    ],
+    "careers": [
+      {
+        "role": "Probation Officer (via National Probation Service Professional Qualification)",
+        "salary": "£26,000–£32,000 starting / £35,000–£50,000 at 5 years",
+        "demand": "Very High"
+      },
+      {
+        "role": "Police Officer / Detective / Crime Analyst (via degree holdup entry schemes)",
+        "salary": "£28,551–£43,032 starting / £45,000–£60,000 at 5 years",
+        "demand": "Very High"
+      },
+      {
+        "role": "Social Researcher (Home Office, MoJ, Police Research)",
+        "salary": "£25,000–£35,000 starting / £42,000–£60,000 at 5 years",
+        "demand": "High"
+      },
+      {
+        "role": "Youth Justice Worker / Offender Manager",
+        "salary": "£24,000–£30,000 starting / £35,000–£48,000 at 5 years",
+        "demand": "High"
+      }
+    ],
+    "topEmployers": ["National Probation Service / His Majesty's Prison and Probation Service (HMPPS)", "Home Office Research", "Metropolitan Police", "Ministry of Justice", "Youth Offending Teams (Local Authorities)", "NACRO"],
+    "employerPerspective": "Criminology graduates have a rare combination of critical awareness and practical research skills that we value in the prison and probation service. They arrive understanding why simple 'tough on crime' rhetoric often makes things worse, not better, and they have been trained to look at evidence critically — which is essential when designing and evaluating interventions with offenders. The research methods component means they can contribute to the monitoring and evaluation of our programmes from early in their careers. We also find that the degree's engagement with race, gender and social inequality prepares graduates to work respectfully and effectively with diverse populations.",
+    "entryRequirements": "Typical offer: BBB–ABB at A-level; no specific subjects required, but Sociology, Psychology, Law, Biology or Statistics are commonly seen. Criminology A-level is offered at some colleges. GCSE: English and Mathematics at grade 5/C or above. Some universities specify a minimum grade in English GCSE. Broader entry than pure law or economics degrees — reflects the discipline's inclusive, interdisciplinary character.",
+    "furtherStudy": "MSc in Criminology, Criminal Justice, Applied Criminology, Police Studies, Forensic Psychology or Social Research Methods. MSc Forensic Science for laboratory-based routes. Professional Qualification in Probation (PQiP) for probation careers. PGCE or MA Education for youth justice and educational roles. PhD for academic careers — ESRC funds Criminology within social science doctoral partnerships.",
+    "isItForYou": [
+      "Study this if you are genuinely concerned about crime, justice and inequality, want to understand the criminal justice system from the inside out, and are prepared to have your assumptions challenged by empirical evidence and critical theory",
+      "Study this if you are considering a career in policing, probation, youth justice, social research or policy, where understanding the structural causes of crime and the evidence on what reduces it is directly applicable to your work",
+      "Think twice if you are drawn to forensics primarily through crime dramas — Criminology BSc focuses on social and behavioural analysis rather than forensic science, and the day-to-day reality of the criminal justice sector is considerably more bureaucratic and less dramatic than television suggests"
+    ]
+  },
+
+  "internationalRelations": {
+    "id": "internationalRelations",
+    "title": "International Relations BA",
+    "duration": "3 years",
+    "overview": "International Relations is the study of the relationships between states, international organisations, non-governmental actors and transnational forces — examining war, diplomacy, trade, human rights, international law and the global governance of everything from climate change to nuclear weapons. The degree combines theoretical rigour (in the form of IR theories from realism to constructivism to feminist IR) with detailed empirical study of specific regions, conflicts and international institutions. Unlike Politics & International Relations, a standalone IR degree tends to give more weight to history, area studies and diplomatic history alongside theoretical frameworks. Graduates are recruited into diplomacy, international development, international organisations, think tanks, journalism and global business.",
+    "yearByYear": [
+      {
+        "year": 1,
+        "focus": "IR theory and global history",
+        "modules": [
+          "Theories of International Relations: Realism, Liberalism and Constructivism",
+          "International History: The World Order from 1919 to the Present",
+          "International Institutions: The UN, WTO, IMF and World Bank",
+          "Introduction to International Political Economy",
+          "Human Rights, International Law and Global Justice"
+        ]
+      },
+      {
+        "year": 2,
+        "focus": "Regional depth and thematic specialisms",
+        "modules": [
+          "US Foreign Policy and the Liberal International Order",
+          "China in World Politics: Rise, Rivalry and Regional Order",
+          "Conflict, Peacebuilding and Post-War Reconstruction",
+          "Environmental Politics and Global Climate Governance",
+          "Migration, Refugees and Humanitarian Intervention"
+        ]
+      },
+      {
+        "year": 3,
+        "focus": "Advanced theory and independent research",
+        "modules": [
+          "Nuclear Weapons, Arms Control and Non-Proliferation",
+          "Feminist and Postcolonial Approaches to IR",
+          "Global Health Security and Pandemic Governance",
+          "Dissertation in International Relations"
+        ]
+      }
+    ],
+    "skills": [
+      "Theoretical analysis of international events and structures using a range of IR paradigms and their empirical implications",
+      "Comparative historical analysis of international conflicts, institutions and diplomatic negotiations",
+      "Engagement with primary sources including diplomatic records, UN documents, treaties and NGO reports",
+      "Policy brief writing and clear synthesis of complex international situations for non-specialist audiences",
+      "Cross-cultural research literacy — the ability to analyse international situations with sensitivity to cultural, historical and political context"
+    ],
+    "professionalBodies": [
+      {
+        "name": "British International Studies Association (BISA)",
+        "benefit": "BISA is the leading professional association for IR scholars and practitioners in the UK, with specialist working groups on security, gender, environment and other subfields, an annual conference and the journal Millennium"
+      },
+      {
+        "name": "Royal Institute of International Affairs (Chatham House)",
+        "benefit": "Chatham House is the world's leading IR think tank; its research internships, events programme and graduate networks provide invaluable experience and contacts for students and graduates working in international affairs"
+      },
+      {
+        "name": "United Nations Association — UK (UNA-UK)",
+        "benefit": "UNA-UK supports engagement with the UN system through events, campaigns and internship opportunities at UN agencies and related international organisations, providing practical pathways for IR graduates into multilateral work"
+      }
+    ],
+    "careers": [
+      {
+        "role": "Diplomat / Foreign Service Officer (FCDO Fast Stream)",
+        "salary": "£29,000–£33,000 starting / £45,000–£70,000 at 5 years",
+        "demand": "High"
+      },
+      {
+        "role": "International Development Programme Officer (NGO or Bilateral Aid Agency)",
+        "salary": "£25,000–£35,000 starting / £42,000–£60,000 at 5 years",
+        "demand": "Very High"
+      },
+      {
+        "role": "Think Tank Research Analyst / Policy Adviser",
+        "salary": "£27,000–£38,000 starting / £45,000–£65,000 at 5 years",
+        "demand": "High"
+      },
+      {
+        "role": "International Journalist / Foreign Correspondent",
+        "salary": "£25,000–£35,000 starting / £42,000–£70,000 at 5 years",
+        "demand": "Growing"
+      }
+    ],
+    "topEmployers": ["FCDO (Foreign Commonwealth & Development Office)", "United Nations Development Programme (UNDP)", "Chatham House", "International Committee of the Red Cross (ICRC)", "Reuters / BBC World Service", "Control Risks"],
+    "employerPerspective": "International Relations graduates bring something we need in international organisations and foreign affairs: the ability to understand a complex geopolitical situation in its full context — historical, cultural, theoretical and strategic — rather than reducing it to a single variable. They have been trained to hold competing theoretical frameworks in mind and to assess their empirical strengths and weaknesses, which is exactly the kind of thinking required in analysis of conflicts, sanctions regimes and diplomatic negotiations. Written communication skills from the IR dissertation are among the strongest we see from social science graduates.",
+    "entryRequirements": "Typical offer: AAB–ABB at A-level; no specific subject required, but History, Politics, Economics, Geography and a modern language are commonly seen. Top universities (LSE AAA, Warwick AAA, Exeter AAB) are competitive. GCSE: English at grade 5/C expected. International students with strong qualifications in relevant subjects are welcomed at most institutions.",
+    "furtherStudy": "MSc in International Relations, International Security, War Studies, Peace and Conflict Studies, Diplomacy, International Development, Global Governance or International Political Economy. MPA (Master of Public Administration) for international public sector careers. GDL for law. PhD for academic careers — ESRC and AHRC both fund IR and international history research. Fellowship programmes at leading think tanks (IISS, RUSI, Chatham House) for early-career researchers.",
+    "isItForYou": [
+      "Study this if you are deeply engaged by global affairs — not just following the news but wanting to understand the theoretical frameworks and historical structures that explain why international events unfold as they do",
+      "Study this if you are drawn to careers in diplomacy, international organisations, NGOs, think tanks or international journalism, where systematic knowledge of international institutions, foreign policy and global governance is directly applicable",
+      "Think twice if you expect the degree to be purely current-affairs commentary — IR involves dense theoretical reading, historical analysis and dissertation research, and the best graduates are those who can engage rigorously with IR theory as well as following global events"
+    ]
+  },
+
+  "politicsEconomics": {
+    "id": "politicsEconomics",
+    "title": "Politics & Economics BA / Political Economy BA",
+    "duration": "3 years",
+    "overview": "Politics and Economics — offered as a joint degree at many universities and as a distinct 'Political Economy' programme at others — combines political science and economic analysis in one of the most rigorous and practically valuable undergraduate programmes available. Political Economy has a distinguished intellectual pedigree, running from Adam Smith and Karl Marx through J.S. Mill and Keynes to contemporary scholars like Dani Rodrik and Mariana Mazzucato: it asks how economic systems are shaped by political choices and how political outcomes are determined by economic forces. Students develop quantitative skills through the economics component — including mathematics, statistics and econometrics — alongside the analytical and theoretical skills of political science, producing graduates who can read both a regression output and a policy brief.",
+    "yearByYear": [
+      {
+        "year": 1,
+        "focus": "Foundations in economics and political analysis",
+        "modules": [
+          "Microeconomics: Market Theory, Externalities and Public Goods",
+          "Macroeconomics: Employment, Inflation and Monetary Policy",
+          "Introduction to Political Theory and Comparative Politics",
+          "Mathematics and Statistics for Political Economy",
+          "The History of Political Economic Thought: Smith, Marx, Keynes"
+        ]
+      },
+      {
+        "year": 2,
+        "focus": "Intermediate theory and applied political economy",
+        "modules": [
+          "International Political Economy: Trade, Finance and Development",
+          "Intermediate Econometrics and Quantitative Political Analysis",
+          "Comparative Capitalism: Varieties of Capitalism and Welfare States",
+          "Public Economics: Taxation, Redistribution and Government Failure",
+          "The Politics of Labour: Trade Unions, Inequality and Work"
+        ]
+      },
+      {
+        "year": 3,
+        "focus": "Advanced specialism and independent research",
+        "modules": [
+          "The Political Economy of Climate Change",
+          "Financial Markets, Regulation and the Politics of Austerity",
+          "Political Economy of Development and the Global South",
+          "Dissertation in Political Economy or Politics & Economics"
+        ]
+      }
+    ],
+    "skills": [
+      "Integrated political-economic analysis — applying economic frameworks to political phenomena and political frameworks to economic outcomes",
+      "Quantitative research skills: econometrics, statistical analysis and the critical interpretation of economic data",
+      "Political analysis: comparative institutional analysis, legislative behaviour, party politics and the study of political economy across different national models",
+      "Historical literacy in economic thought from classical political economy to post-Keynesian and institutional economics",
+      "Policy appraisal — evaluating economic policies (austerity, industrial strategy, monetary policy) in their political and distributional contexts"
+    ],
+    "professionalBodies": [
+      {
+        "name": "Royal Economic Society (RES)",
+        "benefit": "RES membership, the Economic Journal and the annual conference are particularly valuable for graduates with a strong economics specialisation moving into economic consultancy, regulation or policy"
+      },
+      {
+        "name": "Political Studies Association (PSA)",
+        "benefit": "The PSA's specialist working group on political economy, annual conference and journal Political Studies provide a professional community for graduates combining political and economic analysis"
+      },
+      {
+        "name": "Society of Professional Economists (SPE)",
+        "benefit": "The SPE connects economists in business, government and consultancy; its mentoring events, annual dinner and economics journal are particularly relevant for graduates moving into commercial or public sector economic roles"
+      }
+    ],
+    "careers": [
+      {
+        "role": "Economic Policy Analyst (Treasury, OBR, IFS, IPPR)",
+        "salary": "£30,000–£40,000 starting / £50,000–£75,000 at 5 years",
+        "demand": "Very High"
+      },
+      {
+        "role": "Management Consultant (Economic / Strategy)",
+        "salary": "£35,000–£55,000 starting / £65,000–£100,000 at 5 years",
+        "demand": "Very High"
+      },
+      {
+        "role": "Financial Analyst / Investment Strategist",
+        "salary": "£40,000–£60,000 starting / £70,000–£120,000 at 5 years",
+        "demand": "High"
+      },
+      {
+        "role": "International Development Economist (World Bank, DfID successor, UN)",
+        "salary": "£30,000–£45,000 starting / £55,000–£85,000 at 5 years",
+        "demand": "Growing"
+      }
+    ],
+    "topEmployers": ["HM Treasury", "Institute for Fiscal Studies (IFS)", "Oxford Economics", "Goldman Sachs", "World Bank Group", "McKinsey & Company"],
+    "employerPerspective": "Political economy graduates are among our most versatile analytical hires because they refuse to treat economic and political questions as separate. In economic consulting, the ability to contextualise a quantitative finding within its political and institutional constraints is essential — and most Economics graduates need years of experience to develop that instinct, while Political Economy graduates arrive with it already. At HM Treasury and the OBR, we specifically recruit from programmes that combine economic rigour with political literacy, because policy analysis that ignores the political feasibility of interventions is ultimately useless.",
+    "entryRequirements": "Typical offer: AAA–AAB at A-level; Mathematics A-level at grade A (or A*) is required or strongly preferred given the quantitative economics component. Economics A-level or Politics A-level is useful but not normally required. Top programmes (LSE, UCL, Warwick) require AAA; others require AAB. GCSE: Mathematics at grade 6 or above expected at selective institutions.",
+    "furtherStudy": "MSc in Economics, Political Economy, International Political Economy, Public Policy, Development Economics or Quantitative Political Science. MPA for public sector leadership. GDL for law. PhD in Economics or Political Science. CFA for investment analysis careers. LSE's MSc Political Economy of Europe and UCL's MSc Political Economy are particularly well-regarded.",
+    "isItForYou": [
+      "Study this if you want the intellectual rigour of economics — including its quantitative methods — alongside the political and institutional context that explains why economic policies succeed or fail in the real world",
+      "Study this if you are drawn to careers at the intersection of policy and economics — at the IFS, OBR, Treasury, international financial institutions or economic consultancies — where the combination is genuinely valued over either discipline alone",
+      "Think twice if you are weak in mathematics and hoping the 'Politics' component will insulate you from quantitative work — the Economics component of well-regarded joint degrees requires genuine mathematical ability at A-level standard, and underestimating it is the most common source of dissatisfaction in the first year"
+    ]
+  },
+
+  "socialPolicy": {
+    "id": "socialPolicy",
+    "title": "Social Policy BA",
+    "duration": "3 years",
+    "overview": "Social Policy is the study of welfare states, public services and the political decisions that shape the distribution of resources, opportunity and risk in society. It asks how governments organise healthcare, education, housing, pensions, social care and social security; why different countries make different choices; and who benefits and who loses from these choices. The degree draws on sociology, economics, political science and history to provide a comprehensive analysis of the institutions that most directly affect everyday life. Social Policy graduates are exceptionally well-prepared for careers in the Civil Service, local government, health policy, the third sector, housing and social research — wherever evidence-based understanding of welfare systems and social needs matters.",
+    "yearByYear": [
+      {
+        "year": 1,
+        "focus": "Foundations of welfare and social analysis",
+        "modules": [
+          "Introduction to Social Policy: Welfare, Ideology and the State",
+          "The History of the Welfare State in Britain",
+          "Poverty, Inequality and Social Exclusion",
+          "Research Methods in Social Policy: Surveys, Documents and Statistics",
+          "Comparative Welfare States: Beveridge, Bismarck and Beyond"
+        ]
+      },
+      {
+        "year": 2,
+        "focus": "Specific policy sectors and applied analysis",
+        "modules": [
+          "Health Policy and the NHS: Structure, Reform and Inequality",
+          "Housing Policy: Markets, Social Housing and Homelessness",
+          "Education Policy: Access, Quality and Social Mobility",
+          "Social Security and Benefits Policy: Universal Credit and Its Critics",
+          "Quantitative Methods in Social Policy: Statistical Analysis of Policy Outcomes"
+        ]
+      },
+      {
+        "year": 3,
+        "focus": "International perspectives and policy research",
+        "modules": [
+          "Ageing Societies: Pensions, Care and Intergenerational Equity",
+          "The Politics of Welfare Reform: Austerity, Retrenchment and Resistance",
+          "International Social Policy: Global Welfare and Development",
+          "Dissertation in Social Policy"
+        ]
+      }
+    ],
+    "skills": [
+      "Policy analysis — identifying the evidence base, political drivers and distributional consequences of specific welfare policies",
+      "Social statistics: analysing data on poverty, health, education and housing outcomes using official statistics and survey datasets",
+      "Comparative analytical skills — explaining variation in welfare state design and outcomes across different national and political contexts",
+      "Report writing and policy briefing — translating complex research findings into clear, actionable guidance for decision-makers",
+      "Stakeholder awareness — understanding the interests and perspectives of service users, practitioners, managers and politicians across welfare systems"
+    ],
+    "professionalBodies": [
+      {
+        "name": "Social Policy Association (SPA)",
+        "benefit": "The SPA is the UK's professional association for social policy researchers and practitioners, with an annual conference, the journal Social Policy & Administration and early-career bursaries for students presenting research"
+      },
+      {
+        "name": "Chartered Institute of Housing (CIH)",
+        "benefit": "CIH is the professional body for housing practitioners; Social Policy graduates moving into housing management, housing policy or homelessness work can progress towards CIH membership and the Chartered Housing Practitioner qualification"
+      },
+      {
+        "name": "UK Health Security Agency (UKHSA) / NHS Graduate Schemes",
+        "benefit": "The NHS Graduate Management Training Scheme and UKHSA's analytical graduate programmes are directly relevant for Social Policy graduates interested in health policy, with structured CPD and fast-track progression"
+      }
+    ],
+    "careers": [
+      {
+        "role": "Policy Officer / Analyst (Central or Local Government)",
+        "salary": "£26,000–£34,000 starting / £40,000–£62,000 at 5 years",
+        "demand": "Very High"
+      },
+      {
+        "role": "NHS Management Trainee / Health Policy Analyst",
+        "salary": "£28,000–£36,000 starting / £45,000–£65,000 at 5 years",
+        "demand": "Very High"
+      },
+      {
+        "role": "Housing Officer / Housing Policy Manager",
+        "salary": "£24,000–£32,000 starting / £38,000–£55,000 at 5 years",
+        "demand": "Growing"
+      },
+      {
+        "role": "Social Researcher (Government, Think Tank, Third Sector)",
+        "salary": "£25,000–£33,000 starting / £40,000–£58,000 at 5 years",
+        "demand": "Very High"
+      }
+    ],
+    "topEmployers": ["Department for Work and Pensions (DWP)", "NHS England", "Joseph Rowntree Foundation", "Shelter", "Local Government Association", "Age UK"],
+    "employerPerspective": "Social Policy graduates arrive with something that takes other graduates years to develop: a comprehensive, evidence-based understanding of how welfare systems work and why they produce the outcomes they do. In the DWP or local government, that knowledge is immediately applicable — they understand the policy architecture, they know the research on what works, and they have been trained to think about distributional consequences rather than just headline outcomes. Their research methods training means they can contribute to policy evaluation from day one, which is increasingly valuable in a data-driven public sector.",
+    "entryRequirements": "Typical offer: BBB–ABB at A-level; no specific subjects required, but Sociology, Politics, Economics, History, Geography and Psychology are commonly seen. Social Policy A-level is available at some institutions. GCSE: English and Mathematics at grade 5/C or above. More accessible entry requirements than many social sciences, reflecting the degree's commitment to broadening participation in policy analysis.",
+    "furtherStudy": "MSc in Social Policy, Public Policy, Health Policy, Housing Studies, Social Work, Poverty and Inequality Studies or Public Administration. PGCE for social sciences teaching. MA Social Work (pre-registration) for qualified social worker status. PhD for academic careers — ESRC funds Social Policy within social science doctoral training partnerships. Chartered Housing Practitioner (CIH) for housing-focused careers.",
+    "isItForYou": [
+      "Study this if you care deeply about how welfare states are designed and whether they actually help people, and want to develop both the analytical tools to evaluate policies rigorously and the knowledge to understand the political trade-offs involved",
+      "Study this if you are drawn to careers in public policy, the NHS, housing, social research or the third sector, where direct knowledge of welfare systems and social policy evidence is highly applicable from the first day",
+      "Think twice if you are primarily interested in law, economics or sociology as disciplines in their own right — Social Policy is applied and interdisciplinary rather than theoretically purist, and students who want deep disciplinary grounding may find single-honours law, economics or sociology more satisfying"
+    ]
+  },
+
+  "socialAnthropology": {
+    "id": "socialAnthropology",
+    "title": "Social Anthropology BA",
+    "duration": "3 years",
+    "overview": "Social Anthropology is the comparative study of human societies, cultures and ways of life — asking what it means to be human by examining the extraordinary diversity of how people organise kinship, religion, economy, politics, ritual, gender and personhood across the world. Unlike sociology, which tends to focus on Western industrial societies using survey methods and statistical analysis, social anthropology is rooted in ethnographic fieldwork: long-term, immersive research in specific communities using participant observation and qualitative interviewing. The degree demands genuine open-mindedness — a willingness to take seriously ways of life very different from your own and to question assumptions about what is 'natural' or 'universal' in human social arrangements. Graduates are recruited into international development, humanitarian work, UX research, policy and any role requiring deep cultural intelligence.",
+    "yearByYear": [
+      {
+        "year": 1,
+        "focus": "Foundations of anthropological thought and method",
+        "modules": [
+          "Introduction to Social and Cultural Anthropology",
+          "Classic Ethnographies: Malinowski, Evans-Pritchard, Geertz",
+          "Ethnographic Methods: Participant Observation and Fieldwork Ethics",
+          "Kinship, Marriage and the Family: Anthropological Perspectives",
+          "Economic Anthropology: Gift, Exchange and the Market"
+        ]
+      },
+      {
+        "year": 2,
+        "focus": "Regional depth and theoretical frameworks",
+        "modules": [
+          "Political Anthropology: Power, Authority and Resistance",
+          "Religion, Ritual and Cosmology",
+          "Race, Colonialism and Postcolonial Anthropology",
+          "The Anthropology of Development and Global Inequality",
+          "Medical Anthropology: Body, Illness and Healing"
+        ]
+      },
+      {
+        "year": 3,
+        "focus": "Contemporary anthropology and independent fieldwork",
+        "modules": [
+          "Digital Anthropology: Technology, Identity and the Virtual",
+          "Environmental Anthropology and Multispecies Relations",
+          "The Anthropology of Humanitarianism and Aid",
+          "Dissertation in Social Anthropology (ethnographic fieldwork-based)"
+        ]
+      }
+    ],
+    "skills": [
+      "Ethnographic research skills — designing and conducting fieldwork using participant observation, semi-structured interviews and archival methods",
+      "Cross-cultural interpretation: the ability to understand social practices and beliefs in their own cultural terms without imposing external frameworks",
+      "Theoretical literacy across anthropological traditions from British structural-functionalism to American cultural anthropology, French structuralism and postcolonial theory",
+      "Ethnographic writing — producing thick description that conveys cultural complexity in a way accessible to non-specialist readers",
+      "Reflexivity: critical awareness of how the researcher's own subject position shapes what they observe and how they interpret it"
+    ],
+    "professionalBodies": [
+      {
+        "name": "Royal Anthropological Institute (RAI)",
+        "benefit": "The RAI is the oldest and most prestigious anthropological society in the world, offering student membership, the journal of the RAI, the Film Library, the annual conference and bursaries for early-career anthropologists"
+      },
+      {
+        "name": "Association of Social Anthropologists (ASA)",
+        "benefit": "The ASA represents professional social anthropologists in the UK, with an annual conference, the journal Anthropology of this Century, professional development resources and ethical guidelines for fieldwork-based research"
+      },
+      {
+        "name": "Anthropology in Practice Network (APN)",
+        "benefit": "The APN supports applied and practising anthropologists outside academia, with networking events, case studies and resources helping graduates translate ethnographic skills into commercial, NGO and government contexts"
+      }
+    ],
+    "careers": [
+      {
+        "role": "International Development Programme Officer (NGO or Bilateral Aid)",
+        "salary": "£25,000–£35,000 starting / £42,000–£60,000 at 5 years",
+        "demand": "Very High"
+      },
+      {
+        "role": "UX Researcher / Consumer Insights Analyst",
+        "salary": "£30,000–£42,000 starting / £52,000–£75,000 at 5 years",
+        "demand": "Growing"
+      },
+      {
+        "role": "Humanitarian Affairs Officer (UNHCR, ICRC, MSF)",
+        "salary": "£27,000–£38,000 starting / £45,000–£65,000 at 5 years",
+        "demand": "High"
+      },
+      {
+        "role": "Academic Researcher / Lecturer (via PhD)",
+        "salary": "£33,000–£42,000 starting / £45,000–£65,000 at 5 years",
+        "demand": "High"
+      }
+    ],
+    "topEmployers": ["Oxfam", "UNHCR", "Médecins Sans Frontières (MSF)", "ReD Associates (Anthropology Consultancy)", "Google (UX Research)", "FCDO"],
+    "employerPerspective": "Anthropologists bring something to our field research and programme design that other social scientists often lack: the ability to sit with a community, understand what really matters to them on their own terms, and translate that understanding into programme design that actually works. In international development, programmes that fail to take cultural context seriously routinely fail — and anthropologists know that. In commercial research, ethnographic methods give us insight into consumer behaviour that surveys and focus groups simply cannot replicate. The combination of fieldwork skills and theoretical rigour is genuinely distinctive.",
+    "entryRequirements": "Typical offer: ABB–AAB at A-level; no specific subjects required, but Sociology, History, Geography, a modern language or Biology are common in successful applications. Social Anthropology A-level is not offered at schools. GCSE: English at grade 5/C expected. Top programmes (LSE, Cambridge, UCL, Edinburgh) are competitive. A genuine personal statement demonstrating curiosity about other cultures and ways of life is particularly important.",
+    "furtherStudy": "MSc/MA in Social Anthropology, Development Anthropology, Medical Anthropology, Migration Studies, Global Health, Museum Studies or Digital Anthropology. MSc in International Development. MPhil or PhD in Social Anthropology for academic careers — ESRC and AHRC both fund anthropological research. Specialist postgraduate programmes in humanitarian action and international development at SOAS, LSE and Edinburgh.",
+    "isItForYou": [
+      "Study this if you are genuinely curious about cultural difference, willing to challenge your own assumptions about what is normal and natural, and excited by the prospect of extended fieldwork as a research method",
+      "Study this if you are drawn to international development, humanitarian work, applied research or UX and consumer insights, where deep cultural understanding and qualitative research skills are directly valuable",
+      "Think twice if you are primarily interested in quantitative social science or are uncomfortable with the ambiguity inherent in ethnographic interpretation — Social Anthropology is a qualitative, interpretive discipline that resists the neat answers and clear metrics that more quantitative social sciences provide"
+    ]
+  },
+
+  "forensicPsychology": {
+    "id": "forensicPsychology",
+    "title": "Forensic Psychology BSc",
+    "duration": "3 years",
+    "overview": "Forensic Psychology is the application of psychological theory and research methods to questions arising from the intersection of psychology and the legal and criminal justice systems — covering topics from offender assessment and risk management to eyewitness testimony, jury decision-making, interviewing techniques and the psychology of violent crime. The degree combines core psychology training (making it BPS-accredited at most institutions, conferring Graduate Basis for Chartered Membership) with specialist modules on criminal behaviour, offender rehabilitation, the psychology of investigation and the work of psychologists in police, prison and probation settings. It is a genuinely distinctive and rigorous degree that prepares graduates for assistant psychologist roles in forensic settings and for accredited postgraduate training in forensic, clinical or counselling psychology.",
+    "yearByYear": [
+      {
+        "year": 1,
+        "focus": "Psychology foundations and introduction to forensic contexts",
+        "modules": [
+          "Biological and Cognitive Psychology",
+          "Social and Developmental Psychology",
+          "Research Methods and Statistics for Psychologists",
+          "Introduction to Forensic Psychology: Crime, Law and Psychology",
+          "Psychology and the Legal System: Eyewitness Memory, Jury Behaviour and Expert Evidence"
+        ]
+      },
+      {
+        "year": 2,
+        "focus": "Criminal behaviour, investigation and assessment",
+        "modules": [
+          "The Psychology of Criminal Behaviour: Theories of Offending",
+          "Offender Profiling and Investigative Psychology",
+          "Psychopathology, Personality Disorders and Violent Crime",
+          "Risk Assessment and Offender Management",
+          "Research Methods II: Experimental Design and Qualitative Methods"
+        ]
+      },
+      {
+        "year": 3,
+        "focus": "Rehabilitation, specialist applications and research",
+        "modules": [
+          "Psychological Interventions in Forensic Settings: CBT, Schema Therapy and Sex Offender Treatment",
+          "Child Maltreatment, Safeguarding and Forensic Assessment of Vulnerable Witnesses",
+          "Terrorism, Radicalisation and Psychological Perspectives",
+          "Empirical Dissertation in Forensic Psychology"
+        ]
+      }
+    ],
+    "skills": [
+      "Psychological assessment and risk formulation — applying validated risk tools (HCR-20, PCL-R, OASys) and interpreting their implications in forensic contexts",
+      "Research design and statistical analysis at BSc Psychology level, including experimental methods and qualitative approaches",
+      "Knowledge of the criminal justice system and the roles and ethical responsibilities of psychologists within it",
+      "Interviewing skills: understanding cognitive and investigative interview techniques and the psychology of false confessions",
+      "Clinical formulation skills — constructing a biopsychosocial account of an offender's behaviour for assessment and treatment planning"
+    ],
+    "professionalBodies": [
+      {
+        "name": "British Psychological Society (BPS) — Division of Forensic Psychology (DFP)",
+        "benefit": "A BPS-accredited Forensic Psychology BSc confers Graduate Basis for Chartered Membership (GBC). The DFP is the specialist division for forensic psychologists, providing resources on postgraduate training routes, ethical guidance, the journal Legal and Criminological Psychology and CPD for practitioners"
+      },
+      {
+        "name": "Health and Care Professions Council (HCPC)",
+        "benefit": "HCPC registration as a Forensic Psychologist requires completion of Stage 2 Qualification in Forensic Psychology (BPS) or an HCPC-approved doctorate — the BSc GBC is the essential prerequisite. HCPC sets standards of proficiency and conduct for all registered practitioner psychologists in the UK"
+      },
+      {
+        "name": "Forensic Psychology Practice Network",
+        "benefit": "A practitioner community within the BPS DFP connecting assistant psychologists, trainee forensic psychologists and qualified practitioners in NHS forensic units, prisons, probation and youth justice settings, providing peer support and professional development"
+      }
+    ],
+    "careers": [
+      {
+        "role": "Forensic Psychologist (NHS Forensic Units / Prison Service, post-training)",
+        "salary": "£35,392–£42,618 starting (NHS Band 7, qualified) / £50,000–£70,000 at 5 years",
+        "demand": "Very High"
+      },
+      {
+        "role": "Assistant Psychologist (HMPPS / NHS / Community Forensic)",
+        "salary": "£24,000–£29,000 starting (NHS Band 4–5) / £35,000–£50,000 at 5 years",
+        "demand": "High"
+      },
+      {
+        "role": "Probation Officer / Offender Manager",
+        "salary": "£26,000–£32,000 starting / £35,000–£50,000 at 5 years",
+        "demand": "Very High"
+      },
+      {
+        "role": "Crime Analyst / Behavioural Investigative Adviser",
+        "salary": "£28,000–£38,000 starting / £42,000–£60,000 at 5 years",
+        "demand": "Growing"
+      }
+    ],
+    "topEmployers": ["His Majesty's Prison and Probation Service (HMPPS)", "NHS England — Forensic and Secure Services", "National Police Chiefs' Council", "Youth Offending Teams", "Rethink Mental Illness", "Nacro"],
+    "employerPerspective": "Forensic Psychology graduates are some of the best-prepared new starters we see for assistant psychologist roles in secure and forensic settings. They understand risk assessment tools, they have a theoretical grounding in why people offend, they know the ethical terrain around working with complex and sometimes dangerous populations, and they have been trained to think rigorously about evidence rather than relying on intuition. The research methods component is essential — we need assistants who can contribute to service evaluation and case formulation, and Forensic Psychology graduates can do both.",
+    "entryRequirements": "Typical offer: BBB–ABB at A-level; Psychology A-level is not required but is useful; Biology and/or Mathematics are advantageous given the scientific and statistical content. GCSE: English and Mathematics at grade 5/C or above. BPS-accredited programmes must meet BPS requirements, so check accreditation before applying — only accredited programmes confer GBC. Some universities specify a minimum grade in GCSE Mathematics.",
+    "furtherStudy": "Stage 2 Qualification in Forensic Psychology (BPS) — completed in practice settings, typically over 3–4 years — for Chartered Forensic Psychologist status. DClinPsy (Doctorate in Clinical Psychology) for those moving towards clinical work. MSc in Forensic Psychology, Criminology, Criminal Justice or Applied Psychology. PhD for academic careers in forensic psychology. Professional Qualification in Probation (PQiP) for probation officer routes.",
+    "isItForYou": [
+      "Study this if you are genuinely interested in both psychology as a science and its application to the criminal justice system, and are committed to working towards professional qualification as a forensic psychologist — accepting that the degree is the first step in a long professional training journey",
+      "Study this if you want the full BPS GBC qualification from a specialist degree while also developing detailed knowledge of offender assessment, risk management and the psychology of the legal system, which is directly applicable in assistant psychologist and criminal justice roles",
+      "Think twice if your interest is primarily in crime as portrayed in the media — the day-to-day reality of forensic psychology involves careful, evidence-based clinical work in secure or community settings, and the academic degree demands rigorous psychological science rather than the dramatic criminal profiling of television fiction"
+    ]
+  },
+
+  "internationalDevelopment": {
+    "id": "internationalDevelopment",
+    "title": "International Development BSc",
+    "duration": "3 years",
+    "overview": "International Development is the interdisciplinary study of global poverty, inequality and the efforts — by states, international organisations, NGOs and social movements — to promote human wellbeing and sustainable development across the Global South. The degree draws on economics, politics, sociology, anthropology and geography to examine why some countries remain poor while others have grown rich, how development interventions work and fail, and who gets to define what 'development' means. Students engage with empirical evidence on poverty, health, education and governance alongside theoretical debates about colonialism, capitalism and the politics of aid. The BSc designation signals substantial quantitative and research methods training alongside the social science and policy content. Graduates are recruited into international NGOs, aid agencies, the UN system, government and development finance institutions.",
+    "yearByYear": [
+      {
+        "year": 1,
+        "focus": "Foundations of development theory and practice",
+        "modules": [
+          "Theories of Development: From Modernisation to Post-Development",
+          "The Political Economy of Global Inequality",
+          "Research Methods for Development Studies: Quantitative and Qualitative",
+          "Introduction to Development Economics: Poverty, Growth and Structural Transformation",
+          "Colonialism, Postcolonialism and the Global South"
+        ]
+      },
+      {
+        "year": 2,
+        "focus": "Sectoral depth and applied development analysis",
+        "modules": [
+          "Health and Development: Global Disease Burden and Health Systems",
+          "Education, Human Capital and Development",
+          "Gender, Development and Feminist Political Economy",
+          "Aid, Conditionality and the Politics of International Assistance",
+          "Econometrics and Impact Evaluation Methods"
+        ]
+      },
+      {
+        "year": 3,
+        "focus": "Advanced issues and original research",
+        "modules": [
+          "Climate Change, Environment and Sustainable Development",
+          "Conflict, Fragility and Post-War Development",
+          "China in Global Development: South–South Cooperation and the Belt and Road",
+          "Dissertation in International Development"
+        ]
+      }
+    ],
+    "skills": [
+      "Development policy analysis — evaluating aid programmes, policy interventions and development finance using evidence-based frameworks",
+      "Impact evaluation methods: randomised controlled trials, difference-in-differences, regression discontinuity and their application to development programmes",
+      "Political economy analysis: understanding how power, institutions and interests shape development outcomes in specific country contexts",
+      "Qualitative research skills including semi-structured interviewing, focus group facilitation and case study research in development contexts",
+      "Cross-cultural research competence and sensitivity to postcolonial dynamics in researcher-participant relationships"
+    ],
+    "professionalBodies": [
+      {
+        "name": "Development Studies Association (DSA)",
+        "benefit": "The DSA is the leading UK professional association for development studies scholars and practitioners, with an annual conference, the journal Progress in Development Studies and working groups across all major development themes"
+      },
+      {
+        "name": "Bond (British Overseas NGOs for Development)",
+        "benefit": "Bond is the UK network for international development organisations, providing sector intelligence, training, a jobs board and networking events — essential for graduates seeking roles in the UK's international development NGO sector"
+      },
+      {
+        "name": "Overseas Development Institute (ODI)",
+        "benefit": "ODI is the UK's leading development think tank and runs a highly competitive Fellowship Scheme placing postgraduate economists in finance ministry roles in low- and middle-income countries — a prestigious entry route into development practice"
+      }
+    ],
+    "careers": [
+      {
+        "role": "Programme Officer (International NGO or INGO)",
+        "salary": "£25,000–£35,000 starting / £42,000–£62,000 at 5 years",
+        "demand": "Very High"
+      },
+      {
+        "role": "Development Economist / Monitoring and Evaluation Specialist",
+        "salary": "£28,000–£42,000 starting / £50,000–£80,000 at 5 years",
+        "demand": "Growing"
+      },
+      {
+        "role": "Humanitarian Affairs / Emergency Response Officer",
+        "salary": "£26,000–£38,000 starting / £45,000–£65,000 at 5 years",
+        "demand": "High"
+      },
+      {
+        "role": "Development Finance Analyst (CDC Group / British International Investment, World Bank)",
+        "salary": "£35,000–£50,000 starting / £60,000–£90,000 at 5 years",
+        "demand": "Growing"
+      }
+    ],
+    "topEmployers": ["Oxfam", "Save the Children", "United Nations Development Programme (UNDP)", "World Bank Group", "British International Investment (BII)", "Department for Energy Security and Net Zero / FCDO successor bodies"],
+    "employerPerspective": "International Development graduates arrive with a combination that takes years to develop otherwise: they understand both the economics of development and the political and cultural reasons why technically sound interventions fail to achieve impact. The BSc research methods training means they can contribute to programme monitoring and evaluation from day one, and their engagement with postcolonial and feminist development theory means they approach community engagement with appropriate sensitivity. We find that graduates from the best programmes ask better questions about what development is for — and that critical instinct makes them better practitioners.",
+    "entryRequirements": "Typical offer: ABB–AAB at A-level; no specific subjects required, but Economics, Geography, Politics, Sociology, History or a modern language are commonly seen. Mathematics at grade B (A-level or GCSE) is beneficial for the quantitative methods and econometrics components. Top programmes (LSE, Sussex, SOAS, Edinburgh) are competitive. GCSE: English at grade 5/C expected.",
+    "furtherStudy": "MSc in Development Studies, International Development, Development Economics, Global Health, Humanitarian Studies or Environmental Studies. MA in International Relations or Area Studies. ODI Fellowship (highly competitive). PhD for academic careers — ESRC funds Development Studies within its doctoral training partnerships. MSc Development Finance or MPA for policy and finance-focused careers. MA Social Anthropology for more qualitative, fieldwork-based approaches to development.",
+    "isItForYou": [
+      "Study this if you are deeply engaged by global poverty and inequality and want to understand the political, economic and social forces that produce and perpetuate them — not just to express concern, but to analyse them rigorously and contribute to evidence-based responses",
+      "Study this if you are drawn to careers in international NGOs, the UN system, development finance, humanitarian response or policy, where a systematic interdisciplinary understanding of development processes is directly applicable",
+      "Think twice if you are looking for immediate practical field deployment — entry-level roles in international development are highly competitive and often require postgraduate qualifications or significant volunteer experience, and the degree is the beginning of a longer career investment rather than a direct ticket to overseas fieldwork"
+    ]
+  }
+}
