@@ -277,12 +277,66 @@ async function seedUniversityDetails() {
   console.log(`  ${rows.length} universities`);
 }
 
+async function seedColleges() {
+  console.log('\n=== colleges ===');
+
+  const sources = [
+    { file: 'src/data/colleges/oxford-colleges.json',   universitySlug: 'oxford' },
+    { file: 'src/data/colleges/cambridge-colleges.json', universitySlug: 'cambridge' },
+  ];
+
+  const rows = [];
+
+  for (const { file, universitySlug } of sources) {
+    let data;
+    try {
+      data = readJson(file);
+    } catch {
+      console.log(`  ${file}: not found — skipping`);
+      continue;
+    }
+
+    for (const [key, c] of Object.entries(data)) {
+      rows.push({
+        slug:             c.slug || key,
+        university_slug:  universitySlug,
+        name:             c.name ?? null,
+        subjects:         c.subjects ?? null,
+        founded:          c.founded ?? null,
+        location:         c.location ?? null,
+        overview:         c.overview ?? null,
+        character:        c.character ?? null,
+        student_numbers:  c.studentNumbers ?? null,
+        accommodation:    c.accommodation ?? null,
+        academic_strengths: c.academicStrengths ?? null,
+        notable_alumni:   c.notableAlumni ?? null,
+        key_facts:        c.keyFacts ?? null,
+        finances:         c.finances ?? null,
+        website:          c.website ?? null,
+        sort_order:       c.sortOrder ?? null,
+      });
+    }
+  }
+
+  if (!rows.length) {
+    console.log('  No college data found — skipping');
+    return;
+  }
+
+  const { error } = await supabase
+    .from('colleges')
+    .upsert(rows, { onConflict: 'slug' });
+  if (error) throw new Error(`colleges: ${error.message}`);
+  console.log(`  ${rows.length} colleges`);
+}
+
 async function main() {
   console.log(`Seeding ${SUPABASE_URL}...`);
   try {
     await seedUniversityCourses();
     await seedCourseDetails();
     await seedUniversityDetails();
+    await seedColleges();
     console.log('\nSeed complete.');
   } catch (err) {
     console.error('\nSeed failed:', err.message);

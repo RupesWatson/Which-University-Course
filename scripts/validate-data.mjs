@@ -1,5 +1,6 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
+import { OXFORD_SUBJECT_KEYS, CAMBRIDGE_SUBJECT_KEYS } from '../src/config/oxbridgeSubjects.js';
 
 const DATA_DIR = new URL('../src/data/', import.meta.url);
 
@@ -106,6 +107,41 @@ async function main() {
 
       console.log(`  ${path.basename(file)}: ${rows.length} rows validated`);
     }
+  }
+  await validateColleges();
+}
+
+async function validateColleges() {
+  const COLLEGE_FILES = [
+    { file: 'src/data/colleges/oxford-colleges.json',   prefix: 'oxford-',   validKeys: OXFORD_SUBJECT_KEYS },
+    { file: 'src/data/colleges/cambridge-colleges.json', prefix: 'cambridge-', validKeys: CAMBRIDGE_SUBJECT_KEYS },
+  ];
+
+  for (const { file, prefix, validKeys } of COLLEGE_FILES) {
+    const fullPath = new URL(`../${file}`, import.meta.url);
+    let data;
+    try {
+      data = JSON.parse(await fs.readFile(fullPath, 'utf8'));
+    } catch {
+      console.log(`  ${file}: not found — skipping`);
+      continue;
+    }
+
+    console.log(`\n=== ${file} ===`);
+    for (const [key, college] of Object.entries(data)) {
+      const label = `${file} [${key}]`;
+      if (college.slug !== key) fail(`${label}: key !== slug`);
+      if (!college.slug.startsWith(prefix)) fail(`${label}: slug must start with '${prefix}'`);
+      if (!college.name) fail(`${label}: missing name`);
+      if (!college.overview) fail(`${label}: missing overview`);
+      if (!Array.isArray(college.subjects)) fail(`${label}: subjects must be an array`);
+      for (const subjectKey of college.subjects) {
+        if (!validKeys.includes(subjectKey)) {
+          fail(`${label}: unknown subject key '${subjectKey}'`);
+        }
+      }
+    }
+    console.log(`  ${Object.keys(data).length} colleges validated`);
   }
 }
 
