@@ -1,0 +1,58 @@
+export const COURSES = [
+  {
+    id: 'english',
+    label: 'English Literature',
+    rankLabel: 'Subject Rank',
+    description: 'UCAS 2026 verified English Literature BA titles — one of the most widely studied humanities degrees at Russell Group universities',
+    rankingScope: 'official',
+  },
+  {
+    id: 'history',
+    label: 'History',
+    rankLabel: 'Subject Rank',
+    description: 'UCAS 2026 verified History BA titles across Russell Group and leading UK universities',
+    rankingScope: 'official',
+  },
+  {
+    id: 'philosophy',
+    label: 'Philosophy',
+    rankLabel: 'Subject Rank',
+    description: 'UCAS 2026 verified Philosophy BA and MA Hons titles — analytical and continental traditions at top UK universities',
+    rankingScope: 'official',
+  },
+  {
+    id: 'classics',
+    label: 'Classics',
+    rankLabel: 'Table Position',
+    description: 'UCAS 2026 verified Classics and Classical Studies BA titles — ancient languages, literature, history and archaeology',
+    rankingScope: 'comparison',
+  },
+  {
+    id: 'modernLanguages',
+    label: 'Modern Languages',
+    rankLabel: 'Table Position',
+    description: 'UCAS 2026 verified Modern Languages degree titles — study two or more European or world languages',
+    rankingScope: 'comparison',
+  },
+  {
+    id: 'linguistics',
+    label: 'Linguistics',
+    rankLabel: 'Table Position',
+    description: 'UCAS 2026 verified Linguistics BA titles — the scientific study of language, from phonetics to syntax',
+    rankingScope: 'comparison',
+  },
+  {
+    id: 'artHistory',
+    label: 'Art History',
+    rankLabel: 'Table Position',
+    description: 'UCAS 2026 verified History of Art BA titles — visual culture, criticism and curatorial practice',
+    rankingScope: 'comparison',
+  },
+  {
+    id: 'musicHumanities',
+    label: 'Music',
+    rankLabel: 'Table Position',
+    description: 'UCAS 2026 verified Music BA and BMus titles — composition, performance, musicology and music technology',
+    rankingScope: 'comparison',
+  },
+];

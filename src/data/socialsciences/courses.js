@@ -1,0 +1,58 @@
+export const COURSES = [
+  {
+    id: 'politics',
+    label: 'Politics & International Relations',
+    rankLabel: 'Subject Rank',
+    description: 'UCAS 2026 verified Politics and International Relations BA titles across Russell Group and leading UK universities',
+    rankingScope: 'official',
+  },
+  {
+    id: 'law',
+    label: 'Law (LLB)',
+    rankLabel: 'Subject Rank',
+    description: 'UCAS 2026 verified Law LLB titles — the qualifying law degree for solicitor and barrister training routes',
+    rankingScope: 'official',
+  },
+  {
+    id: 'economics',
+    label: 'Economics',
+    rankLabel: 'Subject Rank',
+    description: 'UCAS 2026 verified Economics BSc titles — micro and macroeconomics, econometrics and policy analysis',
+    rankingScope: 'official',
+  },
+  {
+    id: 'psychology',
+    label: 'Psychology',
+    rankLabel: 'Subject Rank',
+    description: 'UCAS 2026 verified Psychology BSc titles — BPS-accredited degrees covering cognitive, social and clinical psychology',
+    rankingScope: 'official',
+  },
+  {
+    id: 'sociology',
+    label: 'Sociology',
+    rankLabel: 'Table Position',
+    description: 'UCAS 2026 verified Sociology BA and BSc titles — social theory, research methods and contemporary social issues',
+    rankingScope: 'comparison',
+  },
+  {
+    id: 'ppe',
+    label: 'Philosophy, Politics & Economics',
+    rankLabel: 'Table Position',
+    description: 'UCAS 2026 verified PPE degree titles — the interdisciplinary course that trains future politicians, civil servants and analysts',
+    rankingScope: 'comparison',
+  },
+  {
+    id: 'criminology',
+    label: 'Criminology',
+    rankLabel: 'Table Position',
+    description: 'UCAS 2026 verified Criminology BSc titles — crime, justice, policing and penal policy from social science perspectives',
+    rankingScope: 'comparison',
+  },
+  {
+    id: 'internationalRelations',
+    label: 'International Relations',
+    rankLabel: 'Table Position',
+    description: 'UCAS 2026 verified International Relations BA titles — global politics, diplomacy, security and international organisations',
+    rankingScope: 'comparison',
+  },
+];

@@ -3,6 +3,8 @@ import { COURSES as financeCourses } from '../data/finance/courses';
 import { COURSES as physicsCourses } from '../data/physics/courses';
 import { COURSES as mathsCourses } from '../data/maths/courses';
 import { COURSES as engineeringCourses } from '../data/engineering/courses';
+import { COURSES as humanitiesCourses } from '../data/humanities/courses';
+import { COURSES as socialSciencesCourses } from '../data/socialsciences/courses';
 
 export const STRANDS = {
   biochemistry: {
