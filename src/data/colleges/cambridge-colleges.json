@@ -673,7 +673,7 @@
       "description": "Magdalene participates in the Cambridge Bursary scheme and provides supplementary college-level financial support."
     },
     "website": "https://www.magd.cam.ac.uk",
-    "sortOrder": 14
+    "sortOrder": 15
   },
   "cambridge-murray-edwards": {
     "slug": "cambridge-murray-edwards",
@@ -721,7 +721,7 @@
       "description": "Murray Edwards participates in the Cambridge Bursary scheme and provides generous college-specific bursaries, particularly supporting women from under-represented backgrounds."
     },
     "website": "https://www.murrayedwards.cam.ac.uk",
-    "sortOrder": 15
+    "sortOrder": 16
   },
   "cambridge-newnham": {
     "slug": "cambridge-newnham",
@@ -770,7 +770,7 @@
       "description": "Newnham participates in the Cambridge Bursary scheme and offers generous college-specific financial support for women in need."
     },
     "website": "https://www.newn.cam.ac.uk",
-    "sortOrder": 16
+    "sortOrder": 17
   },
   "cambridge-pembroke": {
     "slug": "cambridge-pembroke",
@@ -820,7 +820,7 @@
       "description": "Pembroke participates in the Cambridge Bursary scheme and offers supplementary college-level financial support."
     },
     "website": "https://www.pem.cam.ac.uk",
-    "sortOrder": 17
+    "sortOrder": 18
   },
   "cambridge-peterhouse": {
     "slug": "cambridge-peterhouse",
@@ -869,7 +869,7 @@
       "description": "Peterhouse participates in the Cambridge Bursary scheme and offers supplementary college financial support."
     },
     "website": "https://www.pet.cam.ac.uk",
-    "sortOrder": 18
+    "sortOrder": 19
   },
   "cambridge-queens": {
     "slug": "cambridge-queens",
@@ -919,7 +919,7 @@
       "description": "Queens' participates in the Cambridge Bursary scheme and provides supplementary college-specific financial support."
     },
     "website": "https://www.queens.cam.ac.uk",
-    "sortOrder": 19
+    "sortOrder": 20
   },
   "cambridge-robinson": {
     "slug": "cambridge-robinson",
@@ -968,7 +968,7 @@
       "description": "Robinson participates in the Cambridge Bursary scheme and provides supplementary college financial support."
     },
     "website": "https://www.robinson.cam.ac.uk",
-    "sortOrder": 20
+    "sortOrder": 21
   },
   "cambridge-st-catharines": {
     "slug": "cambridge-st-catharines",
@@ -1017,7 +1017,7 @@
       "description": "St Catharine's participates in the Cambridge Bursary scheme and offers supplementary college-specific financial support."
     },
     "website": "https://www.caths.cam.ac.uk",
-    "sortOrder": 21
+    "sortOrder": 22
   },
   "cambridge-st-edmunds": {
     "slug": "cambridge-st-edmunds",
@@ -1062,7 +1062,7 @@
       "description": "St Edmund's participates in the Cambridge Bursary scheme and provides targeted financial support for mature and international students."
     },
     "website": "https://www.st-edmunds.cam.ac.uk",
-    "sortOrder": 22
+    "sortOrder": 23
   },
   "cambridge-st-johns": {
     "slug": "cambridge-st-johns",
@@ -1112,7 +1112,7 @@
       "description": "St John's is one of Cambridge's most generous colleges for financial support, offering substantial awards above and beyond the Cambridge Bursary scheme."
     },
     "website": "https://www.joh.cam.ac.uk",
-    "sortOrder": 23
+    "sortOrder": 24
   },
   "cambridge-selwyn": {
     "slug": "cambridge-selwyn",
@@ -1161,7 +1161,7 @@
       "description": "Selwyn participates in the Cambridge Bursary scheme and provides supplementary college-level financial support."
     },
     "website": "https://www.sel.cam.ac.uk",
-    "sortOrder": 24
+    "sortOrder": 25
   },
   "cambridge-sidney-sussex": {
     "slug": "cambridge-sidney-sussex",
@@ -1210,7 +1210,7 @@
       "description": "Sidney Sussex participates in the Cambridge Bursary scheme and provides supplementary college financial support."
     },
     "website": "https://www.sid.cam.ac.uk",
-    "sortOrder": 25
+    "sortOrder": 26
   },
   "cambridge-trinity": {
     "slug": "cambridge-trinity",
@@ -1261,7 +1261,7 @@
       "description": "Trinity is the wealthiest Cambridge college and provides highly generous financial support, including significant bursaries and travel grants above the Cambridge Bursary scheme."
     },
     "website": "https://www.trin.cam.ac.uk",
-    "sortOrder": 26
+    "sortOrder": 27
   },
   "cambridge-trinity-hall": {
     "slug": "cambridge-trinity-hall",
@@ -1311,7 +1311,7 @@
       "description": "Trinity Hall participates in the Cambridge Bursary scheme and provides supplementary college-level financial support."
     },
     "website": "https://www.trinhall.cam.ac.uk",
-    "sortOrder": 27
+    "sortOrder": 28
   },
   "cambridge-wolfson": {
     "slug": "cambridge-wolfson",
@@ -1357,6 +1357,51 @@
       "description": "Wolfson participates in the Cambridge Bursary scheme and provides targeted support for mature and international students."
     },
     "website": "https://www.wolfson.cam.ac.uk",
-    "sortOrder": 28
+    "sortOrder": 29
+  },
+  "cambridge-lucy-cavendish": {
+    "slug": "cambridge-lucy-cavendish",
+    "universitySlug": "cambridge",
+    "name": "Lucy Cavendish College",
+    "subjects": [],
+    "founded": 1965,
+    "location": "Lady Margaret Road, north Cambridge",
+    "overview": "Lucy Cavendish College was founded in 1965 by female academics of the University of Cambridge to provide greater opportunities for women in higher education. Named in honour of women's education campaigner Lucy Cavendish (1841–1925), the college was originally a mature women-only institution. Since October 2021 it has admitted both men and women from the standard university age (18+), combining its pioneering heritage with a new commitment to widening participation. In the 2022 admissions cycle, Lucy Cavendish became the first Cambridge college to admit more than 90% of undergraduates from state schools.",
+    "character": "Lucy Cavendish is defined by its commitment to widening access and supporting students from under-represented backgrounds. It has a warm, supportive community and a strong emphasis on academic potential over prior educational advantage.",
+    "studentNumbers": {
+      "undergraduates": 200,
+      "postgraduates": 200,
+      "total": 400
+    },
+    "accommodation": {
+      "yearsGuaranteed": 3,
+      "description": "Lucy Cavendish provides accommodation on campus for all undergraduates throughout their degree, in a friendly residential setting in north Cambridge.",
+      "avgCost": "~£140/week",
+      "inCollege": true
+    },
+    "academicStrengths": [
+      "Natural Sciences",
+      "Social Sciences",
+      "Law",
+      "Medicine",
+      "Education"
+    ],
+    "notableAlumni": [
+      "Lucy Cavendish (Women's Education Campaigner, college namesake)",
+      "Various prominent academics and practitioners in education, medicine and public life"
+    ],
+    "keyFacts": [
+      "Founded 1965 by female academics to expand opportunities for women at Cambridge",
+      "Became fully mixed-gender, open to standard-age students from October 2021",
+      "First Cambridge college to admit over 90% state-school undergraduates (2022 cycle)",
+      "Named in honour of women's education campaigner Lucy Cavendish (1841–1925)"
+    ],
+    "finances": {
+      "endowment": null,
+      "bursaries": "Cambridge Bursary Scheme plus Lucy Cavendish College awards",
+      "description": "Lucy Cavendish has a strong commitment to widening access and provides generous college-specific financial support alongside the Cambridge Bursary scheme."
+    },
+    "website": "https://www.lucy.cam.ac.uk",
+    "sortOrder": 14
   }
 }
