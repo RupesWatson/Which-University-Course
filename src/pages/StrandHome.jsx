@@ -7,6 +7,7 @@ import StatsBar from '../components/StatsBar';
 import Filters from '../components/Filters';
 import CourseSelect from '../components/CourseSelect';
 import Table from '../components/Table';
+import { scoreGrade, getMatchTier, gradeKey } from '../utils/gradeMatch';
 
 function LoadingTable() {
   return (
@@ -23,6 +24,8 @@ export default function StrandHome() {
   const [search, setSearch] = useState('');
   const [tier, setTier] = useState('All');
   const [gradeType, setGradeType] = useState('aLevel');
+  const [predictedGrade, setPredictedGrade] = useState('');
+  const [hideReach, setHideReach] = useState(false);
 
   const courses = strand?.courses ?? [];
   const courseId = searchParams.get('course') || courses[0]?.id;
@@ -31,13 +34,21 @@ export default function StrandHome() {
   const { rows, loading: rowsLoading, error: rowsError } = useCourseRows(course?.id, strandId);
   const { counts: rowCounts } = useStrandRowCounts(strandId);
 
+  const studentScore = predictedGrade ? scoreGrade(predictedGrade, gradeType) : null;
+
   const filtered = useMemo(() => {
+    const key = gradeKey(gradeType);
     return rows.filter(university => {
       const matchSearch = university.name.toLowerCase().includes(search.toLowerCase());
       const matchTier = tier === 'All' || university.tier === tier;
-      return matchSearch && matchTier;
+      if (!matchSearch || !matchTier) return false;
+      if (hideReach && studentScore != null) {
+        const fit = getMatchTier(studentScore, university[key], gradeType);
+        if (fit === 'reach') return false;
+      }
+      return true;
     });
-  }, [rows, search, tier]);
+  }, [rows, search, tier, hideReach, studentScore, gradeType]);
 
   if (!strand) {
     return <Navigate to="/" replace />;
@@ -49,6 +60,11 @@ export default function StrandHome() {
     setSearchParams({ course: id }, { replace: true });
     setSearch('');
     setTier('All');
+  }
+
+  function handleGradeTypeChange(type) {
+    setGradeType(type);
+    setPredictedGrade('');
   }
 
   return (
@@ -88,36 +104,23 @@ export default function StrandHome() {
         <div className="mb-6 flex items-center justify-center gap-2">
           <span className="text-xs font-medium text-slate-400">Entry requirements:</span>
           <div className="flex gap-2">
-            <button
-              onClick={() => setGradeType('aLevel')}
-              className={`px-3 py-1 rounded text-xs font-medium transition-colors ${
-                gradeType === 'aLevel'
-                  ? 'bg-blue-600 text-white'
-                  : 'bg-slate-800 text-slate-400 hover:bg-slate-700'
-              }`}
-            >
-              A-Level
-            </button>
-            <button
-              onClick={() => setGradeType('ib')}
-              className={`px-3 py-1 rounded text-xs font-medium transition-colors ${
-                gradeType === 'ib'
-                  ? 'bg-blue-600 text-white'
-                  : 'bg-slate-800 text-slate-400 hover:bg-slate-700'
-              }`}
-            >
-              IB
-            </button>
-            <button
-              onClick={() => setGradeType('ucasPoints')}
-              className={`px-3 py-1 rounded text-xs font-medium transition-colors ${
-                gradeType === 'ucasPoints'
-                  ? 'bg-blue-600 text-white'
-                  : 'bg-slate-800 text-slate-400 hover:bg-slate-700'
-              }`}
-            >
-              UCAS Points
-            </button>
+            {[
+              { id: 'aLevel', label: 'A-Level' },
+              { id: 'ib', label: 'IB' },
+              { id: 'ucasPoints', label: 'UCAS Points' },
+            ].map(({ id, label }) => (
+              <button
+                key={id}
+                onClick={() => handleGradeTypeChange(id)}
+                className={`px-3 py-1 rounded text-xs font-medium transition-colors ${
+                  gradeType === id
+                    ? 'bg-blue-600 text-white'
+                    : 'bg-slate-800 text-slate-400 hover:bg-slate-700'
+                }`}
+              >
+                {label}
+              </button>
+            ))}
           </div>
         </div>
 
@@ -131,7 +134,14 @@ export default function StrandHome() {
           verifiedCount={rows.length}
         />
         <StatsBar universities={filtered} course={course} gradeType={gradeType} />
-        <Filters search={search} setSearch={setSearch} tier={tier} setTier={setTier} />
+        <Filters
+          search={search} setSearch={setSearch}
+          tier={tier} setTier={setTier}
+          gradeType={gradeType}
+          predictedGrade={predictedGrade} setPredictedGrade={setPredictedGrade}
+          hideReach={hideReach} setHideReach={setHideReach}
+          studentScore={studentScore}
+        />
 
         {rowsError ? (
           <div className="rounded-xl border border-red-900/40 bg-red-950/20 px-6 py-10 text-center text-sm text-red-400">
@@ -140,7 +150,13 @@ export default function StrandHome() {
         ) : rowsLoading ? (
           <LoadingTable />
         ) : (
-          <Table universities={filtered} course={course} strandId={strand.id} gradeType={gradeType} />
+          <Table
+            universities={filtered}
+            course={course}
+            strandId={strand.id}
+            gradeType={gradeType}
+            studentScore={studentScore}
+          />
         )}
 
         <footer className="mt-10 text-center text-xs text-slate-600">
