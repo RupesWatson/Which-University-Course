@@ -2,6 +2,7 @@ import { useState } from 'react';
 import { Link } from 'react-router-dom';
 import GradeBadge from './GradeBadge';
 import ExpandedRow from './ExpandedRow';
+import { oxbridgeSubjectFor } from '../config/oxbridgeSubjects';
 
 function toSlug(name) {
   return name
@@ -169,12 +170,22 @@ export default function Table({ universities, course, strandId, gradeType = 'aLe
                   </td>
                   <td className="px-4 py-3 text-xs text-slate-400 max-w-xs">{uni.notes}</td>
                   <td className="px-4 py-3 text-center" onClick={event => event.stopPropagation()}>
-                    <Link
-                      to={`/${strandId}/university/${slug}`}
-                      className="inline-flex items-center gap-1 whitespace-nowrap rounded-md border border-blue-600/30 bg-blue-600/15 px-2.5 py-1.5 text-[11px] font-semibold text-blue-400 transition-all hover:bg-blue-600/25 hover:text-blue-300"
-                    >
-                      {'More info ->'}
-                    </Link>
+                    <div className="flex flex-col items-center gap-1.5">
+                      <Link
+                        to={`/${strandId}/university/${slug}`}
+                        className="inline-flex items-center gap-1 whitespace-nowrap rounded-md border border-blue-600/30 bg-blue-600/15 px-2.5 py-1.5 text-[11px] font-semibold text-blue-400 transition-all hover:bg-blue-600/25 hover:text-blue-300"
+                      >
+                        {'More info ->'}
+                      </Link>
+                      {(slug === 'oxford' || slug === 'cambridge') && oxbridgeSubjectFor(slug, course?.id) && (
+                        <Link
+                          to={`/${strandId}/university/${slug}/colleges?course=${course?.id}`}
+                          className="inline-flex items-center gap-1 whitespace-nowrap rounded-md border border-amber-600/30 bg-amber-600/15 px-2.5 py-1.5 text-[11px] font-semibold text-amber-400 transition-all hover:bg-amber-600/25 hover:text-amber-300"
+                        >
+                          {'View colleges ->'}
+                        </Link>
+                      )}
+                    </div>
                   </td>
                 </tr>,
                 isExpanded && (
