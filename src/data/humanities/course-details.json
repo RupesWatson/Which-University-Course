@@ -1,0 +1,1206 @@
+{
+  "english": {
+    "id": "english",
+    "title": "English Literature BA",
+    "duration": "3 years",
+    "overview": "English Literature is the close study of written texts across history, culture and genre — from medieval manuscripts to contemporary novels, from Renaissance drama to postcolonial poetry. The degree trains you to read carefully, think critically and write persuasively, equipping you with analytical tools drawn from literary theory, linguistics, history and philosophy. You will engage with canonical works while questioning the very idea of a canon, exploring who gets to tell stories and why. Graduates are recognised by employers across every sector for their ability to communicate complex ideas with clarity and precision.",
+    "yearByYear": [
+      {
+        "year": 1,
+        "focus": "Foundations in literary reading and form",
+        "modules": [
+          "Introduction to Literary Theory and Criticism",
+          "Medieval Literature: Chaucer and the Romance Tradition",
+          "Shakespeare and the Early Modern Stage",
+          "The Novel from Defoe to Austen",
+          "Poetry: Forms, Voices and Traditions"
+        ]
+      },
+      {
+        "year": 2,
+        "focus": "Period depth and critical approaches",
+        "modules": [
+          "The Victorian Novel: Society, Empire and Self",
+          "Modernism and the Avant-Garde",
+          "Postcolonial Literature and Theory",
+          "American Literature from Whitman to Morrison",
+          "Gender, Sexuality and Literature"
+        ]
+      },
+      {
+        "year": 3,
+        "focus": "Specialism and independent research",
+        "modules": [
+          "Contemporary Fiction and the Politics of Form",
+          "Life Writing: Autobiography, Memoir, Biography",
+          "Gothic and Horror: Aesthetics of Fear",
+          "Dissertation in English Literature"
+        ]
+      }
+    ],
+    "skills": [
+      "Close textual analysis and the ability to construct arguments grounded in precise evidence from primary sources",
+      "Critical engagement with a wide range of theoretical frameworks including Marxist, feminist, postcolonial and psychoanalytic approaches",
+      "High-level academic writing — developing a distinct voice capable of handling complex, nuanced material",
+      "Research skills spanning archival work, literary databases and interdisciplinary sources",
+      "Seminar communication and the ability to listen, challenge and revise ideas in dialogue with others"
+    ],
+    "professionalBodies": [
+      {
+        "name": "English Association",
+        "benefit": "Membership provides access to the journal English, teaching resources, and a network connecting academics, teachers and literary professionals across the UK"
+      },
+      {
+        "name": "Society of Authors",
+        "benefit": "Students and early-career graduates can join at reduced rates, gaining access to contract advice, emergency grants and a professional community for writers and editors"
+      },
+      {
+        "name": "Publishers Association",
+        "benefit": "The PA's graduate resources and entry-level schemes help English graduates navigate publishing careers, from editorial assistants to rights and marketing roles"
+      }
+    ],
+    "careers": [
+      {
+        "role": "Publishing (Editorial Assistant to Editor)",
+        "salary": "£22,000–£27,000 starting / £35,000–£55,000 at 5 years",
+        "demand": "High"
+      },
+      {
+        "role": "Journalist / Content Strategist",
+        "salary": "£24,000–£30,000 starting / £38,000–£60,000 at 5 years",
+        "demand": "Very High"
+      },
+      {
+        "role": "Secondary School English Teacher (via PGCE)",
+        "salary": "£30,000–£36,399 starting / £43,685–£65,000 at 5 years",
+        "demand": "Very High"
+      },
+      {
+        "role": "Copywriter / Communications Manager",
+        "salary": "£25,000–£32,000 starting / £40,000–£58,000 at 5 years",
+        "demand": "Growing"
+      }
+    ],
+    "topEmployers": ["Penguin Random House", "HarperCollins", "BBC", "The Guardian", "Teach First", "Ogilvy"],
+    "employerPerspective": "English graduates are consistently sought after by employers who need people who can read fast, think clearly and write well under pressure. In publishing, their analytical instincts and love of language are immediately applicable; in communications and consultancy, their ability to distil complex arguments into compelling prose distinguishes them from more technically focused peers. The dissertation, in particular, demonstrates self-direction and the capacity to manage a sustained, independent project.",
+    "entryRequirements": "Typical offer: AAB–ABB at A-level, with English Literature (or English Language & Literature) usually required or strongly preferred. GCSE: English Language at grade 6/B or above expected. Some universities welcome applicants with English Language A-level alone; others require Literature. Contextual offers may be one to two grades lower at many institutions.",
+    "furtherStudy": "MA English Literature, MA Creative Writing, MA Publishing, MA English Language Teaching (ELT), or PGCert/PGCE for teaching. PhD study is an option for those wishing to pursue an academic career. The Legal Practice Course (LPC) or Bar Professional Training Course (BPTC) are popular conversion routes for those interested in law.",
+    "isItForYou": [
+      "Study this if you are passionate about reading widely and deeply, enjoy debating ideas and want a degree that develops transferable skills in critical thinking and communication valued across almost every profession",
+      "Study this if you are considering a career in publishing, journalism, teaching, law, policy or the arts and want a rigorous academic foundation with genuine flexibility",
+      "Think twice if you expect straightforward 'correct' answers — English Literature thrives on ambiguity and contested interpretation, and assessment is largely essay-based rather than quantitative"
+    ]
+  },
+
+  "history": {
+    "id": "history",
+    "title": "History BA",
+    "duration": "3 years",
+    "overview": "History is the disciplined investigation of the human past — how societies changed, how power was exercised, how ordinary people lived and how the world came to be as it is. You will work across periods from ancient civilisations to the twenty-first century and across themes from gender and empire to economics and religion, always asking critical questions about evidence, causation and interpretation. The degree teaches you to weigh conflicting sources, construct logical arguments from incomplete information and communicate your conclusions with rigour and clarity — skills that transfer directly into law, journalism, policy, research and management. History graduates are consistently rated among the most employable humanities graduates by UK employers.",
+    "yearByYear": [
+      {
+        "year": 1,
+        "focus": "Historical skills and broad survey",
+        "modules": [
+          "The Historian's Craft: Sources, Methods and Debates",
+          "Medieval Europe: Society, Church and State",
+          "The Age of Revolutions, 1776–1848",
+          "Empire, Race and Colonial Encounter",
+          "Early Modern Britain: Reformation to Revolution"
+        ]
+      },
+      {
+        "year": 2,
+        "focus": "Thematic depth and historiography",
+        "modules": [
+          "Twentieth-Century Europe: War, Genocide and Reconstruction",
+          "The British Empire and Decolonisation",
+          "Gender and the History of the Body",
+          "Cold War: Global Conflict and Ideology",
+          "Economic History: Industrialisation to Globalisation"
+        ]
+      },
+      {
+        "year": 3,
+        "focus": "Independent research and specialist study",
+        "modules": [
+          "History of Science, Medicine and Technology",
+          "Memory, Trauma and the Writing of History",
+          "Public History: Archives, Museums, Heritage",
+          "Dissertation in History"
+        ]
+      }
+    ],
+    "skills": [
+      "Critical appraisal of primary and secondary sources — assessing reliability, context, bias and significance",
+      "Construction of evidence-based arguments in extended written form, with precise referencing and citation",
+      "Comparative analysis across different periods, geographies and social groups",
+      "Archival and digital research skills, including use of specialist historical databases and manuscript sources",
+      "Oral presentation and seminar debate — defending interpretations under intellectual scrutiny"
+    ],
+    "professionalBodies": [
+      {
+        "name": "Royal Historical Society (RHS)",
+        "benefit": "Membership grants access to the RHS Bibliography — one of the most comprehensive historical research tools in the UK — plus grants, prizes and networking events for early-career historians"
+      },
+      {
+        "name": "Historical Association",
+        "benefit": "Particularly valuable for graduates pursuing teaching, the HA offers curriculum resources, the journal History, professional development events and a national network of local branches"
+      },
+      {
+        "name": "Institute of Historical Research (IHR)",
+        "benefit": "The IHR's seminars, fellowships and online resources support postgraduate and early-career researchers, and its library is the largest dedicated history library in the UK"
+      }
+    ],
+    "careers": [
+      {
+        "role": "Civil Service Fast Stream / Policy Adviser",
+        "salary": "£30,000–£32,000 starting / £45,000–£65,000 at 5 years",
+        "demand": "Very High"
+      },
+      {
+        "role": "Archivist / Records Manager",
+        "salary": "£22,000–£28,000 starting / £35,000–£50,000 at 5 years",
+        "demand": "High"
+      },
+      {
+        "role": "Solicitor or Barrister (via GDL conversion)",
+        "salary": "£27,000–£40,000 starting / £55,000–£100,000 at 5 years",
+        "demand": "High"
+      },
+      {
+        "role": "Journalist / Documentary Researcher",
+        "salary": "£24,000–£30,000 starting / £38,000–£55,000 at 5 years",
+        "demand": "Growing"
+      }
+    ],
+    "topEmployers": ["UK Civil Service", "The National Archives", "BBC", "The Times / Financial Times", "Linklaters", "Teach First"],
+    "employerPerspective": "History graduates bring something rare: the ability to synthesise large volumes of complex, contradictory information and produce a clear, persuasive account of what it means. In the Civil Service, that skill is fundamental to policy analysis and briefing ministers; in law firms, it underpins legal research and case construction. We find that History graduates adapt quickly, ask good questions and produce polished written work with relatively little guidance.",
+    "entryRequirements": "Typical offer: AAB–ABB at A-level; History is usually required or strongly preferred. GCSE: English Language at grade 5/C or above generally expected. Top universities (Oxford, Cambridge, LSE, UCL) may require AAA or A*AA. Contextual offers are available at many institutions.",
+    "furtherStudy": "MA/MSc in History, International History, Public History, Heritage Studies, Archives and Records Management, or Area Studies. GDL (Graduate Diploma in Law) for legal conversion. PGCE for teaching. PhD for an academic career — funded places are available through the AHRC's doctoral training partnerships.",
+    "isItForYou": [
+      "Study this if you are fascinated by why the world is the way it is, enjoy reading deeply and writing sustained analytical essays, and want a degree whose transferable skills open doors across law, government, media and business",
+      "Study this if you are considering a career in the Civil Service, law, journalism, heritage or education — History is consistently cited by employers in these sectors as excellent preparation",
+      "Think twice if you struggle with essay writing or find ambiguity frustrating — the vast majority of History assessment is written, and there are rarely simple or definitive answers to historical questions"
+    ]
+  },
+
+  "philosophy": {
+    "id": "philosophy",
+    "title": "Philosophy BA",
+    "duration": "3 years",
+    "overview": "Philosophy is the systematic investigation of the most fundamental questions human beings face: What can we know, and how? What exists? What makes actions right or wrong? What is consciousness? What constitutes a valid argument? At university level, Philosophy is a rigorous analytical discipline that trains students to construct and evaluate arguments with unusual precision, to identify hidden assumptions and to think clearly about problems where the evidence is incomplete or contested. It is one of the most intellectually demanding and rewarding undergraduate degrees, consistently producing graduates who excel in law, finance, technology ethics, public policy and academia. Philosophy at the best UK universities — Oxford, Cambridge, UCL, St Andrews — is internationally recognised.",
+    "yearByYear": [
+      {
+        "year": 1,
+        "focus": "Core disciplines and logical foundations",
+        "modules": [
+          "Logic and Critical Reasoning",
+          "Introduction to Epistemology and Metaphysics",
+          "Moral Philosophy: Classical and Contemporary",
+          "Philosophy of Mind and Personal Identity",
+          "History of Philosophy: Plato and Aristotle"
+        ]
+      },
+      {
+        "year": 2,
+        "focus": "Advanced theory and applied ethics",
+        "modules": [
+          "Philosophy of Language and Meaning",
+          "Political Philosophy: Justice, Liberty and Equality",
+          "Applied Ethics: Bioethics, AI and Environmental Philosophy",
+          "Continental Philosophy: Kant to Heidegger",
+          "Metaphysics: Time, Causation and Free Will"
+        ]
+      },
+      {
+        "year": 3,
+        "focus": "Specialism and original argumentation",
+        "modules": [
+          "Philosophy of Science and Explanation",
+          "Ethics and the Law",
+          "Analytic Philosophy of Religion",
+          "Dissertation in Philosophy"
+        ]
+      }
+    ],
+    "skills": [
+      "Formal and informal logical analysis — identifying valid and sound arguments, detecting fallacies and structuring proofs",
+      "Precise argumentative writing that states positions clearly, anticipates objections and responds to them with rigour",
+      "Conceptual analysis — breaking down complex ideas into their constituent components and testing their coherence",
+      "Critical synthesis of dense technical texts from multiple traditions and periods",
+      "Comfort with abstraction and the ability to apply abstract reasoning to concrete ethical and practical problems"
+    ],
+    "professionalBodies": [
+      {
+        "name": "British Philosophical Association (BPA)",
+        "benefit": "The BPA supports UK philosophy students and early-career philosophers through conferences, bursaries, a mentoring scheme and resources promoting diversity and inclusion in the discipline"
+      },
+      {
+        "name": "Mind Association",
+        "benefit": "One of the leading philosophy associations in the world, publishing the journal Mind; membership provides access to the annual joint session conference and a community of professional philosophers"
+      },
+      {
+        "name": "Aristotelian Society",
+        "benefit": "One of the oldest philosophy societies in the world, its open meetings and symposia are accessible to students and its Supplementary Volumes provide cutting-edge philosophical research"
+      }
+    ],
+    "careers": [
+      {
+        "role": "Barrister / Solicitor (via GDL)",
+        "salary": "£27,000–£50,000 starting / £60,000–£120,000 at 5 years",
+        "demand": "High"
+      },
+      {
+        "role": "Strategy Consultant / Management Consultant",
+        "salary": "£35,000–£50,000 starting / £65,000–£100,000 at 5 years",
+        "demand": "Very High"
+      },
+      {
+        "role": "Policy Analyst / Civil Service Fast Stream",
+        "salary": "£30,000–£35,000 starting / £45,000–£65,000 at 5 years",
+        "demand": "Very High"
+      },
+      {
+        "role": "AI Ethics Researcher / Technology Policy Adviser",
+        "salary": "£35,000–£55,000 starting / £60,000–£90,000 at 5 years",
+        "demand": "Growing"
+      }
+    ],
+    "topEmployers": ["McKinsey & Company", "UK Civil Service", "DeepMind (Google)", "Allen & Overy", "Oxfam", "BBC"],
+    "employerPerspective": "Philosophy graduates are among the most impressive critical thinkers we see. They have been trained to spot the weakness in an argument, to distinguish what is actually being claimed from what sounds plausible, and to communicate complex ideas with unusual concision. In strategy and consulting, those skills are directly applicable from day one. We have found that Philosophy graduates often outperform peers from more 'directly relevant' backgrounds within the first year because they know how to think, not just what to think.",
+    "entryRequirements": "Typical offer: A*AA–AAB at A-level; no specific subject required at most universities, though Mathematics or a humanity is often preferred. Top universities (Oxford A*AA, Cambridge A*AA, UCL AAA) are highly competitive. GCSE: strong grades broadly expected. Philosophy A-level is not normally required and is offered at relatively few schools.",
+    "furtherStudy": "BPhil, MPhil or MA in Philosophy, Philosophy of Mind, Logic, Ethics, Political Philosophy or Philosophy of Science. GDL for law conversion. MSc in Computer Science or Artificial Intelligence (philosophy graduates are well-placed for AI ethics and safety research). PhD in Philosophy for academic careers — AHRC-funded places available.",
+    "isItForYou": [
+      "Study this if you are energised by abstract problems, enjoy reading dense theoretical texts closely and want a degree that develops the clearest possible thinking — skills that translate into law, AI ethics, policy and consulting",
+      "Study this if you have strong A-level results and enjoy the challenge of holding multiple conflicting views in mind simultaneously before reaching a carefully reasoned conclusion",
+      "Think twice if you need immediate vocational focus or find purely argumentative, essay-based assessment demotivating — Philosophy rarely has 'right' answers and rewards those who are genuinely interested in the questions for their own sake"
+    ]
+  },
+
+  "classics": {
+    "id": "classics",
+    "title": "Classics BA",
+    "duration": "3 years",
+    "overview": "Classics is the interdisciplinary study of the ancient Greek and Roman worlds — their languages, literature, history, philosophy, art, archaeology and reception in later culture. It is one of the oldest university disciplines in Britain and remains intellectually formidable: students who pursue the full linguistic route will learn Latin and Ancient Greek to a high level while simultaneously studying the thought of Plato and Aristotle, the poetry of Homer and Virgil, and the political history of Athens and Rome. The degree is also offered in 'civilisation' routes that do not require prior language study, making it accessible without school-level Latin or Greek. Classics graduates are prized for their intellectual range, linguistic precision and the depth of their engagement with foundational Western thought.",
+    "yearByYear": [
+      {
+        "year": 1,
+        "focus": "Languages, texts and ancient worlds",
+        "modules": [
+          "Latin Prose and Poetry: Cicero and Virgil",
+          "Ancient Greek Language: Homer and Plato",
+          "Greek History: From Polis to Empire",
+          "Roman History: Republic and Principate",
+          "Classical Mythology and Its Receptions"
+        ]
+      },
+      {
+        "year": 2,
+        "focus": "Advanced language and thematic study",
+        "modules": [
+          "Greek Tragedy: Aeschylus, Sophocles and Euripides",
+          "Roman Elegy and Lyric: Catullus, Propertius, Ovid",
+          "Ancient Philosophy: Plato's Republic and Aristotle's Ethics",
+          "Archaeology of the Greek World",
+          "Gender and Sexuality in the Ancient World"
+        ]
+      },
+      {
+        "year": 3,
+        "focus": "Specialism and original research",
+        "modules": [
+          "The Roman Novel: Petronius and Apuleius",
+          "Classical Reception: Shakespeare, Opera, Film",
+          "Ancient Historiography: Thucydides and Tacitus",
+          "Dissertation in Classics"
+        ]
+      }
+    ],
+    "skills": [
+      "Translation from Latin and/or Ancient Greek, demonstrating close attention to syntactic structure and lexical nuance",
+      "Interdisciplinary analytical thinking — integrating linguistic, historical, archaeological and philosophical evidence",
+      "Extended argumentative writing at a high academic standard, drawing on primary texts in their original languages",
+      "Detailed knowledge of foundational Western philosophical and political thought",
+      "Research synthesis across multiple disciplines and scholarly traditions"
+    ],
+    "professionalBodies": [
+      {
+        "name": "Classical Association",
+        "benefit": "The oldest classics body in the UK, offering student membership, the journal Greece & Rome, the annual conference, grants and a vibrant network for academics, teachers and enthusiasts"
+      },
+      {
+        "name": "Society for the Promotion of Hellenic Studies",
+        "benefit": "Membership includes access to the Journal of Hellenic Studies, the Hellenic Society library in London and bursaries for Greek travel and research"
+      },
+      {
+        "name": "Roman Society",
+        "benefit": "Offers student membership, access to the Journal of Roman Studies, travel grants and networking with professional classicists and archaeologists"
+      }
+    ],
+    "careers": [
+      {
+        "role": "Solicitor / Barrister (via GDL)",
+        "salary": "£27,000–£50,000 starting / £60,000–£120,000 at 5 years",
+        "demand": "High"
+      },
+      {
+        "role": "Civil Service Fast Stream",
+        "salary": "£30,000–£32,000 starting / £45,000–£65,000 at 5 years",
+        "demand": "Very High"
+      },
+      {
+        "role": "Museum Curator / Heritage Professional",
+        "salary": "£22,000–£28,000 starting / £35,000–£50,000 at 5 years",
+        "demand": "High"
+      },
+      {
+        "role": "Academic / Lecturer in Classics (via PhD)",
+        "salary": "£33,000–£42,000 starting / £45,000–£65,000 at 5 years",
+        "demand": "Growing"
+      }
+    ],
+    "topEmployers": ["UK Civil Service", "British Museum", "Linklaters", "Oxford University Press", "Teach First", "The Times Literary Supplement"],
+    "employerPerspective": "Classics graduates are exceptional communicators and analytical thinkers. The discipline demands mastery of two difficult languages, command of a vast body of literature and the ability to reason across history, philosophy and culture simultaneously — a combination that produces outstanding barristers, policy advisers and consultants. We look specifically for Classics graduates when filling roles that require both rigorous logical thinking and the ability to write beautifully under pressure.",
+    "entryRequirements": "Typical offer: A*AA–AAB at A-level. Top universities (Oxford A*AA, Cambridge A*AA) are among the most competitive in the country. For language routes, prior Latin or Ancient Greek is normally required, often at GCSE level. Civilisation routes are accessible without prior language study. GCSE: strong grades expected broadly; Latin and/or Ancient Greek GCSE is a strong advantage.",
+    "furtherStudy": "MPhil/MA in Classics, Ancient History, Classical Archaeology, Classical Reception, or Ancient Philosophy. PGCE for teaching Latin or Ancient History. GDL for law. PhD for an academic career — AHRC doctoral training partnerships fund competitive places at leading UK universities.",
+    "isItForYou": [
+      "Study this if you are drawn to the intellectual origins of Western thought, enjoy the challenge of learning ancient languages and want a degree that combines literary, philosophical, historical and archaeological perspectives in a single programme",
+      "Study this if you have strong academic ability and are open to careers in law, the Civil Service, heritage or academia — Classics is consistently among the degrees associated with the highest graduate earnings relative to tuition investment",
+      "Think twice if you find language learning frustrating or prefer a more directly vocational degree — while civilisation routes offer some flexibility, the full Classics degree is demanding and requires genuine commitment to linguistic mastery"
+    ]
+  },
+
+  "modernLanguages": {
+    "id": "modernLanguages",
+    "title": "Modern Languages BA",
+    "duration": "3 years / 4 years (with year abroad)",
+    "overview": "Modern Languages is the study of one or two living languages to a high level of proficiency alongside their literatures, cultures, histories and societies. The degree is genuinely transformative: students typically spend their third year abroad as a student, language assistant or intern in a country where their language is spoken, achieving near-native fluency in reading, writing, speaking and listening. Alongside language acquisition, you will study literature from the Renaissance to the present day, film, cultural theory and contemporary society in the target country or countries. Modern Languages graduates are among the most internationally mobile of all UK graduates and are recruited into finance, diplomacy, the Civil Service, publishing, translation and global business.",
+    "yearByYear": [
+      {
+        "year": 1,
+        "focus": "Language foundations and cultural introduction",
+        "modules": [
+          "Advanced Language Skills I: Grammar and Communication",
+          "Introduction to Literary Study in the Target Language",
+          "Cultures and Societies of the Target Language World",
+          "Translation: Theory and Practice",
+          "Film and Visual Culture in the Target Language"
+        ]
+      },
+      {
+        "year": 2,
+        "focus": "Literary depth and linguistic accuracy",
+        "modules": [
+          "Advanced Language Skills II: Academic and Professional Register",
+          "Literature from the Enlightenment to Modernism",
+          "Contemporary Writing and Postcolonial Voices",
+          "Media, Politics and Society in the Target Language World",
+          "Interpreting: Consecutive and Liaison Skills"
+        ]
+      },
+      {
+        "year": 3,
+        "focus": "Year abroad",
+        "modules": [
+          "Year Abroad (university exchange, language assistantship or work placement)",
+          "Reflective Language Portfolio",
+          "Independent Research Project (year abroad country)"
+        ]
+      }
+    ],
+    "skills": [
+      "Near-native written and spoken proficiency in one or two modern languages, including formal, academic and professional registers",
+      "Cross-cultural competence — understanding how language shapes identity, politics and society in different national contexts",
+      "Translation and interpreting skills, working between at least two languages in both written and oral modes",
+      "Close literary analysis in a second language, with sensitivity to linguistic nuance and cultural context",
+      "Adaptability and resilience developed through extended independent living in a foreign country"
+    ],
+    "professionalBodies": [
+      {
+        "name": "Chartered Institute of Linguists (CIOL)",
+        "benefit": "CIOL membership and its Diploma in Translation (DipTrans) is the UK's leading professional qualification for translators and interpreters, highly valued by employers in language services"
+      },
+      {
+        "name": "Institute of Translation & Interpreting (ITI)",
+        "benefit": "ITI membership gives access to professional development, a searchable directory listing, specialist networks by language and subject, and codes of professional conduct for practising translators"
+      },
+      {
+        "name": "Association for Language Learning (ALL)",
+        "benefit": "Particularly useful for graduates pursuing teaching, ALL provides curriculum resources, the journal Language Learning Journal and a professional community for modern language educators"
+      }
+    ],
+    "careers": [
+      {
+        "role": "Diplomat / Foreign Office Fast Stream",
+        "salary": "£29,000–£33,000 starting / £45,000–£65,000 at 5 years",
+        "demand": "High"
+      },
+      {
+        "role": "Professional Translator / Interpreter",
+        "salary": "£24,000–£32,000 starting / £40,000–£60,000 at 5 years",
+        "demand": "Growing"
+      },
+      {
+        "role": "International Business Development Manager",
+        "salary": "£28,000–£38,000 starting / £50,000–£75,000 at 5 years",
+        "demand": "Very High"
+      },
+      {
+        "role": "International Journalist / Correspondent",
+        "salary": "£25,000–£35,000 starting / £40,000–£65,000 at 5 years",
+        "demand": "High"
+      }
+    ],
+    "topEmployers": ["Foreign, Commonwealth & Development Office (FCDO)", "European Commission", "Reuters", "HSBC", "Unilever", "Lionbridge (Language Services)"],
+    "employerPerspective": "Modern Languages graduates offer something that cannot easily be developed in professional life: genuine bilingual or trilingual fluency combined with real cultural intelligence. In international banking, diplomacy and global business, the ability to read a contract, negotiate a deal or conduct research in another language without relying on a translator is a significant competitive advantage. Year-abroad experience also tells us a great deal about a candidate's self-reliance and adaptability — qualities we prize as much as language skills themselves.",
+    "entryRequirements": "Typical offer: AAB–ABB at A-level; the target language(s) at A-level normally required, ideally at grade A or B. Native speakers of the target language may be redirected to different language combinations. GCSE: English at grade 5/C or above expected. Some universities offer beginners' language options in one of the languages studied.",
+    "furtherStudy": "MA in Translation, Interpreting, Applied Linguistics, International Relations, European Studies or Area Studies. PGCE for teaching. Professional qualifications: CIOL DipTrans or ITI membership. MA/MSc in International Business or Global Affairs for those moving toward business. PhD for academic careers.",
+    "isItForYou": [
+      "Study this if you love languages and are excited by the prospect of achieving genuine fluency, spending a year abroad and building a career with genuine international mobility across diplomacy, business, translation or journalism",
+      "Study this if you are drawn to the cultures, literatures and political histories of other countries and want a degree that opens doors to international organisations, the Foreign Office and global companies",
+      "Think twice if you are not prepared to commit fully to the year abroad or if your language motivation is primarily instrumental — the degree works best when driven by genuine curiosity about other cultures and a willingness to step outside your comfort zone"
+    ]
+  },
+
+  "french": {
+    "id": "french",
+    "title": "French BA",
+    "duration": "3 years / 4 years (with year abroad)",
+    "overview": "French is one of the world's most studied languages and the official language of 29 countries across five continents, making it an exceptionally valuable degree for anyone seeking an international career. At university, you will study the language to an advanced level across all four skills — reading, writing, listening and speaking — while exploring French and Francophone literature from the seventeenth century to the present, French cinema, cultural theory and contemporary politics in France and the wider Francophone world. The compulsory year in a French-speaking country is a defining feature of the degree: it builds near-native fluency and cross-cultural confidence that remain with graduates throughout their professional lives. French is widely studied in combination with Spanish, German, linguistics, history or law.",
+    "yearByYear": [
+      {
+        "year": 1,
+        "focus": "Advanced French language and cultural foundations",
+        "modules": [
+          "Advanced French Grammar and Written Expression",
+          "Introduction to French Literature: Molière to Baudelaire",
+          "French Oral Communication and Phonetics",
+          "History of France: Revolution to the Fifth Republic",
+          "Translation from and into French"
+        ]
+      },
+      {
+        "year": 2,
+        "focus": "Literary and cultural depth",
+        "modules": [
+          "Twentieth-Century French Literature: Proust, Sartre, Beauvoir",
+          "Francophone Literature: Africa, the Caribbean and Québec",
+          "French Cinema: From the Nouvelle Vague to the Present",
+          "Advanced French Writing and Professional Communication",
+          "French Political Thought and Contemporary Society"
+        ]
+      },
+      {
+        "year": 3,
+        "focus": "Year abroad in a French-speaking country",
+        "modules": [
+          "Year Abroad (university exchange or language assistantship in France, Belgium, Switzerland, Canada or Francophone Africa)",
+          "French Language Portfolio: Advanced Register",
+          "Research Project on Francophone Theme"
+        ]
+      }
+    ],
+    "skills": [
+      "Near-native written and spoken proficiency in French, including formal, literary, journalistic and professional registers",
+      "Close literary analysis of French and Francophone texts, with sensitivity to historical and postcolonial contexts",
+      "Translation between English and French across a range of text types, from literary prose to legal and commercial documents",
+      "Cultural and intercultural competence in French and Francophone contexts across Europe, Africa and the Americas",
+      "Autonomous language learning strategies developed through the year abroad"
+    ],
+    "professionalBodies": [
+      {
+        "name": "Chartered Institute of Linguists (CIOL)",
+        "benefit": "The CIOL's Diploma in Translation (DipTrans) for French is the benchmark professional qualification for French translators in the UK and is recognised by the EU institutions and international bodies"
+      },
+      {
+        "name": "Institute of Translation & Interpreting (ITI)",
+        "benefit": "ITI membership and its French language network provide professional development, a client directory listing, specialist subject networks and access to the European Language Industry Survey"
+      },
+      {
+        "name": "Association for Language Learning (ALL)",
+        "benefit": "For graduates moving into French teaching, ALL provides teaching resources, the Language Learning Journal, CPD events and a professional community for modern language educators"
+      }
+    ],
+    "careers": [
+      {
+        "role": "French–English Translator / Interpreter (Conference/Legal/Literary)",
+        "salary": "£24,000–£32,000 starting / £40,000–£65,000 at 5 years",
+        "demand": "Growing"
+      },
+      {
+        "role": "French Teacher (Secondary, via PGCE)",
+        "salary": "£30,000–£36,399 starting / £43,685–£65,000 at 5 years",
+        "demand": "Very High"
+      },
+      {
+        "role": "International Trade Adviser / Export Manager",
+        "salary": "£28,000–£38,000 starting / £50,000–£70,000 at 5 years",
+        "demand": "High"
+      },
+      {
+        "role": "EU/International Affairs Officer / Diplomat",
+        "salary": "£29,000–£35,000 starting / £45,000–£65,000 at 5 years",
+        "demand": "High"
+      }
+    ],
+    "topEmployers": ["FCDO (Foreign Commonwealth & Development Office)", "European Commission / European Parliament", "BNP Paribas", "L'Oréal", "Airbus", "International Criminal Court"],
+    "employerPerspective": "French remains among the most commercially valuable European languages for UK businesses with operations in Europe, Africa and Canada. Candidates with degree-level French — particularly those who have lived in a French-speaking country — bring fluency and cultural understanding that takes years to develop any other way. In financial services, the ability to work directly with French-speaking clients and colleagues in Paris, Geneva or Luxembourg is a tangible competitive advantage that we factor into hiring decisions.",
+    "entryRequirements": "Typical offer: AAB–ABB at A-level; French A-level normally required, ideally at grade A. Native French speakers are usually directed to different language combinations or joint degrees. GCSE: English at grade 5/C expected. Some universities offer an intensive beginners' option for students combining French with another subject where they are a beginner.",
+    "furtherStudy": "MA in Translation Studies, French Studies, Francophone Studies, Applied Linguistics or European Politics. PGCE for French teaching. CIOL DipTrans (French) for professional translation. MA or MSc in International Business or European Law for business-oriented careers. PhD for academic research.",
+    "isItForYou": [
+      "Study this if you have a genuine love of French language and Francophone cultures, are excited by the prospect of near-native fluency and a year in France or another French-speaking country, and want a degree that opens doors in Europe, Africa and internationally",
+      "Study this if you are considering translation, teaching, diplomacy, international business or journalism — French remains one of the world's five most important working languages and is the second most studied language in the world",
+      "Think twice if your French is already at a high level but you are motivated purely instrumentally — the degree involves deep literary and cultural study alongside language acquisition, and those who thrive are genuinely curious about France and the Francophone world"
+    ]
+  },
+
+  "spanish": {
+    "id": "spanish",
+    "title": "Spanish BA",
+    "duration": "3 years / 4 years (with year abroad)",
+    "overview": "Spanish is the second most widely spoken native language in the world, with over 480 million speakers across Spain, Latin America, the United States and beyond, making a Spanish degree one of the most globally marketable qualifications available. At university, you will develop advanced proficiency across all language skills — including the ability to navigate the rich regional variation between Castilian Spanish and the major Latin American varieties — alongside deep study of Spanish and Latin American literature, film, cultural history and politics. The year abroad, spent in Spain or a Latin American country, is a transformative experience that produces true bilingual confidence and cultural intelligence valued by employers across finance, business, law and the creative industries.",
+    "yearByYear": [
+      {
+        "year": 1,
+        "focus": "Advanced Spanish language and Iberian contexts",
+        "modules": [
+          "Advanced Spanish Grammar and Composition",
+          "Introduction to Spanish Literature: Golden Age to Realism",
+          "Spain and Its Histories: Monarchy, Republic, Civil War",
+          "Translation: English into Spanish and Spanish into English",
+          "Oral Spanish: Accent, Register and Discourse"
+        ]
+      },
+      {
+        "year": 2,
+        "focus": "Latin American literatures and advanced language",
+        "modules": [
+          "The Latin American Boom: García Márquez, Borges, Cortázar",
+          "Spanish Cinema: Buñuel, Almodóvar and Contemporary Film",
+          "Postcolonial Latin America: Society, Politics and Culture",
+          "Advanced Spanish Writing: Academic and Professional Texts",
+          "Language Variation: Dialectology and Sociolinguistics"
+        ]
+      },
+      {
+        "year": 3,
+        "focus": "Year abroad in a Spanish-speaking country",
+        "modules": [
+          "Year Abroad (university exchange or language assistantship in Spain, Mexico, Argentina, Colombia or other Spanish-speaking country)",
+          "Spanish Language Portfolio: Advanced and Professional Register",
+          "Independent Research Project on Hispanic Theme"
+        ]
+      }
+    ],
+    "skills": [
+      "Near-native written and spoken proficiency in Spanish across Castilian and major Latin American varieties",
+      "Literary and cultural analysis of texts from Spain and Latin America, with attention to postcolonial and subaltern perspectives",
+      "Translation between English and Spanish in a range of registers, including literary, commercial and legal texts",
+      "Intercultural competence across diverse Spanish-speaking contexts in Europe, Latin America and the United States",
+      "Sustained independent research, developed through the dissertation and year-abroad project"
+    ],
+    "professionalBodies": [
+      {
+        "name": "Chartered Institute of Linguists (CIOL)",
+        "benefit": "The CIOL's Diploma in Translation (DipTrans) for Spanish is the benchmark professional qualification for Spanish translators in the UK, recognised by courts, government bodies and international organisations"
+      },
+      {
+        "name": "Institute of Translation & Interpreting (ITI)",
+        "benefit": "ITI's Spanish language network provides professional development events, specialist subject groups, a client directory and the annual ITI conference connecting language professionals across the sector"
+      },
+      {
+        "name": "Association for Language Learning (ALL)",
+        "benefit": "For graduates entering Spanish teaching, ALL offers CPD resources, the Language Learning Journal, a teachers' network and advocacy for modern languages in the UK curriculum"
+      }
+    ],
+    "careers": [
+      {
+        "role": "Spanish–English Translator / Conference Interpreter",
+        "salary": "£24,000–£32,000 starting / £40,000–£70,000 at 5 years",
+        "demand": "Very High"
+      },
+      {
+        "role": "Latin America Business Development / Export Manager",
+        "salary": "£28,000–£40,000 starting / £52,000–£75,000 at 5 years",
+        "demand": "Growing"
+      },
+      {
+        "role": "Spanish Teacher (Secondary, via PGCE)",
+        "salary": "£30,000–£36,399 starting / £43,685–£65,000 at 5 years",
+        "demand": "Very High"
+      },
+      {
+        "role": "International Journalist / Latin America Correspondent",
+        "salary": "£25,000–£35,000 starting / £40,000–£60,000 at 5 years",
+        "demand": "High"
+      }
+    ],
+    "topEmployers": ["FCDO (Foreign Commonwealth & Development Office)", "International Monetary Fund", "Santander", "Inditex (Zara)", "Reuters Latin America", "Amnesty International"],
+    "employerPerspective": "Spanish is one of the fastest-growing major languages in global business, particularly in financial services, technology and commodities where Latin American markets are increasingly significant. Graduates who can work fluently in Spanish and navigate cultural differences between Spain and the diverse Latin American countries are genuinely rare and in demand. We find that Spanish graduates from UK universities bring analytical rigour alongside their language skills — they are not just translators but business thinkers who happen to be bilingual.",
+    "entryRequirements": "Typical offer: AAB–ABB at A-level; Spanish A-level normally required, ideally at grade A or B. Native or heritage Spanish speakers are usually redirected to different combinations. Some universities offer beginners' Spanish for students combining it with another language or subject. GCSE: English at grade 5/C expected.",
+    "furtherStudy": "MA in Translation, Spanish and Latin American Studies, Hispanic Studies, Applied Linguistics, International Business or Latin American Studies. PGCE for Spanish teaching. CIOL DipTrans (Spanish). MBA for business-oriented graduates. PhD for academic research in Hispanic Studies or comparative literature.",
+    "isItForYou": [
+      "Study this if you are passionate about the Spanish language and its cultural diversity across Spain, Latin America and beyond, and want a degree that produces genuine bilingual fluency alongside deep literary and cultural knowledge",
+      "Study this if you are drawn to international careers in business, diplomacy, translation, journalism or development — Spanish is the official language of 20 countries and one of the six official UN languages",
+      "Think twice if you are looking for a vocational qualification with a direct professional route — Spanish opens many doors but requires you to be proactive about combining the degree with internships, further qualifications or professional experience"
+    ]
+  },
+
+  "german": {
+    "id": "german",
+    "title": "German BA",
+    "duration": "3 years / 4 years (with year abroad)",
+    "overview": "German is the most widely spoken native language in Europe and the official language of Germany, Austria and Switzerland — three of Europe's most economically significant countries. A German degree develops advanced language proficiency alongside deep engagement with German-speaking literatures, cultural history, philosophy and contemporary European politics. You will read Goethe and Kafka in the original, engage with twentieth-century German history including the Holocaust and GDR, study the philosophical tradition from Kant through Nietzsche to the Frankfurt School, and spend a year in a German-speaking country developing near-native fluency and professional confidence. German is widely studied in combination with business, philosophy, law or another modern language.",
+    "yearByYear": [
+      {
+        "year": 1,
+        "focus": "Advanced German language and cultural foundations",
+        "modules": [
+          "Advanced German Grammar and Written Skills",
+          "German Literature from Classicism to Expressionism: Goethe, Schiller, Kafka",
+          "History of the German-Speaking World: 1848 to the Present",
+          "German Oral and Aural Skills: Register and Pronunciation",
+          "Translation: German into English and English into German"
+        ]
+      },
+      {
+        "year": 2,
+        "focus": "Literary and intellectual depth",
+        "modules": [
+          "German Literature After 1945: Brecht, Böll, Sebald",
+          "German Cinema: Weimar, Third Reich and New German Cinema",
+          "The Frankfurt School: Critical Theory from Adorno to Habermas",
+          "GDR Literature and Culture: Living Under Socialism",
+          "Advanced German Writing and Academic Communication"
+        ]
+      },
+      {
+        "year": 3,
+        "focus": "Year abroad in a German-speaking country",
+        "modules": [
+          "Year Abroad (university exchange or language assistantship in Germany, Austria or Switzerland)",
+          "German Language Portfolio: Professional and Academic Register",
+          "Research Project on German or Austrian Theme"
+        ]
+      }
+    ],
+    "skills": [
+      "Near-native proficiency in written and spoken German, including academic, professional and colloquial registers",
+      "Literary and cultural analysis of German-language texts from the Enlightenment to the contemporary, with attention to historical and philosophical context",
+      "Translation between English and German across a wide range of text types, including literary, technical and commercial documents",
+      "Deep engagement with German intellectual traditions in philosophy, critical theory and political thought",
+      "Cross-cultural adaptability developed through extended residence in a German-speaking country"
+    ],
+    "professionalBodies": [
+      {
+        "name": "Chartered Institute of Linguists (CIOL)",
+        "benefit": "The CIOL's Diploma in Translation (DipTrans) for German is the gold-standard qualification for German translators in the UK, particularly valued in technical and legal sectors where German is widely used"
+      },
+      {
+        "name": "Institute of Translation & Interpreting (ITI)",
+        "benefit": "ITI's German language and specialist technical networks provide professional development, market guidance and a searchable directory for practising German translators and interpreters"
+      },
+      {
+        "name": "German-British Chamber of Industry and Commerce (GBCCI)",
+        "benefit": "The GBCCI provides networking opportunities, business events and links to German-owned companies operating in the UK — a valuable resource for graduates moving into German-UK business contexts"
+      }
+    ],
+    "careers": [
+      {
+        "role": "German–English Technical or Legal Translator",
+        "salary": "£26,000–£36,000 starting / £45,000–£70,000 at 5 years",
+        "demand": "High"
+      },
+      {
+        "role": "German-UK Business Development / Account Manager",
+        "salary": "£30,000–£42,000 starting / £55,000–£80,000 at 5 years",
+        "demand": "Growing"
+      },
+      {
+        "role": "German Teacher (Secondary, via PGCE)",
+        "salary": "£30,000–£36,399 starting / £43,685–£65,000 at 5 years",
+        "demand": "Very High"
+      },
+      {
+        "role": "European Policy Analyst / EU Affairs Officer",
+        "salary": "£28,000–£38,000 starting / £45,000–£65,000 at 5 years",
+        "demand": "High"
+      }
+    ],
+    "topEmployers": ["FCDO (Foreign Commonwealth & Development Office)", "Siemens UK", "BASF", "Deutsche Bank London", "Goethe-Institut", "European Commission (Berlin/Brussels)"],
+    "employerPerspective": "German remains the prestige language of European business in manufacturing, engineering, finance and pharmaceutical sectors. Companies with significant German operations — and there are many in the UK — value candidates who can work across cultural and linguistic lines. German graduates also tend to have excellent technical precision: the language itself rewards exactness, and graduates often bring an unusual clarity of thought and expression to analytical work.",
+    "entryRequirements": "Typical offer: AAB–ABB at A-level; German A-level normally required, ideally at grade A or B. Some universities offer an intensive beginners' route for students studying German alongside another language where they are more advanced. GCSE: English at grade 5/C expected. German is one of the few languages where universities actively encourage beginners, recognising declining uptake at school.",
+    "furtherStudy": "MA in German Studies, Translation Studies, Applied Linguistics, European Politics, International Business or Central European Studies. PGCE for German teaching. CIOL DipTrans (German). MBA or MSc for business roles. PhD for academic careers in German literature, philosophy or cultural studies.",
+    "isItForYou": [
+      "Study this if you are drawn to Germany's rich philosophical, literary and cultural heritage, want to achieve near-native German fluency, and see yourself working in European business, translation, teaching or international affairs",
+      "Study this if you are interested in philosophy, intellectual history or contemporary European politics — the German intellectual tradition is central to the discipline and opens doors to advanced study in these areas",
+      "Think twice if you are already studying two languages and struggling to manage the workload — while German is extremely valuable, the degree works best when you have genuine enthusiasm for German culture and thought rather than purely adding a third language to your CV"
+    ]
+  },
+
+  "linguistics": {
+    "id": "linguistics",
+    "title": "Linguistics BA",
+    "duration": "3 years",
+    "overview": "Linguistics is the scientific study of language: how it is structured, how it is acquired, how it varies across communities and changes over time, how it is processed in the brain and how it shapes social identity and power. It is a fascinatingly interdisciplinary subject, drawing on psychology, computer science, anthropology, sociology and neuroscience alongside the formal analysis of grammar and sound. Students learn to apply rigorous analytical methods — including phonemic transcription, syntactic tree diagrams and corpus analysis — to the full diversity of human languages, from Mandarin to Arabic to languages of the Amazon. Linguistics is particularly relevant for careers in speech and language therapy (with a relevant Masters), natural language processing, teaching English as a foreign language and computational linguistics.",
+    "yearByYear": [
+      {
+        "year": 1,
+        "focus": "Core linguistic disciplines",
+        "modules": [
+          "Introduction to Phonetics and Phonology",
+          "Morphology and Syntax: How Language is Structured",
+          "Semantics and Pragmatics",
+          "Language Acquisition: First and Second Language",
+          "The World's Languages: Diversity and Universals"
+        ]
+      },
+      {
+        "year": 2,
+        "focus": "Applied and sociolinguistic perspectives",
+        "modules": [
+          "Sociolinguistics: Language, Identity and Power",
+          "Historical Linguistics: Language Change and Reconstruction",
+          "Psycholinguistics and the Language Brain",
+          "Corpus Linguistics and Computational Methods",
+          "Discourse Analysis and Pragmatics"
+        ]
+      },
+      {
+        "year": 3,
+        "focus": "Specialism and independent research",
+        "modules": [
+          "Natural Language Processing and Computational Linguistics",
+          "Language, Gender and Sexuality",
+          "Clinical Linguistics and Communication Disorders",
+          "Dissertation in Linguistics"
+        ]
+      }
+    ],
+    "skills": [
+      "Phonemic transcription using the International Phonetic Alphabet (IPA) and analysis of sound systems across languages",
+      "Syntactic and morphological analysis — constructing phrase structure trees and analysing grammatical variation",
+      "Corpus analysis using specialist software (AntConc, Sketch Engine) to identify patterns in large language datasets",
+      "Experimental design and data analysis for psycholinguistic and sociolinguistic research",
+      "Ability to analyse language objectively across registers, dialects and languages without normative or prescriptive bias"
+    ],
+    "professionalBodies": [
+      {
+        "name": "Linguistics Association of Great Britain (LAGB)",
+        "benefit": "The LAGB holds annual conferences, publishes the journal Transactions of the Philological Society and offers student bursaries and a mentoring network for early-career linguists"
+      },
+      {
+        "name": "Royal College of Speech & Language Therapists (RCSLT)",
+        "benefit": "Linguistics graduates wishing to pursue Speech and Language Therapy will need an RCSLT-accredited postgraduate degree; the RCSLT provides information on routes into the profession and CPD for qualified therapists"
+      },
+      {
+        "name": "British Association of Applied Linguistics (BAAL)",
+        "benefit": "BAAL supports applied research in language education, language policy and sociolinguistics, with an annual conference, the journal Applied Linguistics and travel grants for student researchers"
+      }
+    ],
+    "careers": [
+      {
+        "role": "Natural Language Processing (NLP) Engineer / Computational Linguist",
+        "salary": "£35,000–£50,000 starting / £65,000–£95,000 at 5 years",
+        "demand": "Very High"
+      },
+      {
+        "role": "Speech and Language Therapist (via accredited Masters)",
+        "salary": "£28,407–£34,581 starting (NHS Band 5–6) / £40,000–£52,000 at 5 years",
+        "demand": "Very High"
+      },
+      {
+        "role": "EFL/ESOL Teacher / Language Programme Manager",
+        "salary": "£24,000–£32,000 starting / £35,000–£50,000 at 5 years",
+        "demand": "High"
+      },
+      {
+        "role": "UX Researcher / Content Strategist (Language Focus)",
+        "salary": "£30,000–£42,000 starting / £50,000–£70,000 at 5 years",
+        "demand": "Growing"
+      }
+    ],
+    "topEmployers": ["Google DeepMind", "Amazon (Alexa)", "NHS Speech and Language Services", "British Council", "Duolingo", "Cambridge Assessment English"],
+    "employerPerspective": "Linguistics graduates have become increasingly important in the tech sector as conversational AI and natural language processing move from research curiosity to core product. The ability to analyse language structure formally — and to think about meaning, ambiguity and context with precision — maps directly onto the challenges we face in building reliable language models. Beyond tech, linguistics graduates in teaching and clinical roles bring a unique ability to diagnose language difficulties and design effective interventions that purely education-focused graduates often lack.",
+    "entryRequirements": "Typical offer: ABB–BBB at A-level; no specific subject required at most universities, though English Language, a modern language, or Mathematics is often noted as advantageous. Linguistics A-level is offered at relatively few schools but is warmly welcomed where available. GCSE: English at grade 5/C expected. Some programmes are joint with a language (e.g. Linguistics and French) and may require that language at A-level.",
+    "furtherStudy": "MSc in Computational Linguistics, Natural Language Processing, Speech and Language Therapy (pre-registration), Applied Linguistics, TESOL or Language Acquisition. PGCE for teaching. PhD in any area of linguistics — ESRC doctoral training partnerships fund quantitative and mixed-methods linguistic research. MSc Computer Science (conversion) for graduates moving into NLP development.",
+    "isItForYou": [
+      "Study this if you are fascinated by how language actually works — not just in English, but across the extraordinary diversity of human languages — and are drawn to analytical methods, data and the intersection of language with psychology, society and technology",
+      "Study this if you are considering a career in speech and language therapy, computational linguistics, language teaching or user experience research, where formal training in language structure is a genuine professional asset",
+      "Think twice if you expect to focus primarily on literature or creative writing — Linguistics is a science as much as a humanity, involving formal analysis, IPA transcription and quantitative methods, and it suits students who enjoy systematic investigation"
+    ]
+  },
+
+  "artHistory": {
+    "id": "artHistory",
+    "title": "History of Art BA",
+    "duration": "3 years",
+    "overview": "History of Art is the study of visual culture across time and place — painting, sculpture, architecture, photography, film, design and digital media — analysed through historical, cultural, political and theoretical lenses. It is a discipline that asks not just 'what does this look like?' but 'who made it, for whom, why, and what did it mean in its time and context?' Students develop visual literacy of the highest order: the ability to look carefully, to describe precisely and to interpret the formal and iconographic content of works of art with scholarly rigour. The degree is intellectually cosmopolitan, requiring engagement with non-Western art histories, feminist and postcolonial critiques of the canon, and contemporary theory. History of Art graduates are highly sought after in the creative industries, heritage sector, auction houses and arts administration.",
+    "yearByYear": [
+      {
+        "year": 1,
+        "focus": "Visual analysis and art-historical methods",
+        "modules": [
+          "Looking and Describing: Methods in Art History",
+          "From Antiquity to the Renaissance: Art in the Western Tradition",
+          "Art of the Nineteenth Century: Realism, Impressionism, Symbolism",
+          "Architecture: Theory, History and Space",
+          "Non-Western Art Histories: Africa, Asia, the Americas"
+        ]
+      },
+      {
+        "year": 2,
+        "focus": "Modernism, theory and global perspectives",
+        "modules": [
+          "Modernism and the Avant-Garde: Cubism to Abstract Expressionism",
+          "Art Theory and Critical Methods: Formalism, Psychoanalysis, Semiotics",
+          "Photography and the Image: From Daguerre to Digital",
+          "Postcolonial Art Histories and Global Contemporary Art",
+          "Museum Studies: Display, Collection and Interpretation"
+        ]
+      },
+      {
+        "year": 3,
+        "focus": "Specialism and dissertation research",
+        "modules": [
+          "Contemporary Art after 1989: The Global Art World",
+          "Women Artists and Feminist Art History",
+          "The Art Market: History, Ethics and Commerce",
+          "Dissertation in History of Art"
+        ]
+      }
+    ],
+    "skills": [
+      "Visual analysis — the ability to describe and interpret formal qualities (composition, colour, technique, scale) with scholarly precision",
+      "Iconographic and contextual analysis, situating works of art within their historical, social and political contexts",
+      "Engagement with a wide range of critical and theoretical frameworks including feminism, psychoanalysis, postcolonialism and semiotics",
+      "Museum and archival research skills, including study of original works, collection catalogues and archival documents",
+      "Persuasive written and oral communication about visual material, developed through essays, presentations and curated displays"
+    ],
+    "professionalBodies": [
+      {
+        "name": "Association for Art History",
+        "benefit": "The UK's leading body for art historians, offering student membership, the journal Art History, the annual conference, careers resources and a lively network connecting academics and museum professionals"
+      },
+      {
+        "name": "Museums Association (MA)",
+        "benefit": "Membership provides access to the journal Museums Journal, the annual conference, a mentoring scheme and professional development resources — essential for graduates moving into curatorial and museum management roles"
+      },
+      {
+        "name": "Chartered Institute for Archaeologists (CIfA)",
+        "benefit": "For graduates moving into heritage and built environment roles alongside art history, CIfA accreditation supports careers in conservation, heritage management and listed building work"
+      }
+    ],
+    "careers": [
+      {
+        "role": "Curator / Curatorial Assistant (Museum or Gallery)",
+        "salary": "£22,000–£28,000 starting / £35,000–£55,000 at 5 years",
+        "demand": "High"
+      },
+      {
+        "role": "Auction House Specialist (Christie's, Sotheby's, Bonhams)",
+        "salary": "£25,000–£32,000 starting / £45,000–£80,000 at 5 years",
+        "demand": "High"
+      },
+      {
+        "role": "Arts Administrator / Programme Manager",
+        "salary": "£23,000–£30,000 starting / £38,000–£55,000 at 5 years",
+        "demand": "Growing"
+      },
+      {
+        "role": "Arts Journalist / Gallery Communications Manager",
+        "salary": "£24,000–£30,000 starting / £38,000–£52,000 at 5 years",
+        "demand": "Growing"
+      }
+    ],
+    "topEmployers": ["Tate Modern / Tate Britain", "Victoria and Albert Museum", "Christie's", "Sotheby's", "Arts Council England", "National Gallery"],
+    "employerPerspective": "History of Art graduates bring something we find hard to develop in people who come from other backgrounds: genuine visual intelligence, the ability to look at an object and construct a compelling, scholarly argument about its significance. In the auction house world, that skill is the foundation of everything — valuation, provenance research, client advice. In museums, curators who understand not just what an object is but why it matters visually and culturally make exhibitions that genuinely engage audiences. We hire History of Art graduates wherever we can.",
+    "entryRequirements": "Typical offer: AAB–ABB at A-level; no specific subjects required at most universities, though History of Art (where offered), History, English, a modern language or Fine Art are often seen in successful applicants. History of Art A-level is offered at relatively few schools. GCSE: English at grade 5/C expected. Portfolio not normally required for History of Art (as opposed to Fine Art).",
+    "furtherStudy": "MA in History of Art, Curatorship, Museum Studies, Arts Administration, Conservation, or Auction House and Art Market Studies. PGCE for teaching Art History (limited uptake). PhD for academic careers. Postgraduate diplomas at Christie's Education and Sotheby's Institute of Art are highly regarded in the art market world.",
+    "isItForYou": [
+      "Study this if you are genuinely excited by looking at art, architecture and visual culture, enjoy connecting objects to their historical and social context and want a career in museums, galleries, the art market or arts administration",
+      "Study this if you have strong essay-writing skills and enjoy theory — History of Art involves dense readings in art theory, critical studies and cultural history, and rewards those who engage enthusiastically with intellectual frameworks",
+      "Think twice if you are primarily interested in making art rather than analysing it — this is an academic discipline, not a studio practice, and applicants who confuse the two often find the theoretical demands of the degree unexpected"
+    ]
+  },
+
+  "musicHumanities": {
+    "id": "musicHumanities",
+    "title": "Music BA/BMus",
+    "duration": "3 years / 4 years (MMus/integrated Masters)",
+    "overview": "Music at university level is far broader than school-level music suggests: alongside performance and composition, you will study music theory and analysis, music history from the medieval period to the present, ethnomusicology, music technology and the cultural, social and political contexts in which music is made and heard. UK university Music departments range from conservatoire-style programmes emphasising performance to more academic departments where historical musicology and analytical skills take priority, so it is important to research individual programmes carefully. Graduates are trained musicians, thinkers and communicators who go on to performance careers, music education, the music industry, broadcasting, therapy and arts administration.",
+    "yearByYear": [
+      {
+        "year": 1,
+        "focus": "Musicianship, analysis and historical foundations",
+        "modules": [
+          "Harmony, Counterpoint and Tonal Analysis",
+          "Music History I: Medieval, Renaissance and Baroque",
+          "Aural Training and Sight-Reading",
+          "Performance Studies: Solo and Ensemble",
+          "Introduction to Ethnomusicology"
+        ]
+      },
+      {
+        "year": 2,
+        "focus": "Composition, critical thought and specialism",
+        "modules": [
+          "Music Since 1900: Modernism, Minimalism, Spectralism",
+          "Music and Society: Politics, Race and Gender in Music",
+          "Composition: Acoustic and Electronic Techniques",
+          "Music Technology: Recording, Production and Sound Design",
+          "Music Psychology and Cognitive Science of Music"
+        ]
+      },
+      {
+        "year": 3,
+        "focus": "Independent research, performance and dissertation",
+        "modules": [
+          "Advanced Performance or Composition Portfolio",
+          "World Music: Traditions, Hybridity and Globalisation",
+          "The Music Industry: Commerce, Copyright and Careers",
+          "Dissertation in Music (Musicology or Composition)"
+        ]
+      }
+    ],
+    "skills": [
+      "Score reading and harmonic analysis — identifying structural, harmonic and stylistic features in music from multiple periods and traditions",
+      "Aural skills: transcription, sight-singing, and the ability to listen analytically to complex musical textures",
+      "Compositional technique in acoustic and/or electronic media, drawing on a range of historical and contemporary models",
+      "Critical writing about music — situating works in their historical, cultural and theoretical contexts with scholarly precision",
+      "Performance skills in a principal study, developed through individual tuition and ensemble participation"
+    ],
+    "professionalBodies": [
+      {
+        "name": "Incorporated Society of Musicians (ISM)",
+        "benefit": "The ISM is the UK's professional body for musicians, offering student and graduate membership, legal support, CPD, a jobs board and advocacy for music in education — essential for all career paths in music"
+      },
+      {
+        "name": "Associated Board of the Royal Schools of Music (ABRSM)",
+        "benefit": "ABRSM examiners and assessors are largely drawn from Music graduates; its teaching qualifications (DipABRSM, LRSM) provide a structured route into instrumental teaching for performance-focused graduates"
+      },
+      {
+        "name": "British Academy of Songwriters, Composers and Authors (BASCA / IVORS Academy)",
+        "benefit": "The Ivors Academy represents songwriters and composers, providing royalty guidance, industry connections, awards and advocacy — essential for graduates working in composition and the music industry"
+      }
+    ],
+    "careers": [
+      {
+        "role": "Instrumental / Vocal Teacher (Private or School)",
+        "salary": "£20,000–£30,000 starting / £35,000–£55,000 at 5 years",
+        "demand": "Very High"
+      },
+      {
+        "role": "Music Producer / Sound Designer",
+        "salary": "£22,000–£35,000 starting / £40,000–£70,000 at 5 years",
+        "demand": "Growing"
+      },
+      {
+        "role": "Music Therapist (via accredited Masters)",
+        "salary": "£28,407–£35,000 starting (NHS Band 5) / £40,000–£52,000 at 5 years",
+        "demand": "High"
+      },
+      {
+        "role": "Arts Administrator / Music Programme Manager",
+        "salary": "£23,000–£30,000 starting / £38,000–£55,000 at 5 years",
+        "demand": "Growing"
+      }
+    ],
+    "topEmployers": ["BBC Orchestras and Choirs", "Southbank Centre", "Warner Music Group", "Trinity Laban Conservatoire", "Sage Gateshead", "Universal Music Publishing"],
+    "employerPerspective": "Music graduates are among our most versatile recruits — they have trained both analytically and practically, can work under pressure to tight deadlines and bring a level of focused attention to detail that we prize across roles from artist management to music supervision. The dissertation demonstrates sustained independent research; the performance portfolio shows commitment and the ability to communicate emotionally through a medium other than words. We look for Music graduates when we need people who combine analytical rigour with genuine creative instinct.",
+    "entryRequirements": "Typical offer: AAB–ABB at A-level; Music A-level normally required, and Grade 7–8 ABRSM (or equivalent) on a principal study instrument or voice. GCSE: English at grade 5/C expected. Music theory — ideally Grade 5 or above — is expected at most departments. Auditions or performance showcases are required at conservatoire-style programmes and some university departments. A-level Music Technology may be accepted in place of or alongside A-level Music at some institutions.",
+    "furtherStudy": "MMus in Performance, Composition, Musicology, Ethnomusicology, Music Technology or Music Therapy (professional registration route). PGCE for school Music teaching. PhD for academic careers. Postgraduate diplomas at the Royal Academy of Music, Royal College of Music or Guildhall School of Music for performance-focused routes.",
+    "isItForYou": [
+      "Study this if music is a genuine passion — you read scores, practise regularly, listen widely across genres and want to develop your analytical and creative musical skills in an intellectually rigorous environment",
+      "Study this if you are open to a wide range of career outcomes: Music graduates go into performance, teaching, therapy, the music industry, broadcasting and general graduate careers in far greater numbers than any single pathway",
+      "Think twice if performance is your only goal — a conservatoire programme may suit you better, as university Music degrees balance academic and practical elements and the academic component (essays, dissertations, historical analysis) is substantial"
+    ]
+  },
+
+  "englishCreativeWriting": {
+    "id": "englishCreativeWriting",
+    "title": "English & Creative Writing BA",
+    "duration": "3 years",
+    "overview": "English & Creative Writing combines the close literary reading and critical analysis of an English Literature degree with practical training in the craft of writing fiction, poetry, creative non-fiction, script and other forms. This dual approach — reading as a writer and writing as a reader — produces graduates who understand literature both from the inside (as makers) and the outside (as critics), developing a sophisticated creative voice alongside genuine scholarly rigour. The degree is not simply about being 'given space to write': workshops involve detailed, peer-led critique, and craft modules address the technical challenges of point of view, voice, structure, compression and revision. Graduates go into writing, publishing, journalism, education, arts administration and the many creative sectors that value clear, distinctive communication.",
+    "yearByYear": [
+      {
+        "year": 1,
+        "focus": "Reading as a writer, writing as a reader",
+        "modules": [
+          "The Craft of Fiction: Point of View, Voice and Structure",
+          "Poetry Workshop: Forms, Compression and the Line",
+          "Reading Contemporary Literature: The Novel Since 2000",
+          "Literary Nonfiction: Memoir, Essay and the Personal Voice",
+          "Shakespeare and the Early Modern Stage"
+        ]
+      },
+      {
+        "year": 2,
+        "focus": "Genre, form and critical-creative depth",
+        "modules": [
+          "Advanced Fiction Workshop: Revision and the Long Form",
+          "Screenwriting and Dramatic Writing",
+          "Postcolonial and World Literature",
+          "The Short Story: Carver, Munro, Borges",
+          "Literature and Theory: Narrative, Genre and the Reader"
+        ]
+      },
+      {
+        "year": 3,
+        "focus": "Independent creative project and dissertation",
+        "modules": [
+          "The Writer in the World: Careers, Publishing and the Literary Marketplace",
+          "Gothic and Speculative Fiction Workshop",
+          "Life Writing: Autobiography, Memoir, Biography",
+          "Creative Dissertation: Extended Writing Project with Critical Reflection"
+        ]
+      }
+    ],
+    "skills": [
+      "Creative writing craft: structuring narrative, controlling voice and point of view, writing dialogue, revising and editing extended pieces",
+      "Close critical reading of literary texts, with the ability to analyse how formal and stylistic choices produce meaning",
+      "Constructive peer critique — giving and receiving detailed, honest feedback in a workshop setting",
+      "Genre awareness: understanding the conventions of fiction, poetry, non-fiction and script and how contemporary writers work with and against those conventions",
+      "Self-editing and revision strategies — the discipline of returning to a draft, identifying weaknesses and making them strengths"
+    ],
+    "professionalBodies": [
+      {
+        "name": "Society of Authors",
+        "benefit": "Graduate and student members gain access to contract vetting, emergency financial assistance, the Members Update newsletter and a vibrant professional community of published writers and editors"
+      },
+      {
+        "name": "National Association of Writers in Education (NAWE)",
+        "benefit": "NAWE supports writers who work in educational settings, offering a professional directory, CPD, the journal Writing in Education and advocacy for creative writing as a discipline in higher and further education"
+      },
+      {
+        "name": "Publishers Association",
+        "benefit": "PA resources and entry-level publishing schemes are particularly relevant for Creative Writing graduates moving into editorial, agenting, rights and marketing roles in the publishing industry"
+      }
+    ],
+    "careers": [
+      {
+        "role": "Author / Freelance Writer (Fiction, Non-Fiction, Poetry)",
+        "salary": "£15,000–£25,000 early career / highly variable at 5 years",
+        "demand": "High"
+      },
+      {
+        "role": "Editorial Assistant to Editor (Book Publishing)",
+        "salary": "£22,000–£28,000 starting / £38,000–£55,000 at 5 years",
+        "demand": "High"
+      },
+      {
+        "role": "Copywriter / Content Director",
+        "salary": "£25,000–£35,000 starting / £45,000–£65,000 at 5 years",
+        "demand": "Very High"
+      },
+      {
+        "role": "Secondary School English Teacher (via PGCE)",
+        "salary": "£30,000–£36,399 starting / £43,685–£65,000 at 5 years",
+        "demand": "Very High"
+      }
+    ],
+    "topEmployers": ["Penguin Random House", "Faber & Faber", "Curtis Brown Creative", "Ogilvy", "Guardian Media Group", "National Theatre"],
+    "employerPerspective": "Creative Writing graduates who have also studied English Literature bring something genuinely unusual: they are technically skilled writers who have also read deeply and thought critically about how literature works. In publishing, we need editorial assistants who can read a manuscript and immediately identify what is wrong with its structure or voice — Creative Writing graduates can do that because they have been trained to think about writing from the inside. In content and communications, their ability to find a fresh angle, write with personality and revise efficiently is immediately evident.",
+    "entryRequirements": "Typical offer: AAB–ABB at A-level; English Literature and/or English Language usually required or strongly preferred. Some universities request a writing sample or portfolio as part of the admissions process. GCSE: English Language at grade 6/B or above expected given the writing demands of the degree. Contextual offers available at many institutions.",
+    "furtherStudy": "MA in Creative Writing (widely available at UK universities including UEA, Goldsmiths, Warwick, Bath Spa and Manchester — UEA is the oldest and most prestigious). MA in Publishing, Journalism, Screenwriting or Children's Book Illustration. PGCE for English teaching. Curtis Brown Creative and Faber Academy run popular postgraduate-level programmes outside the university system.",
+    "isItForYou": [
+      "Study this if you are genuinely committed to writing — not just enjoying reading, but to the practice of writing and rewriting with discipline — and want both creative development and critical grounding in literary analysis",
+      "Study this if you are drawn to a career in publishing, creative industries, journalism, content or teaching, where the combination of writing skill and literary knowledge is directly applicable",
+      "Think twice if you are hoping the degree will make you a published novelist within three years — Creative Writing develops craft and analytical thinking, but publication requires persistence, resilience and luck that no degree can guarantee"
+    ]
+  },
+
+  "dramaTheatre": {
+    "id": "dramaTheatre",
+    "title": "Drama & Theatre Studies BA",
+    "duration": "3 years",
+    "overview": "Drama & Theatre Studies is the academic and practical study of theatre as an art form, cultural practice and social force. Unlike drama school training, which focuses primarily on acting technique for professional performance, a university Drama degree combines practical theatre-making with rigorous historical, theoretical and critical study — asking why theatre matters, how it works as a medium, how it has changed across history and cultures, and what it can do that other art forms cannot. Students will act, direct, design and produce theatre in collaboration with peers, while also writing critical essays, studying dramatic texts from Sophocles to Sarah Kane and engaging with theatre theory from Brecht and Artaud to contemporary feminist and postdramatic thought. Graduates go into performance, theatre-making, education, arts administration, journalism, community arts and the wider creative economy.",
+    "yearByYear": [
+      {
+        "year": 1,
+        "focus": "Theatre history, text and collaborative practice",
+        "modules": [
+          "Acting Techniques: Stanislavski, Brecht and Beyond",
+          "Drama and Performance: From Ancient Greece to the Early Modern",
+          "Devised Theatre: Making Performance Collaboratively",
+          "Dramatic Text in Performance: Reading Plays as Scores",
+          "Introduction to Theatre Theory: Brecht, Artaud, Grotowski"
+        ]
+      },
+      {
+        "year": 2,
+        "focus": "Contemporary theatre, direction and design",
+        "modules": [
+          "Contemporary British Theatre: 1956 to the Present",
+          "Directing: Concept, Process and Realisation",
+          "Design for Performance: Space, Light and Scenography",
+          "World Theatre: African, Asian and Latin American Traditions",
+          "Applied Theatre: Drama in Community and Educational Settings"
+        ]
+      },
+      {
+        "year": 3,
+        "focus": "Independent theatre project and dissertation",
+        "modules": [
+          "Postdramatic Theatre: Forced Entertainment, Rimini Protokoll, Nature Theatre",
+          "Musical Theatre: History, Form and Performance",
+          "The Theatre Industry: Production, Venues and Careers",
+          "Major Performance or Dissertation Project"
+        ]
+      }
+    ],
+    "skills": [
+      "Collaborative theatre-making — working effectively in devising groups, production teams and creative ensembles under time and resource pressure",
+      "Critical analysis of dramatic texts and live performance, using a range of theoretical frameworks from Aristotelian dramaturgy to postdramatic theory",
+      "Directorial thinking — conceptualising how a text or devised piece can be realised for a specific space and audience",
+      "Project management of theatrical productions: coordinating creative teams, managing budgets and delivering to performance deadlines",
+      "Embodied communication and presence — the ability to express ideas physically and vocally in performance and group facilitation contexts"
+    ],
+    "professionalBodies": [
+      {
+        "name": "Equity",
+        "benefit": "The UK's trade union for performing arts professionals; Drama graduates entering performance, stage management or related fields are eligible for Equity membership, which provides employment protections, pay guidance and professional support"
+      },
+      {
+        "name": "Theatre and Performance Research Association (TaPRA)",
+        "benefit": "TaPRA supports research in theatre and performance studies, running an annual conference with working groups across specialisms from applied theatre to dance and offering networking for early-career researchers"
+      },
+      {
+        "name": "Independent Theatre Council (ITC)",
+        "benefit": "The ITC represents independent theatre companies and venues across the UK; its resources on employment law, funding, touring and governance are invaluable for graduates setting up or working in small-to-medium theatre companies"
+      }
+    ],
+    "careers": [
+      {
+        "role": "Theatre Director / Theatre-Maker",
+        "salary": "£18,000–£28,000 early career / £35,000–£60,000 at 5 years",
+        "demand": "Growing"
+      },
+      {
+        "role": "Drama Teacher (Secondary, via PGCE)",
+        "salary": "£30,000–£36,399 starting / £43,685–£65,000 at 5 years",
+        "demand": "Very High"
+      },
+      {
+        "role": "Community Arts Practitioner / Applied Theatre Facilitator",
+        "salary": "£22,000–£30,000 starting / £35,000–£48,000 at 5 years",
+        "demand": "Growing"
+      },
+      {
+        "role": "Arts Administrator / Producing / Theatre Management",
+        "salary": "£23,000–£30,000 starting / £38,000–£55,000 at 5 years",
+        "demand": "High"
+      }
+    ],
+    "topEmployers": ["National Theatre", "Royal Shakespeare Company", "Frantic Assembly", "Unicorn Theatre", "Battersea Arts Centre", "Arts Council England"],
+    "employerPerspective": "Drama graduates from university programmes are not just performers — they are theatre thinkers who can produce, manage, teach and facilitate as well as perform or direct. In a sector that requires everyone to do multiple jobs simultaneously, that versatility is essential. We value the critical studies component as much as the practical: a Drama graduate who has studied Brecht and Boal is better placed to make theatre that actually says something than one who has only done acting classes. The dissertation and written work also give us confidence that they can communicate their ideas in funding applications, programme notes and grant reports.",
+    "entryRequirements": "Typical offer: ABB–BBB at A-level; Drama or Theatre Studies A-level is useful but not always required — many programmes welcome English, History, Music or creative A-levels. Audition or practical workshop is required at some universities (especially those with strong performance components) but not all. GCSE: English at grade 5/C expected. A-level Drama is offered at a wide range of schools and colleges, though quality of provision varies.",
+    "furtherStudy": "MA in Theatre Directing, Applied Theatre, Performance Studies, Dramaturgy, Theatre and Education or Arts Administration. PGCE for drama teaching. Professional training routes via drama school (Rose Bruford, Guildhall, RADA) for those wishing to move into professional performance or directing. MA in Cultural Policy or Arts Management for theatre management careers. PhD for academic careers in Theatre Studies.",
+    "isItForYou": [
+      "Study this if you are genuinely passionate about theatre as an art form — not just performing, but also directing, designing, theorising and producing — and want a degree that develops you as a complete theatre-maker and thinker",
+      "Study this if you are considering a career in education, community arts, arts administration or theatre management alongside or instead of professional performance — the degree prepares you for all of these pathways effectively",
+      "Think twice if your sole ambition is professional acting and you do not value the academic critical component — a drama school or conservatoire training programme is likely to give you stronger industry contacts and a more focused performance technique, and many of the best drama schools do not require a prior degree"
+    ]
+  }
+}
