@@ -82,7 +82,7 @@ export default function Filters({
               <span className={`absolute top-0.5 left-0.5 w-4 h-4 rounded-full bg-white shadow transition-transform ${hideReach ? 'translate-x-4' : 'translate-x-0'}`} />
             </div>
             <span className="text-xs font-medium text-slate-400 group-hover:text-slate-300 transition-colors">
-              Hide reach schools
+              Hide out of scope
             </span>
           </label>
         )}

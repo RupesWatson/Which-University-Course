@@ -6,9 +6,10 @@ import { oxbridgeSubjectFor } from '../config/oxbridgeSubjects';
 import { getMatchTier, gradeKey } from '../utils/gradeMatch';
 
 const FIT_CONFIG = {
-  safe:  { label: 'Safe',  classes: 'bg-emerald-900/50 border-emerald-600/50 text-emerald-300' },
-  match: { label: 'Match', classes: 'bg-blue-900/50 border-blue-600/50 text-blue-300' },
-  reach: { label: 'Reach', classes: 'bg-amber-900/50 border-amber-600/50 text-amber-300' },
+  safe:           { label: 'Safe',         classes: 'bg-emerald-900/50 border-emerald-600/50 text-emerald-300' },
+  match:          { label: 'Match',        classes: 'bg-blue-900/50 border-blue-600/50 text-blue-300' },
+  stretch:        { label: 'Stretch',      classes: 'bg-amber-900/50 border-amber-600/50 text-amber-300' },
+  'out-of-scope': { label: 'Out of scope', classes: 'bg-red-900/50 border-red-700/50 text-red-400' },
 };
 
 function FitBadge({ tier }) {

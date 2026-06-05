@@ -44,7 +44,7 @@ export default function StrandHome() {
       if (!matchSearch || !matchTier) return false;
       if (hideReach && studentScore != null) {
         const fit = getMatchTier(studentScore, university[key], gradeType);
-        if (fit === 'reach') return false;
+        if (fit === 'out-of-scope') return false;
       }
       return true;
     });
