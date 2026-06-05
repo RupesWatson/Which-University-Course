@@ -143,6 +143,25 @@ export default function StrandHome() {
           studentScore={studentScore}
         />
 
+        {studentScore != null && (
+          <div className="mb-4 flex flex-wrap items-center gap-x-5 gap-y-2 rounded-lg border border-blue-900/30 bg-[#0a1f3a]/40 px-4 py-2.5">
+            <span className="text-[10px] font-semibold uppercase tracking-widest text-blue-400/60">Grade fit</span>
+            {[
+              { label: 'Safe',         desc: 'At or above requirement',  classes: 'bg-emerald-900/50 border-emerald-600/50 text-emerald-300' },
+              { label: 'Match',        desc: 'Meets requirement',         classes: 'bg-blue-900/50 border-blue-600/50 text-blue-300' },
+              { label: 'Stretch',      desc: '~1 grade below',            classes: 'bg-amber-900/50 border-amber-600/50 text-amber-300' },
+              { label: 'Out of scope', desc: '2+ grades below',           classes: 'bg-red-900/50 border-red-700/50 text-red-400' },
+            ].map(({ label, desc, classes }) => (
+              <div key={label} className="flex items-center gap-1.5">
+                <span className={`inline-flex items-center rounded border px-1.5 py-0.5 text-[10px] font-semibold tracking-wide ${classes}`}>
+                  {label}
+                </span>
+                <span className="text-[11px] text-slate-500">{desc}</span>
+              </div>
+            ))}
+          </div>
+        )}
+
         {rowsError ? (
           <div className="rounded-xl border border-red-900/40 bg-red-950/20 px-6 py-10 text-center text-sm text-red-400">
             Failed to load data: {rowsError}
