@@ -3,6 +3,23 @@ import { Link } from 'react-router-dom';
 import GradeBadge from './GradeBadge';
 import ExpandedRow from './ExpandedRow';
 import { oxbridgeSubjectFor } from '../config/oxbridgeSubjects';
+import { getMatchTier, gradeKey } from '../utils/gradeMatch';
+
+const FIT_CONFIG = {
+  safe:  { label: 'Safe',  classes: 'bg-emerald-900/50 border-emerald-600/50 text-emerald-300' },
+  match: { label: 'Match', classes: 'bg-blue-900/50 border-blue-600/50 text-blue-300' },
+  reach: { label: 'Reach', classes: 'bg-amber-900/50 border-amber-600/50 text-amber-300' },
+};
+
+function FitBadge({ tier }) {
+  if (!tier) return null;
+  const { label, classes } = FIT_CONFIG[tier];
+  return (
+    <span className={`mt-1 inline-flex items-center rounded border px-1.5 py-0.5 text-[10px] font-semibold tracking-wide ${classes}`}>
+      {label}
+    </span>
+  );
+}
 
 function toSlug(name) {
   return name
@@ -68,12 +85,12 @@ function compareValues(a, b, key, dir, gradeKey = 'entryGrades') {
   return 0;
 }
 
-export default function Table({ universities, course, strandId, gradeType = 'aLevel' }) {
+export default function Table({ universities, course, strandId, gradeType = 'aLevel', studentScore = null }) {
   const [sortKey, setSortKey] = useState('subjectRank');
   const [sortDir, setSortDir] = useState('asc');
   const [expanded, setExpanded] = useState(null);
 
-  const gradeKey = gradeType === 'ib' ? 'ibGrades' : gradeType === 'ucasPoints' ? 'ucasPoints' : 'entryGrades';
+  const gKey = gradeKey(gradeType);
   const columns = buildColumns(course?.rankLabel || 'Table Position');
 
   function handleSort(key) {
@@ -88,7 +105,7 @@ export default function Table({ universities, course, strandId, gradeType = 'aLe
     setSortDir('asc');
   }
 
-  const sorted = [...universities].sort((a, b) => compareValues(a, b, sortKey, sortDir, gradeKey));
+  const sorted = [...universities].sort((a, b) => compareValues(a, b, sortKey, sortDir, gKey));
 
   function tierBadge(tier) {
     return tier === 'Russell Group' ? (
@@ -163,7 +180,8 @@ export default function Table({ universities, course, strandId, gradeType = 'aLe
                   <td className="px-4 py-3 text-center">{rankCell(uni.overallRank)}</td>
                   <td className="px-4 py-3 text-center">{rankCell(uni.subjectRank)}</td>
                   <td className="px-4 py-3">
-                    <GradeBadge grade={uni[gradeKey]} />
+                    <GradeBadge grade={uni[gKey]} />
+                    <FitBadge tier={getMatchTier(studentScore, uni[gKey], gradeType)} />
                   </td>
                   <td className="px-4 py-3 text-center">
                     <span className="font-semibold text-blue-200">{uni.gradProspects}</span>
