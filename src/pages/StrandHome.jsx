@@ -1,21 +1,11 @@
 import { useMemo, useState } from 'react';
 import { useParams, useSearchParams, Link, Navigate } from 'react-router-dom';
 import { getStrand } from '../config/strands';
-import { useCourseRows } from '../hooks/useCourseRows';
-import { useStrandRowCounts } from '../hooks/useStrandRowCounts';
 import StatsBar from '../components/StatsBar';
 import Filters from '../components/Filters';
 import CourseSelect from '../components/CourseSelect';
 import Table from '../components/Table';
 import { scoreGrade, getMatchTier, gradeKey } from '../utils/gradeMatch';
-
-function LoadingTable() {
-  return (
-    <div className="flex items-center justify-center rounded-xl border border-blue-900/40 py-20">
-      <div className="text-sm text-slate-500">Loading universities...</div>
-    </div>
-  );
-}
 
 export default function StrandHome() {
   const { strand: strandId } = useParams();
@@ -31,8 +21,11 @@ export default function StrandHome() {
   const courseId = searchParams.get('course') || courses[0]?.id;
   const course = courses.find(item => item.id === courseId) || courses[0] || null;
 
-  const { rows, loading: rowsLoading, error: rowsError } = useCourseRows(course?.id, strandId);
-  const { counts: rowCounts } = useStrandRowCounts(strandId);
+  const rows = course?.data ?? [];
+  const rowCounts = useMemo(
+    () => new Map(courses.map(c => [c.id, c.data?.length ?? 0])),
+    [courses],
+  );
 
   const studentScore = predictedGrade ? scoreGrade(predictedGrade, gradeType) : null;
 
@@ -162,21 +155,13 @@ export default function StrandHome() {
           </div>
         )}
 
-        {rowsError ? (
-          <div className="rounded-xl border border-red-900/40 bg-red-950/20 px-6 py-10 text-center text-sm text-red-400">
-            Failed to load data: {rowsError}
-          </div>
-        ) : rowsLoading ? (
-          <LoadingTable />
-        ) : (
-          <Table
-            universities={filtered}
-            course={course}
-            strandId={strand.id}
-            gradeType={gradeType}
-            studentScore={studentScore}
-          />
-        )}
+        <Table
+          universities={filtered}
+          course={course}
+          strandId={strand.id}
+          gradeType={gradeType}
+          studentScore={studentScore}
+        />
 
         <footer className="mt-10 text-center text-xs text-slate-600">
           {strand.footerNote}
