@@ -12,6 +12,11 @@ export function useUniversityDetail(slug) {
 
   useEffect(() => {
     if (!slug) return;
+    if (!supabase) {
+      setError('University profiles require a database connection.');
+      setLoading(false);
+      return;
+    }
 
     let cancelled = false;
     setLoading(true);

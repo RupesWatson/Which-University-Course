@@ -1,6 +1,8 @@
 import { useParams, Link, useNavigate, Navigate } from 'react-router-dom';
 import { getStrand } from '../config/strands';
 import { useUniversityDetail } from '../hooks/useUniversityDetail';
+import NSSRadarChart from '../components/NSSRadarChart';
+import BudgetCalculator from '../components/BudgetCalculator';
 
 function Section({ title, children }) {
   return (
@@ -295,6 +297,12 @@ export default function UniversityPage() {
                     ]} />
                   </div>
                 )}
+                <div className="mt-6 border-t border-blue-900/40 pt-5">
+                  <div className="mb-3 text-[10px] font-semibold uppercase tracking-widest text-blue-400/60">
+                    Budget Calculator
+                  </div>
+                  <BudgetCalculator uni={uni} />
+                </div>
               </Section>
             )}
 
@@ -456,11 +464,7 @@ export default function UniversityPage() {
             {/* Student Satisfaction */}
             {uni.satisfaction && (
               <Section title="Student Satisfaction (NSS)">
-                {uni.satisfaction.nssOverall && <ProgressBar label="Overall satisfaction" value={uni.satisfaction.nssOverall} />}
-                {uni.satisfaction.teachingQuality && <ProgressBar label="Teaching quality" value={uni.satisfaction.teachingQuality} />}
-                {uni.satisfaction.academicSupport && <ProgressBar label="Academic support" value={uni.satisfaction.academicSupport} />}
-                {uni.satisfaction.learningResources && <ProgressBar label="Learning resources" value={uni.satisfaction.learningResources} />}
-                <p className="text-xs text-slate-500 mt-3">National Student Survey — most recent published data.</p>
+                <NSSRadarChart satisfaction={uni.satisfaction} />
               </Section>
             )}
 

@@ -86,7 +86,7 @@ function compareValues(a, b, key, dir, gradeKey = 'entryGrades') {
   return 0;
 }
 
-export default function Table({ universities, course, strandId, gradeType = 'aLevel', studentScore = null }) {
+export default function Table({ universities, course, strandId, gradeType = 'aLevel', studentScore = null, selectedList = new Set(), onSelectToggle = () => {} }) {
   const [sortKey, setSortKey] = useState('subjectRank');
   const [sortDir, setSortDir] = useState('asc');
   const [expanded, setExpanded] = useState(null);
@@ -147,6 +147,9 @@ export default function Table({ universities, course, strandId, gradeType = 'aLe
         <table className="w-full border-collapse text-sm">
           <thead>
             <tr className="border-b border-blue-900/50 bg-[#0a1f3a]">
+              <th className="w-10 px-3 py-3 text-center text-[11px] font-semibold uppercase tracking-wider text-blue-300/80">
+                <span className="sr-only">Compare</span>
+              </th>
               {columns.map(column => (
                 <th
                   key={column.key}
@@ -173,6 +176,16 @@ export default function Table({ universities, course, strandId, gradeType = 'aLe
                   onClick={() => setExpanded(isExpanded ? null : uni.name)}
                   className={`table-row-hover border-b border-blue-900/20 transition-colors ${index % 2 === 0 ? 'bg-[#050e1f]' : 'bg-[#07152a]'} ${isExpanded ? 'bg-blue-950/30' : ''}`}
                 >
+                  <td className="px-3 py-3 text-center" onClick={e => e.stopPropagation()}>
+                    <input
+                      type="checkbox"
+                      aria-label={`Compare ${uni.name}`}
+                      checked={selectedList.has(uni.name)}
+                      onChange={() => onSelectToggle(uni)}
+                      disabled={!selectedList.has(uni.name) && selectedList.size >= 3}
+                      className="h-3.5 w-3.5 cursor-pointer accent-blue-500 disabled:cursor-not-allowed disabled:opacity-30"
+                    />
+                  </td>
                   <td className="px-4 py-3">
                     <div className="font-medium text-slate-100 whitespace-nowrap">{uni.name}</div>
                     {uni.courseName && <div className="mt-1">{courseLink(uni)}</div>}
@@ -212,14 +225,14 @@ export default function Table({ universities, course, strandId, gradeType = 'aLe
                     key={`${uni.name}-expanded`}
                     university={uni}
                     course={course}
-                    colSpan={columns.length + 1}
+                    colSpan={columns.length + 2}
                   />
                 ),
               ];
             })}
             {sorted.length === 0 && (
               <tr>
-                <td colSpan={columns.length + 1} className="px-4 py-12 text-center text-slate-500">
+                <td colSpan={columns.length + 2} className="px-4 py-12 text-center text-slate-500">
                   No verified UCAS 2026 undergraduate matches for this subject area in the current comparison set.
                 </td>
               </tr>

@@ -1,7 +1,9 @@
+import { useState, useRef, useEffect } from 'react';
 import { useParams, useSearchParams, Link, Navigate } from 'react-router-dom';
 import { getStrand } from '../config/strands';
 import { useColleges } from '../hooks/useColleges';
 import { oxbridgeSubjectFor, oxbridgeAggregateNote } from '../config/oxbridgeSubjects';
+import CollegesMap from '../components/CollegesMap';
 
 const UNIVERSITY_NAMES = {
   oxford: 'University of Oxford',
@@ -13,6 +15,8 @@ export default function CollegesPage() {
   const [searchParams] = useSearchParams();
   const strand = getStrand(strandId);
   const courseId = searchParams.get('course');
+  const [focusedSlug, setFocusedSlug] = useState(null);
+  const cardRefs = useRef({});
 
   const { colleges, loading, error } = useColleges(slug);
 
@@ -24,6 +28,12 @@ export default function CollegesPage() {
   const aggregateNote = oxbridgeAggregateNote(slug, courseId);
   const universityName = UNIVERSITY_NAMES[slug];
   const course = strand.courses?.find(c => c.id === courseId);
+
+  useEffect(() => {
+    if (focusedSlug && cardRefs.current[focusedSlug]) {
+      cardRefs.current[focusedSlug].scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }
+  }, [focusedSlug]);
 
   const offeredColleges = subjectKey ? colleges.filter(c => c.subjects?.includes(subjectKey)) : [];
 
@@ -84,13 +94,21 @@ export default function CollegesPage() {
             )}
 
             {!loading && !error && colleges.length > 0 && (
-              <div className="mb-6 flex items-baseline gap-2">
-                <span className="text-2xl font-bold text-white">{offeredColleges.length}</span>
-                <span className="text-sm text-slate-400">
-                  of {colleges.length} colleges offer{' '}
-                  <span className="text-slate-200">{course?.label || courseId}</span>
-                </span>
-              </div>
+              <>
+                <div className="mb-4 flex items-baseline gap-2">
+                  <span className="text-2xl font-bold text-white">{offeredColleges.length}</span>
+                  <span className="text-sm text-slate-400">
+                    of {colleges.length} colleges offer{' '}
+                    <span className="text-slate-200">{course?.label || courseId}</span>
+                  </span>
+                </div>
+                <CollegesMap
+                  colleges={colleges}
+                  subjectKey={subjectKey}
+                  focusedSlug={focusedSlug}
+                  onFocus={setFocusedSlug}
+                />
+              </>
             )}
 
             {error ? (
@@ -109,11 +127,15 @@ export default function CollegesPage() {
               <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
                 {colleges.map(college => {
                   const isOffered = college.subjects?.includes(subjectKey);
+                  const isFocused = focusedSlug === college.slug;
                   return (
                     <div
                       key={college.slug}
-                      className={`rounded-xl border p-4 transition-colors ${
-                        isOffered
+                      ref={el => { cardRefs.current[college.slug] = el; }}
+                      className={`rounded-xl border p-4 transition-all ${
+                        isFocused
+                          ? 'border-blue-500/60 bg-blue-950/40 ring-1 ring-blue-500/30'
+                          : isOffered
                           ? 'border-blue-900/40 bg-[#0a1f3a]/60'
                           : 'border-slate-800/60 bg-[#050e1f]/40'
                       }`}

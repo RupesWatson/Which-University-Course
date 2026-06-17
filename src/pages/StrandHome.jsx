@@ -5,6 +5,8 @@ import StatsBar from '../components/StatsBar';
 import Filters from '../components/Filters';
 import CourseSelect from '../components/CourseSelect';
 import Table from '../components/Table';
+import MatchSimulator from '../components/MatchSimulator';
+import ComparisonTray from '../components/ComparisonTray';
 import { scoreGrade, getMatchTier, gradeKey } from '../utils/gradeMatch';
 
 export default function StrandHome() {
@@ -16,6 +18,8 @@ export default function StrandHome() {
   const [gradeType, setGradeType] = useState('aLevel');
   const [predictedGrade, setPredictedGrade] = useState('');
   const [hideReach, setHideReach] = useState(false);
+  const [selectedUnis, setSelectedUnis] = useState([]);
+  const [showComparison, setShowComparison] = useState(false);
 
   const courses = strand?.courses ?? [];
   const courseId = searchParams.get('course') || courses[0]?.id;
@@ -49,10 +53,22 @@ export default function StrandHome() {
 
   const { courseGroups } = strand;
 
+  const selectedNames = useMemo(() => new Set(selectedUnis.map(u => u.name)), [selectedUnis]);
+
+  function toggleSelectUni(uni) {
+    setSelectedUnis(prev => {
+      if (prev.some(u => u.name === uni.name)) return prev.filter(u => u.name !== uni.name);
+      if (prev.length >= 3) return prev;
+      return [...prev, uni];
+    });
+  }
+
   function handleCourseChange(id) {
     setSearchParams({ course: id }, { replace: true });
     setSearch('');
     setTier('All');
+    setSelectedUnis([]);
+    setShowComparison(false);
   }
 
   function handleGradeTypeChange(type) {
@@ -137,21 +153,28 @@ export default function StrandHome() {
         />
 
         {studentScore != null && (
-          <div className="mb-4 flex flex-wrap items-center gap-x-5 gap-y-2 rounded-lg border border-blue-900/30 bg-[#0a1f3a]/40 px-4 py-2.5">
-            <span className="text-[10px] font-semibold uppercase tracking-widest text-blue-400/60">Grade fit</span>
-            {[
-              { label: 'Safe',         desc: 'At or above requirement',  classes: 'bg-emerald-900/50 border-emerald-600/50 text-emerald-300' },
-              { label: 'Match',        desc: 'Meets requirement',         classes: 'bg-blue-900/50 border-blue-600/50 text-blue-300' },
-              { label: 'Stretch',      desc: '~1 grade below',            classes: 'bg-amber-900/50 border-amber-600/50 text-amber-300' },
-              { label: 'Out of scope', desc: '2+ grades below',           classes: 'bg-red-900/50 border-red-700/50 text-red-400' },
-            ].map(({ label, desc, classes }) => (
-              <div key={label} className="flex items-center gap-1.5">
-                <span className={`inline-flex items-center rounded border px-1.5 py-0.5 text-[10px] font-semibold tracking-wide ${classes}`}>
-                  {label}
-                </span>
-                <span className="text-[11px] text-slate-500">{desc}</span>
-              </div>
-            ))}
+          <div className="mb-4 grid gap-3 sm:grid-cols-[auto_1fr]">
+            <MatchSimulator
+              universities={filtered}
+              gradeType={gradeType}
+              studentScore={studentScore}
+            />
+            <div className="flex flex-wrap content-center items-center gap-x-5 gap-y-2 rounded-xl border border-blue-900/30 bg-[#0a1f3a]/40 px-4 py-3">
+              <span className="w-full text-[10px] font-semibold uppercase tracking-widest text-blue-400/60">Grade fit legend</span>
+              {[
+                { label: 'Safe',         desc: 'At or above requirement',  classes: 'bg-emerald-900/50 border-emerald-600/50 text-emerald-300' },
+                { label: 'Match',        desc: 'Meets requirement',         classes: 'bg-blue-900/50 border-blue-600/50 text-blue-300' },
+                { label: 'Stretch',      desc: '~1 grade below',            classes: 'bg-amber-900/50 border-amber-600/50 text-amber-300' },
+                { label: 'Out of scope', desc: '2+ grades below',           classes: 'bg-red-900/50 border-red-700/50 text-red-400' },
+              ].map(({ label, desc, classes }) => (
+                <div key={label} className="flex items-center gap-1.5">
+                  <span className={`inline-flex items-center rounded border px-1.5 py-0.5 text-[10px] font-semibold tracking-wide ${classes}`}>
+                    {label}
+                  </span>
+                  <span className="text-[11px] text-slate-500">{desc}</span>
+                </div>
+              ))}
+            </div>
           </div>
         )}
 
@@ -161,7 +184,48 @@ export default function StrandHome() {
           strandId={strand.id}
           gradeType={gradeType}
           studentScore={studentScore}
+          selectedList={selectedNames}
+          onSelectToggle={toggleSelectUni}
         />
+
+        {/* Floating comparison bar */}
+        {selectedUnis.length > 0 && !showComparison && (
+          <div className="fixed bottom-6 left-1/2 z-30 -translate-x-1/2">
+            <div className="flex items-center gap-3 rounded-full border border-blue-700/60 bg-[#061428] px-5 py-3 shadow-2xl shadow-blue-900/40">
+              <span className="text-sm font-medium text-slate-300">
+                {selectedUnis.length} selected
+              </span>
+              <div className="flex gap-1.5">
+                {selectedUnis.map(u => (
+                  <span key={u.name} className="max-w-[120px] truncate rounded-full border border-blue-800/60 bg-blue-900/40 px-2.5 py-0.5 text-xs text-blue-300">
+                    {u.name}
+                  </span>
+                ))}
+              </div>
+              <button
+                onClick={() => setShowComparison(true)}
+                className="rounded-full bg-blue-600 px-4 py-1.5 text-xs font-semibold text-white transition-colors hover:bg-blue-500"
+              >
+                Compare →
+              </button>
+              <button
+                onClick={() => setSelectedUnis([])}
+                className="text-xs text-slate-500 transition-colors hover:text-slate-300"
+                aria-label="Clear selection"
+              >
+                ✕
+              </button>
+            </div>
+          </div>
+        )}
+
+        {/* Comparison slide-over */}
+        {showComparison && (
+          <ComparisonTray
+            unis={selectedUnis}
+            onClose={() => setShowComparison(false)}
+          />
+        )}
 
         <footer className="mt-10 text-center text-xs text-slate-600">
           {strand.footerNote}

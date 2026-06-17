@@ -2,6 +2,7 @@ import { useParams, useSearchParams, Link, useNavigate, Navigate } from 'react-r
 import { getStrand } from '../config/strands';
 import { useCollegeDetail } from '../hooks/useCollegeDetail';
 import { oxbridgeSubjectFor } from '../config/oxbridgeSubjects';
+import BudgetCalculator from '../components/BudgetCalculator';
 
 function Section({ title, children }) {
   return (
@@ -230,6 +231,12 @@ export default function CollegePage() {
                 {college.finances.description && (
                   <p className="mt-4 text-sm leading-relaxed text-slate-300">{college.finances.description}</p>
                 )}
+                <div className="mt-6 border-t border-blue-900/40 pt-5">
+                  <div className="mb-3 text-[10px] font-semibold uppercase tracking-widest text-blue-400/60">
+                    Budget Calculator
+                  </div>
+                  <BudgetCalculator college={college} />
+                </div>
               </Section>
             )}
 
