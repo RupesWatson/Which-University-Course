@@ -1,0 +1,376 @@
+{
+  "computerScience": {
+    "id": "computerScience",
+    "title": "Computer Science",
+    "duration": "3 years (BSc) / 4 years (MComp or with placement) / 4 years (MEng integrated Masters)",
+    "overview": "Computer Science is the systematic study of computation, information and the design of computer systems. You will master the theoretical foundations — algorithms, data structures, complexity, formal methods — alongside practical software construction, systems design and modern application areas like AI, distributed systems and security. The degree is rigorous and mathematical at the top end, but every CS course gives you the most transferable skill set in the modern economy: the ability to break complex problems down and solve them with code.",
+    "yearByYear": [
+      { "year": 1, "focus": "Foundations", "modules": ["Programming (Java/Python)", "Discrete Mathematics", "Computer Architecture", "Data Structures & Algorithms", "Logic & Computation"] },
+      { "year": 2, "focus": "Core systems", "modules": ["Operating Systems", "Databases", "Computer Networks", "Software Engineering", "Theory of Computation"] },
+      { "year": 3, "focus": "Specialisation & project", "modules": ["AI & Machine Learning", "Compilers / Programming Languages", "Distributed Systems", "Security", "Individual Final-Year Project"] },
+      { "year": 4, "focus": "Advanced (MEng/MComp)", "modules": ["Advanced Algorithms", "Cryptography", "High-Performance Computing", "Research Methods", "Group Project / Industry Project"] }
+    ],
+    "skills": [
+      "Algorithmic thinking and complexity analysis",
+      "Proficient programming in multiple languages (Python, Java/C++, Rust/Go)",
+      "Software engineering with version control, testing and CI/CD",
+      "Mathematical foundations: discrete maths, probability, linear algebra",
+      "System design: databases, networks, distributed architectures"
+    ],
+    "professionalBodies": [
+      { "name": "BCS (British Computer Society) Chartered IT Professional", "benefit": "BCS-accredited degrees provide direct entry to Chartered IT Professional status with reduced experience requirements" },
+      { "name": "IET (Institution of Engineering and Technology)", "benefit": "Accredited MEng degrees fully satisfy the academic requirement for Chartered Engineer status" }
+    ],
+    "careers": [
+      { "role": "Software Engineer (Tech / Big Tech)", "salary": "£35,000–£55,000 starting / £80,000–£150,000+ at 5 years", "demand": "Very High" },
+      { "role": "Machine Learning Engineer", "salary": "£40,000–£60,000 starting / £90,000–£180,000 at 5 years", "demand": "Very High" },
+      { "role": "Data Engineer", "salary": "£35,000–£50,000 starting / £70,000–£110,000 at 5 years", "demand": "Very High" },
+      { "role": "Security Engineer", "salary": "£35,000–£50,000 starting / £75,000–£120,000 at 5 years", "demand": "High" },
+      { "role": "DevOps / Site Reliability Engineer", "salary": "£35,000–£50,000 starting / £75,000–£120,000 at 5 years", "demand": "Very High" }
+    ],
+    "topEmployers": ["Google", "Microsoft", "Amazon", "Meta", "Apple", "Bloomberg", "JPMorgan", "Goldman Sachs", "Palantir", "ARM"],
+    "employerPerspective": "Computer Science graduates from top UK universities are aggressively recruited by Big Tech (FAANG), investment banks (quants and engineers), unicorns and AI labs. Starting salaries at Google London for CS grads are typically £80,000+ base. The UK has a deep ecosystem of tech employers — from DeepMind in London to ARM in Cambridge — and employer-sponsored internships are the standard route to graduate offers. Industrial placement years (sandwich degrees) materially improve grad outcomes.",
+    "entryRequirements": "Typical offer: A*AA-AAA at A-level; Maths is essential (A* preferred at top universities). Further Maths is preferred but not required at most. GCSE: Maths and English at grade 6/B or above. Top universities (Cambridge, Oxford, Imperial) may require admissions tests (TMUA, MAT) and interviews. Contextual offers typically two grades lower for eligible applicants.",
+    "furtherStudy": "MSc Computer Science, MSc Machine Learning, MSc Computer Vision, MSc Software Engineering. Many top graduates skip the MSc and go straight into industry. PhD routes are popular for AI/ML research careers — UCL, Oxford, Cambridge and Edinburgh have strong PhD pipelines.",
+    "isItForYou": [
+      "Study this if you love solving puzzles, like building things, and enjoy abstract problem-solving — the degree rewards depth and curiosity",
+      "Study this if you want maximum career optionality — CS graduates work across every sector and the highest grad salaries are in tech",
+      "Think twice if you don't enjoy maths or sustained logical thinking; CS at top universities is much more mathematical than school-level coding suggests"
+    ]
+  },
+  "softwareEng": {
+    "id": "softwareEng",
+    "title": "Software Engineering",
+    "duration": "3 years (BSc) / 4 years (with placement) / 4 years (MEng)",
+    "overview": "Software Engineering applies engineering discipline to the design, development and maintenance of software systems. Where pure Computer Science emphasises theory, Software Engineering emphasises team-based delivery of robust, scalable, production-ready systems — covering requirements, architecture, testing, agile and DevOps practices. The best UK courses partner with industry to deliver placement-based learning, so you graduate having shipped real software in real teams.",
+    "yearByYear": [
+      { "year": 1, "focus": "Programming & fundamentals", "modules": ["Programming Methodology", "Object-Oriented Design", "Data Structures", "Web Technologies", "Discrete Maths"] },
+      { "year": 2, "focus": "Engineering practice", "modules": ["Software Architecture", "Database Systems", "Agile Project Management", "Software Testing & Verification", "Team Software Project"] },
+      { "year": 3, "focus": "Advanced systems", "modules": ["Distributed Systems", "DevOps & Cloud Engineering", "Software Security", "Human-Computer Interaction", "Final-Year Project"] }
+    ],
+    "skills": [
+      "End-to-end software delivery: requirements, design, testing, deployment",
+      "Modern stacks: Java/Kotlin/TypeScript/Python, React/Spring/Node",
+      "Cloud and DevOps: AWS/Azure, Docker, Kubernetes, CI/CD pipelines",
+      "Agile and Scrum team collaboration",
+      "Code review, version control (Git) and pair programming"
+    ],
+    "professionalBodies": [
+      { "name": "BCS (British Computer Society)", "benefit": "BCS accreditation provides direct route to CITP status post-graduation" },
+      { "name": "Engineering Council (CEng eligibility via accredited MEng)", "benefit": "Accredited MEng degrees fully satisfy academic requirements for Chartered Engineer registration" }
+    ],
+    "careers": [
+      { "role": "Software Engineer (Product/Web)", "salary": "£32,000–£50,000 starting / £70,000–£110,000 at 5 years", "demand": "Very High" },
+      { "role": "Backend / Platform Engineer", "salary": "£35,000–£50,000 starting / £75,000–£120,000 at 5 years", "demand": "Very High" },
+      { "role": "DevOps / Cloud Engineer", "salary": "£35,000–£50,000 starting / £75,000–£120,000 at 5 years", "demand": "Very High" },
+      { "role": "Quality / Test Automation Engineer", "salary": "£28,000–£40,000 starting / £55,000–£85,000 at 5 years", "demand": "High" }
+    ],
+    "topEmployers": ["Amazon", "Microsoft", "Sky", "BBC", "BT", "Capgemini", "Accenture", "Goldman Sachs", "Sage", "Monzo"],
+    "employerPerspective": "Software Engineering graduates are valued for being 'production-ready' — comfortable in agile teams, familiar with CI/CD, used to code reviews. Most graduate hiring is now skills-based interviewing (live coding, system design) rather than degree-class gated, so well-prepared software engineering graduates often outcompete pure CS graduates for non-elite roles. Placement-year graduates from Bath, Surrey and Aston have especially strong outcomes.",
+    "entryRequirements": "Typical offer: AAA-ABB at A-level; Maths preferred (required at top universities). GCSE: Maths and English at grade 6/B or above. Few courses require admissions tests outside top 3 universities. Industry-placement courses are popular and selective.",
+    "furtherStudy": "MSc Software Engineering, MSc Computer Science (specialism), MSc Distributed Systems. Most graduates go direct to industry without further study. Industry certifications (AWS Solutions Architect, Kubernetes CKAD) are often more career-relevant than further degrees.",
+    "isItForYou": [
+      "Study this if you want to build real software in teams and enjoy the collaborative, delivery-focused side of CS",
+      "Study this if you value an industrial placement and direct industry alignment over pure theory",
+      "Think twice if you're drawn to research, AI/ML or want the most mathematical/theoretical CS path"
+    ]
+  },
+  "aiML": {
+    "id": "aiML",
+    "title": "Artificial Intelligence & Machine Learning",
+    "duration": "3 years (BSc) / 4 years (MSci/MEng)",
+    "overview": "Artificial Intelligence & Machine Learning degrees train you to build systems that learn from data — covering classical machine learning, deep neural networks, computer vision, natural language processing, and the underlying mathematics of probability, linear algebra and optimisation. The UK is a global AI hub thanks to DeepMind, Wayve, Stability AI and a deep university research base (Edinburgh, Cambridge, Oxford, Imperial, UCL). AI graduates command some of the highest starting salaries in the country.",
+    "yearByYear": [
+      { "year": 1, "focus": "Mathematical foundations", "modules": ["Programming (Python)", "Linear Algebra", "Calculus & Probability", "Discrete Mathematics", "Introduction to AI"] },
+      { "year": 2, "focus": "Core ML", "modules": ["Machine Learning", "Statistical Inference", "Algorithms", "Computer Vision Basics", "Database Systems"] },
+      { "year": 3, "focus": "Advanced AI", "modules": ["Deep Learning", "Natural Language Processing", "Reinforcement Learning", "AI Ethics & Safety", "Individual Research Project"] },
+      { "year": 4, "focus": "Specialisation (MSci/MEng)", "modules": ["Probabilistic Models", "Computer Vision (Advanced)", "Bayesian Methods", "Group AI Project", "Research Methods"] }
+    ],
+    "skills": [
+      "Mathematical foundations: linear algebra, probability, optimisation",
+      "PyTorch and TensorFlow for deep learning",
+      "Classical ML: regression, decision trees, SVMs, clustering",
+      "Deep learning: CNNs, transformers, generative models",
+      "Reading and implementing research papers"
+    ],
+    "professionalBodies": [
+      { "name": "BCS Specialist Group on AI", "benefit": "Networking and CPD route for AI-focused careers" }
+    ],
+    "careers": [
+      { "role": "ML Engineer (Big Tech)", "salary": "£50,000–£70,000 starting / £130,000–£220,000+ at 5 years", "demand": "Very High" },
+      { "role": "Research Scientist (AI Lab)", "salary": "£60,000–£90,000 starting / £150,000–£300,000+ at 5 years (typically requires PhD)", "demand": "Very High" },
+      { "role": "Data Scientist", "salary": "£35,000–£50,000 starting / £80,000–£120,000 at 5 years", "demand": "Very High" },
+      { "role": "Quantitative Researcher (Hedge Fund)", "salary": "£70,000–£100,000 starting / £200,000–£500,000+ at 5 years", "demand": "High" }
+    ],
+    "topEmployers": ["DeepMind", "OpenAI", "Anthropic", "Google AI", "Meta AI", "Microsoft Research", "Two Sigma", "Citadel", "Wayve", "Stability AI"],
+    "employerPerspective": "AI/ML is the highest-paying CS specialism. Top graduates from Edinburgh, Cambridge, Imperial, UCL routinely receive offers from DeepMind and Anthropic with total compensation packages exceeding £100,000 in their first role. The catch: research-track roles often require a PhD or strong publications. Engineering-track ML roles (deploying models to production) are more accessible to BSc/MSc graduates.",
+    "entryRequirements": "Typical offer: A*A*A-AAA at A-level; A* in Maths required at most top universities. Further Maths strongly preferred. Personal statement should evidence interest in mathematics and programming, ideally with project work.",
+    "furtherStudy": "MSc/PhD is the norm for research-track careers. UCL CDT in AI, Edinburgh CDT in NLP, Cambridge CBL are top research routes. Many BSc graduates skip directly to industry roles and pursue MSc by night via Georgia Tech OMSCS or Imperial MSc.",
+    "isItForYou": [
+      "Study this if you love mathematics and want to work on the most economically valuable technology of our generation",
+      "Study this if you're prepared to read research papers continuously — the field moves every week",
+      "Think twice if you prefer concrete software delivery; ML engineering is increasingly research-adjacent and abstract"
+    ]
+  },
+  "csDataScience": {
+    "id": "csDataScience",
+    "title": "Data Science",
+    "duration": "3 years (BSc) / 4 years (MSci or with placement)",
+    "overview": "Data Science combines statistics, machine learning, and data engineering to extract insights from large datasets. Unlike pure ML degrees, Data Science covers the full pipeline — data collection, cleaning, modelling, visualisation, communication — and prepares you for the roles that bridge engineering, analytics and business. It's currently the second-most in-demand CS specialism after ML, with strong demand from finance, healthcare, retail and government.",
+    "yearByYear": [
+      { "year": 1, "focus": "Foundations", "modules": ["Programming (Python/R)", "Probability & Statistics", "Linear Algebra", "Introduction to Data Science", "Databases"] },
+      { "year": 2, "focus": "Methods", "modules": ["Statistical Modelling", "Machine Learning", "Data Visualisation", "Big Data Systems", "Algorithms"] },
+      { "year": 3, "focus": "Specialisation", "modules": ["Deep Learning", "Bayesian Statistics", "Distributed Computing", "Data Ethics & Privacy", "Capstone Project"] }
+    ],
+    "skills": [
+      "Python (pandas, scikit-learn, NumPy) and R",
+      "SQL and modern data warehouses (Snowflake, BigQuery)",
+      "Statistical modelling and inference",
+      "Data visualisation (Tableau, Plotly, D3)",
+      "Communication of technical findings to non-technical stakeholders"
+    ],
+    "professionalBodies": [
+      { "name": "Royal Statistical Society (Graduate Statistician)", "benefit": "Accredited degrees provide the academic basis for Graduate Statistician status, en route to Chartered Statistician" }
+    ],
+    "careers": [
+      { "role": "Data Scientist", "salary": "£35,000–£50,000 starting / £75,000–£120,000 at 5 years", "demand": "Very High" },
+      { "role": "Data Analyst (Senior track)", "salary": "£28,000–£40,000 starting / £55,000–£80,000 at 5 years", "demand": "Very High" },
+      { "role": "ML Engineer", "salary": "£40,000–£55,000 starting / £85,000–£130,000 at 5 years", "demand": "Very High" },
+      { "role": "Analytics Consultant (Big 4)", "salary": "£32,000–£42,000 starting / £60,000–£95,000 at 5 years", "demand": "High" }
+    ],
+    "topEmployers": ["McKinsey", "BCG", "Bain", "Deloitte", "PwC", "EY", "KPMG", "JPMorgan", "HSBC", "Tesco", "NHS Digital"],
+    "employerPerspective": "Data Science graduates fill a critical skills gap: the ability to turn messy real-world data into clear, action-driving insight. The 'unicorn' combination of statistics, coding and business communication is rare and highly paid. UK demand is broad — every Big 4 consultancy and every FTSE 100 company runs an analytics graduate scheme. Strong placement-year outcomes from Bath, Warwick, Exeter.",
+    "entryRequirements": "Typical offer: A*AA-AAB at A-level; A* in Maths preferred at top universities. GCSE: Maths required at high grade. Some universities accept Further Maths in lieu of one A.",
+    "furtherStudy": "MSc Data Science, MSc Statistics, MSc Business Analytics. PhD routes are emerging for research-track careers. Cambridge MSt in Data Intensive Science and Imperial MSc in Statistics are top choices.",
+    "isItForYou": [
+      "Study this if you enjoy statistics AND want to work on real-world business or scientific problems",
+      "Study this if you're as interested in clear communication of findings as you are in the maths itself",
+      "Think twice if you want pure ML research or pure software engineering — Data Science is deliberately broader"
+    ]
+  },
+  "cybersecurity": {
+    "id": "cybersecurity",
+    "title": "Cyber Security",
+    "duration": "3 years (BSc) / 4 years (MSci or with industry placement)",
+    "overview": "Cyber Security degrees train you to defend (and attack) computer systems. The UK has a chronic shortage of security professionals — the NCSC and GCHQ accredit a small number of degrees with the 'CyberFirst' or 'CertEd' mark, signalling strong industry-aligned content. You'll learn cryptography, network security, secure coding, digital forensics, incident response, and the ethical/legal frameworks of cyber. Demand is essentially unlimited.",
+    "yearByYear": [
+      { "year": 1, "focus": "Foundations", "modules": ["Programming", "Networks", "Computer Systems", "Introduction to Cyber Security", "Discrete Maths"] },
+      { "year": 2, "focus": "Core security", "modules": ["Cryptography", "Network Security", "Operating Systems Security", "Web Application Security", "Digital Forensics"] },
+      { "year": 3, "focus": "Applied security", "modules": ["Penetration Testing", "Malware Analysis", "Incident Response", "Cyber Law & Ethics", "Capstone Project"] }
+    ],
+    "skills": [
+      "Network and application penetration testing",
+      "Cryptographic protocols and implementation",
+      "Digital forensics and incident response",
+      "Threat modelling and risk assessment",
+      "Linux/Windows internals and shell scripting"
+    ],
+    "professionalBodies": [
+      { "name": "Chartered Institute of Information Security (CIISec)", "benefit": "Industry-recognised body for cyber security professionals; accredited degrees provide entry pathway" },
+      { "name": "NCSC Certified Degree (GCHQ)", "benefit": "Certified degrees signal alignment with the UK National Cyber Security Centre's standards and open routes to GCHQ graduate schemes" }
+    ],
+    "careers": [
+      { "role": "Security Consultant / Pen Tester", "salary": "£28,000–£40,000 starting / £60,000–£100,000 at 5 years", "demand": "Very High" },
+      { "role": "Security Engineer (Cloud/Product)", "salary": "£35,000–£50,000 starting / £75,000–£120,000 at 5 years", "demand": "Very High" },
+      { "role": "SOC Analyst (Security Operations Centre)", "salary": "£25,000–£35,000 starting / £45,000–£70,000 at 5 years", "demand": "Very High" },
+      { "role": "Threat Intelligence Analyst (GCHQ/NCSC)", "salary": "£28,000–£38,000 starting / £55,000–£80,000 at 5 years", "demand": "High" }
+    ],
+    "topEmployers": ["NCSC / GCHQ", "BAE Systems Applied Intelligence", "PwC Cyber", "Deloitte Cyber", "Mandiant", "CrowdStrike", "Darktrace", "NCC Group", "Big Four firms"],
+    "employerPerspective": "Cyber Security is one of the fastest-growing graduate markets in the UK, with NCSC-certified degrees opening doors to GCHQ and the security industry. Pen-testing roles are skills-heavy and reward those who maintain a CTF/bug-bounty portfolio alongside their degree. Government employers (GCHQ, MI5, MI6) actively recruit from accredited courses.",
+    "entryRequirements": "Typical offer: AAB-ABB at A-level; Maths preferred but not always required. GCSE: Maths and English at grade 6/B. Personal statement should evidence hands-on cyber interest (CTFs, Hack The Box, bug bounties).",
+    "furtherStudy": "MSc Cyber Security, MSc Information Security (Royal Holloway is the global leader), MSc Digital Forensics. Many graduates pursue industry certifications (OSCP, CISSP, GIAC) instead of further degrees.",
+    "isItForYou": [
+      "Study this if you enjoy puzzle-solving, low-level systems work and the adversarial 'attacker vs defender' mindset",
+      "Study this if you want to work for GCHQ, NCSC or a top consultancy — the security clearance pipeline starts here",
+      "Think twice if you prefer building over breaking; software engineering may be a better fit for product-builders"
+    ]
+  },
+  "gamesDev": {
+    "id": "gamesDev",
+    "title": "Games Development",
+    "duration": "3 years (BSc/BA)",
+    "overview": "Games Development degrees combine computer graphics, gameplay programming, 3D mathematics and game engines (Unity, Unreal) to prepare you for the £7 billion UK games industry. The UK is home to Rockstar North, Codemasters, Sumo Digital, Sega, Frontier and hundreds of indie studios. Specialised games degrees focus on the engineering side (graphics programming, AI, physics) — for art and design routes, look at Games Design or Animation. Top employers include Rockstar, Frontier (Cambridge), Creative Assembly (Sussex), Codemasters (Birmingham).",
+    "yearByYear": [
+      { "year": 1, "focus": "Programming & maths", "modules": ["C++ for Games", "Linear Algebra for Graphics", "Game Design Fundamentals", "Unity Workshop", "Computer Architecture"] },
+      { "year": 2, "focus": "Engine & graphics", "modules": ["3D Graphics Programming (OpenGL/Vulkan)", "Game Physics", "AI for Games", "Unreal Engine Workshop", "Networking for Games"] },
+      { "year": 3, "focus": "Capstone & specialism", "modules": ["Advanced Graphics", "Console Programming", "Procedural Generation", "Team Game Project", "Industry Showcase"] }
+    ],
+    "skills": [
+      "C++ and modern game engine architecture",
+      "Real-time 3D graphics and shader programming",
+      "Game physics, AI pathfinding and behaviour trees",
+      "Unity and Unreal Engine professional pipelines",
+      "Cross-platform development (PC, console, mobile)"
+    ],
+    "professionalBodies": [
+      { "name": "BAFTA Young Games Designers", "benefit": "Networking and showcase route into the industry" },
+      { "name": "TIGA (UK Games Industry trade body)", "benefit": "Industry mentorship and recruitment pipeline" }
+    ],
+    "careers": [
+      { "role": "Gameplay Programmer", "salary": "£25,000–£35,000 starting / £45,000–£75,000 at 5 years", "demand": "High" },
+      { "role": "Graphics / Engine Programmer", "salary": "£28,000–£40,000 starting / £55,000–£90,000 at 5 years", "demand": "High" },
+      { "role": "Game AI Programmer", "salary": "£28,000–£38,000 starting / £50,000–£80,000 at 5 years", "demand": "Growing" },
+      { "role": "Tools / Engine Engineer", "salary": "£30,000–£42,000 starting / £55,000–£85,000 at 5 years", "demand": "Growing" }
+    ],
+    "topEmployers": ["Rockstar Games", "Frontier Developments", "Creative Assembly", "Codemasters", "Sumo Digital", "Sports Interactive", "PlayStation Studios", "EA", "Ubisoft", "Sega Europe"],
+    "employerPerspective": "Games is a portfolio industry — your final-year project and personal game projects often matter more than your degree class. Top studios recruit aggressively from accredited TIGA partner universities (Abertay, Falmouth, Goldsmiths) and from CS courses with strong games tracks (Sheffield, Manchester). C++ is non-negotiable for engine roles.",
+    "entryRequirements": "Typical offer: BBB-ABB at A-level; Maths or Computing preferred. Portfolio of game projects, mods or demos materially strengthens applications.",
+    "furtherStudy": "MSc Computer Games Technology, MSc Computer Graphics. Most graduates go direct to industry. Specialist Masters in graphics or AI can accelerate progression into senior engine roles.",
+    "isItForYou": [
+      "Study this if you've already made small games for fun and want to do it for a living",
+      "Study this if you're prepared for an industry with intense workloads but unmatched creative output",
+      "Think twice if salary is your primary goal — games pays less than general SaaS/Big Tech"
+    ]
+  },
+  "computerSystems": {
+    "id": "computerSystems",
+    "title": "Computer Systems Engineering",
+    "duration": "3 years (BEng) / 4 years (MEng)",
+    "overview": "Computer Systems Engineering sits between Computer Science and Electronic Engineering — covering how computers are designed at the hardware level, how operating systems and embedded software run on them, and how distributed systems are engineered for performance and reliability. Graduates work in robotics, automotive (autonomous vehicles), aerospace, telecoms and high-performance computing. The degree is often accredited by the IET and provides a direct route to Chartered Engineer status.",
+    "yearByYear": [
+      { "year": 1, "focus": "Foundations", "modules": ["Programming (C/C++)", "Digital Logic", "Engineering Mathematics", "Computer Architecture", "Electronics Fundamentals"] },
+      { "year": 2, "focus": "Systems", "modules": ["Operating Systems", "Microprocessor Systems", "Networks", "Real-Time Systems", "Embedded Programming"] },
+      { "year": 3, "focus": "Advanced", "modules": ["VLSI Design", "Distributed Systems", "Robotics & Control", "Hardware-Software Co-Design", "Individual Project"] },
+      { "year": 4, "focus": "MEng specialism", "modules": ["High-Performance Computing", "System-on-Chip Design", "Advanced Embedded Systems", "Group Project", "Engineering Management"] }
+    ],
+    "skills": [
+      "C/C++ for low-level and embedded programming",
+      "Hardware description languages (Verilog, VHDL)",
+      "Real-time and embedded systems design",
+      "Computer architecture and OS internals",
+      "Engineering project management"
+    ],
+    "professionalBodies": [
+      { "name": "IET (Institution of Engineering and Technology)", "benefit": "Accredited MEng degrees fully satisfy academic requirements for Chartered Engineer (CEng) registration" },
+      { "name": "BCS", "benefit": "Provides CITP route for software-leaning graduates" }
+    ],
+    "careers": [
+      { "role": "Embedded Systems Engineer", "salary": "£30,000–£42,000 starting / £55,000–£85,000 at 5 years", "demand": "High" },
+      { "role": "Hardware/Silicon Engineer", "salary": "£32,000–£45,000 starting / £60,000–£95,000 at 5 years", "demand": "High" },
+      { "role": "Robotics / Autonomous Systems Engineer", "salary": "£32,000–£45,000 starting / £60,000–£100,000 at 5 years", "demand": "Growing" },
+      { "role": "Site Reliability Engineer", "salary": "£35,000–£50,000 starting / £75,000–£120,000 at 5 years", "demand": "Very High" }
+    ],
+    "topEmployers": ["ARM", "Intel", "Nvidia", "Apple", "Dyson", "BAE Systems", "Rolls-Royce", "JLR", "Wayve", "Imagination Technologies"],
+    "employerPerspective": "Systems engineers are essential in hardware companies (ARM, Imagination), automotive (JLR, Wayve, JLR Future), defence (BAE, Leonardo) and any tech firm running large-scale infrastructure. The discipline is undervalued relative to pure software roles but offers exceptional job security and deep technical careers. Chartered status (CEng) is a powerful credential in defence and aerospace.",
+    "entryRequirements": "Typical offer: AAA-AAB at A-level; Maths required, Physics preferred. GCSE: Maths and English at grade 6/B.",
+    "furtherStudy": "MEng integrated route is preferred for CEng eligibility. MSc Embedded Systems, MSc Robotics, MSc High-Performance Computing.",
+    "isItForYou": [
+      "Study this if you love computers at the hardware level and want to know how things really work",
+      "Study this if you want to be a chartered engineer with a long-horizon technical career",
+      "Think twice if you prefer building web/mobile products — Software Engineering or CS will fit better"
+    ]
+  },
+  "hci": {
+    "id": "hci",
+    "title": "Human-Computer Interaction",
+    "duration": "3 years (BSc/BA)",
+    "overview": "Human-Computer Interaction (HCI) and UX Design degrees combine computer science, psychology and design to create products that are usable, accessible and delightful. The discipline is the academic foundation of the £20 billion UX industry. UCL's Interaction Centre, Lancaster's HighWire and Newcastle's Open Lab are world-leading research groups. Graduates work as UX designers, product designers, UX researchers and interaction designers — increasingly in AI-powered products where good interaction design is critical.",
+    "yearByYear": [
+      { "year": 1, "focus": "Foundations", "modules": ["Programming", "Introduction to HCI", "Psychology for Interaction", "Visual Design Principles", "User Research Methods"] },
+      { "year": 2, "focus": "Methods", "modules": ["Interaction Design", "Usability Engineering", "Information Architecture", "Cognitive Science", "Prototyping (Figma/Code)"] },
+      { "year": 3, "focus": "Specialisation", "modules": ["Accessibility & Inclusive Design", "Service Design", "Mobile/Wearable Interaction", "Ethics of AI Interfaces", "Capstone Project"] }
+    ],
+    "skills": [
+      "User research (interviews, surveys, usability testing)",
+      "Interaction design and Figma/Sketch prototyping",
+      "Front-end programming (HTML/CSS/JavaScript)",
+      "Cognitive psychology fundamentals",
+      "Accessibility standards (WCAG)"
+    ],
+    "professionalBodies": [
+      { "name": "Interaction Design Association (IxDA)", "benefit": "Global community and conferences (Interaction)" },
+      { "name": "BCS HCI Specialist Group", "benefit": "UK-focused HCI research community" }
+    ],
+    "careers": [
+      { "role": "UX Designer", "salary": "£28,000–£40,000 starting / £55,000–£90,000 at 5 years", "demand": "High" },
+      { "role": "Product Designer", "salary": "£32,000–£45,000 starting / £65,000–£110,000 at 5 years", "demand": "Very High" },
+      { "role": "UX Researcher", "salary": "£30,000–£40,000 starting / £55,000–£90,000 at 5 years", "demand": "High" },
+      { "role": "Service Designer (Public/Private)", "salary": "£28,000–£40,000 starting / £50,000–£80,000 at 5 years", "demand": "High" }
+    ],
+    "topEmployers": ["Google", "Apple", "Meta", "Spotify", "Monzo", "Revolut", "GDS (Government Digital Service)", "BBC", "IDEO", "ustwo"],
+    "employerPerspective": "UX is one of the few CS-adjacent disciplines where degree class is secondary to portfolio. Employers want to see real interaction design work — case studies, prototypes, research write-ups. The Government Digital Service, monzo, Revolut and Big Tech all hire heavily from HCI/Design degrees. Combining HCI with strong front-end coding (React, etc.) is the path to product engineer/designer hybrid roles.",
+    "entryRequirements": "Typical offer: AAB-BBB at A-level; design or psychology preferred but not required. Portfolio of design work or user research increasingly expected at competitive universities.",
+    "furtherStudy": "MSc HCI, MSc UX Design, MSc Cognitive Science. UCL's MSc HCI is the global leader. Many enter industry direct and pursue Masters part-time later.",
+    "isItForYou": [
+      "Study this if you're as interested in people as in technology and enjoy bridging engineering and design",
+      "Study this if you want a career where your work shapes how millions of people use digital products",
+      "Think twice if you prefer pure programming; HCI courses involve significant psychology and design work"
+    ]
+  },
+  "compSciMaths": {
+    "id": "compSciMaths",
+    "title": "Computer Science with Mathematics",
+    "duration": "3 years (BSc) / 4 years (MMath/MComp)",
+    "overview": "Joint Mathematics and Computer Science degrees combine the theoretical foundations of both disciplines. You'll cover algorithms, formal logic, computational complexity and programming alongside pure and applied mathematics — analysis, algebra, statistics, optimisation. The result is the most mathematically rigorous CS route in the UK, ideal for careers in quantitative finance, AI research, cryptography and academic research. Oxford's joint Maths-CS programme is among the most selective undergraduate courses in the country.",
+    "yearByYear": [
+      { "year": 1, "focus": "Foundations", "modules": ["Programming", "Pure Mathematics", "Discrete Mathematics", "Analysis", "Computer Architecture"] },
+      { "year": 2, "focus": "Theory", "modules": ["Algorithms & Complexity", "Linear Algebra", "Probability & Statistics", "Logic & Computation", "Programming Languages"] },
+      { "year": 3, "focus": "Advanced", "modules": ["Cryptography", "Optimisation", "Machine Learning Theory", "Number Theory or Topology", "Project"] },
+      { "year": 4, "focus": "Masters (MMath/MComp)", "modules": ["Advanced Algorithms", "Quantum Computing", "Stochastic Processes", "Research Project"] }
+    ],
+    "skills": [
+      "Mathematical proof and rigorous reasoning",
+      "Algorithm design and complexity analysis",
+      "Numerical methods and scientific computing",
+      "Probability theory and stochastic modelling",
+      "Programming in Python, Haskell and C++"
+    ],
+    "professionalBodies": [
+      { "name": "BCS Chartered IT Professional", "benefit": "Accredited degrees provide direct route to CITP status" },
+      { "name": "Institute of Mathematics & its Applications (Chartered Mathematician)", "benefit": "Accredited degrees satisfy academic requirements for Chartered Mathematician (CMath) registration" }
+    ],
+    "careers": [
+      { "role": "Quantitative Researcher / Quant Developer", "salary": "£70,000–£100,000 starting / £200,000–£500,000+ at 5 years (top firms)", "demand": "Very High" },
+      { "role": "ML Research Engineer", "salary": "£50,000–£70,000 starting / £130,000–£220,000+ at 5 years", "demand": "Very High" },
+      { "role": "Cryptography Engineer", "salary": "£40,000–£60,000 starting / £85,000–£140,000 at 5 years", "demand": "High" },
+      { "role": "Quantitative Risk Analyst", "salary": "£40,000–£55,000 starting / £80,000–£130,000 at 5 years", "demand": "High" }
+    ],
+    "topEmployers": ["Jane Street", "Citadel", "Two Sigma", "Optiver", "DeepMind", "Anthropic", "DRW", "Hudson River Trading", "GCHQ", "G-Research"],
+    "employerPerspective": "The combination of deep CS theory and deep mathematics is the gold standard for hedge fund quant roles. Jane Street, Citadel and Optiver routinely offer £100,000+ base + £30,000-50,000 sign-on bonuses to joint Maths-CS graduates from Oxford, Cambridge, Imperial, Warwick and UCL. The same skill set is also ideal for AI labs (DeepMind, Anthropic, OpenAI).",
+    "entryRequirements": "Typical offer: A*A*A-A*AA at A-level; A* in Maths essential, A* in Further Maths strongly preferred. Top universities require MAT (Oxford) or TMUA admissions tests. STEP papers may be required at Cambridge/Imperial.",
+    "furtherStudy": "PhD is the standard route for AI research careers. MSc Mathematics and Foundations of Computer Science (Oxford), MSc Machine Learning (UCL/Imperial), Cambridge Part III Mathematics are top routes.",
+    "isItForYou": [
+      "Study this if mathematics genuinely excites you and you want the most demanding CS route",
+      "Study this if quant finance or AI research is your goal — this combination is the direct path",
+      "Think twice if you want to build products; pure Software Engineering will get you to industry faster"
+    ]
+  },
+  "compSciIndustry": {
+    "id": "compSciIndustry",
+    "title": "Computer Science with Year in Industry",
+    "duration": "4 years (BSc with placement year between Years 2 and 3)",
+    "overview": "The placement-year (sandwich) version of Computer Science is the highest-impact career investment in UK higher education. You'll spend 9–12 months working as a paid intern at a tech company, financial institution or research lab, typically earning £25,000-35,000 (£40,000+ in London at top firms). The placement experience materially increases graduate offers, starting salaries, and the conversion rate from interview to job. Bath, Surrey, Loughborough and Aston have the strongest placement programmes; Russell Group placement schemes at Manchester, Birmingham and Leeds also have excellent outcomes.",
+    "yearByYear": [
+      { "year": 1, "focus": "Foundations", "modules": ["Programming", "Discrete Mathematics", "Computer Architecture", "Data Structures", "Logic"] },
+      { "year": 2, "focus": "Core CS", "modules": ["Operating Systems", "Databases", "Networks", "Software Engineering", "Algorithms"] },
+      { "year": 3, "focus": "Year in Industry", "modules": ["Industry Placement (paid, 9–12 months)", "Industry Project Report", "Reflective Portfolio"] },
+      { "year": 4, "focus": "Final year", "modules": ["AI/ML", "Distributed Systems", "Security", "Individual Final-Year Project", "Specialism options"] }
+    ],
+    "skills": [
+      "All standard CS skills plus 9–12 months of real production experience",
+      "Industry-standard tooling and processes (Git, CI/CD, code reviews, Jira)",
+      "Working in agile teams with senior engineers",
+      "Professional communication and stakeholder management",
+      "Stronger CV and graduate offer conversion"
+    ],
+    "professionalBodies": [
+      { "name": "BCS", "benefit": "Most placement-year degrees are BCS accredited" },
+      { "name": "IET (for MEng routes)", "benefit": "Sandwich MEng can satisfy academic component of Chartered Engineer status" }
+    ],
+    "careers": [
+      { "role": "Software Engineer (Big Tech)", "salary": "£40,000–£55,000 starting (placement-year graduates often start higher) / £80,000–£130,000 at 5 years", "demand": "Very High" },
+      { "role": "Product Engineer", "salary": "£35,000–£50,000 starting / £75,000–£120,000 at 5 years", "demand": "Very High" },
+      { "role": "Quant Developer (Finance)", "salary": "£60,000–£80,000 starting / £150,000–£250,000+ at 5 years", "demand": "High" },
+      { "role": "Cloud / Platform Engineer", "salary": "£40,000–£55,000 starting / £85,000–£130,000 at 5 years", "demand": "Very High" }
+    ],
+    "topEmployers": ["Google", "Microsoft", "Amazon", "JPMorgan", "Goldman Sachs", "Bloomberg", "BAE Systems", "BBC", "Sky", "Bath/Surrey alumni networks"],
+    "employerPerspective": "Placement-year graduates have approximately 30% higher graduate-offer conversion rates and 10-15% higher starting salaries than non-placement peers. Many graduates return to their placement employer for their first graduate role. Bath placement-year CS graduates have the best employability outcomes of any non-Oxbridge CS programme in the UK.",
+    "entryRequirements": "Same as the non-placement version of CS at the relevant university (typically A*AA-AAA with Maths). Placement is competitive — you'll apply to placement schemes during Year 2.",
+    "furtherStudy": "Same routes as standard CS. Most placement-year graduates go straight into industry, often back to their placement employer.",
+    "isItForYou": [
+      "Study this if you want maximum employability and are willing to commit to a 4-year programme",
+      "Study this if you'd like to test-drive a career before committing — placement year clarifies what role you want",
+      "Think twice if you prefer the fastest route to graduation; the placement year extends your degree by 12 months"
+    ]
+  }
+}

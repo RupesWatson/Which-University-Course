@@ -1,19 +1,21 @@
-import financeDetails      from '../data/finance/university-details.json';
-import mathsDetails        from '../data/maths/university-details.json';
-import physicsDetails      from '../data/physics/university-details.json';
-import engineeringDetails  from '../data/engineering/university-details.json';
-import biochemDetails      from '../data/biochemistry/university-details.json';
-import humanitiesDetails   from '../data/humanities/university-details.json';
-import socialDetails       from '../data/socialsciences/university-details.json';
+import financeDetails       from '../data/finance/university-details.json';
+import mathsDetails         from '../data/maths/university-details.json';
+import physicsDetails       from '../data/physics/university-details.json';
+import engineeringDetails   from '../data/engineering/university-details.json';
+import biochemDetails       from '../data/biochemistry/university-details.json';
+import humanitiesDetails    from '../data/humanities/university-details.json';
+import socialDetails        from '../data/socialsciences/university-details.json';
+import computerScienceDetails from '../data/computer-science/university-details.json';
 
 const DETAILS = {
-  finance:       financeDetails,
-  maths:         mathsDetails,
-  physics:       physicsDetails,
-  engineering:   engineeringDetails,
-  biochemistry:  biochemDetails,
-  humanities:    humanitiesDetails,
+  finance:        financeDetails,
+  maths:          mathsDetails,
+  physics:        physicsDetails,
+  engineering:    engineeringDetails,
+  biochemistry:   biochemDetails,
+  humanities:     humanitiesDetails,
   socialsciences: socialDetails,
+  computerScience: computerScienceDetails,
 };
 
 function findBySlug(data, slug) {

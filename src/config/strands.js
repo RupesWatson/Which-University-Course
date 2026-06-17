@@ -5,6 +5,7 @@ import { COURSES as mathsCourses } from '../data/maths/courses';
 import { COURSES as engineeringCourses } from '../data/engineering/courses';
 import { COURSES as humanitiesCourses } from '../data/humanities/courses';
 import { COURSES as socialSciencesCourses } from '../data/socialsciences/courses';
+import { COURSES as computerScienceCourses } from '../data/computer-science/courses';
 
 export const STRANDS = {
   biochemistry: {
@@ -130,6 +131,26 @@ export const STRANDS = {
       { label: 'Language Science', ids: ['linguistics'] },
     ],
     courses: humanitiesCourses,
+  },
+  computerScience: {
+    id: 'computerScience',
+    label: 'Computer Science',
+    tagline: 'UCAS 2026 verified computer science, AI and software engineering degrees',
+    headerEyebrow: 'UCAS 2026 Course Audit',
+    headerTitleStart: 'UK University Computer Science & ',
+    headerTitleAccent: 'Software Engineering Comparison',
+    headerSubtitle:
+      'Compare verified 2026 undergraduate course matches across Russell Group and other top UK universities. ' +
+      'Course titles sourced from UCAS 2026 and rankings from the Complete University Guide 2026.',
+    footerNote:
+      'Exact course titles and availability verified against UCAS 2026. Computer Science uses the CUG 2026 subject ranking; ' +
+      'all other course tables show table position within the verified comparison set.',
+    courseGroups: [
+      { label: 'Core Computer Science', ids: ['computerScience', 'softwareEng', 'compSciMaths', 'compSciIndustry'] },
+      { label: 'AI, Data & Security', ids: ['aiML', 'csDataScience', 'cybersecurity'] },
+      { label: 'Applied & Specialist', ids: ['gamesDev', 'computerSystems', 'hci'] },
+    ],
+    courses: computerScienceCourses,
   },
   socialsciences: {
     id: 'socialsciences',
