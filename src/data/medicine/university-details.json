@@ -438,5 +438,467 @@
     "travelFromLondon": { "trainTime": "2h 15m", "trainFromStation": "London Euston", "drivingTime": "4h", "distanceMiles": "210 miles", "nearestAirport": "Liverpool John Lennon (15 min)" },
     "notableAlumni": ["Ronald Ross (Nobel — malaria)"],
     "keyFacts": ["Founded 1881", "Liverpool School of Tropical Medicine (separate institution, close partnership)", "PBL curriculum"]
+  },
+
+  "southampton": {
+    "slug": "southampton", "name": "University of Southampton", "city": "Southampton", "founded": 1862, "totalStudents": 22000, "internationalStudents": "20%", "campusType": "Multi-site (Highfield + hospital campus)", "website": "https://www.southampton.ac.uk",
+    "overview": "Southampton Medical School offers a 5-year BM and 4-year graduate-entry BM (BS). Clinical placements at University Hospital Southampton NHS Foundation Trust. Strong physiotherapy, nursing and occupational therapy programmes too.",
+    "rankings": { "complete": 17, "guardian": 14, "qsWorld": 81, "russellGroup": true, "year": 2025 },
+    "fees": { "homeUndergrad": "£9,535/year", "internationalUndergrad": "£28,500/year (Medicine: higher)", "livingCostEstimate": "£10,000–£13,000/year" },
+    "employability": { "graduateEmploymentRate": "97%", "topEmployers": ["NHS Wessex region", "University Hospital Southampton"] },
+    "satisfaction": { "nssOverall": 81, "teachingQuality": 83, "academicSupport": 78, "learningResources": 84 },
+    "accommodation": { "firstYearGuarantee": true, "description": "First-year accommodation guaranteed.", "avgWeeklyCost": "£130–£185", "privateRentAreas": "Portswood, Highfield" },
+    "studentLife": { "union": "SUSU", "societiesCount": "300+", "highlights": ["Southampton MedSoc", "AHP societies"] },
+    "cityLife": { "description": "Southampton — south coast port city with access to New Forest.", "transport": "Excellent UniLink bus", "highlights": ["New Forest 30 min", "Mayflower Theatre"] },
+    "travelFromLondon": { "trainTime": "1h 10m", "trainFromStation": "London Waterloo", "distanceMiles": "80 miles" },
+    "keyFacts": ["Russell Group", "5-year BM + 4-year graduate-entry", "Strong physiotherapy/AHP programmes"]
+  },
+
+  "warwick": {
+    "slug": "warwick", "name": "University of Warwick", "city": "Coventry", "founded": 1965, "totalStudents": 28000, "internationalStudents": "44%", "campusType": "Self-contained campus", "website": "https://warwick.ac.uk",
+    "overview": "Warwick Medical School runs the UK's largest 4-year graduate-entry medicine programme. Clinical placements span University Hospitals Coventry & Warwickshire NHS Trust.",
+    "rankings": { "complete": 9, "guardian": 9, "qsWorld": 67, "russellGroup": true, "year": 2025 },
+    "fees": { "homeUndergrad": "£9,535/year", "internationalUndergrad": "£48,500/year (Medicine clinical)", "livingCostEstimate": "£11,000–£14,000/year" },
+    "employability": { "graduateEmploymentRate": "98%", "topEmployers": ["NHS Trusts (UHCW)", "Royal Colleges"] },
+    "satisfaction": { "nssOverall": 81, "teachingQuality": 84, "academicSupport": 78, "learningResources": 88 },
+    "accommodation": { "firstYearGuarantee": true, "description": "First-year accommodation guaranteed on campus.", "avgWeeklyCost": "£145–£210", "privateRentAreas": "Leamington Spa, Canley" },
+    "studentLife": { "union": "Warwick SU", "societiesCount": "300+", "highlights": ["Warwick MedSoc"] },
+    "cityLife": { "description": "Self-contained campus between Coventry and Leamington Spa.", "transport": "Free buses to Leamington & Coventry", "highlights": ["Warwick Castle", "Stratford-upon-Avon"] },
+    "travelFromLondon": { "trainTime": "1h 5m (Coventry)", "trainFromStation": "Coventry Station", "distanceMiles": "100 miles" },
+    "keyFacts": ["UK's largest 4-year graduate-entry medicine", "Russell Group", "UHCW major teaching hospital"]
+  },
+
+  "cardiff": {
+    "slug": "cardiff", "name": "Cardiff University", "city": "Cardiff", "founded": 1883, "totalStudents": 34000, "internationalStudents": "29%", "campusType": "City campus", "website": "https://www.cardiff.ac.uk",
+    "overview": "Cardiff School of Medicine is Wales's principal medical school. The C21 curriculum runs over 5 years with placements at University Hospital of Wales and across Welsh NHS Boards.",
+    "rankings": { "complete": 31, "guardian": 31, "qsWorld": 186, "russellGroup": true, "year": 2025 },
+    "fees": { "homeUndergrad": "£9,535/year", "internationalUndergrad": "£41,950/year (Medicine clinical)", "livingCostEstimate": "£10,000–£13,000/year" },
+    "employability": { "graduateEmploymentRate": "98%", "topEmployers": ["Welsh NHS Trusts", "Cardiff & Vale UHB"] },
+    "satisfaction": { "nssOverall": 81, "teachingQuality": 83, "academicSupport": 79, "learningResources": 84 },
+    "accommodation": { "firstYearGuarantee": true, "description": "First-year accommodation guaranteed in Cathays halls.", "avgWeeklyCost": "£125–£180", "privateRentAreas": "Cathays, Roath" },
+    "studentLife": { "union": "Cardiff SU", "societiesCount": "200+", "highlights": ["Cardiff Medical Society"] },
+    "cityLife": { "description": "Cardiff — affordable Welsh capital with major NHS presence.", "transport": "Walkable; bus & train hub", "highlights": ["Principality Stadium", "Cardiff Bay"] },
+    "travelFromLondon": { "trainTime": "1h 50m", "trainFromStation": "London Paddington", "distanceMiles": "150 miles" },
+    "keyFacts": ["Russell Group", "Wales's principal medical school", "C21 curriculum"]
+  },
+
+  "queen-s-university-belfast": {
+    "slug": "queen-s-university-belfast", "name": "Queen's University Belfast", "city": "Belfast", "founded": 1810, "totalStudents": 25000, "internationalStudents": "18%", "campusType": "City campus", "website": "https://www.qub.ac.uk",
+    "overview": "Queen's School of Medicine, Dentistry and Biomedical Sciences is Northern Ireland's only medical school. Clinical placements across Belfast Health and Social Care Trust.",
+    "rankings": { "complete": 40, "guardian": 32, "qsWorld": 202, "russellGroup": true, "year": 2025 },
+    "fees": { "homeUndergrad": "£4,855/year (NI students) / £9,535/year (rUK)", "internationalUndergrad": "£40,250/year (Medicine clinical)", "livingCostEstimate": "£9,500–£12,000/year" },
+    "employability": { "graduateEmploymentRate": "98%", "topEmployers": ["Belfast HSC Trust", "Northern Ireland NHS"] },
+    "satisfaction": { "nssOverall": 82, "teachingQuality": 84, "academicSupport": 80, "learningResources": 85 },
+    "accommodation": { "firstYearGuarantee": true, "description": "Modern halls close to campus.", "avgWeeklyCost": "£110–£155", "privateRentAreas": "Botanic, Stranmillis" },
+    "studentLife": { "union": "QUB SU", "societiesCount": "200+", "highlights": ["Queen's Medical Society"] },
+    "cityLife": { "description": "Belfast — friendly, affordable city.", "transport": "Buses, train", "highlights": ["Titanic Quarter", "Crumlin Road"] },
+    "travelFromLondon": { "trainTime": "Flight 1h", "trainFromStation": "N/A (fly)", "distanceMiles": "340 miles + sea" },
+    "keyFacts": ["Russell Group", "Northern Ireland's only medical school", "Royal Victoria Hospital teaching"]
+  },
+
+  "queen-mary-university-of-london": {
+    "slug": "queen-mary-university-of-london", "name": "Queen Mary University of London", "city": "London", "founded": 1885, "totalStudents": 31000, "internationalStudents": "49%", "campusType": "East London (Whitechapel)", "website": "https://www.qmul.ac.uk",
+    "overview": "Queen Mary's Barts and The London School of Medicine and Dentistry trains doctors and dentists in inner-East London. Clinical placements at Royal London Hospital, Barts and Whipps Cross.",
+    "rankings": { "complete": 47, "guardian": 50, "qsWorld": 145, "russellGroup": true, "year": 2025 },
+    "fees": { "homeUndergrad": "£9,535/year", "internationalUndergrad": "£44,950/year (Medicine clinical)", "livingCostEstimate": "£17,000–£22,000/year (London)" },
+    "employability": { "graduateEmploymentRate": "97%", "topEmployers": ["Barts Health NHS Trust", "East London NHS Trusts"] },
+    "satisfaction": { "nssOverall": 78, "teachingQuality": 80, "academicSupport": 76, "learningResources": 82 },
+    "accommodation": { "firstYearGuarantee": true, "description": "Halls in East London close to campuses.", "avgWeeklyCost": "£170–£240", "privateRentAreas": "Bow, Whitechapel" },
+    "studentLife": { "union": "QMSU", "societiesCount": "200+", "highlights": ["Barts and The London Medical Society"] },
+    "cityLife": { "description": "Diverse East London location.", "transport": "Central Line Tube", "highlights": ["East End culture", "Whitechapel Gallery"] },
+    "travelFromLondon": { "trainTime": "Located in London", "trainFromStation": "Whitechapel Tube", "distanceMiles": "0 miles" },
+    "keyFacts": ["Russell Group", "Barts and The London School of Medicine", "Diverse East London training population"]
+  },
+
+  "dundee": {
+    "slug": "dundee", "name": "University of Dundee", "city": "Dundee", "founded": 1881, "totalStudents": 16000, "internationalStudents": "23%", "campusType": "City centre campus", "website": "https://www.dundee.ac.uk",
+    "overview": "Dundee Medical School and the School of Dentistry are highly research-active. Dundee Dental School is one of the UK's top-ranked dental schools, and the medical school runs an integrated 5-year MBChB.",
+    "rankings": { "complete": 39, "guardian": 26, "qsWorld": 437, "russellGroup": false, "year": 2025 },
+    "fees": { "homeUndergrad": "£1,820/year (Scottish, SAAS) / £9,535/year (rUK)", "internationalUndergrad": "£35,400/year (Medicine clinical)", "livingCostEstimate": "£9,500–£12,000/year" },
+    "employability": { "graduateEmploymentRate": "97%", "topEmployers": ["NHS Tayside", "Scottish NHS Boards"] },
+    "satisfaction": { "nssOverall": 84, "teachingQuality": 86, "academicSupport": 84, "learningResources": 87 },
+    "accommodation": { "firstYearGuarantee": true, "description": "Halls in central Dundee.", "avgWeeklyCost": "£110–£150", "privateRentAreas": "City centre, West End" },
+    "studentLife": { "union": "DUSA", "societiesCount": "150+", "highlights": ["Dundee MedSoc", "Dental Society"] },
+    "cityLife": { "description": "Affordable Scottish city — V&A Dundee, vibrant arts and games scene.", "transport": "Walkable city", "highlights": ["V&A Dundee", "Discovery Point"] },
+    "travelFromLondon": { "trainTime": "6h 15m (via Edinburgh)", "trainFromStation": "London Kings Cross", "distanceMiles": "410 miles" },
+    "keyFacts": ["Top-ranked dental school", "Highly satisfied student body", "Affordable Scottish city"]
+  },
+
+  "st-george-s-university-of-london": {
+    "slug": "st-george-s-university-of-london", "name": "St George's, University of London", "city": "London (Tooting)", "founded": 1733, "totalStudents": 9000, "internationalStudents": "16%", "campusType": "Single-site (Tooting)", "website": "https://www.sgul.ac.uk",
+    "overview": "St George's is the UK's only standalone medical school — co-located with St George's Hospital, one of London's largest teaching hospitals. Strong reputation for medicine, paramedic science and biomedical sciences.",
+    "rankings": { "complete": 65, "guardian": 80, "qsWorld": null, "russellGroup": false, "year": 2025 },
+    "fees": { "homeUndergrad": "£9,535/year", "internationalUndergrad": "£37,800/year (Medicine clinical)", "livingCostEstimate": "£17,000–£22,000/year (London)" },
+    "employability": { "graduateEmploymentRate": "98%", "topEmployers": ["St George's Hospital", "South London NHS Trusts"] },
+    "satisfaction": { "nssOverall": 79, "teachingQuality": 82, "academicSupport": 77, "learningResources": 83 },
+    "accommodation": { "firstYearGuarantee": true, "description": "Halls on Tooting campus.", "avgWeeklyCost": "£170–£230", "privateRentAreas": "Tooting, Wandsworth" },
+    "studentLife": { "union": "SGSU", "societiesCount": "60+", "highlights": ["SGUL Medical Society"] },
+    "cityLife": { "description": "Tooting — South London, famous for food scene and major hospital.", "transport": "Tooting Broadway Tube", "highlights": ["Tooting Common", "Wandsworth"] },
+    "travelFromLondon": { "trainTime": "Located in London", "trainFromStation": "Tooting Broadway", "distanceMiles": "0 miles" },
+    "keyFacts": ["UK's only standalone medical school", "Co-located with St George's Hospital", "Founded 1733"]
+  },
+
+  "brighton-and-sussex-medical-school": {
+    "slug": "brighton-and-sussex-medical-school", "name": "Brighton and Sussex Medical School", "city": "Brighton (Falmer)", "founded": 2002, "totalStudents": 800, "campusType": "Falmer (shared Sussex & Brighton)", "website": "https://www.bsms.ac.uk",
+    "overview": "BSMS is a joint medical school of Brighton and Sussex universities, with clinical placements at Royal Sussex County Hospital, Princess Royal Hospital, and across NHS South East.",
+    "rankings": { "complete": 55, "guardian": 60, "qsWorld": null, "russellGroup": false, "year": 2025 },
+    "fees": { "homeUndergrad": "£9,535/year", "internationalUndergrad": "£42,000/year (Medicine clinical)", "livingCostEstimate": "£12,000–£15,000/year" },
+    "employability": { "graduateEmploymentRate": "97%", "topEmployers": ["Royal Sussex County Hospital", "NHS South East"] },
+    "satisfaction": { "nssOverall": 82, "teachingQuality": 84, "academicSupport": 82, "learningResources": 85 },
+    "accommodation": { "firstYearGuarantee": true, "description": "Halls on Sussex or Brighton campuses.", "avgWeeklyCost": "£155–£210", "privateRentAreas": "Brighton city, Hove" },
+    "studentLife": { "union": "BSMS Society", "societiesCount": "40+", "highlights": ["BSMS Medical Society"] },
+    "cityLife": { "description": "Brighton — vibrant seaside city.", "transport": "Train to Brighton", "highlights": ["Brighton beach", "South Downs"] },
+    "travelFromLondon": { "trainTime": "1h 10m", "trainFromStation": "London Victoria", "distanceMiles": "55 miles" },
+    "keyFacts": ["Joint school of Sussex and Brighton universities", "Royal Sussex County teaching", "Founded 2002"]
+  },
+
+  "royal-veterinary-college": {
+    "slug": "royal-veterinary-college", "name": "Royal Veterinary College", "city": "London + Hertfordshire", "founded": 1791, "totalStudents": 2700, "internationalStudents": "40%", "campusType": "Two campuses (Camden + Hawkshead)", "website": "https://www.rvc.ac.uk",
+    "overview": "The Royal Veterinary College is the UK's largest and oldest veterinary school, federated within the University of London. Two campuses: Camden (urban) for pre-clinical, Hawkshead (Hertfordshire farmland) for clinical years.",
+    "rankings": { "complete": 50, "guardian": 50, "qsWorld": 1, "russellGroup": false, "year": 2025 },
+    "fees": { "homeUndergrad": "£9,535/year", "internationalUndergrad": "£34,700/year (Veterinary clinical)", "livingCostEstimate": "£14,000–£18,000/year (split urban/rural)" },
+    "employability": { "graduateEmploymentRate": "99%", "topEmployers": ["IVC Evidensia", "CVS Group", "Independent practices", "RCVS specialism routes"] },
+    "satisfaction": { "nssOverall": 83, "teachingQuality": 86, "academicSupport": 82, "learningResources": 87 },
+    "accommodation": { "firstYearGuarantee": true, "description": "Halls in Camden + on-campus at Hawkshead during clinical years.", "avgWeeklyCost": "£165–£230 (Camden) / £130–£170 (Hawkshead)", "privateRentAreas": "Camden, Potters Bar" },
+    "studentLife": { "union": "RVC SU", "societiesCount": "50+", "highlights": ["RVC vet societies"] },
+    "cityLife": { "description": "Camden urban vibrant scene; Hawkshead rural Hertfordshire.", "transport": "Tube to Camden Town; train to Potters Bar", "highlights": ["Camden Market", "Hertfordshire countryside"] },
+    "travelFromLondon": { "trainTime": "Located in London / 20 min north", "trainFromStation": "Camden / Potters Bar", "distanceMiles": "0–15 miles" },
+    "keyFacts": ["#1 globally for Veterinary Medicine (QS)", "UK's largest and oldest vet school", "Two campuses (urban + rural)"]
+  },
+
+  "aberystwyth": {
+    "slug": "aberystwyth", "name": "Aberystwyth University", "city": "Aberystwyth", "founded": 1872, "totalStudents": 8000, "internationalStudents": "20%", "campusType": "Coastal hilltop campus", "website": "https://www.aber.ac.uk",
+    "overview": "Aberystwyth runs a joint veterinary degree with RVC (opened 2021), capitalising on Wales's strong agricultural sector. Other strong programmes in biological sciences.",
+    "rankings": { "complete": 80, "guardian": 50, "qsWorld": 651, "russellGroup": false, "year": 2025 },
+    "fees": { "homeUndergrad": "£9,535/year", "internationalUndergrad": "£18,750/year", "livingCostEstimate": "£9,000–£11,500/year" },
+    "employability": { "graduateEmploymentRate": "85%", "topEmployers": ["Veterinary practices (rural)", "Welsh Government"] },
+    "satisfaction": { "nssOverall": 84, "teachingQuality": 86, "academicSupport": 84, "learningResources": 86 },
+    "accommodation": { "firstYearGuarantee": true, "description": "Halls overlooking Cardigan Bay.", "avgWeeklyCost": "£105–£155", "privateRentAreas": "Aberystwyth town" },
+    "studentLife": { "union": "Aber SU", "societiesCount": "100+", "highlights": ["Vet society"] },
+    "cityLife": { "description": "Stunning coastal Welsh town — small, friendly student community.", "transport": "Train links", "highlights": ["Cardigan Bay beaches", "Welsh hills"] },
+    "travelFromLondon": { "trainTime": "5h 30m", "trainFromStation": "London Euston (via Birmingham)", "distanceMiles": "230 miles" },
+    "keyFacts": ["Joint vet degree with RVC", "Coastal location", "Founded 1872 — Wales's oldest university"]
+  },
+
+  "harper-adams-keele-veterinary-school": {
+    "slug": "harper-adams-keele-veterinary-school", "name": "Harper Adams / Keele Veterinary School", "city": "Newport, Shropshire + Stoke-on-Trent", "founded": 2020, "totalStudents": 250, "campusType": "Rural campuses", "website": "https://www.harper-adams.ac.uk",
+    "overview": "Joint veterinary school of Harper Adams (rural-focused) and Keele University — opened 2020. Focus on rural and farm vet practice with placements across Shropshire and Staffordshire.",
+    "rankings": { "complete": 70, "guardian": null, "qsWorld": null, "russellGroup": false, "year": 2025 },
+    "fees": { "homeUndergrad": "£9,535/year", "internationalUndergrad": "£26,000/year", "livingCostEstimate": "£10,000–£12,500/year" },
+    "employability": { "graduateEmploymentRate": "97%", "topEmployers": ["Rural veterinary practices", "Farm animal specialism"] },
+    "satisfaction": { "nssOverall": 81, "teachingQuality": 83, "academicSupport": 81, "learningResources": 84 },
+    "accommodation": { "firstYearGuarantee": true, "description": "Rural campus halls.", "avgWeeklyCost": "£135–£175", "privateRentAreas": "Newport, Stoke" },
+    "studentLife": { "union": "Harper SU", "societiesCount": "40+", "highlights": ["Farm vet practice societies"] },
+    "cityLife": { "description": "Rural Shropshire and Staffordshire campuses.", "transport": "Need car for rural access", "highlights": ["Working farms on site"] },
+    "travelFromLondon": { "trainTime": "2h 30m (Stoke)", "trainFromStation": "London Euston", "distanceMiles": "150 miles" },
+    "keyFacts": ["Joint vet school (Harper Adams + Keele)", "Opened 2020", "Rural/farm specialism"]
+  },
+
+  "surrey": {
+    "slug": "surrey", "name": "University of Surrey", "city": "Guildford", "founded": 1966, "totalStudents": 16000, "internationalStudents": "30%", "campusType": "Stag Hill campus", "website": "https://www.surrey.ac.uk",
+    "overview": "Surrey's School of Veterinary Medicine opened in 2014 (UK's newest), and the School of Health Sciences has strong nursing, midwifery and dietetics programmes.",
+    "rankings": { "complete": 28, "guardian": 25, "qsWorld": 270, "russellGroup": false, "year": 2025 },
+    "fees": { "homeUndergrad": "£9,535/year", "internationalUndergrad": "£26,300/year", "livingCostEstimate": "£12,000–£15,000/year" },
+    "employability": { "graduateEmploymentRate": "97%", "topEmployers": ["Royal Surrey NHS Trust", "Vet practices"] },
+    "satisfaction": { "nssOverall": 81, "teachingQuality": 83, "academicSupport": 80, "learningResources": 85 },
+    "accommodation": { "firstYearGuarantee": true, "description": "Halls on Stag Hill campus.", "avgWeeklyCost": "£155–£200", "privateRentAreas": "Guildford" },
+    "studentLife": { "union": "Surrey SU", "societiesCount": "150+", "highlights": ["Veterinary Society"] },
+    "cityLife": { "description": "Guildford — affluent Surrey town, 35 min to central London.", "transport": "Train to Waterloo", "highlights": ["Guildford Castle", "Surrey Hills"] },
+    "travelFromLondon": { "trainTime": "35 min", "trainFromStation": "London Waterloo", "distanceMiles": "30 miles" },
+    "keyFacts": ["UK's newest vet school (2014)", "Strong allied-health programmes", "Close to London"]
+  },
+
+  "strathclyde": {
+    "slug": "strathclyde", "name": "University of Strathclyde", "city": "Glasgow", "founded": 1796, "totalStudents": 23000, "internationalStudents": "25%", "campusType": "City centre campus", "website": "https://www.strath.ac.uk",
+    "overview": "Strathclyde's Strathclyde Institute of Pharmacy and Biomedical Sciences (SIPBS) is one of the UK's leading pharmacy schools. The MPharm is GPhC-accredited.",
+    "rankings": { "complete": 30, "guardian": 24, "qsWorld": 277, "russellGroup": false, "year": 2025 },
+    "fees": { "homeUndergrad": "£1,820/year (Scottish, SAAS) / £9,535/year (rUK)", "internationalUndergrad": "£23,000/year", "livingCostEstimate": "£10,500–£13,500/year" },
+    "employability": { "graduateEmploymentRate": "92%", "topEmployers": ["Boots", "NHS Scotland", "AstraZeneca"] },
+    "satisfaction": { "nssOverall": 80, "teachingQuality": 82, "academicSupport": 79, "learningResources": 84 },
+    "accommodation": { "firstYearGuarantee": true, "description": "Halls on campus.", "avgWeeklyCost": "£125–£170", "privateRentAreas": "Glasgow West End" },
+    "studentLife": { "union": "Strath SU", "societiesCount": "150+", "highlights": ["Pharmacy Society"] },
+    "cityLife": { "description": "Central Glasgow campus.", "transport": "Subway, train", "highlights": ["Glasgow West End"] },
+    "travelFromLondon": { "trainTime": "4h 30m", "trainFromStation": "London Euston", "distanceMiles": "415 miles" },
+    "keyFacts": ["Leading pharmacy school (SIPBS)", "Central Glasgow", "Strong industry partnerships"]
+  },
+
+  "robert-gordon": {
+    "slug": "robert-gordon", "name": "Robert Gordon University", "city": "Aberdeen", "founded": 1992, "totalStudents": 13000, "internationalStudents": "33%", "campusType": "Garthdee riverside campus", "website": "https://www.rgu.ac.uk",
+    "overview": "RGU's School of Pharmacy and Life Sciences is the largest pharmacy school in Scotland. GPhC-accredited MPharm with strong industry links to Aberdeen's biopharma sector.",
+    "rankings": { "complete": 85, "guardian": 65, "qsWorld": null, "russellGroup": false, "year": 2025 },
+    "fees": { "homeUndergrad": "£1,820/year (Scottish, SAAS) / £9,535/year (rUK)", "internationalUndergrad": "£18,500/year", "livingCostEstimate": "£10,000–£12,500/year" },
+    "employability": { "graduateEmploymentRate": "90%", "topEmployers": ["Boots", "NHS Grampian", "Lloyds Pharmacy"] },
+    "satisfaction": { "nssOverall": 78, "teachingQuality": 80, "academicSupport": 79, "learningResources": 83 },
+    "accommodation": { "firstYearGuarantee": false, "description": "Halls available; not all guaranteed.", "avgWeeklyCost": "£115–£155", "privateRentAreas": "Aberdeen city" },
+    "studentLife": { "union": "RGU:Union", "societiesCount": "60+", "highlights": ["Pharmacy Society"] },
+    "cityLife": { "description": "Aberdeen — granite city on Scottish coast.", "transport": "Buses, train", "highlights": ["Old Aberdeen", "Coast"] },
+    "travelFromLondon": { "trainTime": "7h", "trainFromStation": "London Kings Cross", "distanceMiles": "545 miles" },
+    "keyFacts": ["Scotland's largest pharmacy school", "GPhC-accredited", "Modern Garthdee campus"]
+  },
+
+  "east-anglia": {
+    "slug": "east-anglia", "name": "University of East Anglia", "city": "Norwich", "founded": 1963, "totalStudents": 17000, "internationalStudents": "25%", "campusType": "Parkland campus", "website": "https://www.uea.ac.uk",
+    "overview": "UEA Medical School offers a 5-year MBBS with strong PBL curriculum. The Norwich Medical School also offers a graduate-entry pathway. Strong programmes in pharmacy, occupational therapy and dietetics.",
+    "rankings": { "complete": 32, "guardian": 28, "qsWorld": 333, "russellGroup": false, "year": 2025 },
+    "fees": { "homeUndergrad": "£9,535/year", "internationalUndergrad": "£26,800/year (Medicine clinical higher)", "livingCostEstimate": "£10,000–£13,000/year" },
+    "employability": { "graduateEmploymentRate": "92%", "topEmployers": ["Norfolk and Norwich University Hospital", "NHS East"] },
+    "satisfaction": { "nssOverall": 81, "teachingQuality": 83, "academicSupport": 79, "learningResources": 84 },
+    "accommodation": { "firstYearGuarantee": true, "description": "Halls on parkland campus.", "avgWeeklyCost": "£135–£185", "privateRentAreas": "Norwich city" },
+    "studentLife": { "union": "UEA SU", "societiesCount": "200+", "highlights": ["UEA MedSoc"] },
+    "cityLife": { "description": "Norwich is an affordable, beautiful English cathedral city.", "transport": "Trains to London", "highlights": ["Norwich Cathedral", "Norfolk Broads"] },
+    "travelFromLondon": { "trainTime": "1h 50m", "trainFromStation": "London Liverpool Street", "distanceMiles": "115 miles" },
+    "keyFacts": ["5-year MBBS with PBL", "Norfolk and Norwich University Hospital", "Strong allied health programmes"]
+  },
+
+  "bath": {
+    "slug": "bath", "name": "University of Bath", "city": "Bath", "founded": 1966, "totalStudents": 19000, "internationalStudents": "30%", "campusType": "Hilltop self-contained campus", "website": "https://www.bath.ac.uk",
+    "overview": "Bath's Department of Pharmacy & Pharmacology is GPhC-accredited and one of the UK's best-rated pharmacy schools. Strong placement-year tradition.",
+    "rankings": { "complete": 8, "guardian": 5, "qsWorld": 148, "russellGroup": false, "year": 2025 },
+    "fees": { "homeUndergrad": "£9,535/year", "internationalUndergrad": "£26,800/year", "livingCostEstimate": "£12,000–£15,000/year" },
+    "employability": { "graduateEmploymentRate": "94%", "topEmployers": ["Boots", "NHS Trusts", "Pharma R&D"] },
+    "satisfaction": { "nssOverall": 84, "teachingQuality": 86, "academicSupport": 82, "learningResources": 88 },
+    "accommodation": { "firstYearGuarantee": true, "description": "Halls on campus.", "avgWeeklyCost": "£155–£220", "privateRentAreas": "Oldfield Park, Bear Flat" },
+    "studentLife": { "union": "Bath SU", "societiesCount": "150+", "highlights": ["Pharmacy Society"] },
+    "cityLife": { "description": "Stunning UNESCO Bath — Georgian architecture.", "transport": "Walkable", "highlights": ["Roman Baths", "Royal Crescent"] },
+    "travelFromLondon": { "trainTime": "1h 25m", "trainFromStation": "London Paddington", "distanceMiles": "115 miles" },
+    "keyFacts": ["Top-rated pharmacy school", "Top 5 UK graduate prospects", "Beautiful Georgian city"]
+  },
+
+  "aston": {
+    "slug": "aston", "name": "Aston University", "city": "Birmingham", "founded": 1895, "totalStudents": 14000, "internationalStudents": "30%", "campusType": "City centre campus", "website": "https://www.aston.ac.uk",
+    "overview": "Aston School of Pharmacy is GPhC-accredited with strong industry-placement opportunities through Aston's pioneering sandwich-degree model.",
+    "rankings": { "complete": 45, "guardian": 36, "qsWorld": 401, "russellGroup": false, "year": 2025 },
+    "fees": { "homeUndergrad": "£9,535/year", "internationalUndergrad": "£21,000/year", "livingCostEstimate": "£10,000–£13,000/year" },
+    "employability": { "graduateEmploymentRate": "92%", "topEmployers": ["Boots", "NHS Trusts"] },
+    "satisfaction": { "nssOverall": 79, "teachingQuality": 81, "academicSupport": 80, "learningResources": 82 },
+    "accommodation": { "firstYearGuarantee": true, "description": "Halls on campus.", "avgWeeklyCost": "£140–£195", "privateRentAreas": "Birmingham city" },
+    "studentLife": { "union": "Aston SU", "societiesCount": "100+", "highlights": ["Pharmacy Society"] },
+    "cityLife": { "description": "Central Birmingham.", "transport": "Train hub", "highlights": ["Bullring", "Birmingham Symphony Hall"] },
+    "travelFromLondon": { "trainTime": "1h 20m", "trainFromStation": "London Euston", "distanceMiles": "120 miles" },
+    "keyFacts": ["GPhC-accredited MPharm", "Sandwich-degree pioneer", "Central Birmingham"]
+  },
+
+  "city-university-of-london": {
+    "slug": "city-university-of-london", "name": "City, University of London", "city": "London", "founded": 1894, "totalStudents": 19500, "internationalStudents": "47%", "campusType": "Central London (Northampton Square)", "website": "https://www.city.ac.uk",
+    "overview": "City's School of Health Sciences offers strong nursing, midwifery, radiography and speech therapy programmes. Clinical placements at major London NHS trusts.",
+    "rankings": { "complete": 40, "guardian": 30, "qsWorld": 343, "russellGroup": false, "year": 2025 },
+    "fees": { "homeUndergrad": "£9,535/year", "internationalUndergrad": "£21,000/year", "livingCostEstimate": "£17,000–£22,000/year (London)" },
+    "employability": { "graduateEmploymentRate": "94%", "topEmployers": ["NHS London trusts", "Bart's Health"] },
+    "satisfaction": { "nssOverall": 76, "teachingQuality": 78, "academicSupport": 74, "learningResources": 80 },
+    "accommodation": { "firstYearGuarantee": true, "description": "Halls in central London.", "avgWeeklyCost": "£180–£260", "privateRentAreas": "Islington, Angel" },
+    "studentLife": { "union": "City SU", "societiesCount": "100+", "highlights": ["Health Sciences societies"] },
+    "cityLife": { "description": "Central London Clerkenwell location.", "transport": "Multiple Tube lines", "highlights": ["Sadler's Wells", "Angel"] },
+    "travelFromLondon": { "trainTime": "Located in London", "trainFromStation": "Angel Tube", "distanceMiles": "0 miles" },
+    "keyFacts": ["Major London health sciences school", "Part of University of London", "Strong AHP programmes"]
+  },
+
+  "queen-margaret": {
+    "slug": "queen-margaret", "name": "Queen Margaret University", "city": "Musselburgh, Edinburgh", "founded": 1875, "totalStudents": 7000, "internationalStudents": "23%", "campusType": "Modern Musselburgh campus", "website": "https://www.qmu.ac.uk",
+    "overview": "Queen Margaret is one of Scotland's leading universities for health sciences — including dietetics, nursing, occupational therapy and speech & language therapy.",
+    "rankings": { "complete": 80, "guardian": 75, "qsWorld": null, "russellGroup": false, "year": 2025 },
+    "fees": { "homeUndergrad": "£1,820/year (Scottish, SAAS) / £9,535/year (rUK)", "internationalUndergrad": "£16,500/year", "livingCostEstimate": "£10,500–£13,000/year" },
+    "employability": { "graduateEmploymentRate": "85%", "topEmployers": ["NHS Lothian", "Scottish NHS Boards"] },
+    "satisfaction": { "nssOverall": 80, "teachingQuality": 82, "academicSupport": 80, "learningResources": 83 },
+    "accommodation": { "firstYearGuarantee": true, "description": "Halls on Musselburgh campus.", "avgWeeklyCost": "£120–£165", "privateRentAreas": "Musselburgh, Edinburgh east" },
+    "studentLife": { "union": "QMU SU", "societiesCount": "40+", "highlights": ["Health sciences societies"] },
+    "cityLife": { "description": "Coastal Musselburgh — 15 min train to Edinburgh.", "transport": "Train to Edinburgh", "highlights": ["Edinburgh nearby", "Musselburgh coast"] },
+    "travelFromLondon": { "trainTime": "4h 30m (Edinburgh)", "trainFromStation": "London Kings Cross", "distanceMiles": "400 miles" },
+    "keyFacts": ["Scotland's leading health sciences university", "Strong dietetics & speech therapy"]
+  },
+
+  "plymouth": {
+    "slug": "plymouth", "name": "University of Plymouth", "city": "Plymouth", "founded": 1862, "totalStudents": 19000, "internationalStudents": "11%", "campusType": "City centre campus", "website": "https://www.plymouth.ac.uk",
+    "overview": "Plymouth's Faculty of Health includes the Peninsula Dental School (joint with University of Exeter), Peninsula Medical School (joint), and strong nursing/paramedic/OT programmes.",
+    "rankings": { "complete": 65, "guardian": 55, "qsWorld": 651, "russellGroup": false, "year": 2025 },
+    "fees": { "homeUndergrad": "£9,535/year", "internationalUndergrad": "£17,600/year", "livingCostEstimate": "£10,000–£12,500/year" },
+    "employability": { "graduateEmploymentRate": "93%", "topEmployers": ["NHS South West", "Royal Cornwall Hospitals", "Devon Trusts"] },
+    "satisfaction": { "nssOverall": 78, "teachingQuality": 80, "academicSupport": 78, "learningResources": 82 },
+    "accommodation": { "firstYearGuarantee": true, "description": "Halls in central Plymouth.", "avgWeeklyCost": "£120–£165", "privateRentAreas": "Plymouth city" },
+    "studentLife": { "union": "Plymouth SU", "societiesCount": "100+", "highlights": ["Dental Society", "AHP societies"] },
+    "cityLife": { "description": "Plymouth — south Devon coast, port city.", "transport": "Train, bus", "highlights": ["The Hoe", "Dartmoor 30 min"] },
+    "travelFromLondon": { "trainTime": "3h 15m", "trainFromStation": "London Paddington", "distanceMiles": "210 miles" },
+    "keyFacts": ["Peninsula Dental School (joint with Exeter)", "Peninsula Medical School", "Strong AHP programmes"]
+  },
+
+  "northumbria": {
+    "slug": "northumbria", "name": "Northumbria University", "city": "Newcastle", "founded": 1969, "totalStudents": 31000, "internationalStudents": "22%", "campusType": "City centre campus", "website": "https://www.northumbria.ac.uk",
+    "overview": "Northumbria's Faculty of Health and Life Sciences offers NMC-approved nursing and midwifery programmes, plus strong paramedic and OT degrees.",
+    "rankings": { "complete": 55, "guardian": 47, "qsWorld": 651, "russellGroup": false, "year": 2025 },
+    "fees": { "homeUndergrad": "£9,535/year", "internationalUndergrad": "£20,500/year", "livingCostEstimate": "£10,000–£12,500/year" },
+    "employability": { "graduateEmploymentRate": "92%", "topEmployers": ["Newcastle Hospitals", "North East NHS Trusts"] },
+    "satisfaction": { "nssOverall": 78, "teachingQuality": 80, "academicSupport": 78, "learningResources": 82 },
+    "accommodation": { "firstYearGuarantee": true, "description": "Halls in central Newcastle.", "avgWeeklyCost": "£120–£170", "privateRentAreas": "Jesmond, Heaton" },
+    "studentLife": { "union": "Northumbria SU", "societiesCount": "120+", "highlights": ["Nursing & Midwifery societies"] },
+    "cityLife": { "description": "Central Newcastle.", "transport": "Metro, bus", "highlights": ["Quayside"] },
+    "travelFromLondon": { "trainTime": "2h 50m", "trainFromStation": "London Kings Cross", "distanceMiles": "275 miles" },
+    "keyFacts": ["NMC-approved nursing", "Strong AHP programmes", "Central Newcastle"]
+  },
+
+  "coventry": {
+    "slug": "coventry", "name": "Coventry University", "city": "Coventry", "founded": 1843, "totalStudents": 30000, "internationalStudents": "31%", "campusType": "City centre campus", "website": "https://www.coventry.ac.uk",
+    "overview": "Coventry's Faculty of Health and Life Sciences offers strong paramedic science, occupational therapy and nursing programmes.",
+    "rankings": { "complete": 70, "guardian": 50, "qsWorld": 561, "russellGroup": false, "year": 2025 },
+    "fees": { "homeUndergrad": "£9,535/year", "internationalUndergrad": "£19,200/year", "livingCostEstimate": "£10,000–£12,500/year" },
+    "employability": { "graduateEmploymentRate": "92%", "topEmployers": ["UHCW NHS Trust", "Midlands NHS"] },
+    "satisfaction": { "nssOverall": 79, "teachingQuality": 81, "academicSupport": 79, "learningResources": 83 },
+    "accommodation": { "firstYearGuarantee": true, "description": "Halls on campus.", "avgWeeklyCost": "£115–£160", "privateRentAreas": "City centre" },
+    "studentLife": { "union": "Coventry SU", "societiesCount": "150+", "highlights": ["Paramedic Society"] },
+    "cityLife": { "description": "Compact Coventry.", "transport": "Train", "highlights": ["Coventry Cathedral"] },
+    "travelFromLondon": { "trainTime": "1h 5m", "trainFromStation": "London Euston", "distanceMiles": "100 miles" },
+    "keyFacts": ["Strong paramedic science", "HCPC-accredited", "Modern campus"]
+  },
+
+  "bournemouth": {
+    "slug": "bournemouth", "name": "Bournemouth University", "city": "Bournemouth", "founded": 1976, "totalStudents": 17000, "campusType": "Two campuses", "website": "https://www.bournemouth.ac.uk",
+    "overview": "Bournemouth offers NMC-approved midwifery and other health sciences programmes on its Lansdowne campus.",
+    "rankings": { "complete": 75, "guardian": 60, "qsWorld": null, "russellGroup": false, "year": 2025 },
+    "fees": { "homeUndergrad": "£9,535/year", "internationalUndergrad": "£18,500/year", "livingCostEstimate": "£11,000–£14,000/year" },
+    "employability": { "graduateEmploymentRate": "96%", "topEmployers": ["Dorset NHS Trusts"] },
+    "satisfaction": { "nssOverall": 78, "teachingQuality": 80, "academicSupport": 76, "learningResources": 81 },
+    "accommodation": { "firstYearGuarantee": true, "description": "Halls in city.", "avgWeeklyCost": "£130–£180", "privateRentAreas": "Winton" },
+    "studentLife": { "union": "Bournemouth SUBU", "societiesCount": "150+", "highlights": ["Midwifery Society"] },
+    "cityLife": { "description": "Seaside Bournemouth.", "transport": "Train, bus", "highlights": ["Bournemouth Beach"] },
+    "travelFromLondon": { "trainTime": "2h", "trainFromStation": "London Waterloo", "distanceMiles": "105 miles" },
+    "keyFacts": ["NMC-approved midwifery", "Coastal location"]
+  },
+
+  "anglia-ruskin": {
+    "slug": "anglia-ruskin", "name": "Anglia Ruskin University", "city": "Cambridge + Chelmsford + Peterborough", "founded": 1858, "totalStudents": 30000, "internationalStudents": "16%", "campusType": "Multi-site", "website": "https://www.aru.ac.uk",
+    "overview": "ARU offers HCPC-approved paramedic and nursing programmes across three campuses. Cambridge clinical placements with Addenbrooke's network.",
+    "rankings": { "complete": 90, "guardian": 80, "qsWorld": null, "russellGroup": false, "year": 2025 },
+    "fees": { "homeUndergrad": "£9,535/year", "internationalUndergrad": "£17,000/year", "livingCostEstimate": "£10,500–£13,500/year" },
+    "employability": { "graduateEmploymentRate": "90%", "topEmployers": ["NHS East", "Local trusts"] },
+    "satisfaction": { "nssOverall": 76, "teachingQuality": 78, "academicSupport": 76, "learningResources": 80 },
+    "accommodation": { "firstYearGuarantee": true, "description": "Halls on campuses.", "avgWeeklyCost": "£120–£175", "privateRentAreas": "Local" },
+    "studentLife": { "union": "ARU SU", "societiesCount": "80+", "highlights": ["Paramedic Society"] },
+    "cityLife": { "description": "Multi-campus across East England.", "transport": "Trains between sites", "highlights": ["Cambridge", "Chelmsford"] },
+    "travelFromLondon": { "trainTime": "47 min (Cambridge)", "trainFromStation": "London Kings Cross", "distanceMiles": "60 miles" },
+    "keyFacts": ["HCPC-approved paramedic", "Multi-site", "Strong East England NHS partnerships"]
+  },
+
+  "cumbria": {
+    "slug": "cumbria", "name": "University of Cumbria", "city": "Carlisle + Lancaster", "founded": 2007, "totalStudents": 10000, "campusType": "Multi-site", "website": "https://www.cumbria.ac.uk",
+    "overview": "Cumbria offers HCPC-approved paramedic practice and diagnostic radiography programmes across Carlisle and Lancaster campuses.",
+    "rankings": { "complete": 100, "guardian": 90, "qsWorld": null, "russellGroup": false, "year": 2025 },
+    "fees": { "homeUndergrad": "£9,535/year", "internationalUndergrad": "£13,575/year", "livingCostEstimate": "£9,500–£12,000/year" },
+    "employability": { "graduateEmploymentRate": "88%", "topEmployers": ["North Cumbria NHS Trust"] },
+    "satisfaction": { "nssOverall": 76, "teachingQuality": 78, "academicSupport": 76, "learningResources": 80 },
+    "accommodation": { "firstYearGuarantee": true, "description": "Halls on campuses.", "avgWeeklyCost": "£105–£145", "privateRentAreas": "Carlisle, Lancaster" },
+    "studentLife": { "union": "UCSU", "societiesCount": "30+", "highlights": ["Health sciences societies"] },
+    "cityLife": { "description": "Carlisle + Lake District proximity.", "transport": "Trains", "highlights": ["Lake District"] },
+    "travelFromLondon": { "trainTime": "3h 25m (Carlisle)", "trainFromStation": "London Euston", "distanceMiles": "300 miles" },
+    "keyFacts": ["HCPC-approved paramedic & radiography", "Lake District location"]
+  },
+
+  "hertfordshire": {
+    "slug": "hertfordshire", "name": "University of Hertfordshire", "city": "Hatfield", "founded": 1952, "totalStudents": 25000, "internationalStudents": "28%", "campusType": "Hatfield campus", "website": "https://www.herts.ac.uk",
+    "overview": "Hertfordshire's School of Health and Social Work offers HCPC-approved paramedic and physiotherapy programmes. Strong Hertfordshire/Bedfordshire NHS partnerships.",
+    "rankings": { "complete": 85, "guardian": 70, "qsWorld": 851, "russellGroup": false, "year": 2025 },
+    "fees": { "homeUndergrad": "£9,535/year", "internationalUndergrad": "£17,650/year", "livingCostEstimate": "£11,000–£14,000/year" },
+    "employability": { "graduateEmploymentRate": "85%", "topEmployers": ["East and North Herts NHS Trust"] },
+    "satisfaction": { "nssOverall": 77, "teachingQuality": 79, "academicSupport": 76, "learningResources": 81 },
+    "accommodation": { "firstYearGuarantee": true, "description": "Halls on Hatfield campus.", "avgWeeklyCost": "£140–£185", "privateRentAreas": "Hatfield, St Albans" },
+    "studentLife": { "union": "Herts SU", "societiesCount": "100+", "highlights": ["Health sciences societies"] },
+    "cityLife": { "description": "Hatfield — 22 min train to London.", "transport": "Train to Kings Cross", "highlights": ["St Albans nearby"] },
+    "travelFromLondon": { "trainTime": "22 min", "trainFromStation": "London Kings Cross", "distanceMiles": "20 miles" },
+    "keyFacts": ["HCPC-approved AHP programmes", "Close to London"]
+  },
+
+  "brighton": {
+    "slug": "brighton", "name": "University of Brighton", "city": "Brighton", "founded": 1859, "totalStudents": 18000, "internationalStudents": "12%", "campusType": "Multi-site (Brighton + Hastings)", "website": "https://www.brighton.ac.uk",
+    "overview": "Brighton's School of Health Sciences offers HCPC-approved physiotherapy, paramedic and occupational therapy programmes with strong placements across Sussex NHS trusts.",
+    "rankings": { "complete": 70, "guardian": 65, "qsWorld": 801, "russellGroup": false, "year": 2025 },
+    "fees": { "homeUndergrad": "£9,535/year", "internationalUndergrad": "£16,950/year", "livingCostEstimate": "£12,000–£15,000/year" },
+    "employability": { "graduateEmploymentRate": "88%", "topEmployers": ["Sussex NHS Trusts"] },
+    "satisfaction": { "nssOverall": 77, "teachingQuality": 79, "academicSupport": 76, "learningResources": 80 },
+    "accommodation": { "firstYearGuarantee": true, "description": "Halls in Brighton.", "avgWeeklyCost": "£155–£210", "privateRentAreas": "Brighton, Hove" },
+    "studentLife": { "union": "Brighton SU", "societiesCount": "100+", "highlights": ["Health sciences societies"] },
+    "cityLife": { "description": "Brighton — vibrant seaside city.", "transport": "Train", "highlights": ["Brighton beach", "Lanes"] },
+    "travelFromLondon": { "trainTime": "1h", "trainFromStation": "London Victoria", "distanceMiles": "55 miles" },
+    "keyFacts": ["Strong AHP programmes", "Brighton coastal location"]
+  },
+
+  "york": {
+    "slug": "york", "name": "University of York", "city": "York", "founded": 1963, "totalStudents": 20000, "internationalStudents": "25%", "campusType": "Heslington campus", "website": "https://www.york.ac.uk",
+    "overview": "York offers NMC-approved nursing programmes alongside the Hull York Medical School (joint with University of Hull, separately profiled).",
+    "rankings": { "complete": 24, "guardian": 18, "qsWorld": 161, "russellGroup": true, "year": 2025 },
+    "fees": { "homeUndergrad": "£9,535/year", "internationalUndergrad": "£24,000/year", "livingCostEstimate": "£10,000–£13,000/year" },
+    "employability": { "graduateEmploymentRate": "92%", "topEmployers": ["York Teaching Hospital NHS Trust"] },
+    "satisfaction": { "nssOverall": 82, "teachingQuality": 84, "academicSupport": 80, "learningResources": 86 },
+    "accommodation": { "firstYearGuarantee": true, "description": "Halls in college on Heslington campus.", "avgWeeklyCost": "£130–£180", "privateRentAreas": "Heslington, Fulford" },
+    "studentLife": { "union": "YUSU", "societiesCount": "200+", "highlights": ["Nursing Society"] },
+    "cityLife": { "description": "Historic Roman city of York.", "transport": "Buses to campus", "highlights": ["York Minster", "Yorkshire Dales"] },
+    "travelFromLondon": { "trainTime": "1h 50m", "trainFromStation": "London Kings Cross", "distanceMiles": "200 miles" },
+    "keyFacts": ["Russell Group", "NMC-approved nursing", "Hull York Medical School joint"]
+  },
+
+  "york-st-john": {
+    "slug": "york-st-john", "name": "York St John University", "city": "York", "founded": 1841, "totalStudents": 8000, "internationalStudents": "10%", "campusType": "City centre campus", "website": "https://www.yorksj.ac.uk",
+    "overview": "York St John's School of Allied Health offers HCPC-approved Occupational Therapy with strong Yorkshire NHS placements.",
+    "rankings": { "complete": 90, "guardian": 85, "qsWorld": null, "russellGroup": false, "year": 2025 },
+    "fees": { "homeUndergrad": "£9,535/year", "internationalUndergrad": "£14,000/year", "livingCostEstimate": "£10,000–£12,500/year" },
+    "employability": { "graduateEmploymentRate": "85%", "topEmployers": ["Yorkshire NHS Trusts"] },
+    "satisfaction": { "nssOverall": 79, "teachingQuality": 81, "academicSupport": 80, "learningResources": 83 },
+    "accommodation": { "firstYearGuarantee": true, "description": "Halls in central York.", "avgWeeklyCost": "£120–£165", "privateRentAreas": "York city" },
+    "studentLife": { "union": "YSJSU", "societiesCount": "60+", "highlights": ["OT Society"] },
+    "cityLife": { "description": "Historic York city centre location.", "transport": "Walkable", "highlights": ["York Minster"] },
+    "travelFromLondon": { "trainTime": "1h 50m", "trainFromStation": "London Kings Cross", "distanceMiles": "200 miles" },
+    "keyFacts": ["HCPC-approved OT", "Central York", "Strong Yorkshire NHS network"]
+  },
+
+  "cardiff-metropolitan": {
+    "slug": "cardiff-metropolitan", "name": "Cardiff Metropolitan University", "city": "Cardiff", "founded": 1865, "totalStudents": 12000, "internationalStudents": "27%", "campusType": "Two campuses (Cyncoed + Llandaff)", "website": "https://www.cardiffmet.ac.uk",
+    "overview": "Cardiff Met's School of Sport and Health Sciences offers HCPC/CSP-accredited physiotherapy and HCPC/BDA-accredited human nutrition and dietetics.",
+    "rankings": { "complete": 70, "guardian": 75, "qsWorld": null, "russellGroup": false, "year": 2025 },
+    "fees": { "homeUndergrad": "£9,535/year", "internationalUndergrad": "£15,000/year", "livingCostEstimate": "£10,000–£12,500/year" },
+    "employability": { "graduateEmploymentRate": "88%", "topEmployers": ["Welsh NHS"] },
+    "satisfaction": { "nssOverall": 79, "teachingQuality": 81, "academicSupport": 78, "learningResources": 83 },
+    "accommodation": { "firstYearGuarantee": true, "description": "Halls on campuses.", "avgWeeklyCost": "£125–£175", "privateRentAreas": "Cardiff city" },
+    "studentLife": { "union": "Cardiff Met SU", "societiesCount": "50+", "highlights": ["Sport & Health Societies"] },
+    "cityLife": { "description": "Cardiff — Welsh capital.", "transport": "Buses", "highlights": ["Cardiff Bay"] },
+    "travelFromLondon": { "trainTime": "1h 50m", "trainFromStation": "London Paddington", "distanceMiles": "150 miles" },
+    "keyFacts": ["Strong physiotherapy & dietetics", "HCPC/BDA accredited"]
+  },
+
+  "manchester-metropolitan": {
+    "slug": "manchester-metropolitan", "name": "Manchester Metropolitan University", "city": "Manchester", "founded": 1970, "totalStudents": 38000, "internationalStudents": "11%", "campusType": "Central Manchester", "website": "https://www.mmu.ac.uk",
+    "overview": "MMU's Faculty of Health and Education offers HCPC-approved physiotherapy and large NMC-approved nursing programmes.",
+    "rankings": { "complete": 65, "guardian": 60, "qsWorld": 901, "russellGroup": false, "year": 2025 },
+    "fees": { "homeUndergrad": "£9,535/year", "internationalUndergrad": "£18,500/year", "livingCostEstimate": "£10,500–£13,000/year" },
+    "employability": { "graduateEmploymentRate": "84%", "topEmployers": ["MFT and regional NHS"] },
+    "satisfaction": { "nssOverall": 76, "teachingQuality": 78, "academicSupport": 76, "learningResources": 80 },
+    "accommodation": { "firstYearGuarantee": true, "description": "Halls in central Manchester.", "avgWeeklyCost": "£135–£185", "privateRentAreas": "Fallowfield, Hulme" },
+    "studentLife": { "union": "TheMMSU", "societiesCount": "100+", "highlights": ["Health societies"] },
+    "cityLife": { "description": "Central Manchester.", "transport": "Tram, train", "highlights": ["Northern Quarter"] },
+    "travelFromLondon": { "trainTime": "2h 7m", "trainFromStation": "London Euston", "distanceMiles": "200 miles" },
+    "keyFacts": ["Large NMC-approved nursing", "Central Manchester", "Strong AHP programmes"]
+  },
+
+  "sheffield-hallam": {
+    "slug": "sheffield-hallam", "name": "Sheffield Hallam University", "city": "Sheffield", "founded": 1843, "totalStudents": 32000, "campusType": "City centre", "website": "https://www.shu.ac.uk",
+    "overview": "Sheffield Hallam's College of Health offers HCPC/CSP-accredited physiotherapy, diagnostic radiography and occupational therapy.",
+    "rankings": { "complete": 80, "guardian": 70, "qsWorld": 1001, "russellGroup": false, "year": 2025 },
+    "fees": { "homeUndergrad": "£9,535/year", "internationalUndergrad": "£17,820/year", "livingCostEstimate": "£9,500–£12,000/year" },
+    "employability": { "graduateEmploymentRate": "85%", "topEmployers": ["Sheffield Teaching Hospitals"] },
+    "satisfaction": { "nssOverall": 76, "teachingQuality": 78, "academicSupport": 76, "learningResources": 80 },
+    "accommodation": { "firstYearGuarantee": true, "description": "Halls in central Sheffield.", "avgWeeklyCost": "£115–£155", "privateRentAreas": "Ecclesall Road" },
+    "studentLife": { "union": "Hallam SU", "societiesCount": "100+", "highlights": ["AHP societies"] },
+    "cityLife": { "description": "Central Sheffield — Peak District 15 min.", "transport": "Tram", "highlights": ["Peak District"] },
+    "travelFromLondon": { "trainTime": "2h", "trainFromStation": "London St Pancras", "distanceMiles": "165 miles" },
+    "keyFacts": ["Strong AHP programmes", "HCPC accredited", "Peak District access"]
+  },
+
+  "liverpool-john-moores": {
+    "slug": "liverpool-john-moores", "name": "Liverpool John Moores University", "city": "Liverpool", "founded": 1825, "totalStudents": 25000, "campusType": "Multi-site city", "website": "https://www.ljmu.ac.uk",
+    "overview": "LJMU's Faculty of Education, Health and Community offers HCPC-approved paramedic practice and strong nursing programmes.",
+    "rankings": { "complete": 95, "guardian": 75, "qsWorld": 801, "russellGroup": false, "year": 2025 },
+    "fees": { "homeUndergrad": "£9,535/year", "internationalUndergrad": "£17,400/year", "livingCostEstimate": "£9,500–£12,000/year" },
+    "employability": { "graduateEmploymentRate": "85%", "topEmployers": ["Liverpool University Hospitals"] },
+    "satisfaction": { "nssOverall": 77, "teachingQuality": 79, "academicSupport": 76, "learningResources": 81 },
+    "accommodation": { "firstYearGuarantee": true, "description": "Halls in central Liverpool.", "avgWeeklyCost": "£115–£160", "privateRentAreas": "Smithdown Road" },
+    "studentLife": { "union": "JMSU", "societiesCount": "80+", "highlights": ["Paramedic Society"] },
+    "cityLife": { "description": "Central Liverpool.", "transport": "Walkable", "highlights": ["Albert Dock"] },
+    "travelFromLondon": { "trainTime": "2h 15m", "trainFromStation": "London Euston", "distanceMiles": "210 miles" },
+    "keyFacts": ["HCPC paramedic & nursing", "Central Liverpool"]
   }
 }

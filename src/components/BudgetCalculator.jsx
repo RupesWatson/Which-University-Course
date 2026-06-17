@@ -6,8 +6,17 @@ const DEFAULT_TUITION_INTL = 22000;
 
 function parseAmount(str) {
   if (!str) return null;
-  const n = parseInt(String(str).replace(/[^0-9]/g, ''), 10);
-  return isNaN(n) ? null : n;
+  const raw = String(str);
+  const cleaned = raw.replace(/,/g, '');
+  const numbers = cleaned.match(/\d+/g);
+  if (!numbers) return null;
+  const nums = numbers.map(n => parseInt(n, 10));
+  // Scottish/SAAS tuition strings list a Scottish fee then an rUK fee — take rUK (last)
+  if (/scottish|saas|ruk/i.test(raw)) return nums[nums.length - 1];
+  // Two-number ranges like "£140-£210" → midpoint
+  if (nums.length === 2) return Math.round((nums[0] + nums[1]) / 2);
+  // Single value or fallback — last number
+  return nums[nums.length - 1];
 }
 
 function Slider({ label, min, max, step, value, onChange }) {
@@ -86,9 +95,8 @@ export default function BudgetCalculator({ uni, college }) {
   const intlFee  = parseAmount(uni?.fees?.internationalUndergrad) ?? DEFAULT_TUITION_INTL;
   const tuition  = isIntl ? intlFee : homeFee;
 
-  const collegeWeekly = parseAmount(college?.accommodation?.avgCost);
-  const uniWeekly     = parseAmount(uni?.accommodation?.avgWeeklyCost);
-  const fixedWeekly   = collegeWeekly ?? uniWeekly;
+  const fixedRaw      = college?.accommodation?.avgCost ?? uni?.accommodation?.avgWeeklyCost ?? null;
+  const fixedWeekly   = parseAmount(fixedRaw);
   const accomm = fixedWeekly != null ? fixedWeekly * WEEKS : rent * WEEKS;
   const hasFixedAccomm = fixedWeekly != null;
 
@@ -130,7 +138,7 @@ export default function BudgetCalculator({ uni, college }) {
             <div className="mb-4 flex items-center justify-between rounded-lg border border-blue-900/30 bg-[#050e1f]/60 px-3 py-2">
               <span className="text-xs text-slate-400">Accommodation</span>
               <span className="text-xs font-semibold text-blue-300">
-                £{fixedWeekly}/wk <span className="text-slate-600">(from data)</span>
+                {fixedRaw} <span className="text-slate-600">(from data)</span>
               </span>
             </div>
           ) : (

@@ -517,5 +517,509 @@
     "travelFromLondon": { "trainTime": "5h 30m (via Edinburgh)", "trainFromStation": "London Kings Cross", "coachTime": "10h", "drivingTime": "8h", "distanceMiles": "440 miles", "nearestAirport": "Edinburgh Airport (1h 30m)" },
     "notableAlumni": ["Prince William", "Princess of Wales", "John Cleese"],
     "keyFacts": ["Scotland's oldest university (1413)", "Top 5 UK overall (CUG)", "Highest student satisfaction in UK CS"]
+  },
+
+  "aberdeen": {
+    "slug": "aberdeen", "name": "University of Aberdeen", "city": "Aberdeen", "founded": 1495, "totalStudents": 14500, "internationalStudents": "30%", "campusType": "City campus", "website": "https://www.abdn.ac.uk",
+    "overview": "The University of Aberdeen launched Europe's first AI degree in 1987 and remains active in NLP and knowledge representation research. The School of Natural and Computing Sciences offers CS, AI and Cyber Security degrees with strong industry links to the city's tech sector.",
+    "rankings": { "complete": 32, "guardian": 33, "qsWorld": 220, "russellGroup": false, "year": 2025 },
+    "fees": { "homeUndergrad": "£1,820/year (Scottish, SAAS) / £9,535/year (rUK)", "internationalUndergrad": "£26,500/year", "livingCostEstimate": "£10,000–£13,000/year" },
+    "employability": { "graduateEmploymentRate": "85%", "topEmployers": ["Aberdeen tech cluster", "Oil & gas data firms", "Standard Life"] },
+    "satisfaction": { "nssOverall": 82, "teachingQuality": 84, "academicSupport": 80, "learningResources": 83 },
+    "accommodation": { "firstYearGuarantee": true, "description": "First-year accommodation guaranteed across Hillhead halls and nearby halls of residence.", "avgWeeklyCost": "£120–£165", "privateRentAreas": "Old Aberdeen, Rosemount" },
+    "studentLife": { "union": "AUSA", "societiesCount": "150+", "highlights": ["Aberdeen Computing Society", "Strong rowing tradition"] },
+    "cityLife": { "description": "Aberdeen — the Granite City — is the oil capital of Europe with surprisingly affordable living and easy access to Highlands and coast.", "transport": "Compact walkable city, frequent buses", "highlights": ["Beach Boulevard", "Old Aberdeen", "Royal Deeside"] },
+    "travelFromLondon": { "trainTime": "7h", "trainFromStation": "London Kings Cross", "distanceMiles": "545 miles" },
+    "keyFacts": ["Europe's first AI department (1987)", "5th-oldest UK university", "Strong oil & gas data analytics links"]
+  },
+
+  "abertay": {
+    "slug": "abertay", "name": "Abertay University", "city": "Dundee", "founded": 1888, "totalStudents": 4500, "campusType": "City centre campus", "website": "https://www.abertay.ac.uk",
+    "overview": "Abertay is the UK's leading games university — the first to offer a Computer Games degree (1997). Located in Dundee's vibrant games cluster (Rockstar North, 4J Studios), Abertay graduates dominate the UK games industry workforce.",
+    "rankings": { "complete": 60, "guardian": 75, "qsWorld": null, "russellGroup": false, "year": 2025 },
+    "fees": { "homeUndergrad": "£1,820/year (Scottish, SAAS) / £9,535/year (rUK)", "internationalUndergrad": "£17,500/year", "livingCostEstimate": "£9,000–£11,500/year" },
+    "employability": { "graduateEmploymentRate": "85%", "topEmployers": ["Rockstar North", "4J Studios", "Outplay Entertainment", "Sumo Digital", "Sega"] },
+    "satisfaction": { "nssOverall": 82, "teachingQuality": 85, "academicSupport": 82, "learningResources": 86 },
+    "accommodation": { "firstYearGuarantee": true, "description": "First-year halls within walking distance of campus.", "avgWeeklyCost": "£110–£155", "privateRentAreas": "City centre, West End Dundee" },
+    "studentLife": { "union": "Abertay SA", "societiesCount": "40+", "highlights": ["Dare Academy game jam", "Dundee Games cluster events"] },
+    "cityLife": { "description": "Dundee is the UK's games industry capital — affordable, friendly and home to the V&A Dundee.", "transport": "Walkable city", "highlights": ["V&A Dundee", "DCA arts centre", "Discovery Point"] },
+    "travelFromLondon": { "trainTime": "6h 15m (via Edinburgh)", "trainFromStation": "London Kings Cross", "distanceMiles": "410 miles" },
+    "keyFacts": ["First UK games degree (1997)", "TIGA-accredited; Sony PlayStation Centre of Excellence", "Highest games-industry placement rate in UK"]
+  },
+
+  "aston": {
+    "slug": "aston", "name": "Aston University", "city": "Birmingham", "founded": 1895, "totalStudents": 14000, "internationalStudents": "30%", "campusType": "City centre campus", "website": "https://www.aston.ac.uk",
+    "overview": "Aston University is a Birmingham-based sandwich university — pioneer of the integrated placement year (since 1947). Aston CS graduates achieve some of the highest graduate employment rates in the Midlands, with a 75%+ uptake on the 12-month placement year.",
+    "rankings": { "complete": 45, "guardian": 36, "qsWorld": 401, "russellGroup": false, "year": 2025 },
+    "fees": { "homeUndergrad": "£9,535/year", "internationalUndergrad": "£21,000/year", "livingCostEstimate": "£10,000–£13,000/year" },
+    "employability": { "graduateEmploymentRate": "92% (with placement)", "topEmployers": ["IBM", "Accenture", "JPMorgan", "Capgemini", "Microsoft"] },
+    "satisfaction": { "nssOverall": 79, "teachingQuality": 81, "academicSupport": 80, "learningResources": 82 },
+    "accommodation": { "firstYearGuarantee": true, "description": "First-year accommodation guaranteed on campus.", "avgWeeklyCost": "£140–£195", "privateRentAreas": "City centre, Edgbaston" },
+    "studentLife": { "union": "Aston SU", "societiesCount": "100+", "highlights": ["AstonHack", "Strong tech industry networks"] },
+    "cityLife": { "description": "Central Birmingham campus, walking distance from Bullring and major employers.", "transport": "Excellent train hub", "highlights": ["Birmingham Symphony Hall", "Bullring"] },
+    "travelFromLondon": { "trainTime": "1h 20m", "trainFromStation": "London Euston", "distanceMiles": "120 miles" },
+    "keyFacts": ["UK sandwich-degree pioneer (1947)", "Central Birmingham location", "Triple-crown business school accreditation"]
+  },
+
+  "bournemouth": {
+    "slug": "bournemouth", "name": "Bournemouth University", "city": "Bournemouth", "founded": 1976, "totalStudents": 17000, "campusType": "Two campuses (Talbot and Lansdowne)", "website": "https://www.bournemouth.ac.uk",
+    "overview": "Bournemouth University is the UK's leading provider for animation, VFX and games — the National Centre for Computer Animation (NCCA) has produced graduates for every major Pixar, ILM and Framestore production.",
+    "rankings": { "complete": 75, "guardian": 60, "qsWorld": null, "russellGroup": false, "year": 2025 },
+    "fees": { "homeUndergrad": "£9,535/year", "internationalUndergrad": "£18,500/year", "livingCostEstimate": "£11,000–£14,000/year" },
+    "employability": { "graduateEmploymentRate": "85%", "topEmployers": ["Framestore", "MPC", "DNEG", "Industrial Light & Magic", "Sony Pictures"] },
+    "satisfaction": { "nssOverall": 78, "teachingQuality": 80, "academicSupport": 76, "learningResources": 81 },
+    "accommodation": { "firstYearGuarantee": true, "description": "First-year accommodation in halls on Talbot Campus and city.", "avgWeeklyCost": "£130–£180", "privateRentAreas": "Winton, Charminster" },
+    "studentLife": { "union": "Bournemouth SUBU", "societiesCount": "150+", "highlights": ["Animation showcases", "Games Academy events"] },
+    "cityLife": { "description": "Bournemouth's beaches and pier are 10 minutes from campus — a relaxed seaside student city.", "transport": "Buses; train to Southampton/London", "highlights": ["Bournemouth Beach", "Jurassic Coast nearby"] },
+    "travelFromLondon": { "trainTime": "2h", "trainFromStation": "London Waterloo", "distanceMiles": "105 miles" },
+    "keyFacts": ["National Centre for Computer Animation", "Strong VFX industry pipeline", "Coastal location"]
+  },
+
+  "brunel-university-london": {
+    "slug": "brunel-university-london", "name": "Brunel University London", "city": "Uxbridge, London", "founded": 1966, "totalStudents": 13000, "internationalStudents": "30%", "campusType": "Single-site parkland campus", "website": "https://www.brunel.ac.uk",
+    "overview": "Brunel is one of the original UK sandwich universities, founded on the engineering-and-placement model. The Department of Computer Science offers strong placement-year tracks in software, games and AI.",
+    "rankings": { "complete": 50, "guardian": 55, "qsWorld": 359, "russellGroup": false, "year": 2025 },
+    "fees": { "homeUndergrad": "£9,535/year", "internationalUndergrad": "£21,420/year", "livingCostEstimate": "£14,000–£17,000/year (West London)" },
+    "employability": { "graduateEmploymentRate": "86%", "topEmployers": ["IBM", "Microsoft", "BAE Systems", "EE", "Atos"] },
+    "satisfaction": { "nssOverall": 76, "teachingQuality": 78, "academicSupport": 75, "learningResources": 80 },
+    "accommodation": { "firstYearGuarantee": true, "description": "First-year accommodation guaranteed on campus.", "avgWeeklyCost": "£150–£195", "privateRentAreas": "Uxbridge, Ickenham" },
+    "studentLife": { "union": "Brunel SU", "societiesCount": "150+", "highlights": ["BrunelHack", "Engineering & CS Society"] },
+    "cityLife": { "description": "Parkland campus in Uxbridge, West London — quick Tube access to central London.", "transport": "Uxbridge Tube (Metropolitan/Piccadilly Line)", "highlights": ["Heathrow 15 min", "Central London 45 min"] },
+    "travelFromLondon": { "trainTime": "Located in West London", "trainFromStation": "Uxbridge Tube", "distanceMiles": "15 miles" },
+    "keyFacts": ["Sandwich degree pioneer", "Self-contained parkland campus", "Strong West London tech links"]
+  },
+
+  "cardiff": {
+    "slug": "cardiff", "name": "Cardiff University", "city": "Cardiff", "founded": 1883, "totalStudents": 34000, "internationalStudents": "29%", "campusType": "City campus", "website": "https://www.cardiff.ac.uk",
+    "overview": "Cardiff University's School of Computer Science and Informatics is Wales's leading computer science department, with strong research in cyber security, data science and HCI. Located in vibrant central Cardiff.",
+    "rankings": { "complete": 31, "guardian": 31, "qsWorld": 186, "russellGroup": true, "year": 2025 },
+    "fees": { "homeUndergrad": "£9,535/year", "internationalUndergrad": "£26,450/year", "livingCostEstimate": "£10,000–£13,000/year" },
+    "employability": { "graduateEmploymentRate": "85%", "topEmployers": ["Admiral", "GoCompare", "BBC Wales", "Capgemini", "Confused.com"] },
+    "satisfaction": { "nssOverall": 81, "teachingQuality": 83, "academicSupport": 79, "learningResources": 84 },
+    "accommodation": { "firstYearGuarantee": true, "description": "First-year accommodation guaranteed in Cathays or Talybont halls.", "avgWeeklyCost": "£125–£180", "privateRentAreas": "Cathays, Roath" },
+    "studentLife": { "union": "Cardiff SU", "societiesCount": "200+", "highlights": ["Cardiff Computer Science Society", "Grad Hack", "Welsh Rugby & student culture"] },
+    "cityLife": { "description": "Cardiff is the UK's friendliest capital — compact, affordable, with a thriving fintech and creative cluster.", "transport": "Walkable; bus & train hub", "highlights": ["Principality Stadium", "Cardiff Bay", "Brecon Beacons 1h"] },
+    "travelFromLondon": { "trainTime": "1h 50m", "trainFromStation": "London Paddington", "distanceMiles": "150 miles" },
+    "keyFacts": ["Russell Group", "Wales's leading CS school", "Strong fintech graduate pipeline (Admiral, GoCompare)"]
+  },
+
+  "city-university-of-london": {
+    "slug": "city-university-of-london", "name": "City, University of London", "city": "London", "founded": 1894, "totalStudents": 19500, "internationalStudents": "47%", "campusType": "City centre (Northampton Square)", "website": "https://www.city.ac.uk",
+    "overview": "City, University of London is a business-and-professions focused university in central London, with a strong reputation in computer science (especially data analytics, AI and HCI). Part of the University of London federation.",
+    "rankings": { "complete": 40, "guardian": 30, "qsWorld": 343, "russellGroup": false, "year": 2025 },
+    "fees": { "homeUndergrad": "£9,535/year", "internationalUndergrad": "£23,650/year", "livingCostEstimate": "£17,000–£22,000/year (London)" },
+    "employability": { "graduateEmploymentRate": "88%", "topEmployers": ["Bloomberg", "Goldman Sachs", "Accenture", "Deloitte", "BBC"] },
+    "satisfaction": { "nssOverall": 76, "teachingQuality": 78, "academicSupport": 74, "learningResources": 80 },
+    "accommodation": { "firstYearGuarantee": true, "description": "Central London halls; some clinical placement support.", "avgWeeklyCost": "£180–£260", "privateRentAreas": "Islington, Angel, Clerkenwell" },
+    "studentLife": { "union": "City SU", "societiesCount": "100+", "highlights": ["City Hackathon", "Strong professional sector links"] },
+    "cityLife": { "description": "Central London location in Clerkenwell — walking distance to financial district.", "transport": "Multiple Tube lines", "highlights": ["Sadler's Wells", "Angel", "The City of London"] },
+    "travelFromLondon": { "trainTime": "Located in London", "trainFromStation": "Angel Tube", "distanceMiles": "0 miles" },
+    "keyFacts": ["Central London", "Part of University of London", "Strong professional-employer networks"]
+  },
+
+  "coventry": {
+    "slug": "coventry", "name": "Coventry University", "city": "Coventry", "founded": 1843, "totalStudents": 30000, "internationalStudents": "31%", "campusType": "City centre campus", "website": "https://www.coventry.ac.uk",
+    "overview": "Coventry University offers strong, industry-aligned computing degrees with NCSC-certified cyber security programmes and a focus on ethical hacking, games and software engineering. Modern central-city campus.",
+    "rankings": { "complete": 70, "guardian": 50, "qsWorld": 561, "russellGroup": false, "year": 2025 },
+    "fees": { "homeUndergrad": "£9,535/year", "internationalUndergrad": "£19,200/year", "livingCostEstimate": "£10,000–£12,500/year" },
+    "employability": { "graduateEmploymentRate": "82%", "topEmployers": ["JLR (Jaguar Land Rover)", "Rolls-Royce", "PwC", "TCS"] },
+    "satisfaction": { "nssOverall": 79, "teachingQuality": 81, "academicSupport": 79, "learningResources": 83 },
+    "accommodation": { "firstYearGuarantee": true, "description": "First-year accommodation guaranteed on campus.", "avgWeeklyCost": "£115–£160", "privateRentAreas": "City centre, Earlsdon" },
+    "studentLife": { "union": "Coventry SU", "societiesCount": "150+", "highlights": ["CovHack", "Ethical Hacking Society"] },
+    "cityLife": { "description": "Compact, affordable city with strong automotive engineering history.", "transport": "Excellent train links to Birmingham/London", "highlights": ["Coventry Cathedral", "Warwick Castle nearby"] },
+    "travelFromLondon": { "trainTime": "1h 5m", "trainFromStation": "London Euston", "distanceMiles": "100 miles" },
+    "keyFacts": ["NCSC-certified cyber security degrees", "Strong JLR automotive links", "Modern central campus"]
+  },
+
+  "de-montfort": {
+    "slug": "de-montfort", "name": "De Montfort University", "city": "Leicester", "founded": 1870, "totalStudents": 25000, "internationalStudents": "20%", "campusType": "City centre campus", "website": "https://www.dmu.ac.uk",
+    "overview": "DMU's Faculty of Computing, Engineering and Media offers strong games, software and cyber security degrees. The Cyber Security Centre is one of the largest in the UK midlands.",
+    "rankings": { "complete": 90, "guardian": 65, "qsWorld": 801, "russellGroup": false, "year": 2025 },
+    "fees": { "homeUndergrad": "£9,535/year", "internationalUndergrad": "£17,750/year", "livingCostEstimate": "£10,000–£12,500/year" },
+    "employability": { "graduateEmploymentRate": "78%", "topEmployers": ["IBM", "Sumo Digital", "Hewlett-Packard", "Capgemini"] },
+    "satisfaction": { "nssOverall": 76, "teachingQuality": 78, "academicSupport": 76, "learningResources": 82 },
+    "accommodation": { "firstYearGuarantee": true, "description": "Halls on or near campus in central Leicester.", "avgWeeklyCost": "£110–£155", "privateRentAreas": "City centre, Clarendon Park" },
+    "studentLife": { "union": "DSU", "societiesCount": "120+", "highlights": ["DMU Games Society", "Strong cyber society"] },
+    "cityLife": { "description": "Leicester is one of UK's most multicultural cities, affordable for students.", "transport": "Compact city, train links", "highlights": ["Curve Theatre", "Richard III burial site"] },
+    "travelFromLondon": { "trainTime": "1h 15m", "trainFromStation": "London St Pancras", "distanceMiles": "100 miles" },
+    "keyFacts": ["Major UK cyber security centre", "Strong games industry pipeline", "Affordable Leicester"]
+  },
+
+  "edinburgh-napier": {
+    "slug": "edinburgh-napier", "name": "Edinburgh Napier University", "city": "Edinburgh", "founded": 1964, "totalStudents": 20000, "internationalStudents": "28%", "campusType": "Multi-site Edinburgh", "website": "https://www.napier.ac.uk",
+    "overview": "Edinburgh Napier hosts The Cyber Academy and is the home of one of the UK's longest-running cyber security programmes. Strong industry placement record across Scotland's expanding fintech and cyber sectors.",
+    "rankings": { "complete": 75, "guardian": 90, "qsWorld": 851, "russellGroup": false, "year": 2025 },
+    "fees": { "homeUndergrad": "£1,820/year (Scottish, SAAS) / £9,535/year (rUK)", "internationalUndergrad": "£17,605/year", "livingCostEstimate": "£11,000–£14,000/year" },
+    "employability": { "graduateEmploymentRate": "82%", "topEmployers": ["FanDuel", "Skyscanner", "Tesco Bank", "Sopra Steria"] },
+    "satisfaction": { "nssOverall": 78, "teachingQuality": 80, "academicSupport": 76, "learningResources": 82 },
+    "accommodation": { "firstYearGuarantee": false, "description": "Halls available across Edinburgh.", "avgWeeklyCost": "£140–£185", "privateRentAreas": "Bruntsfield, Marchmont" },
+    "studentLife": { "union": "Napier SU", "societiesCount": "60+", "highlights": ["Cyber Academy events"] },
+    "cityLife": { "description": "Vibrant Edinburgh — UK's second-largest fintech cluster.", "transport": "Trams, buses", "highlights": ["Royal Mile", "Arthur's Seat"] },
+    "travelFromLondon": { "trainTime": "4h 20m", "trainFromStation": "London Kings Cross", "distanceMiles": "400 miles" },
+    "keyFacts": ["The Cyber Academy", "NCSC-certified", "Scotland's fintech pipeline"]
+  },
+
+  "essex": {
+    "slug": "essex", "name": "University of Essex", "city": "Colchester", "founded": 1964, "totalStudents": 16000, "internationalStudents": "34%", "campusType": "Self-contained campus", "website": "https://www.essex.ac.uk",
+    "overview": "Essex is recognised as one of the UK's leading institutions for AI and computer vision — the School of Computer Science and Electronic Engineering (CSEE) operates one of the largest robotics labs in the UK.",
+    "rankings": { "complete": 42, "guardian": 40, "qsWorld": 416, "russellGroup": false, "year": 2025 },
+    "fees": { "homeUndergrad": "£9,535/year", "internationalUndergrad": "£21,700/year", "livingCostEstimate": "£10,000–£13,000/year" },
+    "employability": { "graduateEmploymentRate": "82%", "topEmployers": ["Microsoft", "Google", "BT", "Capgemini"] },
+    "satisfaction": { "nssOverall": 80, "teachingQuality": 82, "academicSupport": 79, "learningResources": 84 },
+    "accommodation": { "firstYearGuarantee": true, "description": "First-year accommodation guaranteed on campus.", "avgWeeklyCost": "£125–£175", "privateRentAreas": "Colchester, Wivenhoe" },
+    "studentLife": { "union": "Essex SU", "societiesCount": "180+", "highlights": ["Essex Robotics Society", "EssexHack"] },
+    "cityLife": { "description": "Compact Colchester campus, 50 minutes by train to London Liverpool Street.", "transport": "Train to London", "highlights": ["Colchester Castle", "Mersea Island"] },
+    "travelFromLondon": { "trainTime": "50 min", "trainFromStation": "London Liverpool Street", "distanceMiles": "60 miles" },
+    "keyFacts": ["UK's largest robotics labs", "Strong AI research", "Affordable East Anglia"]
+  },
+
+  "exeter": {
+    "slug": "exeter", "name": "University of Exeter", "city": "Exeter", "founded": 1955, "totalStudents": 30000, "internationalStudents": "30%", "campusType": "City campus (Streatham)", "website": "https://www.exeter.ac.uk",
+    "overview": "Exeter's Department of Computer Science is part of the Faculty of Environment, Science and Economy. Strong research in data science, AI and modelling, with excellent graduate outcomes.",
+    "rankings": { "complete": 13, "guardian": 12, "qsWorld": 153, "russellGroup": true, "year": 2025 },
+    "fees": { "homeUndergrad": "£9,535/year", "internationalUndergrad": "£28,700/year", "livingCostEstimate": "£11,000–£14,000/year" },
+    "employability": { "graduateEmploymentRate": "88%", "topEmployers": ["PwC", "Deloitte", "JPMorgan", "Met Office"] },
+    "satisfaction": { "nssOverall": 82, "teachingQuality": 84, "academicSupport": 80, "learningResources": 86 },
+    "accommodation": { "firstYearGuarantee": true, "description": "First-year accommodation guaranteed.", "avgWeeklyCost": "£140–£195", "privateRentAreas": "Pennsylvania, St James" },
+    "studentLife": { "union": "Exeter Guild", "societiesCount": "200+", "highlights": ["Exeter CS Society", "Strong rowing & rugby"] },
+    "cityLife": { "description": "Exeter is a beautiful cathedral city with excellent access to South West coast.", "transport": "Walkable, rail hub", "highlights": ["Exeter Cathedral", "Devon coastline 30 min"] },
+    "travelFromLondon": { "trainTime": "2h 20m", "trainFromStation": "London Paddington", "distanceMiles": "200 miles" },
+    "keyFacts": ["Russell Group", "Top 15 UK university", "Met Office is in Exeter — climate data partnerships"]
+  },
+
+  "falmouth": {
+    "slug": "falmouth", "name": "Falmouth University", "city": "Falmouth", "founded": 1902, "totalStudents": 6500, "campusType": "Two campuses (Penryn and Falmouth)", "website": "https://www.falmouth.ac.uk",
+    "overview": "Falmouth specialises in creative industries, including a renowned Games Academy. Located on Cornwall's south coast, it offers immersive games development, animation and digital design degrees.",
+    "rankings": { "complete": 95, "guardian": 95, "qsWorld": null, "russellGroup": false, "year": 2025 },
+    "fees": { "homeUndergrad": "£9,535/year", "internationalUndergrad": "£18,000/year", "livingCostEstimate": "£11,000–£14,000/year" },
+    "employability": { "graduateEmploymentRate": "80%", "topEmployers": ["Frontier Developments", "Codemasters", "Independent studios"] },
+    "satisfaction": { "nssOverall": 79, "teachingQuality": 82, "academicSupport": 80, "learningResources": 84 },
+    "accommodation": { "firstYearGuarantee": true, "description": "Halls on Penryn campus and Falmouth town.", "avgWeeklyCost": "£135–£175", "privateRentAreas": "Penryn, Falmouth town" },
+    "studentLife": { "union": "Falmouth & Exeter SU", "societiesCount": "60+", "highlights": ["Games Academy showcase"] },
+    "cityLife": { "description": "Coastal Cornish town with surf culture and creative community.", "transport": "Train to Truro/London", "highlights": ["Falmouth beaches", "Trebah Garden"] },
+    "travelFromLondon": { "trainTime": "5h", "trainFromStation": "London Paddington", "distanceMiles": "280 miles" },
+    "keyFacts": ["Renowned Games Academy", "Creative industries focus", "Cornish coast location"]
+  },
+
+  "goldsmiths-university-of-london": {
+    "slug": "goldsmiths-university-of-london", "name": "Goldsmiths, University of London", "city": "London", "founded": 1891, "totalStudents": 10000, "internationalStudents": "32%", "campusType": "City campus (New Cross)", "website": "https://www.gold.ac.uk",
+    "overview": "Goldsmiths is famed for its creative-tech crossover — Creative Computing, Games Programming and HCI degrees pioneer the intersection of code and art. Located in vibrant South-East London.",
+    "rankings": { "complete": 55, "guardian": 75, "qsWorld": 490, "russellGroup": false, "year": 2025 },
+    "fees": { "homeUndergrad": "£9,535/year", "internationalUndergrad": "£21,890/year", "livingCostEstimate": "£17,000–£22,000/year (London)" },
+    "employability": { "graduateEmploymentRate": "80%", "topEmployers": ["BBC", "Sky", "Creative startups", "Game studios"] },
+    "satisfaction": { "nssOverall": 76, "teachingQuality": 78, "academicSupport": 74, "learningResources": 79 },
+    "accommodation": { "firstYearGuarantee": true, "description": "Halls in New Cross.", "avgWeeklyCost": "£170–£240", "privateRentAreas": "New Cross, Deptford, Peckham" },
+    "studentLife": { "union": "Goldsmiths SU", "societiesCount": "100+", "highlights": ["Creative computing showcases"] },
+    "cityLife": { "description": "Creative South-East London — close to East London tech scene via Overground.", "transport": "New Cross station; central London 15 min", "highlights": ["Greenwich", "Peckham"] },
+    "travelFromLondon": { "trainTime": "Located in London", "trainFromStation": "New Cross", "distanceMiles": "0 miles" },
+    "keyFacts": ["Creative computing pioneer", "Part of University of London", "Strong arts-tech crossover"]
+  },
+
+  "heriot-watt": {
+    "slug": "heriot-watt", "name": "Heriot-Watt University", "city": "Edinburgh", "founded": 1821, "totalStudents": 30000, "internationalStudents": "28%", "campusType": "Self-contained parkland campus", "website": "https://www.hw.ac.uk",
+    "overview": "Heriot-Watt is a major UK STEM university with strong CS programmes in robotics, AI and software systems. Excellent industry placement through Edinburgh's tech cluster.",
+    "rankings": { "complete": 50, "guardian": 35, "qsWorld": 281, "russellGroup": false, "year": 2025 },
+    "fees": { "homeUndergrad": "£1,820/year (Scottish, SAAS) / £9,535/year (rUK)", "internationalUndergrad": "£23,160/year", "livingCostEstimate": "£11,000–£14,000/year" },
+    "employability": { "graduateEmploymentRate": "85%", "topEmployers": ["Skyscanner", "FanDuel", "Standard Life", "JPMorgan"] },
+    "satisfaction": { "nssOverall": 79, "teachingQuality": 81, "academicSupport": 78, "learningResources": 83 },
+    "accommodation": { "firstYearGuarantee": true, "description": "First-year accommodation guaranteed on campus.", "avgWeeklyCost": "£130–£175", "privateRentAreas": "Currie, Balerno" },
+    "studentLife": { "union": "Heriot-Watt SU", "societiesCount": "100+", "highlights": ["Robotics Society", "HWHack"] },
+    "cityLife": { "description": "Self-contained parkland campus on edge of Edinburgh — bus to city centre.", "transport": "Buses to Edinburgh", "highlights": ["Edinburgh 20 min", "Pentland Hills"] },
+    "travelFromLondon": { "trainTime": "4h 20m (Edinburgh)", "trainFromStation": "London Kings Cross", "distanceMiles": "400 miles" },
+    "keyFacts": ["Strong robotics & AI", "Edinburgh tech cluster access", "Founded 1821 — UK's first mechanics' institute"]
+  },
+
+  "hull": {
+    "slug": "hull", "name": "University of Hull", "city": "Hull", "founded": 1927, "totalStudents": 14500, "internationalStudents": "20%", "campusType": "City campus", "website": "https://www.hull.ac.uk",
+    "overview": "The University of Hull offers strong computer science and software engineering degrees with placement options. Hull is a UK city of culture (2017) with rapidly growing offshore wind and tech sectors.",
+    "rankings": { "complete": 80, "guardian": 70, "qsWorld": 651, "russellGroup": false, "year": 2025 },
+    "fees": { "homeUndergrad": "£9,535/year", "internationalUndergrad": "£19,500/year", "livingCostEstimate": "£9,000–£11,500/year" },
+    "employability": { "graduateEmploymentRate": "78%", "topEmployers": ["Siemens Gamesa", "BP", "Sopra Steria"] },
+    "satisfaction": { "nssOverall": 78, "teachingQuality": 80, "academicSupport": 78, "learningResources": 82 },
+    "accommodation": { "firstYearGuarantee": true, "description": "First-year accommodation guaranteed.", "avgWeeklyCost": "£100–£140", "privateRentAreas": "Newland Avenue area" },
+    "studentLife": { "union": "Hull SU", "societiesCount": "100+", "highlights": ["Hull CS Society"] },
+    "cityLife": { "description": "Affordable East Yorkshire city, UK City of Culture 2017.", "transport": "Trains to Leeds/York", "highlights": ["The Deep aquarium", "Old Town"] },
+    "travelFromLondon": { "trainTime": "2h 45m", "trainFromStation": "London Kings Cross", "distanceMiles": "200 miles" },
+    "keyFacts": ["UK City of Culture 2017", "Strong offshore wind/tech industry links", "Most affordable major UK university city"]
+  },
+
+  "kent": {
+    "slug": "kent", "name": "University of Kent", "city": "Canterbury", "founded": 1965, "totalStudents": 18500, "internationalStudents": "27%", "campusType": "Parkland campus", "website": "https://www.kent.ac.uk",
+    "overview": "Kent's School of Computing offers strong CS, cyber security and AI degrees on its 300-acre parkland Canterbury campus. Excellent placement-year programme.",
+    "rankings": { "complete": 60, "guardian": 45, "qsWorld": 411, "russellGroup": false, "year": 2025 },
+    "fees": { "homeUndergrad": "£9,535/year", "internationalUndergrad": "£21,500/year", "livingCostEstimate": "£11,000–£14,000/year" },
+    "employability": { "graduateEmploymentRate": "82%", "topEmployers": ["IBM", "Microsoft", "Sage", "PwC"] },
+    "satisfaction": { "nssOverall": 80, "teachingQuality": 82, "academicSupport": 78, "learningResources": 83 },
+    "accommodation": { "firstYearGuarantee": true, "description": "First-year accommodation in college-style halls on campus.", "avgWeeklyCost": "£130–£180", "privateRentAreas": "Canterbury city" },
+    "studentLife": { "union": "Kent SU", "societiesCount": "200+", "highlights": ["Kent Tech Society", "KentHack"] },
+    "cityLife": { "description": "Canterbury — medieval cathedral city, easy access to London and Channel.", "transport": "High-speed rail to London", "highlights": ["Canterbury Cathedral", "Kent coast"] },
+    "travelFromLondon": { "trainTime": "55 min (HS1)", "trainFromStation": "London St Pancras", "distanceMiles": "60 miles" },
+    "keyFacts": ["College system on parkland campus", "Strong placement programme", "High-speed rail to London"]
+  },
+
+  "lancaster": {
+    "slug": "lancaster", "name": "Lancaster University", "city": "Lancaster", "founded": 1964, "totalStudents": 14000, "internationalStudents": "26%", "campusType": "Self-contained parkland campus", "website": "https://www.lancaster.ac.uk",
+    "overview": "Lancaster is consistently top-15 in UK rankings and the School of Computing and Communications is recognised for HCI (HighWire research group), security and HCI research.",
+    "rankings": { "complete": 11, "guardian": 12, "qsWorld": 117, "russellGroup": false, "year": 2025 },
+    "fees": { "homeUndergrad": "£9,535/year", "internationalUndergrad": "£28,065/year", "livingCostEstimate": "£11,000–£14,000/year" },
+    "employability": { "graduateEmploymentRate": "85%", "topEmployers": ["IBM", "BAE Systems", "PwC", "Sage"] },
+    "satisfaction": { "nssOverall": 82, "teachingQuality": 84, "academicSupport": 82, "learningResources": 85 },
+    "accommodation": { "firstYearGuarantee": true, "description": "First-year accommodation in college on campus.", "avgWeeklyCost": "£135–£190", "privateRentAreas": "Bowerham, Lancaster city" },
+    "studentLife": { "union": "LUSU", "societiesCount": "200+", "highlights": ["Lancaster Hack", "Computing & Comms Society"] },
+    "cityLife": { "description": "Compact campus close to Lake District and Lancaster historic city.", "transport": "Buses to campus", "highlights": ["Lake District 30 min", "Lancaster Castle"] },
+    "travelFromLondon": { "trainTime": "2h 30m", "trainFromStation": "London Euston", "distanceMiles": "230 miles" },
+    "keyFacts": ["Top 15 UK university", "Collegiate system", "HighWire HCI research group"]
+  },
+
+  "lincoln": {
+    "slug": "lincoln", "name": "University of Lincoln", "city": "Lincoln", "founded": 1992, "totalStudents": 15000, "internationalStudents": "13%", "campusType": "City centre Brayford Pool campus", "website": "https://www.lincoln.ac.uk",
+    "overview": "Lincoln's School of Computer Science has strong industry partnerships and a particular focus on games computing, robotics and agri-tech.",
+    "rankings": { "complete": 60, "guardian": 38, "qsWorld": null, "russellGroup": false, "year": 2025 },
+    "fees": { "homeUndergrad": "£9,535/year", "internationalUndergrad": "£17,200/year", "livingCostEstimate": "£9,500–£12,000/year" },
+    "employability": { "graduateEmploymentRate": "82%", "topEmployers": ["Siemens", "Specsavers", "James Dyson Foundation"] },
+    "satisfaction": { "nssOverall": 80, "teachingQuality": 82, "academicSupport": 80, "learningResources": 84 },
+    "accommodation": { "firstYearGuarantee": true, "description": "Modern halls on Brayford Pool campus.", "avgWeeklyCost": "£120–£160", "privateRentAreas": "Lincoln city" },
+    "studentLife": { "union": "Lincoln SU", "societiesCount": "120+", "highlights": ["Lincoln Games Society"] },
+    "cityLife": { "description": "Lincoln — beautiful cathedral city, very affordable for students.", "transport": "Buses, train links", "highlights": ["Lincoln Cathedral", "Steep Hill"] },
+    "travelFromLondon": { "trainTime": "1h 50m", "trainFromStation": "London Kings Cross", "distanceMiles": "150 miles" },
+    "keyFacts": ["Modern Brayford Pool campus", "Strong industry partnerships", "Affordable cathedral city"]
+  },
+
+  "liverpool": {
+    "slug": "liverpool", "name": "University of Liverpool", "city": "Liverpool", "founded": 1881, "totalStudents": 27000, "internationalStudents": "27%", "campusType": "City campus", "website": "https://www.liverpool.ac.uk",
+    "overview": "Liverpool's Department of Computer Science is one of the original UK CS departments (the first MSc in CS was awarded here in 1967). Strong research in AI, theoretical CS and data science.",
+    "rankings": { "complete": 36, "guardian": 30, "qsWorld": 165, "russellGroup": true, "year": 2025 },
+    "fees": { "homeUndergrad": "£9,535/year", "internationalUndergrad": "£26,400/year", "livingCostEstimate": "£10,000–£12,500/year" },
+    "employability": { "graduateEmploymentRate": "82%", "topEmployers": ["Sopra Steria", "IBM", "BBC", "Capgemini"] },
+    "satisfaction": { "nssOverall": 78, "teachingQuality": 80, "academicSupport": 76, "learningResources": 82 },
+    "accommodation": { "firstYearGuarantee": true, "description": "First-year halls in city.", "avgWeeklyCost": "£125–£175", "privateRentAreas": "Smithdown Road, Wavertree" },
+    "studentLife": { "union": "Liverpool Guild", "societiesCount": "200+", "highlights": ["Liverpool Computer Society"] },
+    "cityLife": { "description": "Vibrant Liverpool — affordable, famous music and football culture.", "transport": "Walkable; buses", "highlights": ["Albert Dock", "Beatles heritage"] },
+    "travelFromLondon": { "trainTime": "2h 15m", "trainFromStation": "London Euston", "distanceMiles": "210 miles" },
+    "keyFacts": ["Russell Group", "One of UK's original CS departments", "Vibrant affordable city"]
+  },
+
+  "liverpool-john-moores": {
+    "slug": "liverpool-john-moores", "name": "Liverpool John Moores University", "city": "Liverpool", "founded": 1825, "totalStudents": 25000, "internationalStudents": "12%", "campusType": "Multi-site city campus", "website": "https://www.ljmu.ac.uk",
+    "overview": "LJMU offers strong computer science and cyber security degrees with NCSC silver-level certification. Modern city-centre facilities and strong industry partnerships.",
+    "rankings": { "complete": 95, "guardian": 75, "qsWorld": 801, "russellGroup": false, "year": 2025 },
+    "fees": { "homeUndergrad": "£9,535/year", "internationalUndergrad": "£17,400/year", "livingCostEstimate": "£9,500–£12,000/year" },
+    "employability": { "graduateEmploymentRate": "78%", "topEmployers": ["BT", "Sopra Steria", "Liverpool tech firms"] },
+    "satisfaction": { "nssOverall": 77, "teachingQuality": 79, "academicSupport": 76, "learningResources": 81 },
+    "accommodation": { "firstYearGuarantee": true, "description": "Halls in central Liverpool.", "avgWeeklyCost": "£115–£160", "privateRentAreas": "Smithdown Road" },
+    "studentLife": { "union": "JMSU", "societiesCount": "80+", "highlights": ["Cyber Society"] },
+    "cityLife": { "description": "Central Liverpool location; same vibrant culture as University of Liverpool.", "transport": "Walkable", "highlights": ["Albert Dock"] },
+    "travelFromLondon": { "trainTime": "2h 15m", "trainFromStation": "London Euston", "distanceMiles": "210 miles" },
+    "keyFacts": ["NCSC silver certified cyber security", "Affordable Liverpool location"]
+  },
+
+  "loughborough": {
+    "slug": "loughborough", "name": "Loughborough University", "city": "Loughborough", "founded": 1909, "totalStudents": 18000, "internationalStudents": "23%", "campusType": "Self-contained parkland campus", "website": "https://www.lboro.ac.uk",
+    "overview": "Loughborough is consistently top-10 UK and a sandwich-degree pioneer. Computer Science integrates well with the world-renowned sports and design schools.",
+    "rankings": { "complete": 10, "guardian": 8, "qsWorld": 217, "russellGroup": false, "year": 2025 },
+    "fees": { "homeUndergrad": "£9,535/year", "internationalUndergrad": "£28,800/year", "livingCostEstimate": "£10,000–£13,000/year" },
+    "employability": { "graduateEmploymentRate": "91%", "topEmployers": ["Microsoft", "IBM", "Rolls-Royce", "Capgemini"] },
+    "satisfaction": { "nssOverall": 84, "teachingQuality": 86, "academicSupport": 84, "learningResources": 88 },
+    "accommodation": { "firstYearGuarantee": true, "description": "First-year accommodation guaranteed on campus.", "avgWeeklyCost": "£140–£185", "privateRentAreas": "Loughborough town" },
+    "studentLife": { "union": "Loughborough SU", "societiesCount": "200+", "highlights": ["Loughborough Hack", "Strong sport"] },
+    "cityLife": { "description": "Small town with massive sports facilities, in the East Midlands.", "transport": "Train to Nottingham/Leicester/London", "highlights": ["UK's largest university sport facility"] },
+    "travelFromLondon": { "trainTime": "1h 30m", "trainFromStation": "London St Pancras", "distanceMiles": "115 miles" },
+    "keyFacts": ["Top 10 UK university", "Sandwich-degree pioneer", "Olympic-level sports facilities"]
+  },
+
+  "newcastle": {
+    "slug": "newcastle", "name": "Newcastle University", "city": "Newcastle", "founded": 1834, "totalStudents": 28000, "internationalStudents": "27%", "campusType": "City centre campus", "website": "https://www.ncl.ac.uk",
+    "overview": "Newcastle's School of Computing is home to Open Lab — one of Europe's leading HCI research centres. Strong programmes in HCI, software engineering and cyber security.",
+    "rankings": { "complete": 33, "guardian": 25, "qsWorld": 110, "russellGroup": true, "year": 2025 },
+    "fees": { "homeUndergrad": "£9,535/year", "internationalUndergrad": "£28,200/year", "livingCostEstimate": "£10,000–£12,500/year" },
+    "employability": { "graduateEmploymentRate": "84%", "topEmployers": ["Sage", "Atom Bank", "Accenture", "Tombola"] },
+    "satisfaction": { "nssOverall": 81, "teachingQuality": 83, "academicSupport": 78, "learningResources": 85 },
+    "accommodation": { "firstYearGuarantee": true, "description": "Halls in central Newcastle and Jesmond.", "avgWeeklyCost": "£130–£175", "privateRentAreas": "Jesmond, Sandyford, Heaton" },
+    "studentLife": { "union": "NUSU", "societiesCount": "200+", "highlights": ["Newcastle Hack", "Computer Science Society"] },
+    "cityLife": { "description": "Friendly North East city, famous nightlife and quayside.", "transport": "Metro and bus", "highlights": ["Quayside", "Tyne Bridge"] },
+    "travelFromLondon": { "trainTime": "2h 50m", "trainFromStation": "London Kings Cross", "distanceMiles": "275 miles" },
+    "keyFacts": ["Russell Group", "Open Lab HCI centre", "Affordable Newcastle"]
+  },
+
+  "northumbria": {
+    "slug": "northumbria", "name": "Northumbria University", "city": "Newcastle", "founded": 1969, "totalStudents": 31000, "internationalStudents": "22%", "campusType": "City centre campus", "website": "https://www.northumbria.ac.uk",
+    "overview": "Northumbria's Department of Computer and Information Sciences offers strong CS and NCSC-certified cyber security degrees on a modern central Newcastle campus.",
+    "rankings": { "complete": 55, "guardian": 47, "qsWorld": 651, "russellGroup": false, "year": 2025 },
+    "fees": { "homeUndergrad": "£9,535/year", "internationalUndergrad": "£20,500/year", "livingCostEstimate": "£10,000–£12,500/year" },
+    "employability": { "graduateEmploymentRate": "78%", "topEmployers": ["Accenture", "Sage", "Atom Bank"] },
+    "satisfaction": { "nssOverall": 78, "teachingQuality": 80, "academicSupport": 78, "learningResources": 82 },
+    "accommodation": { "firstYearGuarantee": true, "description": "Halls in central Newcastle.", "avgWeeklyCost": "£120–£170", "privateRentAreas": "Jesmond, Heaton" },
+    "studentLife": { "union": "Northumbria SU", "societiesCount": "120+", "highlights": ["Cyber Society"] },
+    "cityLife": { "description": "Central Newcastle — same vibrant student scene as Newcastle Uni.", "transport": "Metro and bus", "highlights": ["Quayside"] },
+    "travelFromLondon": { "trainTime": "2h 50m", "trainFromStation": "London Kings Cross", "distanceMiles": "275 miles" },
+    "keyFacts": ["NCSC certified", "Central Newcastle", "Strong fintech/cyber industry links"]
+  },
+
+  "nottingham": {
+    "slug": "nottingham", "name": "University of Nottingham", "city": "Nottingham", "founded": 1881, "totalStudents": 34000, "internationalStudents": "31%", "campusType": "University Park campus", "website": "https://www.nottingham.ac.uk",
+    "overview": "Nottingham's School of Computer Science is research-active in AI, computer vision and HCI. Located on the beautiful 330-acre University Park campus.",
+    "rankings": { "complete": 21, "guardian": 22, "qsWorld": 108, "russellGroup": true, "year": 2025 },
+    "fees": { "homeUndergrad": "£9,535/year", "internationalUndergrad": "£28,600/year", "livingCostEstimate": "£10,000–£13,000/year" },
+    "employability": { "graduateEmploymentRate": "85%", "topEmployers": ["PwC", "IBM", "Capital One", "JPMorgan"] },
+    "satisfaction": { "nssOverall": 80, "teachingQuality": 82, "academicSupport": 79, "learningResources": 84 },
+    "accommodation": { "firstYearGuarantee": true, "description": "First-year accommodation guaranteed.", "avgWeeklyCost": "£135–£185", "privateRentAreas": "Lenton, Beeston" },
+    "studentLife": { "union": "UoNSU", "societiesCount": "350+", "highlights": ["HackNotts", "Nottingham Computer Society"] },
+    "cityLife": { "description": "Friendly East Midlands city with strong NHS and tech presence.", "transport": "Tram and bus", "highlights": ["Nottingham Castle", "Sherwood Forest"] },
+    "travelFromLondon": { "trainTime": "1h 50m", "trainFromStation": "London St Pancras", "distanceMiles": "130 miles" },
+    "keyFacts": ["Russell Group", "Beautiful 330-acre campus", "Strong placement-year pipeline"]
+  },
+
+  "plymouth": {
+    "slug": "plymouth", "name": "University of Plymouth", "city": "Plymouth", "founded": 1862, "totalStudents": 19000, "internationalStudents": "11%", "campusType": "City centre campus", "website": "https://www.plymouth.ac.uk",
+    "overview": "Plymouth offers NCSC-certified Cyber Security and computer science degrees with strong industry links in Devon's expanding tech sector.",
+    "rankings": { "complete": 65, "guardian": 55, "qsWorld": 651, "russellGroup": false, "year": 2025 },
+    "fees": { "homeUndergrad": "£9,535/year", "internationalUndergrad": "£17,600/year", "livingCostEstimate": "£10,000–£12,500/year" },
+    "employability": { "graduateEmploymentRate": "78%", "topEmployers": ["Babcock International", "BT", "Plymouth tech firms"] },
+    "satisfaction": { "nssOverall": 78, "teachingQuality": 80, "academicSupport": 78, "learningResources": 82 },
+    "accommodation": { "firstYearGuarantee": true, "description": "First-year accommodation guaranteed.", "avgWeeklyCost": "£120–£165", "privateRentAreas": "Plymouth city" },
+    "studentLife": { "union": "Plymouth SU", "societiesCount": "100+", "highlights": ["Cyber Society"] },
+    "cityLife": { "description": "Plymouth — south Devon coast, port city with naval history.", "transport": "Train to Bristol/London", "highlights": ["The Hoe", "Dartmoor 30 min"] },
+    "travelFromLondon": { "trainTime": "3h 15m", "trainFromStation": "London Paddington", "distanceMiles": "210 miles" },
+    "keyFacts": ["NCSC certified Cyber Security", "Devon coastal location", "Strong naval engineering links"]
+  },
+
+  "queen-mary-university-of-london": {
+    "slug": "queen-mary-university-of-london", "name": "Queen Mary University of London", "city": "London", "founded": 1885, "totalStudents": 31000, "internationalStudents": "49%", "campusType": "East London (Mile End)", "website": "https://www.qmul.ac.uk",
+    "overview": "Queen Mary is a Russell Group university in East London with the largest Computer Science school in inner London. Strong research in NLP, robotics and theoretical CS.",
+    "rankings": { "complete": 47, "guardian": 50, "qsWorld": 145, "russellGroup": true, "year": 2025 },
+    "fees": { "homeUndergrad": "£9,535/year", "internationalUndergrad": "£30,500/year", "livingCostEstimate": "£17,000–£22,000/year (London)" },
+    "employability": { "graduateEmploymentRate": "82%", "topEmployers": ["Goldman Sachs", "Bloomberg", "Microsoft", "JPMorgan"] },
+    "satisfaction": { "nssOverall": 78, "teachingQuality": 80, "academicSupport": 76, "learningResources": 82 },
+    "accommodation": { "firstYearGuarantee": true, "description": "Halls on Mile End campus.", "avgWeeklyCost": "£170–£240", "privateRentAreas": "Bow, Whitechapel" },
+    "studentLife": { "union": "QMSU", "societiesCount": "200+", "highlights": ["QMUL Hackathon", "Strong East London tech network"] },
+    "cityLife": { "description": "East London Mile End campus — close to Shoreditch tech scene.", "transport": "Central Line Tube", "highlights": ["Mile End Park", "Brick Lane nearby"] },
+    "travelFromLondon": { "trainTime": "Located in London", "trainFromStation": "Mile End Tube", "distanceMiles": "0 miles" },
+    "keyFacts": ["Russell Group", "East London location, close to Tech City", "Diverse international student body"]
+  },
+
+  "queen-s-university-belfast": {
+    "slug": "queen-s-university-belfast", "name": "Queen's University Belfast", "city": "Belfast", "founded": 1810, "totalStudents": 25000, "internationalStudents": "18%", "campusType": "City campus", "website": "https://www.qub.ac.uk",
+    "overview": "Queen's Belfast is Northern Ireland's leading research university and a Russell Group member. The Centre for Secure Information Technologies (CSIT) is a UK leader in cyber security research.",
+    "rankings": { "complete": 40, "guardian": 32, "qsWorld": 202, "russellGroup": true, "year": 2025 },
+    "fees": { "homeUndergrad": "£4,855/year (NI students) / £9,535/year (rUK)", "internationalUndergrad": "£21,800/year", "livingCostEstimate": "£9,500–£12,000/year" },
+    "employability": { "graduateEmploymentRate": "85%", "topEmployers": ["Allstate", "Citi", "PwC", "Liberty IT"] },
+    "satisfaction": { "nssOverall": 82, "teachingQuality": 84, "academicSupport": 80, "learningResources": 85 },
+    "accommodation": { "firstYearGuarantee": true, "description": "Modern halls close to campus.", "avgWeeklyCost": "£110–£155", "privateRentAreas": "Botanic, Stranmillis" },
+    "studentLife": { "union": "QUB SU", "societiesCount": "200+", "highlights": ["CSIT cyber events", "Strong fintech community"] },
+    "cityLife": { "description": "Belfast — friendly, affordable city with growing tech and creative industries.", "transport": "Buses, train", "highlights": ["Titanic Quarter", "Game of Thrones filming"] },
+    "travelFromLondon": { "trainTime": "Flight 1h", "trainFromStation": "N/A (fly from Heathrow/Gatwick)", "distanceMiles": "340 miles + sea" },
+    "keyFacts": ["Russell Group", "CSIT Centre for Secure Information Technologies", "Strong fintech employer base"]
+  },
+
+  "royal-holloway-university-of-london": {
+    "slug": "royal-holloway-university-of-london", "name": "Royal Holloway, University of London", "city": "Egham, Surrey", "founded": 1879, "totalStudents": 11000, "internationalStudents": "27%", "campusType": "Self-contained parkland campus", "website": "https://www.royalholloway.ac.uk",
+    "overview": "Royal Holloway hosts the Information Security Group — Europe's largest academic centre for cyber security research. The UK's first GCHQ-certified Cyber Security MSc was launched here.",
+    "rankings": { "complete": 30, "guardian": 28, "qsWorld": 401, "russellGroup": false, "year": 2025 },
+    "fees": { "homeUndergrad": "£9,535/year", "internationalUndergrad": "£25,700/year", "livingCostEstimate": "£13,000–£16,000/year" },
+    "employability": { "graduateEmploymentRate": "84%", "topEmployers": ["NCC Group", "Mandiant", "BAE Systems", "Bloomberg"] },
+    "satisfaction": { "nssOverall": 80, "teachingQuality": 82, "academicSupport": 79, "learningResources": 83 },
+    "accommodation": { "firstYearGuarantee": true, "description": "Halls on the stunning Founder's Building parkland campus.", "avgWeeklyCost": "£155–£215", "privateRentAreas": "Egham, Englefield Green" },
+    "studentLife": { "union": "RHUL SU", "societiesCount": "150+", "highlights": ["Cyber Security Society"] },
+    "cityLife": { "description": "Parkland campus in Surrey — 40 min train to central London via Reading line.", "transport": "Train from Egham to Waterloo", "highlights": ["Windsor Great Park", "Heathrow 20 min"] },
+    "travelFromLondon": { "trainTime": "40 min", "trainFromStation": "London Waterloo", "distanceMiles": "20 miles" },
+    "keyFacts": ["Europe's largest cyber security academic group (ISG)", "Part of University of London", "Spectacular Founder's Building campus"]
+  },
+
+  "sheffield-hallam": {
+    "slug": "sheffield-hallam", "name": "Sheffield Hallam University", "city": "Sheffield", "founded": 1843, "totalStudents": 32000, "internationalStudents": "14%", "campusType": "City centre campus", "website": "https://www.shu.ac.uk",
+    "overview": "Sheffield Hallam is one of the UK's largest universities with strong games and software degrees. Sumo Digital (Sega-owned major games studio) is headquartered next to campus.",
+    "rankings": { "complete": 80, "guardian": 70, "qsWorld": 1001, "russellGroup": false, "year": 2025 },
+    "fees": { "homeUndergrad": "£9,535/year", "internationalUndergrad": "£17,820/year", "livingCostEstimate": "£9,500–£12,000/year" },
+    "employability": { "graduateEmploymentRate": "76%", "topEmployers": ["Sumo Digital", "Capgemini", "Sopra Steria"] },
+    "satisfaction": { "nssOverall": 76, "teachingQuality": 78, "academicSupport": 76, "learningResources": 80 },
+    "accommodation": { "firstYearGuarantee": true, "description": "Halls in central Sheffield.", "avgWeeklyCost": "£115–£155", "privateRentAreas": "Ecclesall Road" },
+    "studentLife": { "union": "Hallam SU", "societiesCount": "100+", "highlights": ["Hallam Games Society"] },
+    "cityLife": { "description": "Central Sheffield — Peak District 15 min away.", "transport": "Tram, bus", "highlights": ["Peak District nearby"] },
+    "travelFromLondon": { "trainTime": "2h", "trainFromStation": "London St Pancras", "distanceMiles": "165 miles" },
+    "keyFacts": ["Sumo Digital partnership", "UK's largest universities by intake", "Peak District access"]
+  },
+
+  "staffordshire": {
+    "slug": "staffordshire", "name": "Staffordshire University", "city": "Stoke-on-Trent", "founded": 1992, "totalStudents": 14000, "internationalStudents": "8%", "campusType": "Stoke-on-Trent campus", "website": "https://www.staffs.ac.uk",
+    "overview": "Staffordshire is a long-established games university with a dedicated Games Institute. Strong industry partnerships in animation, esports and games programming.",
+    "rankings": { "complete": 100, "guardian": 95, "qsWorld": null, "russellGroup": false, "year": 2025 },
+    "fees": { "homeUndergrad": "£9,535/year", "internationalUndergrad": "£15,890/year", "livingCostEstimate": "£8,500–£11,000/year" },
+    "employability": { "graduateEmploymentRate": "75%", "topEmployers": ["Codemasters", "Sega", "Sumo Digital"] },
+    "satisfaction": { "nssOverall": 76, "teachingQuality": 78, "academicSupport": 77, "learningResources": 81 },
+    "accommodation": { "firstYearGuarantee": true, "description": "Halls on campus.", "avgWeeklyCost": "£100–£135", "privateRentAreas": "Stoke central" },
+    "studentLife": { "union": "Staffs SU", "societiesCount": "60+", "highlights": ["Games Society", "Esports team"] },
+    "cityLife": { "description": "Stoke-on-Trent — affordable West Midlands city with pottery heritage.", "transport": "Train to Manchester/Birmingham", "highlights": ["Wedgwood Museum"] },
+    "travelFromLondon": { "trainTime": "1h 30m", "trainFromStation": "London Euston", "distanceMiles": "150 miles" },
+    "keyFacts": ["Established games academy", "Esports excellence", "Highly affordable"]
+  },
+
+  "surrey": {
+    "slug": "surrey", "name": "University of Surrey", "city": "Guildford", "founded": 1966, "totalStudents": 16000, "internationalStudents": "30%", "campusType": "Stag Hill campus", "website": "https://www.surrey.ac.uk",
+    "overview": "Surrey's renowned Professional Training Year places students in roles like Microsoft, Google and BAE Systems. The Surrey CSCAN Centre is a leader in mobile/AI research.",
+    "rankings": { "complete": 28, "guardian": 25, "qsWorld": 270, "russellGroup": false, "year": 2025 },
+    "fees": { "homeUndergrad": "£9,535/year", "internationalUndergrad": "£25,700/year", "livingCostEstimate": "£12,000–£15,000/year" },
+    "employability": { "graduateEmploymentRate": "92% (with placement)", "topEmployers": ["IBM", "Microsoft", "BAE Systems", "Cisco"] },
+    "satisfaction": { "nssOverall": 81, "teachingQuality": 83, "academicSupport": 80, "learningResources": 85 },
+    "accommodation": { "firstYearGuarantee": true, "description": "Halls on Stag Hill campus.", "avgWeeklyCost": "£155–£200", "privateRentAreas": "Guildford" },
+    "studentLife": { "union": "Surrey SU", "societiesCount": "150+", "highlights": ["UniSURF", "Surrey Hack"] },
+    "cityLife": { "description": "Guildford — affluent Surrey town, 35 min to central London.", "transport": "Train to London Waterloo", "highlights": ["Guildford Castle", "Surrey Hills"] },
+    "travelFromLondon": { "trainTime": "35 min", "trainFromStation": "London Waterloo", "distanceMiles": "30 miles" },
+    "keyFacts": ["Industry-renowned Professional Training Year", "5G Innovation Centre", "Close to London"]
+  },
+
+  "sussex": {
+    "slug": "sussex", "name": "University of Sussex", "city": "Brighton (Falmer)", "founded": 1961, "totalStudents": 19000, "internationalStudents": "35%", "campusType": "Parkland campus (Falmer)", "website": "https://www.sussex.ac.uk",
+    "overview": "Sussex hosts a strong informatics school combining cognitive science, AI and human-computer interaction. Located between South Downs National Park and vibrant Brighton.",
+    "rankings": { "complete": 38, "guardian": 28, "qsWorld": 246, "russellGroup": false, "year": 2025 },
+    "fees": { "homeUndergrad": "£9,535/year", "internationalUndergrad": "£25,000/year", "livingCostEstimate": "£12,000–£15,000/year" },
+    "employability": { "graduateEmploymentRate": "80%", "topEmployers": ["Brighton-based startups", "Brandwatch", "American Express"] },
+    "satisfaction": { "nssOverall": 80, "teachingQuality": 82, "academicSupport": 78, "learningResources": 83 },
+    "accommodation": { "firstYearGuarantee": true, "description": "Halls on Falmer campus.", "avgWeeklyCost": "£155–£210", "privateRentAreas": "Brighton city, Hove" },
+    "studentLife": { "union": "Sussex SU", "societiesCount": "200+", "highlights": ["AI & Robotics Society"] },
+    "cityLife": { "description": "Falmer parkland campus, short train to Brighton's beach and lively city.", "transport": "Train to Brighton", "highlights": ["Brighton Beach", "South Downs"] },
+    "travelFromLondon": { "trainTime": "1h 10m", "trainFromStation": "London Victoria", "distanceMiles": "55 miles" },
+    "keyFacts": ["Strong informatics/cognitive science", "Close to Brighton tech cluster", "Falmer parkland campus"]
+  },
+
+  "teesside": {
+    "slug": "teesside", "name": "Teesside University", "city": "Middlesbrough", "founded": 1929, "totalStudents": 19000, "internationalStudents": "20%", "campusType": "City centre campus", "website": "https://www.tees.ac.uk",
+    "overview": "Teesside is one of the UK's leading games and digital media universities with a major Animex Festival. Strong industry partnerships with Sumo Digital, Double Eleven and Hammerhead VR.",
+    "rankings": { "complete": 90, "guardian": 85, "qsWorld": null, "russellGroup": false, "year": 2025 },
+    "fees": { "homeUndergrad": "£9,535/year", "internationalUndergrad": "£15,000/year", "livingCostEstimate": "£8,500–£11,000/year" },
+    "employability": { "graduateEmploymentRate": "78%", "topEmployers": ["Double Eleven", "Sumo Digital", "Hammerhead VR"] },
+    "satisfaction": { "nssOverall": 78, "teachingQuality": 80, "academicSupport": 78, "learningResources": 83 },
+    "accommodation": { "firstYearGuarantee": true, "description": "Modern halls on campus.", "avgWeeklyCost": "£105–£140", "privateRentAreas": "Middlesbrough" },
+    "studentLife": { "union": "Teesside SU", "societiesCount": "70+", "highlights": ["Animex Festival", "Games Society"] },
+    "cityLife": { "description": "Affordable Middlesbrough — close to North York Moors.", "transport": "Train to Newcastle/York", "highlights": ["MIMA art gallery", "Yorkshire Coast"] },
+    "travelFromLondon": { "trainTime": "3h 30m", "trainFromStation": "London Kings Cross", "distanceMiles": "240 miles" },
+    "keyFacts": ["UK games industry pipeline", "Animex Festival", "Most affordable major UK university city"]
+  },
+
+  "westminster": {
+    "slug": "westminster", "name": "University of Westminster", "city": "London", "founded": 1838, "totalStudents": 19000, "internationalStudents": "30%", "campusType": "Central London", "website": "https://www.westminster.ac.uk",
+    "overview": "Westminster is a central London university with strong CS and games degrees. Located on Regent Street, close to West End and Soho creative cluster.",
+    "rankings": { "complete": 90, "guardian": 80, "qsWorld": 851, "russellGroup": false, "year": 2025 },
+    "fees": { "homeUndergrad": "£9,535/year", "internationalUndergrad": "£17,000/year", "livingCostEstimate": "£17,000–£22,000/year (London)" },
+    "employability": { "graduateEmploymentRate": "74%", "topEmployers": ["BBC", "Sky", "BT", "Capgemini"] },
+    "satisfaction": { "nssOverall": 74, "teachingQuality": 76, "academicSupport": 72, "learningResources": 78 },
+    "accommodation": { "firstYearGuarantee": false, "description": "Halls available in London but not guaranteed.", "avgWeeklyCost": "£180–£240", "privateRentAreas": "Acton, Harlesden" },
+    "studentLife": { "union": "Westminster SU", "societiesCount": "80+", "highlights": ["Games Society"] },
+    "cityLife": { "description": "Central London Regent Street campus.", "transport": "Multiple Tube lines", "highlights": ["Regent Street", "Soho", "Hyde Park"] },
+    "travelFromLondon": { "trainTime": "Located in London", "trainFromStation": "Oxford Circus", "distanceMiles": "0 miles" },
+    "keyFacts": ["Central London (Regent Street)", "Strong creative industries links"]
+  },
+
+  "york": {
+    "slug": "york", "name": "University of York", "city": "York", "founded": 1963, "totalStudents": 20000, "internationalStudents": "25%", "campusType": "Heslington campus", "website": "https://www.york.ac.uk",
+    "overview": "York's Department of Computer Science is highly research-active in safety-critical systems, AI, and HCI. Beautiful campus with on-site lake; collegiate system similar to Lancaster.",
+    "rankings": { "complete": 24, "guardian": 18, "qsWorld": 161, "russellGroup": true, "year": 2025 },
+    "fees": { "homeUndergrad": "£9,535/year", "internationalUndergrad": "£26,950/year", "livingCostEstimate": "£10,000–£13,000/year" },
+    "employability": { "graduateEmploymentRate": "85%", "topEmployers": ["IBM", "Bloomberg", "BAE Systems", "Sky"] },
+    "satisfaction": { "nssOverall": 82, "teachingQuality": 84, "academicSupport": 80, "learningResources": 86 },
+    "accommodation": { "firstYearGuarantee": true, "description": "Halls in college on Heslington campus.", "avgWeeklyCost": "£130–£180", "privateRentAreas": "Heslington, Fulford" },
+    "studentLife": { "union": "YUSU", "societiesCount": "200+", "highlights": ["HackYork", "Computer Science Society"] },
+    "cityLife": { "description": "Historic Roman city of York — affordable, beautiful, great student community.", "transport": "Buses to campus", "highlights": ["York Minster", "Shambles", "Yorkshire Dales"] },
+    "travelFromLondon": { "trainTime": "1h 50m", "trainFromStation": "London Kings Cross", "distanceMiles": "200 miles" },
+    "keyFacts": ["Russell Group", "Strong safety-critical systems research", "Beautiful collegiate campus"]
   }
 }
