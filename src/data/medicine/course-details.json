@@ -1,0 +1,464 @@
+{
+  "medicine": {
+    "id": "medicine",
+    "title": "Medicine (MBBS/MBChB)",
+    "duration": "5 years (6 years with intercalated BSc/BA at some universities)",
+    "overview": "Medicine is one of the longest-established and most competitive undergraduate degrees in the UK. The 5-year programme leads to provisional registration with the General Medical Council (GMC) and a place on the UK Foundation Programme. You will study basic medical sciences (anatomy, physiology, pharmacology), develop clinical skills, and spend the final two years on rotation across hospital specialties and general practice. Modern courses are integrated from Year 1 — combining science with patient contact early — and use a mix of lectures, problem-based learning, anatomy practicals and clinical placements.",
+    "yearByYear": [
+      { "year": 1, "focus": "Foundations of medicine", "modules": ["Anatomy & Embryology", "Physiology & Biochemistry", "Cell Biology & Genetics", "Communication Skills", "Introduction to Clinical Practice"] },
+      { "year": 2, "focus": "Systems-based medicine", "modules": ["Cardiovascular & Respiratory Systems", "Neurosciences", "Gastrointestinal & Renal", "Pharmacology & Therapeutics", "Early Patient Contact"] },
+      { "year": 3, "focus": "Clinical foundations", "modules": ["Pathology", "Microbiology & Infection", "Psychiatry Introduction", "Clinical Skills Lab", "Early clinical placements"] },
+      { "year": 4, "focus": "Clinical rotations", "modules": ["Medicine", "Surgery", "Paediatrics", "Obstetrics & Gynaecology", "General Practice"] },
+      { "year": 5, "focus": "Senior clinical year", "modules": ["Specialty rotations", "Emergency Medicine", "Anaesthetics & Intensive Care", "Elective (often abroad)", "Preparation for FY1"] }
+    ],
+    "skills": [
+      "Clinical examination, history-taking and diagnostic reasoning",
+      "Patient communication including breaking bad news",
+      "Anatomy from dissection or prosection",
+      "Critical appraisal of medical literature and statistics",
+      "Multidisciplinary team-working in NHS hospital settings"
+    ],
+    "professionalBodies": [
+      { "name": "General Medical Council (GMC)", "benefit": "Successful completion leads to provisional registration as a doctor; full registration follows after FY1" },
+      { "name": "Royal Colleges (RCP, RCS, RCGP, RCPsych etc.)", "benefit": "Postgraduate training routes into specialty practice (medicine, surgery, GP, psychiatry, anaesthetics)" }
+    ],
+    "careers": [
+      { "role": "Foundation Doctor (FY1/FY2)", "salary": "£32,400 starting (basic) / ~£37,000 with banding (FY1) — 2-year training", "demand": "Very High" },
+      { "role": "GP (after 5-year postgrad training)", "salary": "£68,975–£106,000 (NHS GP salaried scale 2025) / £100,000+ partnership", "demand": "Very High" },
+      { "role": "Hospital Consultant (after 7-9 years postgrad)", "salary": "£99,532–£131,964 (NHS consultant scale 2025)", "demand": "Very High" },
+      { "role": "Surgeon (Consultant, after 7-9 years postgrad)", "salary": "£99,532–£131,964 NHS + private practice possible", "demand": "High" }
+    ],
+    "topEmployers": ["NHS Trusts", "Private hospitals (Bupa, HCA Healthcare, Spire)", "Research institutions (MRC, Wellcome)", "Royal Air Force / Army / Navy medical corps", "Public Health agencies (UKHSA)"],
+    "employerPerspective": "The NHS is the principal employer for UK medical graduates. The UK Foundation Programme allocates all graduating doctors to a 2-year training post (FY1/FY2). After that, you specialise via 3-9 years of postgraduate training, depending on specialty (GP is fastest at 3 years; surgical specialties take 7-9). Pay during training is on national NHS scales; consultant salaries scale to £130,000+ with additional Clinical Excellence Awards and private practice income for some specialties.",
+    "entryRequirements": "Typical offer: A*AA–AAA at A-level including Chemistry (essential at almost all schools) plus Biology, Maths or Physics. GCSE: Mathematics and English at grade 6/B or above, plus several other 7/A grades. UCAT (or BMAT-equivalent at a small number) entrance test required. Interview at all UK medical schools. Strong evidence of work experience or volunteering in healthcare settings (10-20 days minimum) is expected. Contextual offers available at some schools — typically one grade lower for eligible applicants.",
+    "furtherStudy": "Foundation Programme (compulsory) → Specialty Training (Core/Higher Specialty Training, 3-9 years depending on specialty). Many doctors also pursue an intercalated BSc/BMedSci during their undergraduate degree, or an MD/PhD later in their career. Royal College memberships (MRCP, MRCS, MRCGP, MRCPsych) are core training milestones.",
+    "isItForYou": [
+      "Study this if you have a long-term commitment to patient care and are prepared for at least 10 years of training before becoming a fully independent doctor",
+      "Study this if you can balance scientific rigour with strong people skills and emotional resilience",
+      "Think twice if you want predictable hours, a quick path to high salary, or are unsure about working in the NHS — graduate medicine is demanding and the financial returns take time"
+    ]
+  },
+
+  "graduateMedicine": {
+    "id": "graduateMedicine",
+    "title": "Graduate Entry Medicine",
+    "duration": "4 years (accelerated)",
+    "overview": "Graduate Entry Medicine (GEM) is a 4-year accelerated route to becoming a doctor, designed for applicants who already hold a degree (usually a 2:1 or higher). The first 18 months condense the preclinical curriculum, and clinical rotations begin earlier than in standard programmes. Cohorts are smaller (typically 30-100), and applicants are typically older, often switching careers from research, healthcare, or other fields. The GMC-recognised qualification is identical to the 5-year MBBS.",
+    "yearByYear": [
+      { "year": 1, "focus": "Compressed preclinical", "modules": ["Anatomy intensive", "Physiology", "Biochemistry & Pharmacology", "Clinical Skills Introduction", "Early Patient Contact"] },
+      { "year": 2, "focus": "Integrated systems + clinical", "modules": ["Systems-based pathology", "Therapeutics", "Hospital placements begin", "Communication & Ethics", "Research Methods"] },
+      { "year": 3, "focus": "Full clinical rotations", "modules": ["Medicine", "Surgery", "Paediatrics", "Obs/Gyn", "GP rotation"] },
+      { "year": 4, "focus": "Senior clinical year", "modules": ["Specialty rotations", "Emergency Medicine", "Elective period", "Preparation for FY1"] }
+    ],
+    "skills": [
+      "Same as 5-year MBBS but acquired at faster pace",
+      "Strong self-directed learning required",
+      "Earlier clinical exposure and patient contact",
+      "Translating prior degree knowledge (often biomedical sciences) into clinical context"
+    ],
+    "professionalBodies": [
+      { "name": "GMC", "benefit": "Identical registration outcome as 5-year MBBS — provisional registration upon graduation" },
+      { "name": "Royal Colleges", "benefit": "Same postgraduate specialty routes as 5-year graduates" }
+    ],
+    "careers": [
+      { "role": "Foundation Doctor (FY1/FY2)", "salary": "Same as MBBS graduates", "demand": "Very High" },
+      { "role": "GP", "salary": "Same as MBBS graduates", "demand": "Very High" },
+      { "role": "Hospital Consultant", "salary": "Same as MBBS graduates", "demand": "Very High" }
+    ],
+    "topEmployers": ["NHS Trusts (same as standard route)"],
+    "employerPerspective": "Graduate Entry doctors are highly valued by Foundation Programme employers — they bring maturity, life experience and often prior healthcare or research experience. The qualification is identical to the 5-year route; specialty training takes the same time. The trade-off is the intensity of the 4 years and the cost of doing a second undergraduate degree (though NHS Bursary covers Years 2-4 tuition fees in England).",
+    "entryRequirements": "First or 2:1 honours degree (subject varies — some require life sciences, others accept any subject). GAMSAT or UCAT required depending on the school. Interview required at all schools. Strong evidence of healthcare-related work experience. Some schools also require A-levels at AAB or above if science not in degree.",
+    "furtherStudy": "Same as standard MBBS — Foundation Programme → Specialty Training → Royal College memberships.",
+    "isItForYou": [
+      "Study this if you have a prior degree and are committed to becoming a doctor — the 4-year compression saves a year and you'll be alongside a similar-age cohort",
+      "Study this if NHS Bursary support during Years 2-4 makes the financial side viable for you",
+      "Think twice if you're unsure about medicine — the intensity is high and switching out mid-programme is hard"
+    ]
+  },
+
+  "dentistry": {
+    "id": "dentistry",
+    "title": "Dentistry (BDS)",
+    "duration": "5 years",
+    "overview": "Dentistry leads to the BDS (Bachelor of Dental Surgery) degree and registration with the General Dental Council (GDC). The 5-year programme combines foundational sciences (oral biology, anatomy, materials science) with clinical training in restorative dentistry, oral surgery, periodontology and paediatric dentistry. Dental schools have small cohorts (typically 60-90 students per year), individual lab spaces, and intensive clinical work from Year 3. The vast majority of graduates work in NHS general dental practice initially before moving to private practice or specialty training.",
+    "yearByYear": [
+      { "year": 1, "focus": "Biomedical foundations", "modules": ["Oral Biology", "Head & Neck Anatomy", "Biochemistry & Microbiology", "Dental Materials Science", "Communication Skills"] },
+      { "year": 2, "focus": "Pre-clinical dentistry", "modules": ["Operative Dentistry (phantom head)", "Dental Pharmacology", "Pathology", "Oral Health & Prevention", "Clinical Skills Lab"] },
+      { "year": 3, "focus": "Clinical foundations", "modules": ["Restorative Dentistry", "Periodontology", "Oral Surgery", "Paediatric Dentistry", "Orthodontics introduction"] },
+      { "year": 4, "focus": "Advanced clinical", "modules": ["Advanced Restorative", "Complex Extractions", "Endodontics", "Special Care Dentistry", "Hospital placements"] },
+      { "year": 5, "focus": "Independent practice prep", "modules": ["Full case management", "Practice Management", "Medical Emergencies", "Vocational training prep", "Final clinical exams"] }
+    ],
+    "skills": [
+      "Manual dexterity for restorative and surgical procedures",
+      "Diagnostic skills for oral pathology and orthodontic problems",
+      "Patient management and dental anxiety techniques",
+      "Use of dental imaging (intraoral, panoramic radiographs)",
+      "Infection control and dental practice management"
+    ],
+    "professionalBodies": [
+      { "name": "General Dental Council (GDC)", "benefit": "GDC registration upon graduation enables practice as a dentist in the UK" },
+      { "name": "Royal Colleges (Surgical Dentistry)", "benefit": "Postgraduate specialty exams (MFDS, MJDF) for further training" }
+    ],
+    "careers": [
+      { "role": "Dental Foundation Trainee (year 1 after graduation)", "salary": "~£36,500 (DFT salary 2024/25)", "demand": "Very High" },
+      { "role": "NHS Associate Dentist", "salary": "£65,000–£90,000 (UDA-based)", "demand": "Very High" },
+      { "role": "Private Dentist", "salary": "£90,000–£200,000+ (varies by patient base)", "demand": "High" },
+      { "role": "Specialist (Orthodontist, Oral Surgeon)", "salary": "£100,000–£250,000+ (after 3-4 yrs specialty training)", "demand": "High" }
+    ],
+    "topEmployers": ["NHS dental practices", "Private dental chains (Bupa Dental, mydentist)", "Hospital dental services", "Defence Dental Services (armed forces)", "Community dental services"],
+    "employerPerspective": "All UK dental graduates complete a 1-year Dental Foundation Training (DFT) post immediately after graduation. From there, most join NHS or mixed NHS/private practices. Earnings depend heavily on UDA (Unit of Dental Activity) targets in NHS work or patient throughput in private practice. Specialty routes (orthodontics, oral surgery, endodontics, periodontics) require 3-4 additional years of training and command premium salaries.",
+    "entryRequirements": "Typical offer: A*AA–AAA including Chemistry and Biology at A. GCSE: usually 6/7 at grade B/6 or above. UCAT required. Interview at all schools, with strong emphasis on manual dexterity assessment (sometimes including practical tests with wire-bending or similar). Strong evidence of dental work experience (shadowing or volunteering in dental settings) is expected.",
+    "furtherStudy": "Dental Foundation Training (1 yr, compulsory) → optional Dental Core Training (DCT, 1-3 yrs) → optional Specialty Training (3-5 yrs) for orthodontics, oral surgery, paediatric dentistry, periodontology, endodontics, prosthodontics, restorative dentistry, oral medicine, oral pathology, special care dentistry or public dental health.",
+    "isItForYou": [
+      "Study this if you enjoy precise manual work and the combination of science with hand skills",
+      "Study this if you want a clear career pathway with strong autonomy (running your own practice eventually) and excellent earnings",
+      "Think twice if you find sustained close-up work uncomfortable or are unsure about working in patients' mouths daily"
+    ]
+  },
+
+  "veterinary": {
+    "id": "veterinary",
+    "title": "Veterinary Medicine",
+    "duration": "5 years (BVMS/BVSc) / 6 years (Cambridge VetMB with intercalated BA)",
+    "overview": "Veterinary Medicine is the path to becoming a vet — registered with the Royal College of Veterinary Surgeons (RCVS) and licensed to practise. The 5-year programme covers a vast curriculum: anatomy and physiology across multiple species (cattle, sheep, horses, cats, dogs, poultry, exotics), pathology, surgery, public health, and clinical training. Placements (EMS — Extra-Mural Studies) include working farms, abattoirs, and small/large animal practices. Vet school is among the most competitive undergraduate routes in the UK — most schools accept fewer than 1 in 7 applicants.",
+    "yearByYear": [
+      { "year": 1, "focus": "Biomedical foundations", "modules": ["Multi-species Anatomy", "Cell Biology & Genetics", "Animal Husbandry", "Biochemistry & Physiology", "Veterinary Ethics"] },
+      { "year": 2, "focus": "Species-specific biology", "modules": ["Comparative Physiology", "Microbiology & Parasitology", "Pharmacology", "Animal Behaviour", "EMS placements (farms)"] },
+      { "year": 3, "focus": "Pathology and disease", "modules": ["Veterinary Pathology", "Infectious Diseases", "Clinical Pathology", "Public Health", "Anaesthesia introduction"] },
+      { "year": 4, "focus": "Clinical specialties", "modules": ["Small Animal Medicine", "Equine Medicine", "Farm Animal Medicine", "Surgery", "Diagnostic Imaging"] },
+      { "year": 5, "focus": "Senior clinical year", "modules": ["Practice rotations", "Emergency & Critical Care", "Elective", "Final clinical exams", "Preparation for first-day-competent practice"] }
+    ],
+    "skills": [
+      "Multi-species clinical examination and diagnostic reasoning",
+      "Surgical skills across small and large animal species",
+      "Public health and zoonotic disease management",
+      "Communication with owners and farmers about welfare and economics",
+      "Resilience in dealing with euthanasia and emergency care"
+    ],
+    "professionalBodies": [
+      { "name": "Royal College of Veterinary Surgeons (RCVS)", "benefit": "RCVS registration upon graduation enables practice as a vet in the UK" },
+      { "name": "Royal College specialty diplomas", "benefit": "Postgraduate routes into specialism (e.g. small animal surgery, equine internal medicine)" }
+    ],
+    "careers": [
+      { "role": "New graduate vet (mixed practice)", "salary": "£32,000–£40,000 starting", "demand": "Very High" },
+      { "role": "Senior vet (small animal)", "salary": "£50,000–£75,000 at 5-7 years experience", "demand": "Very High" },
+      { "role": "Equine specialist", "salary": "£55,000–£90,000+ (with European diploma)", "demand": "High" },
+      { "role": "Veterinary Public Health (Government)", "salary": "£45,000–£65,000 (APHA/FSA)", "demand": "High" }
+    ],
+    "topEmployers": ["IVC Evidensia", "CVS Group", "Vets4Pets", "Independent practices", "Animal & Plant Health Agency (APHA)", "Food Standards Agency (FSA)", "Pharmaceutical R&D (MSD, Zoetis, Boehringer)"],
+    "employerPerspective": "Most UK vet graduates begin in mixed or small animal practice. Corporate consolidation (IVC, CVS, Linnaeus) means most practices are now part of large groups. Earnings vary widely — equine and exotics specialists earn premium salaries, small animal corporate vets have predictable progression. Government and pharmaceutical careers provide alternatives to practice. The profession faces well-documented workforce shortages, which means strong job security.",
+    "entryRequirements": "Typical offer: A*AA–AAA including Chemistry plus Biology and a third subject (often Maths or Physics). GCSE: usually 7/A grades including triple sciences. Most schools require situational judgement test (SJT) or interview. Two weeks of pre-application work experience is the absolute minimum — most accepted applicants have 4-8 weeks across multiple settings (small animal, large animal/farm, equine, abattoir/laboratory).",
+    "furtherStudy": "Many vets do further training: 2-3 year residencies for RCVS Diploma/Certificate; European College of Veterinary Surgeons (ECVS) diplomas; PhDs for research careers.",
+    "isItForYou": [
+      "Study this if you have a deep, evidence-based commitment to animal welfare — beyond just 'liking animals'",
+      "Study this if you can handle physical, emotionally demanding work including euthanasia and emergency surgery",
+      "Think twice if you primarily want to work with cats and dogs — most courses require equal training in large animals (cattle, sheep, horses) which involves physical work and unsocial hours"
+    ]
+  },
+
+  "pharmacy": {
+    "id": "pharmacy",
+    "title": "Pharmacy (MPharm)",
+    "duration": "4 years (MPharm) + 1 year Foundation Training Year (now integrated as 5-year course at many schools)",
+    "overview": "The MPharm is the 4-year integrated Masters route to becoming a pharmacist registered with the General Pharmaceutical Council (GPhC). The curriculum combines biomedical sciences (physiology, pharmacology, biochemistry) with pharmaceutical sciences (drug formulation, medicinal chemistry, pharmacokinetics) and clinical practice. Pharmacy is highly regulated and the GPhC sets a national curriculum framework; all accredited MPharm degrees lead to GPhC registration after a Foundation Training Year (FTY, formerly pre-registration year).",
+    "yearByYear": [
+      { "year": 1, "focus": "Foundations of pharmacy", "modules": ["Human Anatomy & Physiology", "Pharmaceutical Chemistry", "Drug Action", "Communication & Professionalism", "Pharmacy Practice Basics"] },
+      { "year": 2, "focus": "Drug delivery and action", "modules": ["Pharmaceutics & Formulation", "Pharmacology", "Microbiology", "Therapeutics introduction", "Clinical Pharmacy"] },
+      { "year": 3, "focus": "Clinical pharmacy", "modules": ["Therapeutics (systems-based)", "Patient-Centred Care", "Pharmacoeconomics", "Research Project", "Hospital and Community placements"] },
+      { "year": 4, "focus": "Integrated practice (MPharm Year 4)", "modules": ["Advanced Therapeutics", "Independent Prescribing prep", "Leadership & Management", "Capstone Research", "Extended placements"] }
+    ],
+    "skills": [
+      "Drug dispensing accuracy and clinical checking",
+      "Medicines optimisation and pharmacovigilance",
+      "Patient consultation and counselling",
+      "Pharmaceutical calculations (dosages, concentrations)",
+      "Independent prescribing (now part of integrated MPharm)"
+    ],
+    "professionalBodies": [
+      { "name": "General Pharmaceutical Council (GPhC)", "benefit": "GPhC accreditation of MPharm + completed Foundation Training Year leads to registration as a pharmacist" },
+      { "name": "Royal Pharmaceutical Society (RPS)", "benefit": "Postgraduate Faculty qualifications and career progression credentialing" }
+    ],
+    "careers": [
+      { "role": "Community Pharmacist (Boots, LloydsPharmacy, independent)", "salary": "£42,000–£55,000 starting / £55,000–£80,000+ at 5 years", "demand": "Very High" },
+      { "role": "Hospital Pharmacist (NHS Band 6 → 8)", "salary": "£37,000 starting (Band 6) / £55,000–£75,000 (senior Band 8)", "demand": "Very High" },
+      { "role": "Industry Pharmacist (Pharma R&D / regulatory)", "salary": "£40,000–£55,000 starting / £70,000–£110,000 senior", "demand": "High" },
+      { "role": "Pharmacist Independent Prescriber", "salary": "+£8,000–£15,000 premium over base salary", "demand": "Very High" }
+    ],
+    "topEmployers": ["Boots", "LloydsPharmacy", "Well Pharmacy", "NHS hospital trusts", "GSK", "AstraZeneca", "Pfizer", "MHRA (regulator)", "Independent community pharmacies"],
+    "employerPerspective": "Pharmacy is one of the most secure healthcare careers in the UK — chronic NHS pharmacy workforce shortages, expanding pharmacist independent prescribing roles, and strong demand from community chains mean graduates can choose between sectors. The integrated independent prescribing qualification (from 2026 cohort) gives pharmacists a much expanded clinical role, including prescribing alongside doctors in GP practices and hospitals.",
+    "entryRequirements": "Typical offer: AAA–AAB including Chemistry plus one or two of Biology, Mathematics or Physics. GCSE: Mathematics and English at grade 6/B or above, plus several other 6/B grades. GPhC requires all accredited schools to assess for both academic potential and the values and behaviours expected of a pharmacist.",
+    "furtherStudy": "Foundation Training Year (1 yr, compulsory) → optional postgraduate diplomas (Clinical Pharmacy, Independent Prescribing if not integrated). Specialty pathways into Critical Care, Oncology, Mental Health Pharmacy (Royal Pharmaceutical Society Faculty membership).",
+    "isItForYou": [
+      "Study this if you want a clinical healthcare role with excellent job security, strong starting salary and clear career progression",
+      "Study this if you enjoy the interface between chemistry and patient care — pharmacy is uniquely 'science-meets-people'",
+      "Think twice if you want to work primarily in research; medicinal chemistry or biomedical sciences may suit better"
+    ]
+  },
+
+  "nursing": {
+    "id": "nursing",
+    "title": "Nursing",
+    "duration": "3 years (BSc)",
+    "overview": "Nursing leads to NMC (Nursing and Midwifery Council) registration as a registered nurse in one of four fields: Adult, Child, Mental Health or Learning Disabilities. The 3-year programme is 50% theory and 50% clinical placement — you'll spend approximately 2,300 hours in NHS practice settings before graduation. The curriculum covers anatomy, physiology, pharmacology, nursing theory, ethics and law, and clinical skills. NHS Bursary support (~£5,000 tuition contribution + additional means-tested top-up) is available for nursing students from 2020 onwards.",
+    "yearByYear": [
+      { "year": 1, "focus": "Foundations of nursing", "modules": ["Anatomy & Physiology", "Nursing Theory", "Fundamentals of Care", "First placements (community & hospital)", "Communication Skills"] },
+      { "year": 2, "focus": "Specialist practice", "modules": ["Field-specific theory (Adult/Child/Mental Health/LD)", "Pharmacology", "Acute Care", "Long-term Conditions", "Extended placements"] },
+      { "year": 3, "focus": "Leadership and complex care", "modules": ["Complex Care Management", "Leadership & Management", "Evidence-Based Practice", "Dissertation/Research", "Senior placements as 'almost qualified' nurse"] }
+    ],
+    "skills": [
+      "Clinical skills: medication administration, wound care, IV cannulation, catheterisation, ECG",
+      "Patient assessment and care planning",
+      "Communication with patients, families and multidisciplinary teams",
+      "Critical thinking and clinical decision-making",
+      "Leadership and delegation in clinical teams"
+    ],
+    "professionalBodies": [
+      { "name": "Nursing and Midwifery Council (NMC)", "benefit": "NMC registration upon graduation enables practice as a registered nurse" },
+      { "name": "Royal College of Nursing (RCN)", "benefit": "Professional representation, indemnity, and CPD" }
+    ],
+    "careers": [
+      { "role": "Newly Qualified Nurse (NHS Band 5)", "salary": "£29,970 starting (NHS Band 5 2025) / £36,483 top of band", "demand": "Very High" },
+      { "role": "Senior Staff Nurse / Ward Manager (Band 6/7)", "salary": "£37,338–£53,755", "demand": "Very High" },
+      { "role": "Advanced Clinical Practitioner / Nurse Consultant (Band 8)", "salary": "£55,690–£78,792", "demand": "High" },
+      { "role": "Practice Nurse (GP surgery)", "salary": "£32,000–£45,000", "demand": "Very High" }
+    ],
+    "topEmployers": ["NHS Trusts (acute, community, mental health)", "Private hospitals (HCA, Spire, Bupa)", "Care homes (BUPA, HC-One)", "GP practices", "Local authorities (public health, school nursing)", "Defence medical services"],
+    "employerPerspective": "Nursing graduates face the most extreme workforce shortages of any UK profession — there is essentially zero unemployment risk. Career progression is structured around the NHS Agenda for Change banding (Band 5 newly qualified → Band 6 specialist → Band 7 manager → Band 8 advanced practice). Advanced Clinical Practitioner roles (with prescribing rights) are growing rapidly and offer £60,000+ salaries with high clinical autonomy.",
+    "entryRequirements": "Typical offer: BBB–AAB at A-level. One science (Biology, Chemistry, Physics) is preferred but not always required. GCSE: Mathematics and English at grade 5/C or above. NMC requires Values-Based Recruitment — interview will explore your motivation and understanding of the role. Disclosure and Barring Service (DBS) check required.",
+    "furtherStudy": "Postgraduate diplomas in specialty areas (cardiac care, paediatric oncology, mental health practitioner roles); Independent Prescribing (V300); Master's degrees in Advanced Clinical Practice for ACP roles. Many nurses pursue MSc Public Health, MSc Nursing, or PhD for research/leadership careers.",
+    "isItForYou": [
+      "Study this if you have a deep vocation for direct patient care and want a fast route into a stable, well-paid healthcare career",
+      "Study this if you can manage shift work (nights, weekends) and the emotional/physical demands of clinical practice",
+      "Think twice if you want a purely research role or if you find it hard to maintain calm under pressure — nursing is fast-paced and emotionally demanding"
+    ]
+  },
+
+  "midwifery": {
+    "id": "midwifery",
+    "title": "Midwifery",
+    "duration": "3 years (BSc)",
+    "overview": "Midwifery is the specialist healthcare profession focused on pregnancy, childbirth and the postnatal period. The 3-year BSc programme leads to NMC registration as a midwife. The curriculum combines biological sciences (reproductive physiology, embryology, perinatal pharmacology) with clinical training (antenatal care, intrapartum care, neonatal assessment, postnatal support). Like nursing, programmes are 50% theory and 50% clinical placement, with approximately 2,300 placement hours in maternity units, community midwifery teams, and neonatal settings.",
+    "yearByYear": [
+      { "year": 1, "focus": "Foundations of midwifery", "modules": ["Reproductive Anatomy & Physiology", "Normal Pregnancy & Birth", "Communication & Cultural Competence", "First clinical placements", "Public Health"] },
+      { "year": 2, "focus": "Complex care", "modules": ["High-risk Pregnancy", "Neonatal Assessment", "Pharmacology & Therapeutics", "Mental Health in the Perinatal Period", "Extended placements"] },
+      { "year": 3, "focus": "Leadership and autonomous practice", "modules": ["Complex Obstetrics", "Caseload Management", "Research & Evidence-Based Care", "Leadership & Management", "Senior placements ('almost qualified' role"] }
+    ],
+    "skills": [
+      "Antenatal monitoring and clinical assessment",
+      "Intrapartum care — supporting normal birth and recognising complications",
+      "Neonatal resuscitation and immediate care",
+      "Postnatal mother and baby care including breastfeeding support",
+      "Public health, parent education and care planning"
+    ],
+    "professionalBodies": [
+      { "name": "Nursing and Midwifery Council (NMC)", "benefit": "NMC registration as a midwife upon graduation" },
+      { "name": "Royal College of Midwives (RCM)", "benefit": "Professional union representation, indemnity and CPD" }
+    ],
+    "careers": [
+      { "role": "Newly Qualified Midwife (NHS Band 5)", "salary": "£29,970 starting / £36,483 top of band", "demand": "Very High" },
+      { "role": "Senior Midwife / Team Leader (Band 6/7)", "salary": "£37,338–£53,755", "demand": "Very High" },
+      { "role": "Consultant Midwife (Band 8)", "salary": "£55,690–£78,792", "demand": "High" },
+      { "role": "Independent Midwife (private practice)", "salary": "Variable — typically £4,000–£8,000 per case", "demand": "Growing" }
+    ],
+    "topEmployers": ["NHS Trusts (maternity units, community)", "Private maternity hospitals (The Portland Hospital, Lindo Wing)", "Independent midwifery practices", "Charities (NCT, Tommy's)", "Local authorities (health visiting)"],
+    "employerPerspective": "The UK has chronic midwifery shortages — the RCM has reported a shortfall of 2,500+ midwives nationally. NHS employment is the dominant route, with progression through Bands 5-8. Private and independent midwifery practice is growing but requires self-employment and indemnity arrangements. Maternity is one of the most safety-critical NHS services, and midwifery is recognised as a profession where strong clinical autonomy combines with emotional and physical demands.",
+    "entryRequirements": "Typical offer: BBB–ABB at A-level. Biology preferred but not always required. GCSE: Mathematics and English at grade 5/C or above. NMC Values-Based Recruitment interview. DBS check required. Most schools require evidence of healthcare experience or volunteering.",
+    "furtherStudy": "Postgraduate diplomas (Examination of the Newborn, Independent Prescribing); MSc Midwifery; specialist roles (specialist midwife in diabetes, mental health, infant feeding).",
+    "isItForYou": [
+      "Study this if you have a strong vocation for women's health and supporting families during pregnancy and childbirth",
+      "Study this if you can balance the privilege of being with families at a defining moment with the demands of shift work and the responsibility of independent clinical judgement",
+      "Think twice if you're squeamish about bodily fluids, blood, or the unpredictability of obstetric emergencies"
+    ]
+  },
+
+  "physiotherapy": {
+    "id": "physiotherapy",
+    "title": "Physiotherapy",
+    "duration": "3 years (BSc)",
+    "overview": "Physiotherapy is the science of movement, function and rehabilitation. Physiotherapists work with patients recovering from injury, surgery, stroke, neurological conditions, and chronic pain — using exercise prescription, manual therapy, electrotherapy and patient education to restore function. The 3-year BSc is HCPC-approved (Health and Care Professions Council) and CSP-accredited (Chartered Society of Physiotherapy), leading to registration as a physiotherapist.",
+    "yearByYear": [
+      { "year": 1, "focus": "Foundations of physiotherapy", "modules": ["Anatomy & Physiology", "Movement Science", "Communication Skills", "First clinical placements", "Pathology Introduction"] },
+      { "year": 2, "focus": "Specialist practice", "modules": ["Musculoskeletal Physiotherapy", "Neurological Physiotherapy", "Cardiorespiratory Physiotherapy", "Exercise Prescription", "Extended placements"] },
+      { "year": 3, "focus": "Advanced clinical and research", "modules": ["Complex Case Management", "Research Project", "Leadership", "Sports & Workplace Physiotherapy", "Senior clinical placements"] }
+    ],
+    "skills": [
+      "Musculoskeletal assessment and manual therapy",
+      "Exercise prescription and rehabilitation planning",
+      "Neurological rehabilitation including stroke recovery",
+      "Cardiorespiratory care including ICU physiotherapy",
+      "Communication and patient education"
+    ],
+    "professionalBodies": [
+      { "name": "Health and Care Professions Council (HCPC)", "benefit": "HCPC registration upon graduation enables practice as a physiotherapist" },
+      { "name": "Chartered Society of Physiotherapy (CSP)", "benefit": "Professional accreditation, indemnity and CPD" }
+    ],
+    "careers": [
+      { "role": "Newly Qualified Physiotherapist (NHS Band 5)", "salary": "£29,970 starting / £36,483 top of band", "demand": "Very High" },
+      { "role": "Senior Physiotherapist (Band 6/7)", "salary": "£37,338–£53,755", "demand": "Very High" },
+      { "role": "Sports Physiotherapist (professional sport)", "salary": "£35,000–£100,000+ (depending on club/level)", "demand": "High" },
+      { "role": "Private Practice Physiotherapist", "salary": "£35,000–£80,000+ (depending on patient base and location)", "demand": "High" }
+    ],
+    "topEmployers": ["NHS Trusts (acute, community, mental health)", "Premier League clubs and pro sports teams", "Private clinics (Pure Sports Medicine, Bupa)", "Defence Medical Services", "Schools and educational settings"],
+    "employerPerspective": "Physiotherapy graduates are in high demand across NHS, private sport, and independent practice. NHS Band 5 rotational schemes give exposure across MSK, neuro, respiratory and outpatient settings before specialising. Sports physiotherapy is competitive — typically requires 3-5 years of NHS experience plus postgraduate qualifications before pro sport roles open up. Private practice can be highly profitable in London and major cities.",
+    "entryRequirements": "Typical offer: ABB–AAB at A-level. Biology preferred (required at some schools). GCSE: Mathematics and English at grade 5/C or above. Interview and Values-Based Recruitment required. Strong evidence of work experience (NHS, private practice or sport settings) expected.",
+    "furtherStudy": "Postgraduate qualifications in specialist areas (Manual Therapy, Neurological Rehabilitation, Cardiorespiratory). MSc routes in Sports Physiotherapy, Advanced Clinical Practice (ACP) with prescribing rights.",
+    "isItForYou": [
+      "Study this if you're interested in movement, exercise and rehabilitation, and want a healthcare career with strong autonomy",
+      "Study this if you enjoy working closely with people on a recovery journey rather than acute crisis intervention",
+      "Think twice if you're looking for primarily acute medicine — most physiotherapy is rehabilitative rather than diagnostic"
+    ]
+  },
+
+  "paramedicScience": {
+    "id": "paramedicScience",
+    "title": "Paramedic Science",
+    "duration": "3 years (BSc)",
+    "overview": "Paramedic Science is the route to becoming a registered paramedic — autonomous practitioners who provide emergency and urgent care in pre-hospital settings. The 3-year BSc combines biomedical sciences (anatomy, physiology, pharmacology) with clinical training in advanced life support, trauma care, mental health crisis response, and patient assessment. Placements with ambulance trusts dominate the curriculum from Year 1. The HCPC-approved degree leads to registration as a paramedic.",
+    "yearByYear": [
+      { "year": 1, "focus": "Foundations of pre-hospital care", "modules": ["Anatomy & Physiology", "Pre-hospital Assessment", "Basic Life Support", "First ambulance placements", "Communication"] },
+      { "year": 2, "focus": "Advanced practice", "modules": ["Advanced Life Support", "Trauma Care", "Pharmacology & Therapeutics", "Mental Health Crisis Response", "Extended placements"] },
+      { "year": 3, "focus": "Autonomous practice and leadership", "modules": ["Complex Decision Making", "Critical Care", "Research Project", "Leadership", "Senior clinical placements"] }
+    ],
+    "skills": [
+      "Pre-hospital clinical assessment and triage",
+      "Advanced Life Support (ALS) and trauma management",
+      "Cannulation, intubation, drug administration",
+      "Patient transport and inter-facility transfer",
+      "Decision-making under time pressure in unpredictable environments"
+    ],
+    "professionalBodies": [
+      { "name": "Health and Care Professions Council (HCPC)", "benefit": "HCPC registration upon graduation enables practice as a paramedic" },
+      { "name": "College of Paramedics", "benefit": "Professional representation, indemnity and CPD" }
+    ],
+    "careers": [
+      { "role": "Newly Qualified Paramedic (NHS Band 5)", "salary": "£29,970 starting / £36,483 top of band", "demand": "Very High" },
+      { "role": "Senior Paramedic / HART (Hazardous Area Response Team) (Band 6)", "salary": "£37,338–£44,962", "demand": "Very High" },
+      { "role": "Advanced Paramedic Practitioner (Band 7/8)", "salary": "£46,148–£62,682", "demand": "Very High" },
+      { "role": "Paramedic in GP Practice / Urgent Care", "salary": "£40,000–£55,000+", "demand": "High" }
+    ],
+    "topEmployers": ["NHS Ambulance Trusts (10 regional trusts)", "GP surgeries (urgent care role)", "Private ambulance services", "Air ambulance charities", "Royal Navy / Army / RAF medical services"],
+    "employerPerspective": "Paramedic graduates face zero unemployment risk — there are chronic shortages across all UK ambulance trusts. Career progression is rapid: NHS Band 5 → Band 6 specialist → Band 7 Advanced Paramedic Practitioner with prescribing rights. Many paramedics now work in GP practices and urgent care centres rather than just ambulance services. Air ambulance roles (HEMS) are highly competitive but offer exceptional clinical practice.",
+    "entryRequirements": "Typical offer: BBC–ABB at A-level. One science (Biology preferred) often required. GCSE: Mathematics and English at grade 5/C or above. Driving licence is essential — full UK Category B licence required (Category C1 will be needed after qualification). DBS check required. Strong evidence of caring/healthcare experience.",
+    "furtherStudy": "Postgraduate qualifications include Specialist Paramedic (Critical Care), Advanced Clinical Practice MSc with prescribing rights, and HEMS (Helicopter Emergency Medical Service) courses.",
+    "isItForYou": [
+      "Study this if you thrive in unpredictable, fast-paced environments and can make decisions with limited information",
+      "Study this if you want immediate clinical autonomy — paramedics treat and discharge or transport patients independently",
+      "Think twice if you prefer predictable working environments — paramedic shifts are 12-hour rotations including nights, weekends and holidays"
+    ]
+  },
+
+  "radiography": {
+    "id": "radiography",
+    "title": "Radiography",
+    "duration": "3 years (BSc)",
+    "overview": "Radiography is the use of imaging technology (X-rays, CT, MRI, ultrasound) to diagnose disease and injury, or the use of radiation to treat cancer. Programmes split into two distinct pathways: Diagnostic Radiography (imaging for diagnosis) and Therapeutic Radiography / Radiotherapy (using radiation to treat cancer). Both lead to HCPC registration and Society of Radiographers (SoR) accreditation. The 3-year BSc combines physics, anatomy and clinical placements in hospital imaging or oncology departments.",
+    "yearByYear": [
+      { "year": 1, "focus": "Foundations of radiography", "modules": ["Imaging Physics", "Anatomy & Physiology", "Patient Care", "First clinical placements", "Radiation Protection"] },
+      { "year": 2, "focus": "Modality and clinical practice", "modules": ["CT / MRI / Ultrasound (diagnostic pathway) or Linear Accelerator and Treatment Planning (therapeutic)", "Pathology", "Research Methods", "Extended placements"] },
+      { "year": 3, "focus": "Specialist practice and research", "modules": ["Advanced Imaging / Advanced Radiotherapy", "Research Project", "Leadership & Management", "Senior placements", "Preceptorship preparation"] }
+    ],
+    "skills": [
+      "Use of imaging equipment (X-ray, CT, MRI, ultrasound) for diagnostic radiography",
+      "Treatment planning and delivery for therapeutic radiography",
+      "Image interpretation and reporting",
+      "Radiation protection and safety",
+      "Patient communication and care"
+    ],
+    "professionalBodies": [
+      { "name": "Health and Care Professions Council (HCPC)", "benefit": "HCPC registration enables practice as a diagnostic or therapeutic radiographer" },
+      { "name": "Society of Radiographers (SoR)", "benefit": "Professional indemnity, CPD and accreditation" }
+    ],
+    "careers": [
+      { "role": "Newly Qualified Radiographer (NHS Band 5)", "salary": "£29,970 starting / £36,483 top of band", "demand": "Very High" },
+      { "role": "Senior Radiographer / Modality Lead (Band 6/7)", "salary": "£37,338–£53,755", "demand": "Very High" },
+      { "role": "Consultant Radiographer (Band 8)", "salary": "£55,690–£78,792", "demand": "High" },
+      { "role": "Sonographer (post-qualification specialism)", "salary": "£42,000–£60,000", "demand": "Very High" }
+    ],
+    "topEmployers": ["NHS Trusts (imaging departments)", "NHS oncology centres", "Private imaging providers (InHealth, Alliance Medical)", "Royal Navy / Army / RAF imaging units"],
+    "employerPerspective": "Radiographers (both diagnostic and therapeutic) face severe workforce shortages — diagnostic radiology has long waiting lists driven primarily by reporting capacity. NHS Band 5 graduate roles → Band 6 specialism (e.g. MRI, sonography) → Band 7 advanced practice (often with reporting rights) → Band 8 consultant radiographer roles with significant clinical autonomy.",
+    "entryRequirements": "Typical offer: BBB–BCC at A-level. One science (Physics, Biology, Chemistry or Maths) required at most schools. GCSE: Mathematics and English at grade 5/C or above. Interview and DBS check required.",
+    "furtherStudy": "Postgraduate qualifications in specialist modalities (Sonography, Cardiac MRI, Image Interpretation/Reporting). MSc Advanced Clinical Practice. PhD routes for research careers.",
+    "isItForYou": [
+      "Study this if you enjoy applying physics to healthcare and have an interest in imaging or oncology",
+      "Study this if you want a healthcare career with strong technical content and clear specialist progression",
+      "Think twice if you prefer extensive patient relationships — radiography patient contact is often brief and procedure-focused"
+    ]
+  },
+
+  "occupationalTherapy": {
+    "id": "occupationalTherapy",
+    "title": "Occupational Therapy",
+    "duration": "3 years (BSc)",
+    "overview": "Occupational Therapy (OT) helps people of all ages overcome the physical, cognitive or mental health barriers that prevent them doing the daily activities — 'occupations' — that matter to them. OTs work in NHS hospitals, community settings, schools, mental health services and learning disability services. The 3-year BSc is HCPC-approved and RCOT-accredited (Royal College of Occupational Therapists), with substantial clinical placement hours.",
+    "yearByYear": [
+      { "year": 1, "focus": "Foundations of OT", "modules": ["Anatomy & Physiology", "Theory of Occupation", "Communication & Therapy Relationship", "First placements", "Disability Studies"] },
+      { "year": 2, "focus": "Specialist practice", "modules": ["Physical Rehabilitation", "Mental Health Practice", "Paediatric OT", "Older People's Practice", "Extended placements"] },
+      { "year": 3, "focus": "Advanced practice and leadership", "modules": ["Complex Case Management", "Research Project", "Leadership", "Innovation in OT", "Senior placements"] }
+    ],
+    "skills": [
+      "Assessment of physical, cognitive and mental functioning",
+      "Occupational analysis and therapy planning",
+      "Adaptation of environments and assistive equipment",
+      "Communication with patients, families and multidisciplinary teams",
+      "Critical thinking and reflective practice"
+    ],
+    "professionalBodies": [
+      { "name": "Health and Care Professions Council (HCPC)", "benefit": "HCPC registration enables practice as an occupational therapist" },
+      { "name": "Royal College of Occupational Therapists (RCOT)", "benefit": "Professional indemnity, CPD and specialist sections" }
+    ],
+    "careers": [
+      { "role": "Newly Qualified OT (NHS Band 5)", "salary": "£29,970 starting / £36,483 top of band", "demand": "Very High" },
+      { "role": "Senior OT / Clinical Specialist (Band 6/7)", "salary": "£37,338–£53,755", "demand": "Very High" },
+      { "role": "Consultant OT / Advanced Practice (Band 8)", "salary": "£55,690–£78,792", "demand": "High" },
+      { "role": "OT in Schools / Social Services", "salary": "£35,000–£50,000", "demand": "High" }
+    ],
+    "topEmployers": ["NHS Trusts", "Local Authorities (social services)", "Schools (paediatric OT)", "Private practice (often part-time or self-employed)", "Charities and third sector"],
+    "employerPerspective": "Occupational Therapists have one of the broadest job markets in healthcare — NHS, local authorities, schools, charities, and private practice. OT is recognised as a high-job-satisfaction profession, with strong opportunities for flexible working (part-time, self-employed). Band 5 → Band 7 progression typically takes 5-8 years.",
+    "entryRequirements": "Typical offer: BBB–AAB at A-level. No specific subjects required at most schools, though Biology or Psychology helpful. GCSE: Mathematics and English at grade 5/C or above. Interview required.",
+    "furtherStudy": "Postgraduate specialism (paediatric OT, mental health, hand therapy). MSc Advanced Clinical Practice or specific clinical specialisms.",
+    "isItForYou": [
+      "Study this if you're drawn to a holistic approach combining physical, cognitive and mental health perspectives",
+      "Study this if you enjoy creative problem-solving and want to help people regain meaningful daily activities",
+      "Think twice if you want acute medicine — OT is rehabilitative and often slow-progress work"
+    ]
+  },
+
+  "dietetics": {
+    "id": "dietetics",
+    "title": "Nutrition & Dietetics",
+    "duration": "4 years (BSc with placement)",
+    "overview": "Dietitians are the only nutrition professionals statutorily regulated in the UK — registered with the HCPC. They translate nutritional science into practical advice for patients with medical conditions (diabetes, kidney disease, eating disorders, gastrointestinal disease, cancer). The 4-year BSc combines biomedical sciences with nutrition theory and includes substantial clinical placement hours in NHS hospital and community settings.",
+    "yearByYear": [
+      { "year": 1, "focus": "Foundations of nutrition science", "modules": ["Biochemistry & Physiology", "Nutritional Science", "Food Science", "Communication", "Public Health"] },
+      { "year": 2, "focus": "Clinical dietetics", "modules": ["Clinical Nutrition", "Pharmacology", "Pathology", "Counselling Skills", "First placements"] },
+      { "year": 3, "focus": "Placement year", "modules": ["28 weeks of clinical placement", "Hospital and community settings", "Patient case management", "Research Project"] },
+      { "year": 4, "focus": "Advanced clinical practice", "modules": ["Advanced Clinical Nutrition", "Leadership", "Final dissertation", "Senior clinical placements"] }
+    ],
+    "skills": [
+      "Nutritional assessment and clinical reasoning",
+      "Therapeutic diet planning for complex medical conditions",
+      "Behaviour change counselling and motivational interviewing",
+      "Public health nutrition and population-level interventions",
+      "Critical appraisal of nutritional evidence"
+    ],
+    "professionalBodies": [
+      { "name": "Health and Care Professions Council (HCPC)", "benefit": "HCPC registration is the legal protected title for dietitians (nutritionists are not statutorily regulated)" },
+      { "name": "British Dietetic Association (BDA)", "benefit": "Professional indemnity, CPD and specialist groups (paediatric, sports, oncology etc.)" }
+    ],
+    "careers": [
+      { "role": "Newly Qualified Dietitian (NHS Band 5)", "salary": "£29,970 starting / £36,483 top of band", "demand": "Very High" },
+      { "role": "Senior Dietitian / Team Lead (Band 6/7)", "salary": "£37,338–£53,755", "demand": "Very High" },
+      { "role": "Consultant Dietitian (Band 8)", "salary": "£55,690–£78,792", "demand": "High" },
+      { "role": "Sports / Performance Dietitian (elite sport)", "salary": "£40,000–£100,000+ in pro sport", "demand": "Growing" }
+    ],
+    "topEmployers": ["NHS Trusts", "Premier League clubs and Team GB", "Food industry (Nestle, Sainsbury's, M&S)", "Independent practice", "Public Health England / OHID"],
+    "employerPerspective": "Dietitians are highly employable — NHS demand is steady, sports nutrition is growing, and food industry roles are well-paid. Many move into freelance or media roles after gaining NHS experience. The BDA membership and HCPC protected title give dietitians a strong professional standing relative to non-regulated nutritionists.",
+    "entryRequirements": "Typical offer: AAB–BBB at A-level including Chemistry plus Biology (essential at most schools). GCSE: Mathematics and English at grade 5/C or above. Interview required.",
+    "furtherStudy": "Postgraduate diplomas in specialism (Paediatric Dietetics, Renal, Diabetes, Sports Nutrition). MSc routes in Public Health Nutrition or Advanced Clinical Practice.",
+    "isItForYou": [
+      "Study this if you're passionate about the science of nutrition and want to translate it into individual patient care",
+      "Study this if you can combine scientific rigour with strong communication and behaviour-change skills",
+      "Think twice if you want unregulated 'nutritionist' roles in media/wellness — those don't require dietetics training and have very different career paths"
+    ]
+  }
+}

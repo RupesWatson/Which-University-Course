@@ -6,6 +6,7 @@ import biochemDetails       from '../data/biochemistry/university-details.json';
 import humanitiesDetails    from '../data/humanities/university-details.json';
 import socialDetails        from '../data/socialsciences/university-details.json';
 import computerScienceDetails from '../data/computer-science/university-details.json';
+import medicineDetails        from '../data/medicine/university-details.json';
 
 const DETAILS = {
   finance:        financeDetails,
@@ -16,6 +17,7 @@ const DETAILS = {
   humanities:     humanitiesDetails,
   socialsciences: socialDetails,
   computerScience: computerScienceDetails,
+  medicine:       medicineDetails,
 };
 
 function findBySlug(data, slug) {

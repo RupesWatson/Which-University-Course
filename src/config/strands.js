@@ -6,6 +6,7 @@ import { COURSES as engineeringCourses } from '../data/engineering/courses';
 import { COURSES as humanitiesCourses } from '../data/humanities/courses';
 import { COURSES as socialSciencesCourses } from '../data/socialsciences/courses';
 import { COURSES as computerScienceCourses } from '../data/computer-science/courses';
+import { COURSES as medicineCourses } from '../data/medicine/courses';
 
 export const STRANDS = {
   biochemistry: {
@@ -151,6 +152,28 @@ export const STRANDS = {
       { label: 'Applied & Specialist', ids: ['gamesDev', 'computerSystems', 'hci'] },
     ],
     courses: computerScienceCourses,
+  },
+  medicine: {
+    id: 'medicine',
+    label: 'Medicine & Healthcare',
+    tagline: 'UCAS 2026 verified medicine, dentistry, veterinary and allied health degrees',
+    headerEyebrow: 'UCAS 2026 Course Audit',
+    headerTitleStart: 'UK University Medicine & ',
+    headerTitleAccent: 'Healthcare Comparison',
+    headerSubtitle:
+      'Compare verified 2026 undergraduate course matches across Russell Group and other top UK universities. ' +
+      'Course titles sourced from UCAS 2026 and rankings from the Complete University Guide 2026.',
+    footerNote:
+      'Exact course titles and availability verified against UCAS 2026. Medicine, Dentistry, Veterinary Medicine, Nursing and Pharmacy use ' +
+      'CUG 2026 subject rankings; all other course tables show table position within the verified comparison set. ' +
+      'Always confirm entry tests (UCAT, GAMSAT, BMAT-equivalent) on the university website.',
+    courseGroups: [
+      { label: 'Doctor Routes', ids: ['medicine', 'graduateMedicine'] },
+      { label: 'Dental, Veterinary & Pharmacy', ids: ['dentistry', 'veterinary', 'pharmacy'] },
+      { label: 'Nursing & Midwifery', ids: ['nursing', 'midwifery'] },
+      { label: 'Allied Health Professions', ids: ['physiotherapy', 'paramedicScience', 'radiography', 'occupationalTherapy', 'dietetics'] },
+    ],
+    courses: medicineCourses,
   },
   socialsciences: {
     id: 'socialsciences',
