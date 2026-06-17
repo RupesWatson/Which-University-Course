@@ -176,7 +176,7 @@ export default function UniversityPage() {
   const { strand: strandId, slug } = useParams();
   const navigate = useNavigate();
   const strand = getStrand(strandId);
-  const { uni, loading, error } = useUniversityDetail(slug);
+  const { uni, loading, error } = useUniversityDetail(slug, strandId);
 
   if (!strand) {
     return <Navigate to="/" replace />;
