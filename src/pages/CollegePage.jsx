@@ -6,8 +6,8 @@ import BudgetCalculator from '../components/BudgetCalculator';
 
 function Section({ title, children }) {
   return (
-    <div className="mb-5 rounded-xl border border-blue-900/40 bg-[#0a1f3a]/40 p-6">
-      <h2 className="mb-4 border-b border-blue-900/40 pb-3 font-display text-xl font-semibold text-white">
+    <div className="mb-5 rounded-xl border border-blue-900/40 bg-[#0a1f3a]/40 p-4 sm:p-6">
+      <h2 className="mb-4 border-b border-blue-900/40 pb-3 font-display text-lg sm:text-xl font-semibold text-white">
         {title}
       </h2>
       {children}
@@ -112,7 +112,7 @@ export default function CollegePage() {
 
   return (
     <div className="min-h-screen" style={{ background: 'linear-gradient(180deg, #050e1f 0%, #061428 100%)' }}>
-      <div className="mx-auto max-w-screen-xl px-4 py-8 sm:px-6 lg:px-8">
+      <div className="mx-auto max-w-screen-xl px-4 py-6 sm:px-6 sm:py-8 lg:px-8">
 
         <button
           onClick={() => navigate(-1)}
@@ -147,7 +147,7 @@ export default function CollegePage() {
             )}
           </div>
 
-          <h1 className="mb-2 font-display text-3xl font-bold text-white md:text-4xl">
+          <h1 className="mb-2 font-display text-2xl sm:text-3xl md:text-4xl font-bold text-white leading-tight">
             {college.name}
           </h1>
           <p className="text-sm font-medium text-blue-300/70">

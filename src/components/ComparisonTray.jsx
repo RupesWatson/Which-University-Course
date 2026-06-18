@@ -70,12 +70,12 @@ export default function ComparisonTray({ unis, onClose }) {
           {/* University names header */}
           <div
             className="sticky top-0 z-10 grid border-b border-blue-900/40 bg-[#061428]"
-            style={{ gridTemplateColumns: `140px repeat(${unis.length}, 1fr)` }}
+            style={{ gridTemplateColumns: `clamp(80px, 22vw, 140px) repeat(${unis.length}, minmax(0, 1fr))` }}
           >
-            <div className="px-4 py-3" />
+            <div className="px-3 py-3 sm:px-4" />
             {unis.map(u => (
-              <div key={u.name} className="border-l border-blue-900/30 px-4 py-3">
-                <div className="text-sm font-semibold leading-tight text-slate-100">{u.name}</div>
+              <div key={u.name} className="min-w-0 border-l border-blue-900/30 px-2.5 py-3 sm:px-4">
+                <div className="break-words text-xs font-semibold leading-tight text-slate-100 sm:text-sm">{u.name}</div>
                 {u.courseName && (
                   <div className="mt-0.5 truncate text-[10px] text-slate-500">{u.courseName}</div>
                 )}
@@ -88,13 +88,13 @@ export default function ComparisonTray({ unis, onClose }) {
             <div
               key={label}
               className={`grid border-b border-blue-900/20 ${fi % 2 === 0 ? 'bg-[#050e1f]' : 'bg-[#07152a]'}`}
-              style={{ gridTemplateColumns: `140px repeat(${unis.length}, 1fr)` }}
+              style={{ gridTemplateColumns: `clamp(80px, 22vw, 140px) repeat(${unis.length}, minmax(0, 1fr))` }}
             >
-              <div className="flex items-center px-4 py-3 text-[10px] font-semibold uppercase tracking-widest text-blue-400/60">
+              <div className="flex items-center px-3 py-3 text-[9px] font-semibold uppercase tracking-widest text-blue-400/60 sm:px-4 sm:text-[10px]">
                 {label}
               </div>
               {unis.map(u => (
-                <div key={u.name} className="flex items-center border-l border-blue-900/20 px-4 py-3 text-sm text-slate-200">
+                <div key={u.name} className="flex min-w-0 items-center break-words border-l border-blue-900/20 px-2.5 py-3 text-xs text-slate-200 sm:px-4 sm:text-sm">
                   {render(u)}
                 </div>
               ))}

@@ -127,7 +127,7 @@ export default function BudgetCalculator({ uni, college }) {
         ))}
       </div>
 
-      <div className="flex gap-6">
+      <div className="flex flex-col gap-6 sm:flex-row">
         {/* Sliders */}
         <div className="min-w-0 flex-1">
           <div className="mb-3 text-[10px] font-semibold uppercase tracking-widest text-blue-400/60">

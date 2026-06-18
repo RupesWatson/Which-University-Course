@@ -39,7 +39,7 @@ export default function CollegesPage() {
 
   return (
     <div className="min-h-screen" style={{ background: 'linear-gradient(180deg, #050e1f 0%, #061428 100%)' }}>
-      <div className="mx-auto max-w-screen-xl px-4 py-10 sm:px-6 lg:px-8">
+      <div className="mx-auto max-w-screen-xl px-4 py-6 sm:px-6 sm:py-10 lg:px-8">
 
         <div className="mb-4">
           <Link
@@ -58,7 +58,7 @@ export default function CollegesPage() {
             </span>
             <div className="h-px flex-1 bg-gradient-to-l from-transparent to-blue-800/40" />
           </div>
-          <h1 className="mb-2 text-center font-display text-3xl font-bold text-white md:text-4xl">
+          <h1 className="mb-2 text-center font-display text-2xl sm:text-3xl md:text-4xl font-bold text-white leading-tight">
             {universityName}
           </h1>
           {course && (

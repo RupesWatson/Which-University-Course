@@ -6,8 +6,8 @@ import BudgetCalculator from '../components/BudgetCalculator';
 
 function Section({ title, children }) {
   return (
-    <div className="rounded-xl border border-blue-900/40 bg-[#0a1f3a]/40 p-6 mb-5">
-      <h2 className="font-display text-xl font-semibold text-white mb-4 pb-3 border-b border-blue-900/40">{title}</h2>
+    <div className="rounded-xl border border-blue-900/40 bg-[#0a1f3a]/40 p-4 sm:p-6 mb-5">
+      <h2 className="font-display text-lg sm:text-xl font-semibold text-white mb-4 pb-3 border-b border-blue-900/40">{title}</h2>
       {children}
     </div>
   );
@@ -205,7 +205,7 @@ export default function UniversityPage() {
 
   return (
     <div className="min-h-screen" style={{ background: 'linear-gradient(180deg, #050e1f 0%, #061428 100%)' }}>
-      <div className="max-w-screen-xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+      <div className="max-w-screen-xl mx-auto px-4 sm:px-6 lg:px-8 py-6 sm:py-8">
 
         {/* Nav */}
         <button onClick={() => navigate(-1)} className="inline-flex items-center gap-2 text-sm text-blue-400 hover:text-blue-300 transition-colors mb-6">
@@ -227,7 +227,7 @@ export default function UniversityPage() {
                   <span className="px-2.5 py-1 rounded text-[11px] font-semibold tracking-wide border bg-amber-900/40 border-amber-700/40 text-amber-300">Russell Group</span>
                 )}
               </div>
-              <h1 className="font-display text-3xl md:text-4xl font-bold text-white mb-1">{uni.name}</h1>
+              <h1 className="font-display text-2xl sm:text-3xl md:text-4xl font-bold text-white mb-1 leading-tight">{uni.name}</h1>
               <p className="text-blue-300/70 text-sm font-medium">{uni.city}</p>
             </div>
           </div>

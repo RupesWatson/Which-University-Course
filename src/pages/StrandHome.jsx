@@ -78,7 +78,7 @@ export default function StrandHome() {
 
   return (
     <div className="min-h-screen" style={{ background: 'linear-gradient(180deg, #050e1f 0%, #061428 100%)' }}>
-      <div className="mx-auto max-w-screen-xl px-4 py-10 sm:px-6 lg:px-8">
+      <div className="mx-auto max-w-screen-xl px-4 py-6 sm:px-6 sm:py-10 lg:px-8">
         <div className="mb-4">
           <Link
             to="/"
@@ -88,7 +88,7 @@ export default function StrandHome() {
           </Link>
         </div>
 
-        <header className="mb-10">
+        <header className="mb-6 sm:mb-10">
           <div className="mb-3 flex items-center gap-3">
             <div className="h-px flex-1 bg-gradient-to-r from-transparent to-blue-800/40" />
             <span className="text-[10px] font-semibold uppercase tracking-[0.2em] text-blue-400/60">
@@ -96,7 +96,7 @@ export default function StrandHome() {
             </span>
             <div className="h-px flex-1 bg-gradient-to-l from-transparent to-blue-800/40" />
           </div>
-          <h1 className="mb-3 text-center font-display text-3xl font-bold leading-tight text-white md:text-4xl lg:text-5xl">
+          <h1 className="mb-3 text-center font-display text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold leading-tight text-white">
             {strand.headerTitleStart}
             <span
               className="bg-clip-text text-transparent"
@@ -190,12 +190,12 @@ export default function StrandHome() {
 
         {/* Floating comparison bar */}
         {selectedUnis.length > 0 && !showComparison && (
-          <div className="fixed bottom-6 left-1/2 z-30 -translate-x-1/2">
-            <div className="flex items-center gap-3 rounded-full border border-blue-700/60 bg-[#061428] px-5 py-3 shadow-2xl shadow-blue-900/40">
-              <span className="text-sm font-medium text-slate-300">
+          <div className="fixed inset-x-4 bottom-4 z-30 sm:inset-x-auto sm:bottom-6 sm:left-1/2 sm:-translate-x-1/2">
+            <div className="flex items-center gap-2 rounded-full border border-blue-700/60 bg-[#061428] px-3 py-2.5 shadow-2xl shadow-blue-900/40 sm:gap-3 sm:px-5 sm:py-3">
+              <span className="flex-shrink-0 text-xs font-medium text-slate-300 sm:text-sm">
                 {selectedUnis.length} selected
               </span>
-              <div className="flex gap-1.5">
+              <div className="hidden flex-1 gap-1.5 sm:flex">
                 {selectedUnis.map(u => (
                   <span key={u.name} className="max-w-[120px] truncate rounded-full border border-blue-800/60 bg-blue-900/40 px-2.5 py-0.5 text-xs text-blue-300">
                     {u.name}
@@ -204,13 +204,13 @@ export default function StrandHome() {
               </div>
               <button
                 onClick={() => setShowComparison(true)}
-                className="rounded-full bg-blue-600 px-4 py-1.5 text-xs font-semibold text-white transition-colors hover:bg-blue-500"
+                className="ml-auto flex-shrink-0 rounded-full bg-blue-600 px-3 py-1.5 text-xs font-semibold text-white transition-colors hover:bg-blue-500 sm:ml-0 sm:px-4"
               >
                 Compare →
               </button>
               <button
                 onClick={() => setSelectedUnis([])}
-                className="text-xs text-slate-500 transition-colors hover:text-slate-300"
+                className="flex-shrink-0 px-1 text-base text-slate-500 transition-colors hover:text-slate-300 sm:text-xs"
                 aria-label="Clear selection"
               >
                 ✕

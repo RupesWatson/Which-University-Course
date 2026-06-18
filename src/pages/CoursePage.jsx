@@ -4,8 +4,8 @@ import { useCourseDetail } from '../hooks/useCourseDetail';
 
 function Section({ title, children }) {
   return (
-    <div className="mb-5 rounded-xl border border-blue-900/40 bg-[#0a1f3a]/40 p-6">
-      <h2 className="mb-4 border-b border-blue-900/40 pb-3 font-display text-xl font-semibold text-white">{title}</h2>
+    <div className="mb-5 rounded-xl border border-blue-900/40 bg-[#0a1f3a]/40 p-4 sm:p-6">
+      <h2 className="mb-4 border-b border-blue-900/40 pb-3 font-display text-lg sm:text-xl font-semibold text-white">{title}</h2>
       {children}
     </div>
   );
@@ -68,7 +68,7 @@ export default function CoursePage() {
 
   return (
     <div className="min-h-screen" style={{ background: 'linear-gradient(180deg, #050e1f 0%, #061428 100%)' }}>
-      <div className="mx-auto max-w-screen-lg px-4 py-8 sm:px-6 lg:px-8">
+      <div className="mx-auto max-w-screen-lg px-4 py-6 sm:px-6 sm:py-8 lg:px-8">
         <button onClick={() => navigate(-1)} className="mb-6 inline-flex items-center gap-2 text-sm text-blue-400 transition-colors hover:text-blue-300">
           <span>←</span> Back to comparison
         </button>
@@ -78,7 +78,7 @@ export default function CoursePage() {
             <Pill text={course.duration} color="blue" />
             {courseMeta?.description && <Pill text={courseMeta.description} color="indigo" />}
           </div>
-          <h1 className="mb-3 font-display text-3xl font-bold text-white md:text-4xl">{course.title}</h1>
+          <h1 className="mb-3 font-display text-2xl sm:text-3xl md:text-4xl font-bold text-white leading-tight">{course.title}</h1>
           <p className="max-w-2xl text-sm leading-relaxed text-slate-400">{course.overview}</p>
         </div>
 
@@ -161,11 +161,13 @@ export default function CoursePage() {
           <Section title="Professional Accreditations & Exemptions">
             <div className="space-y-3">
               {course.professionalBodies.map(body => (
-                <div key={body.name} className="flex items-start gap-4 rounded-lg border border-blue-900/30 bg-[#050e1f]/60 p-3">
-                  <div className="flex-shrink-0">
-                    <Pill text={body.name} color="purple" />
+                <div key={body.name} className="flex flex-col gap-2 rounded-lg border border-blue-900/30 bg-[#050e1f]/60 p-3 sm:flex-row sm:items-start sm:gap-4">
+                  <div className="min-w-0 sm:max-w-[40%] sm:flex-shrink-0">
+                    <span className="inline-block max-w-full break-words rounded-md border border-purple-700/40 bg-purple-900/40 px-2.5 py-1.5 text-xs font-medium text-purple-300">
+                      {body.name}
+                    </span>
                   </div>
-                  <div className="text-sm text-slate-300">{body.benefit}</div>
+                  <div className="min-w-0 text-sm text-slate-300">{body.benefit}</div>
                 </div>
               ))}
             </div>

@@ -141,10 +141,96 @@ export default function Table({ universities, course, strandId, gradeType = 'aLe
     );
   }
 
+  const sortedSubjectLabel = (course?.rankLabel || 'Subject').replace(' Position', '').replace(' Rank', '');
+
   return (
-    <div className="overflow-hidden rounded-xl border border-blue-900/40">
-      <div className="overflow-x-auto">
-        <table className="w-full border-collapse text-sm">
+    <>
+      {/* Mobile card view (< md) */}
+      <div className="md:hidden space-y-3">
+        {sorted.map(uni => {
+          const slug = toSlug(uni.name);
+          const isSelected = selectedList.has(uni.name);
+          const fitTier = getMatchTier(studentScore, uni[gKey], gradeType);
+          const isOxbridge = (slug === 'oxford' || slug === 'cambridge') && oxbridgeSubjectFor(slug, course?.id);
+          return (
+            <div
+              key={uni.name}
+              className={`rounded-xl border bg-[#0a1f3a]/60 p-4 transition-colors ${
+                isSelected ? 'border-blue-500/60 ring-1 ring-blue-500/30' : 'border-blue-900/30'
+              }`}
+            >
+              <div className="flex items-start gap-3">
+                <input
+                  type="checkbox"
+                  aria-label={`Compare ${uni.name}`}
+                  checked={isSelected}
+                  onChange={() => onSelectToggle(uni)}
+                  disabled={!isSelected && selectedList.size >= 3}
+                  className="mt-1 h-4 w-4 flex-shrink-0 cursor-pointer accent-blue-500 disabled:cursor-not-allowed disabled:opacity-30"
+                />
+                <div className="min-w-0 flex-1">
+                  <h3 className="text-sm font-semibold leading-tight text-slate-100">{uni.name}</h3>
+                  <div className="mt-1.5 flex flex-wrap items-center gap-x-3 gap-y-1">
+                    {tierBadge(uni.tier)}
+                    {uni.overallRank != null && (
+                      <span className="text-[10px] text-slate-500">UK <span className="font-mono text-slate-300">#{uni.overallRank}</span></span>
+                    )}
+                    {uni.subjectRank != null && (
+                      <span className="text-[10px] text-slate-500">{sortedSubjectLabel} <span className="font-mono text-blue-300">#{uni.subjectRank}</span></span>
+                    )}
+                  </div>
+                </div>
+              </div>
+
+              <div className="mt-3 grid grid-cols-2 gap-3">
+                <div>
+                  <div className="mb-1 text-[9px] font-semibold uppercase tracking-widest text-blue-400/60">Entry</div>
+                  <GradeBadge grade={uni[gKey]} />
+                  <FitBadge tier={fitTier} />
+                </div>
+                <div>
+                  <div className="mb-1 text-[9px] font-semibold uppercase tracking-widest text-blue-400/60">Grad Prospects</div>
+                  <span className="text-sm font-semibold text-blue-200">{uni.gradProspects}</span>
+                </div>
+              </div>
+
+              {uni.courseName && (
+                <div className="mt-3">
+                  <div className="mb-1 text-[9px] font-semibold uppercase tracking-widest text-blue-400/60">Verified Course</div>
+                  {courseLink(uni)}
+                </div>
+              )}
+
+              <div className="mt-3 flex flex-wrap gap-2">
+                <Link
+                  to={`/${strandId}/university/${slug}`}
+                  className="inline-flex flex-1 items-center justify-center gap-1 rounded-md border border-blue-600/30 bg-blue-600/15 px-3 py-2 text-xs font-semibold text-blue-400"
+                >
+                  More info →
+                </Link>
+                {isOxbridge && (
+                  <Link
+                    to={`/${strandId}/university/${slug}/colleges?course=${course?.id}`}
+                    className="inline-flex flex-1 items-center justify-center gap-1 rounded-md border border-amber-600/30 bg-amber-600/15 px-3 py-2 text-xs font-semibold text-amber-400"
+                  >
+                    Colleges →
+                  </Link>
+                )}
+              </div>
+            </div>
+          );
+        })}
+        {sorted.length === 0 && (
+          <div className="rounded-xl border border-blue-900/40 py-12 text-center text-sm text-slate-500">
+            No verified UCAS 2026 undergraduate matches.
+          </div>
+        )}
+      </div>
+
+      {/* Desktop table view (≥ md) */}
+      <div className="hidden overflow-hidden rounded-xl border border-blue-900/40 md:block">
+        <div className="overflow-x-auto">
+          <table className="w-full border-collapse text-sm">
           <thead>
             <tr className="border-b border-blue-900/50 bg-[#0a1f3a]">
               <th className="w-10 px-3 py-3 text-center text-[11px] font-semibold uppercase tracking-wider text-blue-300/80">
@@ -239,7 +325,8 @@ export default function Table({ universities, course, strandId, gradeType = 'aLe
             )}
           </tbody>
         </table>
+        </div>
       </div>
-    </div>
+    </>
   );
 }
