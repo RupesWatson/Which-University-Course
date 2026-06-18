@@ -1,0 +1,407 @@
+{
+  "biology": {
+    "id": "biology",
+    "title": "Biology",
+    "duration": "3 years (BSc) / 4 years (MBiol or with placement)",
+    "overview": "Biology covers the science of all living things — from molecules and cells through whole organisms to ecosystems and evolutionary change. UK Biology BSc programmes are typically broad in Years 1–2 (covering cell biology, genetics, evolution, physiology, ecology), then narrow in Year 3 to a specialism (e.g. molecular biology, ecology, animal behaviour, plant science, microbiology). Most courses include compulsory field work; many include an optional placement year or year abroad.",
+    "yearByYear": [
+      { "year": 1, "focus": "Foundations of life sciences", "modules": ["Cell Biology", "Genetics & Evolution", "Animal & Plant Physiology", "Ecology Introduction", "Practical Skills (Lab + Field)"] },
+      { "year": 2, "focus": "Core biology", "modules": ["Molecular Biology", "Developmental Biology", "Microbiology", "Ecology & Behaviour", "Statistics for Biologists"] },
+      { "year": 3, "focus": "Specialism + research project", "modules": ["Optional modules (Conservation, Genomics, Plant Sciences, Neuroscience etc.)", "Independent Research Project", "Critical analysis of literature"] },
+      { "year": 4, "focus": "Masters year (MBiol)", "modules": ["Advanced research project", "Specialist optional modules", "Research methods training"] }
+    ],
+    "skills": [
+      "Experimental design and statistical analysis",
+      "Wet-lab techniques (PCR, microscopy, dissection, microbiology)",
+      "Field-work and ecological sampling",
+      "Bioinformatics and data analysis",
+      "Scientific writing and communication"
+    ],
+    "professionalBodies": [
+      { "name": "Royal Society of Biology (RSB)", "benefit": "RSB-accredited programmes lead to Associate Membership (AMRSB) and chartered status (CBiol) with experience" }
+    ],
+    "careers": [
+      { "role": "Research Scientist (academia/industry)", "salary": "£25,000–£35,000 starting / £40,000–£60,000 senior", "demand": "High" },
+      { "role": "Conservation/Ecology Officer", "salary": "£22,000–£28,000 starting / £35,000–£50,000 senior", "demand": "High" },
+      { "role": "Biotech R&D Scientist", "salary": "£28,000–£36,000 starting / £45,000–£70,000 senior", "demand": "Very High" },
+      { "role": "Science Teacher / Comms / Policy", "salary": "£28,000–£32,000 starting / £40,000–£55,000 senior", "demand": "High" }
+    ],
+    "topEmployers": ["GSK", "AstraZeneca", "Wellcome Trust", "Natural England", "RSPB", "Cancer Research UK", "MRC", "Defra"],
+    "employerPerspective": "Biology graduates are the bedrock of the UK life sciences economy (R&D pharma, biotech, conservation NGOs, environmental consultancy). Strong demand from pharma R&D and the growing UK biotech cluster. Conservation careers are competitive but expanding via NERC and Defra. PhD is the usual entry to academic research.",
+    "entryRequirements": "Typical offer: AAA–AAB at A-level including Biology, plus one of Chemistry, Maths or Physics. GCSE: Maths and English at grade 6/B or above. Some universities prefer Chemistry as the second subject. Strong evidence of independent reading or work experience expected.",
+    "furtherStudy": "MSc Conservation Biology, MSc Bioinformatics, MSc Molecular Biology. PhD routes via UKRI DTPs are the standard path to research careers.",
+    "isItForYou": [
+      "Study this if you're fascinated by how living things work, from cells to ecosystems",
+      "Study this if you enjoy lab work, field work, and the slow patient process of scientific discovery",
+      "Think twice if you don't enjoy chemistry — a lot of biology at degree level is biochemistry; or if you want a fast-track to high salaries (life-sciences pay scales slower than software)"
+    ]
+  },
+  "zoology": {
+    "id": "zoology",
+    "title": "Zoology",
+    "duration": "3 years (BSc) / 4 years (MSci or with placement)",
+    "overview": "Zoology is the study of animal life — anatomy, physiology, evolution, behaviour and conservation across vertebrate and invertebrate taxa. UK Zoology degrees emphasise field-work (often including expeditions to South Africa, Madagascar, Borneo or Costa Rica) and laboratory skills, with Year 3 specialism options ranging from primatology and marine mammals to entomology and behavioural ecology.",
+    "yearByYear": [
+      { "year": 1, "focus": "Animal kingdom basics", "modules": ["Animal Diversity", "Cell & Molecular Biology", "Evolution & Genetics", "Ecology", "Field Skills"] },
+      { "year": 2, "focus": "Vertebrate & invertebrate biology", "modules": ["Vertebrate Zoology", "Invertebrate Zoology", "Animal Behaviour", "Conservation Genetics", "Statistics"] },
+      { "year": 3, "focus": "Specialism + dissertation", "modules": ["Optional modules (Primatology, Marine Mammals, Entomology etc.)", "Field Course (often overseas)", "Research Dissertation"] }
+    ],
+    "skills": [
+      "Field identification of UK and tropical species",
+      "Animal handling and ethical research design",
+      "Quantitative behavioural observation methods",
+      "Phylogenetics and conservation genetics",
+      "GIS and spatial analysis"
+    ],
+    "professionalBodies": [
+      { "name": "Royal Society of Biology", "benefit": "Accredited courses → AMRSB / CBiol status" },
+      { "name": "British Ecological Society", "benefit": "Student membership; conferences and grants" }
+    ],
+    "careers": [
+      { "role": "Conservation Officer (NGO/government)", "salary": "£22,000–£28,000 / £35,000–£50,000", "demand": "High" },
+      { "role": "Zoo / Wildlife Park Keeper", "salary": "£20,000–£25,000 / £30,000–£40,000", "demand": "Moderate" },
+      { "role": "Environmental Consultancy", "salary": "£25,000–£32,000 / £40,000–£60,000", "demand": "High" },
+      { "role": "Research Scientist (PhD route)", "salary": "PhD stipend ~£19,000 / £40,000+ as fellow", "demand": "High" }
+    ],
+    "topEmployers": ["RSPB", "Wildlife Trusts", "WWT", "Natural England", "Cefas", "Whipsnade/ZSL", "Environmental consultancies"],
+    "employerPerspective": "Most zoology graduates enter conservation, ecological consultancy or further study. Field experience and volunteering hours are critical for the conservation route — placements and overseas field courses materially help.",
+    "entryRequirements": "Typical offer: AAA–AAB including Biology plus one more science. GCSE: Maths and English at 6/B or above.",
+    "furtherStudy": "MSc Conservation Biology, MSc Animal Behaviour, MSc Primate Behaviour. PhD routes for academic careers.",
+    "isItForYou": [
+      "Study this if your passion is animals and you want serious field-work alongside academic study",
+      "Study this if you can balance the rewards with the modest salary trajectory of conservation careers",
+      "Think twice if you specifically want to be a vet — you'd want Veterinary Medicine, not Zoology"
+    ]
+  },
+  "marineBiology": {
+    "id": "marineBiology",
+    "title": "Marine Biology",
+    "duration": "3 years (BSc) / 4 years (MMarBiol)",
+    "overview": "Marine Biology studies life in the ocean — from plankton and coral reefs to whales and deep-sea ecosystems. UK Marine Biology degrees are concentrated at coastal universities (Plymouth, Bangor, St Andrews, Newcastle, Southampton) with on-site research vessels and marine laboratories. Programmes typically include SCUBA training, marine field-courses (often the Caribbean or Mediterranean), and dissertation projects on real marine populations.",
+    "yearByYear": [
+      { "year": 1, "focus": "Foundations", "modules": ["Ocean Sciences", "Cell & Molecular Biology", "Marine Ecology Intro", "Field Skills (Local coast)", "Statistics"] },
+      { "year": 2, "focus": "Marine ecosystems", "modules": ["Marine Vertebrate Biology", "Marine Invertebrates", "Oceanography", "Conservation Genetics", "Research Methods"] },
+      { "year": 3, "focus": "Specialism + dissertation", "modules": ["Optional modules (Fisheries, Coral Reefs, Marine Mammals)", "Overseas Field Course", "Research Dissertation"] }
+    ],
+    "skills": [
+      "Marine species identification (UK and tropical)",
+      "Boat handling and SCUBA scientific diving",
+      "Underwater sampling and quadrat surveys",
+      "Marine biogeochemistry and oceanographic analysis",
+      "GIS mapping of marine habitats"
+    ],
+    "professionalBodies": [
+      { "name": "Marine Biological Association (MBA)", "benefit": "Student membership; access to Plymouth marine library" },
+      { "name": "Royal Society of Biology", "benefit": "AMRSB / CBiol pathway via accredited degrees" }
+    ],
+    "careers": [
+      { "role": "Marine Conservation Officer", "salary": "£22,000–£28,000 / £35,000–£50,000", "demand": "High" },
+      { "role": "Fisheries Scientist (Cefas/DEFRA)", "salary": "£28,000–£34,000 / £45,000–£60,000", "demand": "High" },
+      { "role": "Aquaculture / Fish Farming Scientist", "salary": "£24,000–£32,000 / £45,000–£60,000", "demand": "Growing" },
+      { "role": "Environmental Consultant (marine)", "salary": "£25,000–£32,000 / £42,000–£65,000", "demand": "High" }
+    ],
+    "topEmployers": ["Cefas", "Marine Conservation Society", "Marine Management Organisation", "JNCC", "Mowi (aquaculture)", "Environmental consultancies", "Sea Watch Foundation"],
+    "employerPerspective": "UK marine biology graduates are well placed in the growing marine renewables industry (offshore wind environmental impact assessments), fisheries science (Cefas), and marine conservation NGOs. Aquaculture is expanding rapidly. SCUBA training and overseas field-work significantly improve job prospects.",
+    "entryRequirements": "Typical offer: AAA–ABB including Biology and ideally Chemistry. GCSE: Maths and English at 6/B or above.",
+    "furtherStudy": "MSc Marine Biology, MSc Marine Conservation, MSc Oceanography. PhD via NERC DTPs.",
+    "isItForYou": [
+      "Study this if you love being in or near the sea and want a hands-on, field-heavy degree",
+      "Study this if you're prepared for cold UK coastline field-work as well as tropical reefs",
+      "Think twice if you don't enjoy chemistry or maths — modern marine biology is increasingly quantitative"
+    ]
+  },
+  "ecology": {
+    "id": "ecology",
+    "title": "Ecology & Conservation",
+    "duration": "3 years (BSc) / 4 years (MBiol or with placement)",
+    "overview": "Ecology and Conservation Biology focuses on the relationships between living organisms and their environment, and on applied science to protect biodiversity. The UK has world-leading conservation science, with NERC funding research on climate adaptation, rewilding, invasive species management and ecosystem services. Programmes are field-intensive and include practical conservation work with NGOs, national parks, and rewilding projects.",
+    "yearByYear": [
+      { "year": 1, "focus": "Foundations of ecology", "modules": ["Ecology", "Evolution & Genetics", "Conservation Principles", "Field Skills", "Statistics"] },
+      { "year": 2, "focus": "Applied ecology & conservation", "modules": ["Population & Community Ecology", "Conservation Biology", "Habitat Management", "Quantitative Ecology", "GIS"] },
+      { "year": 3, "focus": "Specialism + dissertation", "modules": ["Optional modules (Rewilding, Climate Change, Tropical Ecology)", "Field Expedition", "Research Dissertation with NGO partner"] }
+    ],
+    "skills": [
+      "Habitat surveying (Phase 1, NVC) and species identification",
+      "GIS, spatial modelling and remote sensing",
+      "Statistical modelling (R, Python)",
+      "Stakeholder engagement and conservation policy",
+      "Project planning and grant applications"
+    ],
+    "professionalBodies": [
+      { "name": "Chartered Institute of Ecology and Environmental Management (CIEEM)", "benefit": "Student membership leading to chartered status (CEnv, CEcol) with experience" },
+      { "name": "British Ecological Society", "benefit": "Student membership, conferences and small grants" }
+    ],
+    "careers": [
+      { "role": "Ecological Consultant", "salary": "£23,000–£28,000 / £38,000–£55,000", "demand": "Very High" },
+      { "role": "Conservation Officer (Wildlife Trust/RSPB)", "salary": "£22,000–£28,000 / £32,000–£45,000", "demand": "High" },
+      { "role": "GIS / Spatial Ecology Analyst", "salary": "£26,000–£32,000 / £40,000–£55,000", "demand": "High" },
+      { "role": "Environmental Policy Officer", "salary": "£28,000–£35,000 / £40,000–£60,000", "demand": "High" }
+    ],
+    "topEmployers": ["RSPB", "Wildlife Trusts", "Natural England", "JNCC", "Environmental consultancies (Atkins, Arup, RSK)", "WWF", "Friends of the Earth"],
+    "employerPerspective": "Ecological consultancy is the largest UK employer for Ecology graduates — driven by environmental impact assessments for housing, wind farms, HS2 etc. Conservation NGO careers are competitive but expanding; chartered status (CEnv/CEcol) is the recognised credential.",
+    "entryRequirements": "Typical offer: AAB–ABB including Biology. GCSE: Maths and English at 6/B or above.",
+    "furtherStudy": "MSc Conservation, MSc Ecology and Environmental Sustainability, MSc GIS. PhD routes via NERC DTPs.",
+    "isItForYou": [
+      "Study this if you want to apply science directly to protect biodiversity and reverse environmental decline",
+      "Study this if you enjoy mixing field-work with data analysis and policy engagement",
+      "Think twice if you want pure lab-based research — this discipline is field- and policy-heavy"
+    ]
+  },
+  "plantSciences": {
+    "id": "plantSciences",
+    "title": "Plant Sciences",
+    "duration": "3 years (BSc) / 4 years (MSci)",
+    "overview": "Plant Sciences (Botany) studies the biology of plants — from molecular genetics and biochemistry to ecology and agricultural application. With food security and climate adaptation as central global challenges, UK Plant Science research is heavily funded by UKRI/BBSRC. Specialisms include crop science, plant-pathogen interactions, photosynthesis biophysics, and tropical/temperate plant ecology.",
+    "yearByYear": [
+      { "year": 1, "focus": "Foundations", "modules": ["Plant Diversity & Evolution", "Cell Biology", "Genetics", "Plant Physiology Intro", "Field Skills"] },
+      { "year": 2, "focus": "Core plant science", "modules": ["Plant Physiology", "Plant Molecular Biology", "Plant Ecology", "Crop Science", "Statistics"] },
+      { "year": 3, "focus": "Specialism + research project", "modules": ["Optional modules (Plant Pathology, Agroecology, Plant Biotech)", "Research Project", "Critical literature analysis"] }
+    ],
+    "skills": [
+      "Plant tissue culture and propagation",
+      "Molecular biology techniques (PCR, transformation)",
+      "Field identification of UK flora",
+      "Agronomy and crop trial design",
+      "Bioinformatics and statistical analysis"
+    ],
+    "professionalBodies": [
+      { "name": "Royal Society of Biology", "benefit": "AMRSB / CBiol pathway" },
+      { "name": "British Society of Plant Pathology", "benefit": "Specialist network; student grants" }
+    ],
+    "careers": [
+      { "role": "Plant Breeder / Crop Scientist", "salary": "£24,000–£32,000 / £40,000–£60,000", "demand": "High" },
+      { "role": "Plant Biotech R&D Scientist", "salary": "£28,000–£36,000 / £45,000–£70,000", "demand": "Very High" },
+      { "role": "Conservation Botanist (Kew/Wakehurst)", "salary": "£22,000–£28,000 / £35,000–£48,000", "demand": "Moderate" },
+      { "role": "Agricultural Consultant", "salary": "£25,000–£32,000 / £40,000–£60,000", "demand": "High" }
+    ],
+    "topEmployers": ["Syngenta", "Bayer Crop Science", "Rothamsted Research", "John Innes Centre", "Royal Botanic Gardens Kew", "James Hutton Institute"],
+    "employerPerspective": "UK plant biotech and crop science are world-leading. Employers value molecular biology + bioinformatics skills. Climate adaptation and sustainable agriculture funding from BBSRC and UKRI is expanding rapidly.",
+    "entryRequirements": "Typical offer: AAA–ABB including Biology, ideally Chemistry too. GCSE: Maths and English at 6/B or above.",
+    "furtherStudy": "MSc Plant Sciences, MSc Crop Science, MSc Agroecology. PhD via UKRI DTPs.",
+    "isItForYou": [
+      "Study this if you're interested in solving food security, sustainability or climate adaptation through plants",
+      "Study this if you enjoy molecular biology — modern plant sciences is highly molecular",
+      "Think twice if you primarily want to work with animals — pick zoology instead"
+    ]
+  },
+  "biotechnology": {
+    "id": "biotechnology",
+    "title": "Biotechnology",
+    "duration": "3 years (BSc) / 4 years (MBio or with placement)",
+    "overview": "Biotechnology applies biological systems and organisms to develop products and processes — from vaccines and therapeutics to industrial enzymes and biofuels. The UK has a thriving biotech sector concentrated around Cambridge, Oxford, Manchester and Edinburgh. Programmes combine deep biological sciences (genetics, microbiology, biochemistry) with applied engineering and entrepreneurship.",
+    "yearByYear": [
+      { "year": 1, "focus": "Foundations", "modules": ["Cell Biology", "Microbiology", "Biochemistry", "Genetics", "Statistics & Lab Skills"] },
+      { "year": 2, "focus": "Applied biotechnology", "modules": ["Industrial Microbiology", "Molecular Biotechnology", "Bioprocess Engineering", "Bioinformatics", "Biotech Ethics & Regulation"] },
+      { "year": 3, "focus": "Specialism + research project", "modules": ["Optional modules (Pharma Biotech, Industrial Biotech, Agri-biotech)", "Research Project", "Innovation & Entrepreneurship"] }
+    ],
+    "skills": [
+      "Recombinant DNA technology",
+      "Bioprocess design and fermentation",
+      "Cell culture (mammalian, microbial, plant)",
+      "Bioinformatics and computational biology",
+      "Regulatory affairs and IP awareness"
+    ],
+    "professionalBodies": [
+      { "name": "Royal Society of Biology", "benefit": "AMRSB / CBiol pathway" },
+      { "name": "BioIndustry Association (BIA)", "benefit": "UK biotech employer network; student events" }
+    ],
+    "careers": [
+      { "role": "Biotech R&D Scientist (Pharma)", "salary": "£28,000–£38,000 / £50,000–£75,000", "demand": "Very High" },
+      { "role": "Bioprocess Engineer", "salary": "£30,000–£40,000 / £55,000–£80,000", "demand": "Very High" },
+      { "role": "Quality Assurance / Regulatory Affairs", "salary": "£25,000–£32,000 / £45,000–£65,000", "demand": "High" },
+      { "role": "Biotech Startup Founder/Researcher", "salary": "Variable / £100,000+ on exit", "demand": "Growing" }
+    ],
+    "topEmployers": ["GSK", "AstraZeneca", "Novartis", "Pfizer", "Oxford BioMedica", "Genomics England", "Wellcome Sanger Institute"],
+    "employerPerspective": "UK biotech is one of Europe's largest sectors, with a strong Cambridge cluster (e.g. AstraZeneca HQ) and growing Manchester / Edinburgh clusters. Demand for biotech-trained R&D scientists and bioprocess engineers consistently exceeds supply.",
+    "entryRequirements": "Typical offer: AAA–AAB including Biology and Chemistry. GCSE: Maths and English at 6/B or above.",
+    "furtherStudy": "MSc Biotechnology, MSc Bioinformatics, MSc Pharmaceutical Sciences. PhD routes via UKRI DTPs.",
+    "isItForYou": [
+      "Study this if you love biology AND want to apply it to industry, healthcare or sustainability",
+      "Study this if you want a clear route into the UK biopharma sector",
+      "Think twice if you want pure academic biology — biotech is applied science"
+    ]
+  },
+  "earthSciences": {
+    "id": "earthSciences",
+    "title": "Earth Sciences",
+    "duration": "3 years (BSc) / 4 years (MEarthSci or MGeol)",
+    "overview": "Earth Sciences is the broad study of our planet — its structure, history, processes and inhabitants — combining geology, geophysics, geochemistry, oceanography, climate science and planetary science. Modern Earth Sciences degrees integrate field-work, lab-based analysis and computational modelling. Major UK programmes (Oxford, Cambridge, Imperial, UCL, Edinburgh) feed into both academic research and the resource extraction industry.",
+    "yearByYear": [
+      { "year": 1, "focus": "Foundations", "modules": ["Earth Structure & Plate Tectonics", "Mineralogy & Petrology", "Maths & Physics for Geoscientists", "Field Skills", "Earth History"] },
+      { "year": 2, "focus": "Core specialisms", "modules": ["Sedimentary Geology", "Igneous & Metamorphic Geology", "Geochemistry", "Geophysics", "Paleontology"] },
+      { "year": 3, "focus": "Specialism + dissertation", "modules": ["Optional modules (Planetary Science, Climate, Volcanology)", "Independent Mapping Project", "Research Dissertation"] },
+      { "year": 4, "focus": "Masters (MEarthSci/MGeol)", "modules": ["Advanced research project", "Specialist topics", "Industry placement option"] }
+    ],
+    "skills": [
+      "Geological mapping (Independent Mapping Project)",
+      "Mineral and rock identification (hand specimen and microscope)",
+      "Seismic and remote-sensing data interpretation",
+      "Geochemistry lab techniques (XRF, mass spectrometry)",
+      "Computational modelling (Python, R, MATLAB)"
+    ],
+    "professionalBodies": [
+      { "name": "Geological Society of London (CGeol)", "benefit": "Accredited degrees + 4 years experience → Chartered Geologist (CGeol)" }
+    ],
+    "careers": [
+      { "role": "Oil & Gas Geoscientist", "salary": "£35,000–£45,000 / £60,000–£100,000+", "demand": "Moderate (declining)" },
+      { "role": "Mining / Mineral Exploration Geologist", "salary": "£30,000–£40,000 / £55,000–£85,000", "demand": "High (critical minerals push)" },
+      { "year": "n/a", "role": "Geotechnical Engineer", "salary": "£25,000–£32,000 / £45,000–£65,000", "demand": "High" },
+      { "role": "Environmental / Hydrogeology Consultant", "salary": "£25,000–£32,000 / £42,000–£60,000", "demand": "Very High" }
+    ],
+    "topEmployers": ["BP", "Shell", "Equinor", "Rio Tinto", "Anglo American", "Atkins", "ERM", "British Geological Survey"],
+    "employerPerspective": "Traditional oil & gas employer demand has fallen, but mining (critical minerals for batteries/renewables), geotechnical consultancy (HS2, offshore wind), and environmental/hydrogeology consultancy are growing. CGeol is the recognised credential.",
+    "entryRequirements": "Typical offer: A*AA–AAA including Maths plus one of Geology, Physics, Chemistry, Biology. GCSE: Maths and English at 6/B or above.",
+    "furtherStudy": "MSc Petroleum Geoscience, MSc Engineering Geology, MSc Geophysics. PhD via NERC DTPs.",
+    "isItForYou": [
+      "Study this if you want a broad geosciences foundation and aren't sure whether you'll specialise in geology, geophysics, climate or paleontology",
+      "Study this if you enjoy fieldwork in remote locations (UK Lake District, Iceland, Spain)",
+      "Think twice if you specifically know you want resource geology — pick Geology directly"
+    ]
+  },
+  "geology": {
+    "id": "geology",
+    "title": "Geology",
+    "duration": "3 years (BSc) / 4 years (MGeol or MSci)",
+    "overview": "Geology is the study of the solid Earth — rocks, minerals, structural processes, surface processes and Earth history. UK Geology BSc programmes are field-intensive and lead to Chartered Geologist (CGeol) status with experience. Field areas include the Scottish Highlands, Lake District, Spain (Cabo de Gata) and Iceland. The Independent Mapping Project (an 8-week solo geological survey) is the defining experience of UK Geology degrees.",
+    "yearByYear": [
+      { "year": 1, "focus": "Foundations", "modules": ["Mineralogy", "Petrology", "Plate Tectonics", "Field Geology", "Maths & Physics for Geologists"] },
+      { "year": 2, "focus": "Core geology", "modules": ["Structural Geology", "Sedimentology", "Igneous & Metamorphic Petrology", "Geochemistry", "Mapping Techniques"] },
+      { "year": 3, "focus": "Specialism + Independent Mapping", "modules": ["Optional modules (Hydrogeology, Volcanology, Resource Geology)", "Independent Mapping Project (8 weeks solo)", "Dissertation"] }
+    ],
+    "skills": [
+      "Geological mapping at multiple scales",
+      "Rock and mineral identification (hand specimen + thin section)",
+      "Structural analysis and 3D geological reasoning",
+      "Drill core logging and geological logging software",
+      "GIS for geological data"
+    ],
+    "professionalBodies": [
+      { "name": "Geological Society of London (CGeol)", "benefit": "Accredited geology degrees provide the academic route to Chartered Geologist (CGeol) status with 4–6 years experience" }
+    ],
+    "careers": [
+      { "role": "Mineral Exploration Geologist", "salary": "£30,000–£42,000 / £55,000–£90,000", "demand": "High (critical minerals)" },
+      { "role": "Petroleum Geoscientist", "salary": "£35,000–£45,000 / £60,000–£100,000+", "demand": "Moderate" },
+      { "role": "Engineering / Geotechnical Geologist", "salary": "£25,000–£32,000 / £45,000–£65,000", "demand": "Very High" },
+      { "role": "Hydrogeologist (water resources)", "salary": "£26,000–£33,000 / £45,000–£65,000", "demand": "High" }
+    ],
+    "topEmployers": ["BP", "Shell", "Rio Tinto", "Anglo American", "Atkins", "Arup", "Mott MacDonald", "Environment Agency", "British Geological Survey"],
+    "employerPerspective": "Resource geology (mining for critical minerals — lithium, cobalt, copper for the green transition) and geotechnical consultancy (HS2, offshore wind anchoring) are the strongest current markets. Oil and gas is contracting but still pays a premium. CGeol is the gold-standard credential.",
+    "entryRequirements": "Typical offer: A*AA–AAB including Maths plus Geology or another science. GCSE: Maths and English at 6/B or above.",
+    "furtherStudy": "MSc Petroleum Geoscience, MSc Engineering Geology, MSc Mineral Exploration. PhD via NERC DTPs.",
+    "isItForYou": [
+      "Study this if you love being outdoors and want a discipline where field-work is central to the science",
+      "Study this if you're excited by the energy transition and critical minerals supply chain",
+      "Think twice if you don't enjoy physics or chemistry — modern geology is highly quantitative"
+    ]
+  },
+  "environmentalScience": {
+    "id": "environmentalScience",
+    "title": "Environmental Science",
+    "duration": "3 years (BSc) / 4 years (MSci or with placement)",
+    "overview": "Environmental Science is the interdisciplinary study of how natural systems work and how human activity is changing them — climate change, pollution, biodiversity loss, water resources, sustainability policy. UK Environmental Science programmes integrate atmospheric science, ecology, geochemistry, geography and policy, with strong practical field-work and consultancy-aligned skills.",
+    "yearByYear": [
+      { "year": 1, "focus": "Foundations", "modules": ["Climate System", "Ecology", "Earth Surface Processes", "Environmental Chemistry", "Statistics & GIS"] },
+      { "year": 2, "focus": "Applied environmental science", "modules": ["Atmospheric Pollution", "Aquatic Systems", "Soil Science", "Environmental Policy & Law", "Sustainability & Energy"] },
+      { "year": 3, "focus": "Specialism + dissertation", "modules": ["Optional modules (Climate Change, Marine Pollution, Renewable Energy)", "Field Course", "Independent Research Dissertation"] }
+    ],
+    "skills": [
+      "Environmental sampling and monitoring",
+      "GIS and remote sensing analysis",
+      "Statistical analysis of environmental data",
+      "Environmental impact assessment (EIA) preparation",
+      "Policy analysis and stakeholder engagement"
+    ],
+    "professionalBodies": [
+      { "name": "Society for the Environment (CEnv)", "benefit": "Chartered Environmentalist status with 4 years experience" },
+      { "name": "Institution of Environmental Sciences (IES)", "benefit": "Student membership; professional development" }
+    ],
+    "careers": [
+      { "role": "Environmental Consultant", "salary": "£24,000–£30,000 / £40,000–£60,000", "demand": "Very High" },
+      { "role": "Sustainability Manager (corporate)", "salary": "£28,000–£36,000 / £50,000–£75,000", "demand": "Very High" },
+      { "role": "Environmental Officer (local authority/agency)", "salary": "£25,000–£32,000 / £40,000–£55,000", "demand": "High" },
+      { "role": "Climate Policy Analyst", "salary": "£28,000–£35,000 / £45,000–£65,000", "demand": "High" }
+    ],
+    "topEmployers": ["Environment Agency", "Atkins", "Arup", "ERM", "Ricardo", "WSP", "Defra", "Met Office", "Tesco/M&S (corporate sustainability)"],
+    "employerPerspective": "Environmental consultancy is the largest UK graduate employer — driven by EIA requirements for HS2, offshore wind, housing. Corporate sustainability (ESG roles) is the fastest-growing graduate market. Chartered status (CEnv) is the recognised credential.",
+    "entryRequirements": "Typical offer: AAB–ABB including at least one science. GCSE: Maths and English at 6/B or above.",
+    "furtherStudy": "MSc Environmental Management, MSc Climate Change, MSc Sustainability. PhD via NERC DTPs.",
+    "isItForYou": [
+      "Study this if you want to combine science with policy and practical impact on sustainability",
+      "Study this if you're drawn to the rapidly-expanding environmental consultancy/ESG industry",
+      "Think twice if you want pure laboratory science — Env Sci is interdisciplinary and field/policy-focused"
+    ]
+  },
+  "geography": {
+    "id": "geography",
+    "title": "Geography",
+    "duration": "3 years (BA or BSc) / 4 years (MGeog or with placement)",
+    "overview": "Geography is the study of places, environments and the relationships between people and the planet. UK Geography degrees offer a BA (human geography emphasis — urbanism, development, geopolitics) or BSc (physical geography emphasis — glaciology, biogeography, geomorphology); most allow specialisation in Year 2 or 3. Field-work is central, with overseas trips often included (Iceland, Morocco, Berlin, Vietnam).",
+    "yearByYear": [
+      { "year": 1, "focus": "Foundations", "modules": ["Human Geography Intro", "Physical Geography Intro", "GIS & Cartography", "Research Methods", "Field Course (UK)"] },
+      { "year": 2, "focus": "Core specialisation", "modules": ["Urban / Economic / Cultural Geography (BA)", "Glaciology / Biogeography / Coastal (BSc)", "Quantitative Methods", "Optional modules"] },
+      { "year": 3, "focus": "Specialism + dissertation", "modules": ["Advanced optional modules", "Overseas Field Course", "Independent Research Dissertation"] }
+    ],
+    "skills": [
+      "GIS and spatial analysis",
+      "Quantitative and qualitative research methods",
+      "Field-data collection (UK and overseas)",
+      "Mapping, cartography and remote sensing",
+      "Policy analysis and writing for non-specialist audiences"
+    ],
+    "professionalBodies": [
+      { "name": "Royal Geographical Society (with IBG)", "benefit": "Chartered Geographer (CGeog) status with experience; UK's leading geographical society" }
+    ],
+    "careers": [
+      { "role": "Urban Planner / Transport Planner", "salary": "£24,000–£32,000 / £40,000–£60,000", "demand": "High" },
+      { "role": "Environmental Consultant", "salary": "£24,000–£30,000 / £40,000–£60,000", "demand": "Very High" },
+      { "role": "GIS Analyst", "salary": "£25,000–£32,000 / £40,000–£55,000", "demand": "Very High" },
+      { "role": "Policy / Civil Service", "salary": "£28,000–£35,000 / £50,000–£70,000", "demand": "High" }
+    ],
+    "topEmployers": ["Local Authorities", "Atkins", "Arup", "Mott MacDonald", "Defra", "DfT", "WWF", "Ordnance Survey", "Big 4 consultancies"],
+    "employerPerspective": "Geography graduates are uniquely versatile — equally welcomed by environmental consultancy, urban planning, civil service, GIS firms, and management consultancy. GIS skills are increasingly required across the board. The combination of qualitative and quantitative skills is rare and valued.",
+    "entryRequirements": "Typical offer: A*AA–AAB. Geography preferred but not always required. GCSE: Maths and English at 6/B or above.",
+    "furtherStudy": "MSc Urban Planning, MSc Environmental Management, MSc GIS. PhD via UKRI DTPs.",
+    "isItForYou": [
+      "Study this if you're interested in how the world works — places, people, environment, all interconnected",
+      "Study this if you want a broad and flexible degree that opens many doors",
+      "Think twice if you want a narrow specialist degree — Geography is deliberately broad"
+    ]
+  },
+  "forestry": {
+    "id": "forestry",
+    "title": "Forestry & Countryside Management",
+    "duration": "3 years (BSc) / 4 years (with placement)",
+    "overview": "Forestry and Countryside Management trains professionals who manage woodlands, rural landscapes and protected areas. The UK has a small number of specialist programmes (Bangor, Aberdeen, Cumbria, Harper Adams) reflecting niche but stable demand. Net-zero policy and the expansion of UK woodland cover is driving renewed demand for forestry graduates.",
+    "yearByYear": [
+      { "year": 1, "focus": "Foundations", "modules": ["Tree Biology", "Soil Science", "Forest Ecology", "GIS & Mapping", "Field Skills"] },
+      { "year": 2, "focus": "Management & policy", "modules": ["Silviculture", "Forest Mensuration", "Conservation Policy", "Wildlife Management", "Surveying"] },
+      { "year": 3, "focus": "Specialism + project", "modules": ["Optional modules (Tropical Forestry, Urban Forestry, Forest Economics)", "Field Expedition", "Independent Project"] }
+    ],
+    "skills": [
+      "Tree species identification and silviculture",
+      "Forest mensuration and biomass estimation",
+      "GIS and remote sensing for forest monitoring",
+      "Chainsaw certification and practical fieldwork",
+      "Policy analysis (UK Forestry Standard)"
+    ],
+    "professionalBodies": [
+      { "name": "Institute of Chartered Foresters (ICF)", "benefit": "Professional Member (MICFor) and Chartered status with experience" },
+      { "name": "Royal Forestry Society (RFS)", "benefit": "UK's leading forestry charity; CPD and grants" }
+    ],
+    "careers": [
+      { "role": "Forester (Forestry England/Scotland)", "salary": "£24,000–£30,000 / £38,000–£55,000", "demand": "High (net-zero expansion)" },
+      { "role": "Woodland Management Consultant", "salary": "£25,000–£32,000 / £40,000–£60,000", "demand": "High" },
+      { "role": "Countryside / Ranger Service Officer", "salary": "£22,000–£28,000 / £30,000–£42,000", "demand": "Moderate" },
+      { "role": "Arboricultural Consultant", "salary": "£25,000–£32,000 / £42,000–£60,000", "demand": "Very High (urban tree policy)" }
+    ],
+    "topEmployers": ["Forestry England", "Forestry Scotland", "Natural Resources Wales", "Tilhill Forestry", "Confor", "National Trust", "Woodland Trust"],
+    "employerPerspective": "Forestry careers are stable and growing — the UK target to plant 30,000 hectares of new woodland per year is driving recruitment at Forestry England/Scotland. Chartered status (MICFor) is the recognised credential.",
+    "entryRequirements": "Typical offer: ABB–BBB ideally including Biology or Geography. GCSE: Maths and English at 6/B or above.",
+    "furtherStudy": "MSc Forestry, MSc Conservation, MSc Land Management. PhD routes for research careers.",
+    "isItForYou": [
+      "Study this if you want an outdoor career managing woodlands or rural land",
+      "Study this if you're excited by the net-zero woodland expansion programme",
+      "Think twice if you want a high-paying corporate career — forestry is meaningful but modestly paid"
+    ]
+  }
+}

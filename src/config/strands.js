@@ -7,6 +7,7 @@ import { COURSES as humanitiesCourses } from '../data/humanities/courses';
 import { COURSES as socialSciencesCourses } from '../data/socialsciences/courses';
 import { COURSES as computerScienceCourses } from '../data/computer-science/courses';
 import { COURSES as medicineCourses } from '../data/medicine/courses';
+import { COURSES as biologyCourses } from '../data/biology/courses';
 
 export const STRANDS = {
   biochemistry: {
@@ -174,6 +175,26 @@ export const STRANDS = {
       { label: 'Allied Health Professions', ids: ['physiotherapy', 'paramedicScience', 'radiography', 'occupationalTherapy', 'dietetics'] },
     ],
     courses: medicineCourses,
+  },
+  biology: {
+    id: 'biology',
+    label: 'Biology & Earth Sciences',
+    tagline: 'Explore biology, zoology, geology and environmental science courses for 2026 entry',
+    headerEyebrow: 'UCAS 2026 Course Finder',
+    headerTitleStart: 'Find Your Biology & ',
+    headerTitleAccent: 'Earth Sciences Course',
+    headerSubtitle:
+      'Explore 2026 undergraduate options across Russell Group and other leading UK universities. ' +
+      'Course data is drawn from UCAS 2026 with rankings from the Complete University Guide 2026.',
+    footerNote:
+      'Course data sourced from UCAS 2026. Biology, Geology and Geography use CUG 2026 subject rankings; ' +
+      'other tables show table position within this comparison set.',
+    courseGroups: [
+      { label: 'Biological Sciences', ids: ['biology', 'zoology', 'marineBiology', 'ecology', 'plantSciences', 'biotechnology'] },
+      { label: 'Earth Sciences', ids: ['earthSciences', 'geology', 'environmentalScience'] },
+      { label: 'Geography & Conservation', ids: ['geography', 'forestry'] },
+    ],
+    courses: biologyCourses,
   },
   socialsciences: {
     id: 'socialsciences',
