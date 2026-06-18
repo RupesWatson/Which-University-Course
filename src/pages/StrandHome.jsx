@@ -84,7 +84,7 @@ export default function StrandHome() {
             to="/"
             className="inline-flex items-center gap-1 text-xs font-medium text-blue-400/80 transition-colors hover:text-blue-300"
           >
-            <span>←</span> Choose a different subject area
+            <span>←</span> Explore a different subject
           </Link>
         </div>
 

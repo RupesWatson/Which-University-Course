@@ -14,7 +14,7 @@
     "sourceUrl": "https://www.undergraduate.study.cam.ac.uk/courses/veterinary-medicine",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/subjects/veterinary-medicine",
-    "notes": "Verified UCAS 2026 exact title match; NSAA test; interview at college; 6-year programme including intercalated BA."
+    "notes": "Listed in UCAS 2026; NSAA test; interview at college; 6-year programme including intercalated BA."
   },
   {
     "name": "University of Edinburgh",
@@ -31,7 +31,7 @@
     "sourceUrl": "https://www.ed.ac.uk/studying/undergraduate/degrees/index.php?action=programme&code=D100",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/subjects/veterinary-medicine",
-    "notes": "Verified UCAS 2026 exact title match; situational judgement test (SJT) required."
+    "notes": "Listed in UCAS 2026; situational judgement test (SJT) required."
   },
   {
     "name": "Royal Veterinary College",
@@ -48,7 +48,7 @@
     "sourceUrl": "https://www.rvc.ac.uk/undergraduate/veterinary-medicine-bvetmed",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/subjects/veterinary-medicine",
-    "notes": "Verified UCAS 2026 exact title match; oldest vet school in English-speaking world; UCAT not required."
+    "notes": "Listed in UCAS 2026; oldest vet school in English-speaking world; UCAT not required."
   },
   {
     "name": "University of Glasgow",
@@ -65,7 +65,7 @@
     "sourceUrl": "https://www.gla.ac.uk/undergraduate/degrees/veterinarymedicineandsurgery/",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/subjects/veterinary-medicine",
-    "notes": "Verified UCAS 2026 exact title match; 5-year integrated."
+    "notes": "Listed in UCAS 2026; 5-year integrated."
   },
   {
     "name": "University of Liverpool",
@@ -82,7 +82,7 @@
     "sourceUrl": "https://www.liverpool.ac.uk/courses/2026/veterinary-science-bvsc",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/subjects/veterinary-medicine",
-    "notes": "Verified UCAS 2026 exact title match; intercalated BSc option available."
+    "notes": "Listed in UCAS 2026; intercalated BSc option available."
   },
   {
     "name": "University of Nottingham",
@@ -99,7 +99,7 @@
     "sourceUrl": "https://www.nottingham.ac.uk/ugstudy/course/Veterinary-Medicine-and-Surgery-BVMedSci-BVMBVS",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/subjects/veterinary-medicine",
-    "notes": "Verified UCAS 2026 exact title match; 5-year integrated."
+    "notes": "Listed in UCAS 2026; 5-year integrated."
   },
   {
     "name": "University of Bristol",
@@ -116,7 +116,7 @@
     "sourceUrl": "https://www.bristol.ac.uk/study/undergraduate/2026/veterinary-science-bvsc/",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/subjects/veterinary-medicine",
-    "notes": "Verified UCAS 2026 exact title match; 5-year programme with farm placements."
+    "notes": "Listed in UCAS 2026; 5-year programme with farm placements."
   },
   {
     "name": "University of Surrey",
@@ -133,7 +133,7 @@
     "sourceUrl": "https://www.surrey.ac.uk/undergraduate/veterinary-medicine-and-science",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/subjects/veterinary-medicine",
-    "notes": "Verified UCAS 2026 exact title match; newest vet school, opened 2014."
+    "notes": "Listed in UCAS 2026; newest vet school, opened 2014."
   },
   {
     "name": "Aberystwyth University",
@@ -150,7 +150,7 @@
     "sourceUrl": "https://www.aber.ac.uk/en/undergrad/courses/veterinary-science/",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/subjects/veterinary-medicine",
-    "notes": "Verified UCAS 2026 exact title match; joint with RVC; opened 2021."
+    "notes": "Listed in UCAS 2026; joint with RVC; opened 2021."
   },
   {
     "name": "Harper Adams / Keele Veterinary School",
@@ -166,6 +166,6 @@
     "applicationCode": "D101",
     "sourceUrl": "https://www.harper-adams.ac.uk/courses/undergraduate/veterinary-medicine-and-surgery",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; rural-focused; opened 2020."
+    "notes": "Listed in UCAS 2026; rural-focused; opened 2020."
   }
 ]

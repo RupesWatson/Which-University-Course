@@ -29,7 +29,7 @@
     "applicationCode": "GG14",
     "sourceUrl": "https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/data-science-bsc",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; A* in Maths required."
+    "notes": "Listed in UCAS 2026; A* in Maths required."
   },
   {
     "name": "University of Warwick",
@@ -45,7 +45,7 @@
     "applicationCode": "G302",
     "sourceUrl": "https://warwick.ac.uk/study/undergraduate/courses/datascience-g302",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; A* in Mathematics required."
+    "notes": "Listed in UCAS 2026; A* in Mathematics required."
   },
   {
     "name": "University of Edinburgh",
@@ -77,7 +77,7 @@
     "applicationCode": "G302",
     "sourceUrl": "https://www.manchester.ac.uk/study/undergraduate/courses/2026/00525/bsc-data-science/",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; A in Maths required."
+    "notes": "Listed in UCAS 2026; A in Maths required."
   },
   {
     "name": "University of Bath",
@@ -93,7 +93,7 @@
     "applicationCode": "G302",
     "sourceUrl": "https://www.bath.ac.uk/courses/undergraduate-2026/computer-science/bsc-hons-data-science/",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; A in Maths required."
+    "notes": "Listed in UCAS 2026; A in Maths required."
   },
   {
     "name": "University of Exeter",
@@ -109,7 +109,7 @@
     "applicationCode": "G302",
     "sourceUrl": "https://www.exeter.ac.uk/study/undergraduate/courses/computerscience/datascience/",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; Maths required at A."
+    "notes": "Listed in UCAS 2026; Maths required at A."
   },
   {
     "name": "University of Leeds",
@@ -125,7 +125,7 @@
     "applicationCode": "GG34",
     "sourceUrl": "https://courses.leeds.ac.uk/c054/data-science-and-analytics-bsc",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; A in Maths required."
+    "notes": "Listed in UCAS 2026; A in Maths required."
   },
   {
     "name": "University of Sheffield",
@@ -141,7 +141,7 @@
     "applicationCode": "G302",
     "sourceUrl": "https://www.sheffield.ac.uk/undergraduate/courses/2026/data-science-bsc",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; Maths required at B or above."
+    "notes": "Listed in UCAS 2026; Maths required at B or above."
   },
   {
     "name": "University of Nottingham",
@@ -157,7 +157,7 @@
     "applicationCode": "G302",
     "sourceUrl": "https://www.nottingham.ac.uk/ugstudy/course/Data-Science-BSc",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; A in Maths required."
+    "notes": "Listed in UCAS 2026; A in Maths required."
   },
   {
     "name": "Queen Mary University of London",
@@ -173,7 +173,7 @@
     "applicationCode": "G3CB",
     "sourceUrl": "https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2026/computer-science-with-data-analytics-bsc/",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; Maths A required."
+    "notes": "Listed in UCAS 2026; Maths A required."
   },
   {
     "name": "Lancaster University",
@@ -189,7 +189,7 @@
     "applicationCode": "G302",
     "sourceUrl": "https://www.lancaster.ac.uk/study/undergraduate/courses/data-science-bsc-hons-g302/",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; Maths required at A."
+    "notes": "Listed in UCAS 2026; Maths required at A."
   },
   {
     "name": "Newcastle University",
@@ -205,7 +205,7 @@
     "applicationCode": "G302",
     "sourceUrl": "https://www.ncl.ac.uk/undergraduate/degrees/g302/",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; Maths required at A."
+    "notes": "Listed in UCAS 2026; Maths required at A."
   },
   {
     "name": "Cardiff University",
@@ -221,7 +221,7 @@
     "applicationCode": "G302",
     "sourceUrl": "https://www.cardiff.ac.uk/study/undergraduate/courses/2026/data-science-and-analytics-bsc",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; Maths required at B."
+    "notes": "Listed in UCAS 2026; Maths required at B."
   },
   {
     "name": "University of Liverpool",

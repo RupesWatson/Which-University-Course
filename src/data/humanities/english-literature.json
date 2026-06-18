@@ -14,7 +14,7 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/a1b2c3d4-e5f6-7890-abcd-ef1234567890",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-oxford",
-    "notes": "Verified UCAS 2026 exact title match; CUG English 2026 rank #1"
+    "notes": "Listed in UCAS 2026; CUG English 2026 rank #1"
   },
   {
     "name": "University of Cambridge",
@@ -31,7 +31,7 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/b2c3d4e5-f6a7-8901-bcde-f12345678901",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-cambridge",
-    "notes": "Verified UCAS 2026 exact title match; CUG English 2026 rank #2"
+    "notes": "Listed in UCAS 2026; CUG English 2026 rank #2"
   },
   {
     "name": "Durham University",
@@ -48,7 +48,7 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/c3d4e5f6-a7b8-9012-cdef-123456789012",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/durham-university",
-    "notes": "Verified UCAS 2026 exact title match; CUG English 2026 rank #3"
+    "notes": "Listed in UCAS 2026; CUG English 2026 rank #3"
   },
   {
     "name": "University of Exeter",
@@ -65,7 +65,7 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/d4e5f6a7-b8c9-0123-defa-234567890123",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-exeter",
-    "notes": "Verified UCAS 2026 exact title match; CUG English 2026 rank #4"
+    "notes": "Listed in UCAS 2026; CUG English 2026 rank #4"
   },
   {
     "name": "University of St Andrews",
@@ -99,7 +99,7 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/f6a7b8c9-d0e1-2345-fabc-456789012345",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-warwick",
-    "notes": "Verified UCAS 2026 exact title match; CUG English 2026 rank #6"
+    "notes": "Listed in UCAS 2026; CUG English 2026 rank #6"
   },
   {
     "name": "University College London",
@@ -150,7 +150,7 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/c9d0e1f2-a3b4-5678-cdef-789012345678",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-bristol",
-    "notes": "Verified UCAS 2026 exact title match; CUG English 2026 rank #9"
+    "notes": "Listed in UCAS 2026; CUG English 2026 rank #9"
   },
   {
     "name": "University of York",
@@ -167,7 +167,7 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/d0e1f2a3-b4c5-6789-defa-890123456789",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-york",
-    "notes": "Verified UCAS 2026 exact title match; CUG English 2026 rank #10"
+    "notes": "Listed in UCAS 2026; CUG English 2026 rank #10"
   },
   {
     "name": "University of Leeds",
@@ -184,7 +184,7 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/e1f2a3b4-c5d6-7890-efab-901234567890",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-leeds",
-    "notes": "Verified UCAS 2026 exact title match; CUG English 2026 rank #11"
+    "notes": "Listed in UCAS 2026; CUG English 2026 rank #11"
   },
   {
     "name": "University of Manchester",
@@ -201,7 +201,7 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/f2a3b4c5-d6e7-8901-fabc-012345678901",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-manchester",
-    "notes": "Verified UCAS 2026 exact title match; CUG English 2026 rank #12"
+    "notes": "Listed in UCAS 2026; CUG English 2026 rank #12"
   },
   {
     "name": "King's College London",
@@ -235,7 +235,7 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/b4c5d6e7-f8a9-0123-bcde-234567890123",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-sheffield",
-    "notes": "Verified UCAS 2026 exact title match; CUG English 2026 rank #14"
+    "notes": "Listed in UCAS 2026; CUG English 2026 rank #14"
   },
   {
     "name": "University of Nottingham",
@@ -269,7 +269,7 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/d6e7f8a9-b0c1-2345-defa-456789012345",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-birmingham",
-    "notes": "Verified UCAS 2026 exact title match; CUG English 2026 rank #16"
+    "notes": "Listed in UCAS 2026; CUG English 2026 rank #16"
   },
   {
     "name": "University of Glasgow",

@@ -46,7 +46,7 @@ export default function CollegesPage() {
             to={`/${strandId}?course=${courseId}`}
             className="inline-flex items-center gap-1 text-xs font-medium text-blue-400/80 transition-colors hover:text-blue-300"
           >
-            <span>←</span> Back to comparison
+            <span>←</span> Back to results
           </Link>
         </div>
 

@@ -13,7 +13,7 @@
     "applicationCode": "GG14",
     "sourceUrl": "https://www.cs.ox.ac.uk/admissions/undergraduate/maths-computer-science.html",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; A* in Maths and A* in Further Maths required. MAT entrance test."
+    "notes": "Listed in UCAS 2026; A* in Maths and A* in Further Maths required. MAT entrance test."
   },
   {
     "name": "Imperial College London",
@@ -29,7 +29,7 @@
     "applicationCode": "GG1K",
     "sourceUrl": "https://www.imperial.ac.uk/study/courses/2026/mathematics-computer-science-msci/",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; A* in Maths and Further Maths preferred."
+    "notes": "Listed in UCAS 2026; A* in Maths and Further Maths preferred."
   },
   {
     "name": "University of Bristol",
@@ -45,7 +45,7 @@
     "applicationCode": "GG14",
     "sourceUrl": "https://www.bristol.ac.uk/study/undergraduate/2026/eng/bsc-mathematics-computer-science/",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; A* in Maths required."
+    "notes": "Listed in UCAS 2026; A* in Maths required."
   },
   {
     "name": "University of Warwick",
@@ -77,7 +77,7 @@
     "applicationCode": "G102",
     "sourceUrl": "https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/mathematical-computation-meng",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; A* in Maths required."
+    "notes": "Listed in UCAS 2026; A* in Maths required."
   },
   {
     "name": "University of Edinburgh",
@@ -93,7 +93,7 @@
     "applicationCode": "GG14",
     "sourceUrl": "https://www.ed.ac.uk/studying/undergraduate/degrees/index.php?action=programme&code=GG14",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; A in Maths required."
+    "notes": "Listed in UCAS 2026; A in Maths required."
   },
   {
     "name": "University of Manchester",
@@ -109,7 +109,7 @@
     "applicationCode": "GG14",
     "sourceUrl": "https://www.manchester.ac.uk/study/undergraduate/courses/2026/mathematics-computer-science-bsc/",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; A* in Maths required."
+    "notes": "Listed in UCAS 2026; A* in Maths required."
   },
   {
     "name": "University of Birmingham",
@@ -125,7 +125,7 @@
     "applicationCode": "GG14",
     "sourceUrl": "https://www.birmingham.ac.uk/undergraduate/courses/computer-science/computer-science-mathematics-bsc",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; A* in Maths required."
+    "notes": "Listed in UCAS 2026; A* in Maths required."
   },
   {
     "name": "University of Leeds",
@@ -141,7 +141,7 @@
     "applicationCode": "G460",
     "sourceUrl": "https://courses.leeds.ac.uk/c051/computer-science-with-mathematics-bsc",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; A in Maths required."
+    "notes": "Listed in UCAS 2026; A in Maths required."
   },
   {
     "name": "King's College London",
@@ -157,7 +157,7 @@
     "applicationCode": "GG41",
     "sourceUrl": "https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-with-mathematics-bsc",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; A* in Mathematics required."
+    "notes": "Listed in UCAS 2026; A* in Mathematics required."
   },
   {
     "name": "Queen Mary University of London",
@@ -173,7 +173,7 @@
     "applicationCode": "G110",
     "sourceUrl": "https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2026/mathematics-with-computer-science-bsc/",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; A in Maths required."
+    "notes": "Listed in UCAS 2026; A in Maths required."
   },
   {
     "name": "University of Bath",
@@ -189,6 +189,6 @@
     "applicationCode": "G103",
     "sourceUrl": "https://www.bath.ac.uk/courses/undergraduate-2026/mathematical-sciences/bsc-hons-mathematics-with-computer-science/",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; A* in Maths required."
+    "notes": "Listed in UCAS 2026; A* in Maths required."
   }
 ]

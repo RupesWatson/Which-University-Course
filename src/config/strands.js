@@ -12,16 +12,16 @@ export const STRANDS = {
   biochemistry: {
     id: 'biochemistry',
     label: 'Chemistry & Biochemistry',
-    tagline: 'UCAS 2026 verified chemistry, biochemistry and life-science courses',
-    headerEyebrow: 'UCAS 2026 Course Audit',
-    headerTitleStart: 'UK University Chemistry & ',
-    headerTitleAccent: 'Biochemistry Comparison',
+    tagline: 'Explore chemistry, biochemistry and life-science courses for 2026 entry',
+    headerEyebrow: 'UCAS 2026 Course Finder',
+    headerTitleStart: 'Find Your Chemistry & ',
+    headerTitleAccent: 'Biochemistry Course',
     headerSubtitle:
-      'Compare verified 2026 undergraduate course matches across Russell Group and other top UK universities. ' +
-      'Course titles sourced from UCAS 2026 and rankings from the Complete University Guide 2026.',
+      'Explore 2026 undergraduate options across Russell Group and other leading UK universities. ' +
+      'Course data is drawn from UCAS 2026 with rankings from the Complete University Guide 2026.',
     footerNote:
-      'Exact course titles and availability verified against UCAS 2026. Subject ranks for Biochemistry and Chemistry ' +
-      'use CUG 2026 subject table positions; all other course tables show table position within the verified comparison set.',
+      'Course data sourced from UCAS 2026. Subject ranks for Biochemistry and Chemistry use CUG 2026 ' +
+      'subject table positions; other tables show table position within this comparison set.',
     courseGroups: [
       { label: 'Core Sciences', ids: ['biochemistry', 'chemistry', 'natSci'] },
       { label: 'Life Sciences', ids: ['biomedSci', 'pharmacology', 'molBiol', 'genetics', 'microbiology'] },
@@ -32,16 +32,16 @@ export const STRANDS = {
   finance: {
     id: 'finance',
     label: 'Finance & Business',
-    tagline: 'UCAS 2026 verified finance, accounting and business courses',
-    headerEyebrow: 'UCAS 2026 Course Audit',
-    headerTitleStart: 'UK University Finance & ',
-    headerTitleAccent: 'Business Comparison',
+    tagline: 'Explore finance, accounting and business courses for 2026 entry',
+    headerEyebrow: 'UCAS 2026 Course Finder',
+    headerTitleStart: 'Find Your Finance & ',
+    headerTitleAccent: 'Business Course',
     headerSubtitle:
-      'Compare verified 2026 undergraduate course matches across Russell Group and other top UK universities. ' +
-      'Course titles sourced from UCAS 2026.',
+      'Explore 2026 undergraduate options across Russell Group and other leading UK universities. ' +
+      'Course data is drawn from UCAS 2026.',
     footerNote:
-      'Exact course titles and availability verified against UCAS 2026. Only Accounting & Finance keeps an official ' +
-      'subject rank; all other tables show table position within the verified comparison set.',
+      'Course data sourced from UCAS 2026. Only Accounting & Finance carries an official subject rank; ' +
+      'other tables show table position within this comparison set.',
     courseGroups: [
       { label: 'Core Finance', ids: ['af', 'econFin', 'finMath', 'banking', 'actuarial'] },
       { label: 'Finance & Technology', ids: ['fintech', 'appliedAI', 'dataScience', 'techManagement'] },
@@ -55,16 +55,16 @@ export const STRANDS = {
   physics: {
     id: 'physics',
     label: 'Physics',
-    tagline: 'UCAS 2026 verified physics, astrophysics and related science degrees',
-    headerEyebrow: 'UCAS 2026 Course Audit',
-    headerTitleStart: 'UK University Physics & ',
-    headerTitleAccent: 'Physical Sciences Comparison',
+    tagline: 'Explore physics, astrophysics and physical-sciences courses for 2026 entry',
+    headerEyebrow: 'UCAS 2026 Course Finder',
+    headerTitleStart: 'Find Your Physics & ',
+    headerTitleAccent: 'Physical Sciences Course',
     headerSubtitle:
-      'Compare verified 2026 undergraduate course matches across Russell Group and other top UK universities. ' +
-      'Course titles sourced from UCAS 2026 and rankings from the Complete University Guide 2026.',
+      'Explore 2026 undergraduate options across Russell Group and other leading UK universities. ' +
+      'Course data is drawn from UCAS 2026 with rankings from the Complete University Guide 2026.',
     footerNote:
-      'Exact course titles and availability verified against UCAS 2026. Physics uses the CUG 2026 subject ranking; ' +
-      'all other course tables show table position within the verified comparison set.',
+      'Course data sourced from UCAS 2026. Physics uses the CUG 2026 subject ranking; ' +
+      'other tables show table position within this comparison set.',
     courseGroups: [
       { label: 'Core Physics', ids: ['physics', 'astrophysics', 'theoreticalPhysics'] },
       { label: 'Physics & Other Disciplines', ids: ['mathematicalPhysics', 'physicsPhilosophy', 'spaceScience', 'computationalPhysics'] },
@@ -75,16 +75,16 @@ export const STRANDS = {
   maths: {
     id: 'maths',
     label: 'Mathematics',
-    tagline: 'UCAS 2026 verified mathematics, statistics and data science degrees',
-    headerEyebrow: 'UCAS 2026 Course Audit',
-    headerTitleStart: 'UK University Mathematics & ',
-    headerTitleAccent: 'Statistics Comparison',
+    tagline: 'Explore mathematics, statistics and data science courses for 2026 entry',
+    headerEyebrow: 'UCAS 2026 Course Finder',
+    headerTitleStart: 'Find Your Mathematics & ',
+    headerTitleAccent: 'Statistics Course',
     headerSubtitle:
-      'Compare verified 2026 undergraduate course matches across Russell Group and other top UK universities. ' +
-      'Course titles sourced from UCAS 2026 and rankings from the Complete University Guide 2026.',
+      'Explore 2026 undergraduate options across Russell Group and other leading UK universities. ' +
+      'Course data is drawn from UCAS 2026 with rankings from the Complete University Guide 2026.',
     footerNote:
-      'Exact course titles and availability verified against UCAS 2026. Mathematics uses the CUG 2026 subject ranking; ' +
-      'all other course tables show table position within the verified comparison set.',
+      'Course data sourced from UCAS 2026. Mathematics uses the CUG 2026 subject ranking; ' +
+      'other tables show table position within this comparison set.',
     courseGroups: [
       { label: 'Core Mathematics', ids: ['mathematics', 'statistics', 'appliedMaths'] },
       { label: 'Mathematics & Other Disciplines', ids: ['mathsCS', 'mathsStats', 'mathsPhysics', 'mathsPhilosophy'] },
@@ -95,15 +95,15 @@ export const STRANDS = {
   engineering: {
     id: 'engineering',
     label: 'Engineering',
-    tagline: 'UCAS 2026 verified engineering degrees across all specialisms',
-    headerEyebrow: 'UCAS 2026 Course Audit',
-    headerTitleStart: 'UK University Engineering & ',
-    headerTitleAccent: 'Technology Comparison',
+    tagline: 'Explore engineering courses across every specialism for 2026 entry',
+    headerEyebrow: 'UCAS 2026 Course Finder',
+    headerTitleStart: 'Find Your Engineering & ',
+    headerTitleAccent: 'Technology Course',
     headerSubtitle:
-      'Compare verified 2026 undergraduate course matches across Russell Group and other top UK universities. ' +
-      'Course titles sourced from UCAS 2026. Switch between A-level and IB entry requirements using the toggle.',
+      'Explore 2026 undergraduate options across Russell Group and other leading UK universities. ' +
+      'Course data is drawn from UCAS 2026. Switch between A-level and IB entry requirements using the toggle.',
     footerNote:
-      'Exact course titles and availability verified against UCAS 2026. All course tables show table position within the verified comparison set. ' +
+      'Course data sourced from UCAS 2026. Tables show table position within this comparison set. ' +
       'A-level and IB equivalents are provided; always confirm exact entry requirements on the university website.',
     courseGroups: [
       { label: 'Broad & Civil', ids: ['engineering', 'civil'] },
@@ -115,16 +115,16 @@ export const STRANDS = {
   humanities: {
     id: 'humanities',
     label: 'Humanities',
-    tagline: 'UCAS 2026 verified humanities, languages and arts degrees',
-    headerEyebrow: 'UCAS 2026 Course Audit',
-    headerTitleStart: 'UK University Humanities & ',
-    headerTitleAccent: 'Arts Comparison',
+    tagline: 'Explore humanities, languages and arts courses for 2026 entry',
+    headerEyebrow: 'UCAS 2026 Course Finder',
+    headerTitleStart: 'Find Your Humanities & ',
+    headerTitleAccent: 'Arts Course',
     headerSubtitle:
-      'Compare verified 2026 undergraduate course matches across Russell Group and other top UK universities. ' +
-      'Course titles sourced from UCAS 2026 and rankings from the Complete University Guide 2026.',
+      'Explore 2026 undergraduate options across Russell Group and other leading UK universities. ' +
+      'Course data is drawn from UCAS 2026 with rankings from the Complete University Guide 2026.',
     footerNote:
-      'Exact course titles and availability verified against UCAS 2026. English, History and Philosophy use the CUG 2026 subject ranking; ' +
-      'French, Spanish and German use CUG Modern Languages rankings; all other tables show position within the verified comparison set.',
+      'Course data sourced from UCAS 2026. English, History and Philosophy use the CUG 2026 subject ranking; ' +
+      'French, Spanish and German use CUG Modern Languages rankings; other tables show position within this comparison set.',
     courseGroups: [
       { label: 'Core Humanities', ids: ['english', 'history', 'philosophy', 'classics'] },
       { label: 'Languages', ids: ['french', 'spanish', 'german', 'modernLanguages'] },
@@ -136,16 +136,16 @@ export const STRANDS = {
   computerScience: {
     id: 'computerScience',
     label: 'Computer Science',
-    tagline: 'UCAS 2026 verified computer science, AI and software engineering degrees',
-    headerEyebrow: 'UCAS 2026 Course Audit',
-    headerTitleStart: 'UK University Computer Science & ',
-    headerTitleAccent: 'Software Engineering Comparison',
+    tagline: 'Explore computer science, AI and software engineering courses for 2026 entry',
+    headerEyebrow: 'UCAS 2026 Course Finder',
+    headerTitleStart: 'Find Your Computer Science & ',
+    headerTitleAccent: 'Software Engineering Course',
     headerSubtitle:
-      'Compare verified 2026 undergraduate course matches across Russell Group and other top UK universities. ' +
-      'Course titles sourced from UCAS 2026 and rankings from the Complete University Guide 2026.',
+      'Explore 2026 undergraduate options across Russell Group and other leading UK universities. ' +
+      'Course data is drawn from UCAS 2026 with rankings from the Complete University Guide 2026.',
     footerNote:
-      'Exact course titles and availability verified against UCAS 2026. Computer Science uses the CUG 2026 subject ranking; ' +
-      'all other course tables show table position within the verified comparison set.',
+      'Course data sourced from UCAS 2026. Computer Science uses the CUG 2026 subject ranking; ' +
+      'other tables show table position within this comparison set.',
     courseGroups: [
       { label: 'Core Computer Science', ids: ['computerScience', 'softwareEng', 'compSciMaths', 'compSciIndustry'] },
       { label: 'AI, Data & Security', ids: ['aiML', 'csDataScience', 'cybersecurity'] },
@@ -156,16 +156,16 @@ export const STRANDS = {
   medicine: {
     id: 'medicine',
     label: 'Medicine & Healthcare',
-    tagline: 'UCAS 2026 verified medicine, dentistry, veterinary and allied health degrees',
-    headerEyebrow: 'UCAS 2026 Course Audit',
-    headerTitleStart: 'UK University Medicine & ',
-    headerTitleAccent: 'Healthcare Comparison',
+    tagline: 'Explore medicine, dentistry, veterinary and allied-health courses for 2026 entry',
+    headerEyebrow: 'UCAS 2026 Course Finder',
+    headerTitleStart: 'Find Your Medicine & ',
+    headerTitleAccent: 'Healthcare Course',
     headerSubtitle:
-      'Compare verified 2026 undergraduate course matches across Russell Group and other top UK universities. ' +
-      'Course titles sourced from UCAS 2026 and rankings from the Complete University Guide 2026.',
+      'Explore 2026 undergraduate options across Russell Group and other leading UK universities. ' +
+      'Course data is drawn from UCAS 2026 with rankings from the Complete University Guide 2026.',
     footerNote:
-      'Exact course titles and availability verified against UCAS 2026. Medicine, Dentistry, Veterinary Medicine, Nursing and Pharmacy use ' +
-      'CUG 2026 subject rankings; all other course tables show table position within the verified comparison set. ' +
+      'Course data sourced from UCAS 2026. Medicine, Dentistry, Veterinary Medicine, Nursing and Pharmacy use ' +
+      'CUG 2026 subject rankings; other tables show table position within this comparison set. ' +
       'Always confirm entry tests (UCAT, GAMSAT, BMAT-equivalent) on the university website.',
     courseGroups: [
       { label: 'Doctor Routes', ids: ['medicine', 'graduateMedicine'] },
@@ -178,16 +178,16 @@ export const STRANDS = {
   socialsciences: {
     id: 'socialsciences',
     label: 'Social Sciences',
-    tagline: 'UCAS 2026 verified social science, law and policy degrees',
-    headerEyebrow: 'UCAS 2026 Course Audit',
-    headerTitleStart: 'UK University Social Sciences & ',
-    headerTitleAccent: 'Law Comparison',
+    tagline: 'Explore social sciences, law and policy courses for 2026 entry',
+    headerEyebrow: 'UCAS 2026 Course Finder',
+    headerTitleStart: 'Find Your Social Sciences & ',
+    headerTitleAccent: 'Law Course',
     headerSubtitle:
-      'Compare verified 2026 undergraduate course matches across Russell Group and other top UK universities. ' +
-      'Course titles sourced from UCAS 2026 and rankings from the Complete University Guide 2026.',
+      'Explore 2026 undergraduate options across Russell Group and other leading UK universities. ' +
+      'Course data is drawn from UCAS 2026 with rankings from the Complete University Guide 2026.',
     footerNote:
-      'Exact course titles and availability verified against UCAS 2026. Politics, Law, Economics and Psychology use the CUG 2026 subject ranking; ' +
-      'all other tables show table position within the verified comparison set.',
+      'Course data sourced from UCAS 2026. Politics, Law, Economics and Psychology use the CUG 2026 subject ranking; ' +
+      'other tables show table position within this comparison set.',
     courseGroups: [
       { label: 'Core Social Sciences', ids: ['politics', 'law', 'economics', 'psychology'] },
       { label: 'Specialist', ids: ['sociology', 'ppe', 'criminology', 'internationalRelations'] },

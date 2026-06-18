@@ -65,10 +65,10 @@ function topProspects(universities) {
 export default function StatsBar({ universities, course, gradeType = 'aLevel' }) {
   const positionLabel = course?.rankingScope === 'official' ? `Top ${course?.rankLabel || 'Rank'}` : 'Top Table Position';
   const stats = [
-    { label: 'Verified Matches', value: universities.length },
+    { label: 'Courses to Explore', value: universities.length },
     { label: 'Most Common Entry', value: avgGrade(universities, gradeType) },
     { label: positionLabel, value: topRank(universities) },
-    { label: 'Highest Grad Prospects', value: topProspects(universities) },
+    { label: 'Best Grad Prospects', value: topProspects(universities) },
   ];
 
   return (

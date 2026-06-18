@@ -59,7 +59,7 @@ export default function CoursePage() {
         <div className="text-center">
           <div className="mb-4 text-slate-400">{error ? `Error: ${error}` : 'Course details not found.'}</div>
           <button onClick={() => navigate(-1)} className="text-blue-400 underline hover:text-blue-300">
-            {'<- Back to comparison'}
+            {'<- Back to results'}
           </button>
         </div>
       </div>
@@ -70,7 +70,7 @@ export default function CoursePage() {
     <div className="min-h-screen" style={{ background: 'linear-gradient(180deg, #050e1f 0%, #061428 100%)' }}>
       <div className="mx-auto max-w-screen-lg px-4 py-6 sm:px-6 sm:py-8 lg:px-8">
         <button onClick={() => navigate(-1)} className="mb-6 inline-flex items-center gap-2 text-sm text-blue-400 transition-colors hover:text-blue-300">
-          <span>←</span> Back to comparison
+          <span>←</span> Back to results
         </button>
 
         <div className="mb-8">
@@ -202,7 +202,7 @@ export default function CoursePage() {
 
         <div className="mt-6 text-center">
           <button onClick={() => navigate(-1)} className="inline-flex items-center gap-2 text-sm text-blue-400 transition-colors hover:text-blue-300">
-            ← Back to comparison table
+            ← Back to results table
           </button>
         </div>
       </div>

@@ -14,7 +14,7 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/ab12cd34-ef56-7890-ab12-cd34ef567890",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-oxford",
-    "notes": "Verified UCAS 2026 exact title match; comparison table rank #1"
+    "notes": "Listed in UCAS 2026; comparison table rank #1"
   },
   {
     "name": "University of Cambridge",
@@ -31,7 +31,7 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/bc23de45-f067-8901-bc23-de45f0678901",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-cambridge",
-    "notes": "Verified UCAS 2026 exact title match; comparison table rank #2"
+    "notes": "Listed in UCAS 2026; comparison table rank #2"
   },
   {
     "name": "Durham University",
@@ -65,7 +65,7 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/de45f067-1289-0123-de45-f0671289012b",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-college-london",
-    "notes": "Verified UCAS 2026 exact title match; comparison table rank #4"
+    "notes": "Listed in UCAS 2026; comparison table rank #4"
   },
   {
     "name": "University of Edinburgh",
@@ -99,7 +99,7 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/f0670189-34ab-2345-f067-0189034ab234",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-bristol",
-    "notes": "Verified UCAS 2026 exact title match; comparison table rank #6"
+    "notes": "Listed in UCAS 2026; comparison table rank #6"
   },
   {
     "name": "University of Exeter",
@@ -133,7 +133,7 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/1289038b-56cd-4567-1289-038b056cd456",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-warwick",
-    "notes": "Verified UCAS 2026 exact title match; comparison table rank #8"
+    "notes": "Listed in UCAS 2026; comparison table rank #8"
   },
   {
     "name": "King's College London",
@@ -235,6 +235,6 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/78ef09c1-bc32-0123-78ef-09c10bc32012",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-newcastle-upon-tyne",
-    "notes": "Verified UCAS 2026 exact title match; comparison table rank #14"
+    "notes": "Listed in UCAS 2026; comparison table rank #14"
   }
 ]

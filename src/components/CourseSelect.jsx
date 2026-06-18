@@ -23,7 +23,7 @@ export default function CourseSelect({ selectedId, onChange, courses, groups, st
       <div className="flex flex-col sm:flex-row sm:items-end gap-3">
         <div className="flex-1">
           <label className="block text-[10px] uppercase tracking-widest font-semibold text-blue-400/60 mb-1.5">
-            Select Subject Area
+            Choose a course to explore
           </label>
           <div className="relative">
             <select
@@ -52,7 +52,7 @@ export default function CourseSelect({ selectedId, onChange, courses, groups, st
           </div>
           {selected?.description && (
             <div className="mt-1.5 text-[11px] text-slate-600">
-              {selected.description} · {count} verified match{count === 1 ? '' : 'es'}
+              {selected.description} · {count} {count === 1 ? 'option' : 'options'} to explore
             </div>
           )}
         </div>

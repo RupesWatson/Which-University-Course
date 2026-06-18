@@ -19,7 +19,7 @@ export default function Landing() {
           <div className="mb-3 flex items-center justify-center gap-3">
             <div className="h-px w-16 bg-gradient-to-r from-transparent to-blue-800/40" />
             <span className="text-[10px] font-semibold uppercase tracking-[0.25em] text-blue-400/70">
-              UCAS 2026 Course Audit
+              UCAS 2026 Course Finder
             </span>
             <div className="h-px w-16 bg-gradient-to-l from-transparent to-blue-800/40" />
           </div>
@@ -33,15 +33,15 @@ export default function Landing() {
             </span>
           </h1>
           <p className="mx-auto max-w-2xl text-sm leading-relaxed text-slate-400 md:text-base">
-            A side-by-side comparison tool to help you choose your UK undergraduate degree.
-            Browse verified UCAS 2026 course titles, typical A-level offers, graduate prospects,
-            and detail pages for Russell Group universities and the next tier down.
+            Find the right UK undergraduate degree for you. Explore 2026 course options,
+            check entry requirements against your predicted grades, compare graduate prospects,
+            and dive into detailed profiles for Russell Group and other leading universities.
           </p>
         </header>
 
         <div className="rounded-2xl border border-blue-900/40 bg-[#0a1f3a]/60 p-6 backdrop-blur-sm sm:p-8">
           <label className="mb-2 block text-[11px] font-semibold uppercase tracking-widest text-blue-400/70">
-            Choose a subject area
+            Where would you like to start?
           </label>
 
           <div className="relative mb-4">

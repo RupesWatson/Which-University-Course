@@ -197,7 +197,7 @@ export default function UniversityPage() {
           <div className="text-slate-400 mb-4">
             {error ? `Error: ${error}` : `University not found in ${strand.label}.`}
           </div>
-          <Link to={`/${strandId}`} className="text-blue-400 hover:text-blue-300 underline">← Back to comparison</Link>
+          <Link to={`/${strandId}`} className="text-blue-400 hover:text-blue-300 underline">← Back to results</Link>
         </div>
       </div>
     );
@@ -597,7 +597,7 @@ export default function UniversityPage() {
 
             <div className="mt-6 text-center">
               <button onClick={() => navigate(-1)} className="inline-flex items-center gap-2 text-sm text-blue-400 hover:text-blue-300 transition-colors">
-                ← Back to comparison table
+                ← Back to results
               </button>
             </div>
 

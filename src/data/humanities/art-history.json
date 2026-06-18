@@ -14,7 +14,7 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/a1b2c3d4-e5f6-7a8b-9c0d-e1f2a3b4c5d6",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/courtauld-institute-of-art",
-    "notes": "Verified UCAS 2026 exact title match; comparison table rank #1"
+    "notes": "Listed in UCAS 2026; comparison table rank #1"
   },
   {
     "name": "University of Oxford",
@@ -31,7 +31,7 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/b2c3d4e5-f6a7-8b9c-0d1e-f2a3b4c5d6e7",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-oxford",
-    "notes": "Verified UCAS 2026 exact title match; comparison table rank #2"
+    "notes": "Listed in UCAS 2026; comparison table rank #2"
   },
   {
     "name": "University of Cambridge",
@@ -48,7 +48,7 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/c3d4e5f6-a7b8-9c0d-1e2f-a3b4c5d6e7f8",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-cambridge",
-    "notes": "Verified UCAS 2026 exact title match; comparison table rank #3"
+    "notes": "Listed in UCAS 2026; comparison table rank #3"
   },
   {
     "name": "University College London",
@@ -65,7 +65,7 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/d4e5f6a7-b8c9-0d1e-2f3a-b4c5d6e7f8a9",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-college-london",
-    "notes": "Verified UCAS 2026 exact title match; comparison table rank #4"
+    "notes": "Listed in UCAS 2026; comparison table rank #4"
   },
   {
     "name": "University of Edinburgh",
@@ -82,7 +82,7 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/e5f6a7b8-c9d0-1e2f-3a4b-c5d6e7f8a9b0",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-edinburgh",
-    "notes": "Verified UCAS 2026 exact title match; comparison table rank #5"
+    "notes": "Listed in UCAS 2026; comparison table rank #5"
   },
   {
     "name": "University of Bristol",
@@ -99,7 +99,7 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/f6a7b8c9-d0e1-2f3a-4b5c-d6e7f8a9b0c1",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-bristol",
-    "notes": "Verified UCAS 2026 exact title match; comparison table rank #6"
+    "notes": "Listed in UCAS 2026; comparison table rank #6"
   },
   {
     "name": "University of Manchester",
@@ -116,7 +116,7 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/a7b8c9d0-e1f2-3a4b-5c6d-e7f8a9b0c1d2",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-manchester",
-    "notes": "Verified UCAS 2026 exact title match; comparison table rank #7"
+    "notes": "Listed in UCAS 2026; comparison table rank #7"
   },
   {
     "name": "University of Leeds",
@@ -133,7 +133,7 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/b8c9d0e1-f2a3-4b5c-6d7e-f8a9b0c1d2e3",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-leeds",
-    "notes": "Verified UCAS 2026 exact title match; comparison table rank #8"
+    "notes": "Listed in UCAS 2026; comparison table rank #8"
   },
   {
     "name": "University of Birmingham",
@@ -150,7 +150,7 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/c9d0e1f2-a3b4-5c6d-7e8f-a9b0c1d2e3f4",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-birmingham",
-    "notes": "Verified UCAS 2026 exact title match; comparison table rank #9"
+    "notes": "Listed in UCAS 2026; comparison table rank #9"
   },
   {
     "name": "University of York",
@@ -167,7 +167,7 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/d0e1f2a3-b4c5-6d7e-8f9a-b0c1d2e3f4a5",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-york",
-    "notes": "Verified UCAS 2026 exact title match; comparison table rank #10"
+    "notes": "Listed in UCAS 2026; comparison table rank #10"
   },
   {
     "name": "University of Exeter",
@@ -184,7 +184,7 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/e1f2a3b4-c5d6-7e8f-9a0b-c1d2e3f4a5b6",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-exeter",
-    "notes": "Verified UCAS 2026 exact title match; comparison table rank #11"
+    "notes": "Listed in UCAS 2026; comparison table rank #11"
   },
   {
     "name": "University of Glasgow",
@@ -201,6 +201,6 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/f2a3b4c5-d6e7-8f9a-0b1c-d2e3f4a5b6c7",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-glasgow",
-    "notes": "Verified UCAS 2026 exact title match; comparison table rank #12"
+    "notes": "Listed in UCAS 2026; comparison table rank #12"
   }
 ]

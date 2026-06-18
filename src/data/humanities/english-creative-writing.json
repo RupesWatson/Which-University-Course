@@ -14,7 +14,7 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/5c6d7e8f-9a0b-1c2d-4e5f-6a7b8c9d0e1f",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-east-anglia",
-    "notes": "Verified UCAS 2026 exact title match; UEA home of the original Creative Writing MA; CUG Creative Writing 2026 rank #1"
+    "notes": "Listed in UCAS 2026; UEA home of the original Creative Writing MA; CUG Creative Writing 2026 rank #1"
   },
   {
     "name": "University of Manchester",
@@ -31,7 +31,7 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/6d7e8f9a-0b1c-2d3e-5f6a-7b8c9d0e1f2a",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-manchester",
-    "notes": "Verified UCAS 2026 exact title match; CUG Creative Writing 2026 rank #2"
+    "notes": "Listed in UCAS 2026; CUG Creative Writing 2026 rank #2"
   },
   {
     "name": "University of Glasgow",
@@ -99,7 +99,7 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/0b1c2d3e-4f5a-6b7c-9d0e-1f2a3b4c5d6e",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-leeds",
-    "notes": "Verified UCAS 2026 exact title match; CUG Creative Writing 2026 rank #6"
+    "notes": "Listed in UCAS 2026; CUG Creative Writing 2026 rank #6"
   },
   {
     "name": "University of Sheffield",
@@ -116,7 +116,7 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/1c2d3e4f-5a6b-7c8d-0e1f-2a3b4c5d6e7f",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-sheffield",
-    "notes": "Verified UCAS 2026 exact title match; CUG Creative Writing 2026 rank #7"
+    "notes": "Listed in UCAS 2026; CUG Creative Writing 2026 rank #7"
   },
   {
     "name": "University of Bristol",
@@ -150,7 +150,7 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/3e4f5a6b-7c8d-9e0f-2a3b-4c5d6e7f8a9b",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-birmingham",
-    "notes": "Verified UCAS 2026 exact title match; CUG Creative Writing 2026 rank #9"
+    "notes": "Listed in UCAS 2026; CUG Creative Writing 2026 rank #9"
   },
   {
     "name": "University of Warwick",
@@ -167,7 +167,7 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/4f5a6b7c-8d9e-0f1a-3b4c-5d6e7f8a9b0c",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-warwick",
-    "notes": "Verified UCAS 2026 exact title match; CUG Creative Writing 2026 rank #10"
+    "notes": "Listed in UCAS 2026; CUG Creative Writing 2026 rank #10"
   },
   {
     "name": "Cardiff University",
@@ -184,7 +184,7 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/5a6b7c8d-9e0f-1a2b-4c5d-6e7f8a9b0c1d",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/cardiff-university",
-    "notes": "Verified UCAS 2026 exact title match; CUG Creative Writing 2026 rank #11"
+    "notes": "Listed in UCAS 2026; CUG Creative Writing 2026 rank #11"
   },
   {
     "name": "University of Exeter",
@@ -218,7 +218,7 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/7c8d9e0f-1a2b-3c4d-6e7f-8a9b0c1d2e3f",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/newcastle-university",
-    "notes": "Verified UCAS 2026 exact title match; CUG Creative Writing 2026 rank #13"
+    "notes": "Listed in UCAS 2026; CUG Creative Writing 2026 rank #13"
   },
   {
     "name": "Lancaster University",
@@ -235,6 +235,6 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/8d9e0f1a-2b3c-4d5e-7f8a-9b0c1d2e3f4a",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/lancaster-university",
-    "notes": "Verified UCAS 2026 exact title match; CUG Creative Writing 2026 rank #14"
+    "notes": "Listed in UCAS 2026; CUG Creative Writing 2026 rank #14"
   }
 ]

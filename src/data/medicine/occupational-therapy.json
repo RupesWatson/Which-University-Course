@@ -13,7 +13,7 @@
     "applicationCode": "B930",
     "sourceUrl": "https://www.southampton.ac.uk/courses/occupational-therapy-degree-bsc",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; HCPC/RCOT accredited."
+    "notes": "Listed in UCAS 2026; HCPC/RCOT accredited."
   },
   {
     "name": "University of Brighton",
@@ -29,7 +29,7 @@
     "applicationCode": "B930",
     "sourceUrl": "https://www.brighton.ac.uk/courses/study/occupational-therapy-bsc-hons.aspx",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; HCPC/RCOT accredited."
+    "notes": "Listed in UCAS 2026; HCPC/RCOT accredited."
   },
   {
     "name": "University of East Anglia",
@@ -45,7 +45,7 @@
     "applicationCode": "B930",
     "sourceUrl": "https://www.uea.ac.uk/course/undergraduate/bsc-occupational-therapy",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; HCPC/RCOT accredited."
+    "notes": "Listed in UCAS 2026; HCPC/RCOT accredited."
   },
   {
     "name": "Cardiff University",
@@ -61,7 +61,7 @@
     "applicationCode": "B930",
     "sourceUrl": "https://www.cardiff.ac.uk/study/undergraduate/courses/2026/occupational-therapy-bsc",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; HCPC/RCOT accredited."
+    "notes": "Listed in UCAS 2026; HCPC/RCOT accredited."
   },
   {
     "name": "Coventry University",
@@ -77,7 +77,7 @@
     "applicationCode": "B930",
     "sourceUrl": "https://www.coventry.ac.uk/course-structure/ug/2026-27/hls/occupational-therapy-bsc-hons/",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; HCPC/RCOT accredited."
+    "notes": "Listed in UCAS 2026; HCPC/RCOT accredited."
   },
   {
     "name": "Sheffield Hallam University",
@@ -93,7 +93,7 @@
     "applicationCode": "B930",
     "sourceUrl": "https://www.shu.ac.uk/courses/health-and-social-care/bsc-honours-occupational-therapy",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; HCPC/RCOT accredited."
+    "notes": "Listed in UCAS 2026; HCPC/RCOT accredited."
   },
   {
     "name": "York St John University",
@@ -109,6 +109,6 @@
     "applicationCode": "B930",
     "sourceUrl": "https://www.yorksj.ac.uk/courses/undergraduate-courses/occupational-therapy-bsc/",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; HCPC/RCOT accredited."
+    "notes": "Listed in UCAS 2026; HCPC/RCOT accredited."
   }
 ]

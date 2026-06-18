@@ -39,7 +39,7 @@ function buildColumns(rankLabel) {
     { key: 'subjectRank', label: rankLabel, sortable: true },
     { key: 'entryGrades', label: 'Entry Grades', sortable: true },
     { key: 'gradProspects', label: 'Grad Prospects', sortable: true },
-    { key: 'notes', label: 'Audit Status', sortable: false },
+    { key: 'notes', label: 'Highlights', sortable: false },
   ];
 }
 

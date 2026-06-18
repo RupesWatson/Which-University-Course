@@ -14,7 +14,7 @@
     "sourceUrl": "https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/pharmacy-mpharm",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/subjects/pharmacology-and-pharmacy",
-    "notes": "Verified UCAS 2026 exact title match; GPhC-accredited 4-year MPharm; UCL School of Pharmacy."
+    "notes": "Listed in UCAS 2026; GPhC-accredited 4-year MPharm; UCL School of Pharmacy."
   },
   {
     "name": "University of Manchester",
@@ -31,7 +31,7 @@
     "sourceUrl": "https://www.manchester.ac.uk/study/undergraduate/courses/2026/pharmacy-mpharm/",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/subjects/pharmacology-and-pharmacy",
-    "notes": "Verified UCAS 2026 exact title match; GPhC-accredited."
+    "notes": "Listed in UCAS 2026; GPhC-accredited."
   },
   {
     "name": "University of Nottingham",
@@ -48,7 +48,7 @@
     "sourceUrl": "https://www.nottingham.ac.uk/ugstudy/course/Pharmacy-MPharm",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/subjects/pharmacology-and-pharmacy",
-    "notes": "Verified UCAS 2026 exact title match; GPhC-accredited."
+    "notes": "Listed in UCAS 2026; GPhC-accredited."
   },
   {
     "name": "Queen's University Belfast",
@@ -65,7 +65,7 @@
     "sourceUrl": "https://www.qub.ac.uk/courses/undergraduate/pharmacy-mpharm-b230/",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/subjects/pharmacology-and-pharmacy",
-    "notes": "Verified UCAS 2026 exact title match; GPhC-accredited."
+    "notes": "Listed in UCAS 2026; GPhC-accredited."
   },
   {
     "name": "University of Bath",
@@ -82,7 +82,7 @@
     "sourceUrl": "https://www.bath.ac.uk/courses/undergraduate-2026/pharmacy/mpharm-hons-pharmacy/",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/subjects/pharmacology-and-pharmacy",
-    "notes": "Verified UCAS 2026 exact title match; GPhC-accredited."
+    "notes": "Listed in UCAS 2026; GPhC-accredited."
   },
   {
     "name": "Cardiff University",
@@ -99,7 +99,7 @@
     "sourceUrl": "https://www.cardiff.ac.uk/study/undergraduate/courses/2026/pharmacy-mpharm",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/subjects/pharmacology-and-pharmacy",
-    "notes": "Verified UCAS 2026 exact title match; GPhC-accredited."
+    "notes": "Listed in UCAS 2026; GPhC-accredited."
   },
   {
     "name": "King's College London",
@@ -116,7 +116,7 @@
     "sourceUrl": "https://www.kcl.ac.uk/study/undergraduate/courses/pharmacy-mpharm",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/subjects/pharmacology-and-pharmacy",
-    "notes": "Verified UCAS 2026 exact title match; GPhC-accredited."
+    "notes": "Listed in UCAS 2026; GPhC-accredited."
   },
   {
     "name": "University of Birmingham",
@@ -133,7 +133,7 @@
     "sourceUrl": "https://www.birmingham.ac.uk/undergraduate/courses/pharmacy/pharmacy-mpharm",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/subjects/pharmacology-and-pharmacy",
-    "notes": "Verified UCAS 2026 exact title match; GPhC-accredited."
+    "notes": "Listed in UCAS 2026; GPhC-accredited."
   },
   {
     "name": "Aston University",
@@ -150,7 +150,7 @@
     "sourceUrl": "https://www.aston.ac.uk/study/courses/pharmacy-mpharm",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/subjects/pharmacology-and-pharmacy",
-    "notes": "Verified UCAS 2026 exact title match; GPhC-accredited."
+    "notes": "Listed in UCAS 2026; GPhC-accredited."
   },
   {
     "name": "University of Strathclyde",
@@ -167,7 +167,7 @@
     "sourceUrl": "https://www.strath.ac.uk/courses/undergraduate/pharmacy/",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/subjects/pharmacology-and-pharmacy",
-    "notes": "Verified UCAS 2026 exact title match; GPhC-accredited."
+    "notes": "Listed in UCAS 2026; GPhC-accredited."
   },
   {
     "name": "Robert Gordon University",
@@ -183,7 +183,7 @@
     "applicationCode": "B230",
     "sourceUrl": "https://www.rgu.ac.uk/study/courses/pharmacy-mpharm",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; GPhC-accredited."
+    "notes": "Listed in UCAS 2026; GPhC-accredited."
   },
   {
     "name": "University of East Anglia",
@@ -199,6 +199,6 @@
     "applicationCode": "B230",
     "sourceUrl": "https://www.uea.ac.uk/course/undergraduate/mpharm-pharmacy",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; GPhC-accredited."
+    "notes": "Listed in UCAS 2026; GPhC-accredited."
   }
 ]

@@ -14,7 +14,7 @@
     "sourceUrl": "https://www.undergraduate.study.cam.ac.uk/courses/computer-science",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/subjects/computer-science",
-    "notes": "Verified UCAS 2026 exact title match; A* in Maths required, second A* typically in Further Maths, Physics or Computer Science. Highly competitive."
+    "notes": "Listed in UCAS 2026; A* in Maths required, second A* typically in Further Maths, Physics or Computer Science. Highly competitive."
   },
   {
     "name": "University of Oxford",
@@ -31,7 +31,7 @@
     "sourceUrl": "https://www.cs.ox.ac.uk/admissions/undergraduate/computer-science.html",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/subjects/computer-science",
-    "notes": "Verified UCAS 2026 exact title match; A* in Maths required. MAT (Mathematics Admissions Test) required."
+    "notes": "Listed in UCAS 2026; A* in Maths required. MAT (Mathematics Admissions Test) required."
   },
   {
     "name": "Imperial College London",
@@ -48,7 +48,7 @@
     "sourceUrl": "https://www.imperial.ac.uk/study/courses/2026/computing-beng/",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/subjects/computer-science",
-    "notes": "Verified UCAS 2026 exact title match; A* in Maths and Further Maths preferred. TMUA admissions test."
+    "notes": "Listed in UCAS 2026; A* in Maths and Further Maths preferred. TMUA admissions test."
   },
   {
     "name": "University College London",
@@ -65,7 +65,7 @@
     "sourceUrl": "https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/computer-science-bsc",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/subjects/computer-science",
-    "notes": "Verified UCAS 2026 exact title match; A* in Maths essential."
+    "notes": "Listed in UCAS 2026; A* in Maths essential."
   },
   {
     "name": "University of Edinburgh",
@@ -82,7 +82,7 @@
     "sourceUrl": "https://www.ed.ac.uk/studying/undergraduate/degrees/index.php?action=programme&code=GG14",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/subjects/computer-science",
-    "notes": "Verified UCAS 2026 exact title match; Maths required at A or above. Four-year MA Hons available."
+    "notes": "Listed in UCAS 2026; Maths required at A or above. Four-year MA Hons available."
   },
   {
     "name": "University of Manchester",
@@ -99,7 +99,7 @@
     "sourceUrl": "https://www.manchester.ac.uk/study/undergraduate/courses/2026/00516/bsc-computer-science/",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/subjects/computer-science",
-    "notes": "Verified UCAS 2026 exact title match; A* in Maths required. Optional placement year."
+    "notes": "Listed in UCAS 2026; A* in Maths required. Optional placement year."
   },
   {
     "name": "University of Bristol",
@@ -116,7 +116,7 @@
     "sourceUrl": "https://www.bristol.ac.uk/study/undergraduate/2026/eng/bsc-computer-science/",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/subjects/computer-science",
-    "notes": "Verified UCAS 2026 exact title match; A* in Mathematics required."
+    "notes": "Listed in UCAS 2026; A* in Mathematics required."
   },
   {
     "name": "University of Warwick",
@@ -133,7 +133,7 @@
     "sourceUrl": "https://warwick.ac.uk/study/undergraduate/courses/computerscience-g400",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/subjects/computer-science",
-    "notes": "Verified UCAS 2026 exact title match; A* in Mathematics required."
+    "notes": "Listed in UCAS 2026; A* in Mathematics required."
   },
   {
     "name": "University of Southampton",
@@ -150,7 +150,7 @@
     "sourceUrl": "https://www.southampton.ac.uk/courses/computer-science-degree-bsc",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/subjects/computer-science",
-    "notes": "Verified UCAS 2026 exact title match; Maths A-level required."
+    "notes": "Listed in UCAS 2026; Maths A-level required."
   },
   {
     "name": "University of Bath",
@@ -167,7 +167,7 @@
     "sourceUrl": "https://www.bath.ac.uk/courses/undergraduate-2026/computer-science/bsc-hons-computer-science/",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/subjects/computer-science",
-    "notes": "Verified UCAS 2026 exact title match; A* in Maths required. Strong industrial placement programme."
+    "notes": "Listed in UCAS 2026; A* in Maths required. Strong industrial placement programme."
   },
   {
     "name": "University of Glasgow",
@@ -184,7 +184,7 @@
     "sourceUrl": "https://www.gla.ac.uk/undergraduate/degrees/computingscience/",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/subjects/computer-science",
-    "notes": "Verified UCAS 2026 exact title match; Maths required at A. Five-year MSci with industry."
+    "notes": "Listed in UCAS 2026; Maths required at A. Five-year MSci with industry."
   },
   {
     "name": "University of Birmingham",
@@ -201,7 +201,7 @@
     "sourceUrl": "https://www.birmingham.ac.uk/undergraduate/courses/computer-science/computer-science-bsc",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/subjects/computer-science",
-    "notes": "Verified UCAS 2026 exact title match; A in Maths required."
+    "notes": "Listed in UCAS 2026; A in Maths required."
   },
   {
     "name": "University of Leeds",
@@ -218,7 +218,7 @@
     "sourceUrl": "https://courses.leeds.ac.uk/c050/computer-science-bsc",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/subjects/computer-science",
-    "notes": "Verified UCAS 2026 exact title match; Maths A-level required."
+    "notes": "Listed in UCAS 2026; Maths A-level required."
   },
   {
     "name": "University of Durham",
@@ -235,7 +235,7 @@
     "sourceUrl": "https://www.durham.ac.uk/study/courses/computer-science-g400/",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/subjects/computer-science",
-    "notes": "Verified UCAS 2026 exact title match; A* in Maths required."
+    "notes": "Listed in UCAS 2026; A* in Maths required."
   },
   {
     "name": "King's College London",
@@ -252,7 +252,7 @@
     "sourceUrl": "https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-bsc",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/subjects/computer-science",
-    "notes": "Verified UCAS 2026 exact title match; A* in Mathematics required."
+    "notes": "Listed in UCAS 2026; A* in Mathematics required."
   },
   {
     "name": "University of Sheffield",
@@ -269,7 +269,7 @@
     "sourceUrl": "https://www.sheffield.ac.uk/undergraduate/courses/2026/computer-science-bsc",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/subjects/computer-science",
-    "notes": "Verified UCAS 2026 exact title match; Maths required at B or above."
+    "notes": "Listed in UCAS 2026; Maths required at B or above."
   },
   {
     "name": "University of St Andrews",
@@ -286,6 +286,6 @@
     "sourceUrl": "https://www.st-andrews.ac.uk/subjects/computer-science/computer-science-bsc-msci-ma/",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/subjects/computer-science",
-    "notes": "Verified UCAS 2026 exact title match; Maths A-level required."
+    "notes": "Listed in UCAS 2026; Maths A-level required."
   }
 ]

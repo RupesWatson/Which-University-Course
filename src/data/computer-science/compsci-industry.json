@@ -13,7 +13,7 @@
     "applicationCode": "G401",
     "sourceUrl": "https://www.bath.ac.uk/courses/undergraduate-2026/computer-science/bsc-hons-computer-science-placement/",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; placement record is among the best in UK CS — typical placement salary £25-35k."
+    "notes": "Listed in UCAS 2026; placement record is among the best in UK CS — typical placement salary £25-35k."
   },
   {
     "name": "University of Birmingham",
@@ -29,7 +29,7 @@
     "applicationCode": "G401",
     "sourceUrl": "https://www.birmingham.ac.uk/undergraduate/courses/computer-science/computer-science-year-industry-bsc",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; A in Maths required."
+    "notes": "Listed in UCAS 2026; A in Maths required."
   },
   {
     "name": "University of Manchester",
@@ -45,7 +45,7 @@
     "applicationCode": "G401",
     "sourceUrl": "https://www.manchester.ac.uk/study/undergraduate/courses/2026/computer-science-industrial-experience/",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; A* in Maths required."
+    "notes": "Listed in UCAS 2026; A* in Maths required."
   },
   {
     "name": "University of Sheffield",
@@ -61,7 +61,7 @@
     "applicationCode": "G401",
     "sourceUrl": "https://www.sheffield.ac.uk/undergraduate/courses/2026/computer-science-year-industry-bsc",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; Maths required."
+    "notes": "Listed in UCAS 2026; Maths required."
   },
   {
     "name": "University of Leeds",
@@ -77,7 +77,7 @@
     "applicationCode": "G401",
     "sourceUrl": "https://courses.leeds.ac.uk/c052/computer-science-industrial-bsc",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; Maths A required."
+    "notes": "Listed in UCAS 2026; Maths A required."
   },
   {
     "name": "Lancaster University",
@@ -93,7 +93,7 @@
     "applicationCode": "G401",
     "sourceUrl": "https://www.lancaster.ac.uk/study/undergraduate/courses/computer-science-bsc-hons-industry/",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; placement year integrated."
+    "notes": "Listed in UCAS 2026; placement year integrated."
   },
   {
     "name": "Aston University",
@@ -109,7 +109,7 @@
     "applicationCode": "G401",
     "sourceUrl": "https://www.aston.ac.uk/study/courses/computer-science-bsc-placement",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; placement year integrated since 1947."
+    "notes": "Listed in UCAS 2026; placement year integrated since 1947."
   },
   {
     "name": "University of Surrey",
@@ -125,7 +125,7 @@
     "applicationCode": "G401",
     "sourceUrl": "https://www.surrey.ac.uk/undergraduate/computer-science",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; renowned Professional Training Year scheme."
+    "notes": "Listed in UCAS 2026; renowned Professional Training Year scheme."
   },
   {
     "name": "Brunel University London",
@@ -141,7 +141,7 @@
     "applicationCode": "G401",
     "sourceUrl": "https://www.brunel.ac.uk/study/undergraduate/Computer-Science-BSc-Sandwich",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; sandwich placement integrated since founding."
+    "notes": "Listed in UCAS 2026; sandwich placement integrated since founding."
   },
   {
     "name": "Loughborough University",
@@ -157,7 +157,7 @@
     "applicationCode": "G400",
     "sourceUrl": "https://www.lboro.ac.uk/study/undergraduate/courses/2026/computer-science-sandwich/",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; one of the highest placement participation rates in UK."
+    "notes": "Listed in UCAS 2026; one of the highest placement participation rates in UK."
   },
   {
     "name": "Newcastle University",
@@ -173,7 +173,7 @@
     "applicationCode": "G401",
     "sourceUrl": "https://www.ncl.ac.uk/undergraduate/degrees/g401/",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; placement year between Years 2 and 3."
+    "notes": "Listed in UCAS 2026; placement year between Years 2 and 3."
   },
   {
     "name": "University of Nottingham",
@@ -189,6 +189,6 @@
     "applicationCode": "G401",
     "sourceUrl": "https://www.nottingham.ac.uk/ugstudy/course/Computer-Science-with-Year-in-Industry-BSc",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; Maths A required."
+    "notes": "Listed in UCAS 2026; Maths A required."
   }
 ]

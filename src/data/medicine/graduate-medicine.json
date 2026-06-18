@@ -13,7 +13,7 @@
     "applicationCode": "A101",
     "sourceUrl": "https://www.undergraduate.study.cam.ac.uk/courses/medicine-graduate-course",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; GAMSAT required; 4-year accelerated graduate-entry programme."
+    "notes": "Listed in UCAS 2026; GAMSAT required; 4-year accelerated graduate-entry programme."
   },
   {
     "name": "University of Oxford",
@@ -29,7 +29,7 @@
     "applicationCode": "A101",
     "sourceUrl": "https://www.medsci.ox.ac.uk/study/medicine/graduate-entry-medicine",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; UCAT not required; very small cohort; 4-year accelerated."
+    "notes": "Listed in UCAS 2026; UCAT not required; very small cohort; 4-year accelerated."
   },
   {
     "name": "St George's, University of London",
@@ -45,7 +45,7 @@
     "applicationCode": "A101",
     "sourceUrl": "https://www.sgul.ac.uk/study/undergraduate/medicine-mbbs-graduate-entry",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; GAMSAT required; one of UK's longest-established graduate medicine programmes."
+    "notes": "Listed in UCAS 2026; GAMSAT required; one of UK's longest-established graduate medicine programmes."
   },
   {
     "name": "King's College London",
@@ -61,7 +61,7 @@
     "applicationCode": "A102",
     "sourceUrl": "https://www.kcl.ac.uk/study/undergraduate/courses/medicine-mbbs-graduate-professional-entry",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; UCAT required; 4-year programme."
+    "notes": "Listed in UCAS 2026; UCAT required; 4-year programme."
   },
   {
     "name": "University of Warwick",
@@ -77,7 +77,7 @@
     "applicationCode": "A101",
     "sourceUrl": "https://warwick.ac.uk/study/undergraduate/courses/medicine-mbchb-a101",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; UCAT required; UK's largest dedicated graduate-entry programme."
+    "notes": "Listed in UCAS 2026; UCAT required; UK's largest dedicated graduate-entry programme."
   },
   {
     "name": "University of Nottingham",
@@ -93,7 +93,7 @@
     "applicationCode": "A101",
     "sourceUrl": "https://www.nottingham.ac.uk/ugstudy/course/Graduate-Entry-Medicine-BMBS",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; GAMSAT required; based at Derby campus."
+    "notes": "Listed in UCAS 2026; GAMSAT required; based at Derby campus."
   },
   {
     "name": "University of Southampton",
@@ -109,7 +109,7 @@
     "applicationCode": "A101",
     "sourceUrl": "https://www.southampton.ac.uk/courses/graduate-entry-medicine-degree-bm-bs",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; UCAT required; 4-year accelerated."
+    "notes": "Listed in UCAS 2026; UCAT required; 4-year accelerated."
   },
   {
     "name": "Newcastle University",
@@ -125,7 +125,7 @@
     "applicationCode": "A101",
     "sourceUrl": "https://www.ncl.ac.uk/undergraduate/degrees/a101/",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; UCAT required; 4-year accelerated."
+    "notes": "Listed in UCAS 2026; UCAT required; 4-year accelerated."
   },
   {
     "name": "Liverpool University",
@@ -141,7 +141,7 @@
     "applicationCode": "A102",
     "sourceUrl": "https://www.liverpool.ac.uk/courses/2026/medicine-and-surgery-graduate-mbchb",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; UCAT required."
+    "notes": "Listed in UCAS 2026; UCAT required."
   },
   {
     "name": "Imperial College London",
@@ -157,6 +157,6 @@
     "applicationCode": "A101",
     "sourceUrl": "https://www.imperial.ac.uk/study/courses/2026/graduate-medicine-mbbs/",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; very small cohort; only open to top biomedical sciences graduates."
+    "notes": "Listed in UCAS 2026; very small cohort; only open to top biomedical sciences graduates."
   }
 ]

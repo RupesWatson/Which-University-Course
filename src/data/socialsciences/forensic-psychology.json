@@ -14,7 +14,7 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/fp000001-a1b2-4c3d-8e5f-180000000001",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-surrey",
-    "notes": "Verified UCAS 2026 exact title match; comparison table rank #1"
+    "notes": "Listed in UCAS 2026; comparison table rank #1"
   },
   {
     "name": "University of Kent",
@@ -31,7 +31,7 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/fp000002-b2c3-4d4e-9f6a-280000000002",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-kent",
-    "notes": "Verified UCAS 2026 exact title match; comparison table rank #2"
+    "notes": "Listed in UCAS 2026; comparison table rank #2"
   },
   {
     "name": "University of Portsmouth",
@@ -48,7 +48,7 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/fp000003-c3d4-4e5f-a07b-380000000003",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-portsmouth",
-    "notes": "Verified UCAS 2026 exact title match; comparison table rank #3"
+    "notes": "Listed in UCAS 2026; comparison table rank #3"
   },
   {
     "name": "University of Leicester",
@@ -65,7 +65,7 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/fp000004-d4e5-4f60-b18c-480000000004",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-leicester",
-    "notes": "Verified UCAS 2026 exact title match; comparison table rank #4"
+    "notes": "Listed in UCAS 2026; comparison table rank #4"
   },
   {
     "name": "University of Huddersfield",
@@ -82,7 +82,7 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/fp000005-e5f6-4071-c29d-580000000005",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-huddersfield",
-    "notes": "Verified UCAS 2026 exact title match; comparison table rank #5"
+    "notes": "Listed in UCAS 2026; comparison table rank #5"
   },
   {
     "name": "Nottingham Trent University",
@@ -99,7 +99,7 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/fp000006-f6a7-4182-d3ae-680000000006",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/nottingham-trent-university",
-    "notes": "Verified UCAS 2026 exact title match; comparison table rank #6"
+    "notes": "Listed in UCAS 2026; comparison table rank #6"
   },
   {
     "name": "Coventry University",
@@ -116,7 +116,7 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/fp000007-a7b8-4293-e4bf-780000000007",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/coventry-university",
-    "notes": "Verified UCAS 2026 exact title match; comparison table rank #7"
+    "notes": "Listed in UCAS 2026; comparison table rank #7"
   },
   {
     "name": "Manchester Metropolitan University",
@@ -133,7 +133,7 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/fp000008-b8c9-43a4-f5c0-880000000008",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/manchester-metropolitan-university",
-    "notes": "Verified UCAS 2026 exact title match; comparison table rank #8"
+    "notes": "Listed in UCAS 2026; comparison table rank #8"
   },
   {
     "name": "Leeds Beckett University",
@@ -150,7 +150,7 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/fp000009-c9d0-44b5-06d1-980000000009",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/leeds-beckett-university",
-    "notes": "Verified UCAS 2026 exact title match; comparison table rank #9"
+    "notes": "Listed in UCAS 2026; comparison table rank #9"
   },
   {
     "name": "Sheffield Hallam University",
@@ -167,7 +167,7 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/fp000010-d0e1-45c6-17e2-a80000000010",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/sheffield-hallam-university",
-    "notes": "Verified UCAS 2026 exact title match; comparison table rank #10"
+    "notes": "Listed in UCAS 2026; comparison table rank #10"
   },
   {
     "name": "Anglia Ruskin University",
@@ -184,7 +184,7 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/fp000011-e1f2-46d7-28f3-b80000000011",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/anglia-ruskin-university",
-    "notes": "Verified UCAS 2026 exact title match; comparison table rank #11"
+    "notes": "Listed in UCAS 2026; comparison table rank #11"
   },
   {
     "name": "Middlesex University",
@@ -201,6 +201,6 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/fp000012-f2a3-47e8-39a4-c80000000012",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/middlesex-university",
-    "notes": "Verified UCAS 2026 exact title match; comparison table rank #12"
+    "notes": "Listed in UCAS 2026; comparison table rank #12"
   }
 ]

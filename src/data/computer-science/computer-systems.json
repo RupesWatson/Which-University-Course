@@ -29,7 +29,7 @@
     "applicationCode": "G450",
     "sourceUrl": "https://www.york.ac.uk/study/undergraduate/courses/beng-computer-systems-software-engineering/",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; covers OS, compilers, embedded systems."
+    "notes": "Listed in UCAS 2026; covers OS, compilers, embedded systems."
   },
   {
     "name": "Lancaster University",
@@ -45,7 +45,7 @@
     "applicationCode": "G410",
     "sourceUrl": "https://www.lancaster.ac.uk/study/undergraduate/courses/computer-systems-engineering-beng-hons-g410/",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; bridges CS and electronic engineering."
+    "notes": "Listed in UCAS 2026; bridges CS and electronic engineering."
   },
   {
     "name": "University of Manchester",
@@ -61,7 +61,7 @@
     "applicationCode": "GH46",
     "sourceUrl": "https://www.manchester.ac.uk/study/undergraduate/courses/2026/computer-systems-engineering-meng/",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; integrated MEng with industry."
+    "notes": "Listed in UCAS 2026; integrated MEng with industry."
   },
   {
     "name": "University of Edinburgh",
@@ -125,7 +125,7 @@
     "applicationCode": "G450",
     "sourceUrl": "https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2026/computer-systems-engineering-meng/",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; Maths A required."
+    "notes": "Listed in UCAS 2026; Maths A required."
   },
   {
     "name": "Heriot-Watt University",
@@ -141,7 +141,7 @@
     "applicationCode": "G450",
     "sourceUrl": "https://www.hw.ac.uk/uk/study/undergraduate/computer-systems.htm",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; Edinburgh tech-cluster placement opportunities."
+    "notes": "Listed in UCAS 2026; Edinburgh tech-cluster placement opportunities."
   },
   {
     "name": "Cardiff University",
@@ -157,7 +157,7 @@
     "applicationCode": "G410",
     "sourceUrl": "https://www.cardiff.ac.uk/study/undergraduate/courses/2026/computer-systems-engineering-bsc",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; Maths required at B."
+    "notes": "Listed in UCAS 2026; Maths required at B."
   },
   {
     "name": "Newcastle University",
@@ -173,7 +173,7 @@
     "applicationCode": "G410",
     "sourceUrl": "https://www.ncl.ac.uk/undergraduate/degrees/g410/",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; Maths A required."
+    "notes": "Listed in UCAS 2026; Maths A required."
   },
   {
     "name": "University of Sussex",
@@ -189,6 +189,6 @@
     "applicationCode": "G450",
     "sourceUrl": "https://www.sussex.ac.uk/study/undergraduate/courses/computer-systems-engineering-beng",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; Maths preferred."
+    "notes": "Listed in UCAS 2026; Maths preferred."
   }
 ]

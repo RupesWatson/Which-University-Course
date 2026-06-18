@@ -13,7 +13,7 @@
     "applicationCode": "G600",
     "sourceUrl": "https://www.imperial.ac.uk/study/courses/2026/computing-software-engineering-meng/",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; MEng with industry placement. A* in Maths and Further Maths preferred."
+    "notes": "Listed in UCAS 2026; MEng with industry placement. A* in Maths and Further Maths preferred."
   },
   {
     "name": "University of Southampton",
@@ -29,7 +29,7 @@
     "applicationCode": "G600",
     "sourceUrl": "https://www.southampton.ac.uk/courses/software-engineering-degree-meng",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; Maths A-level required. Four-year MEng with industrial focus."
+    "notes": "Listed in UCAS 2026; Maths A-level required. Four-year MEng with industrial focus."
   },
   {
     "name": "University of Manchester",
@@ -45,7 +45,7 @@
     "applicationCode": "GG46",
     "sourceUrl": "https://www.manchester.ac.uk/study/undergraduate/courses/2026/00523/bsc-software-engineering/",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; A* in Maths required. Strong industry-led curriculum."
+    "notes": "Listed in UCAS 2026; A* in Maths required. Strong industry-led curriculum."
   },
   {
     "name": "University of Leeds",
@@ -77,7 +77,7 @@
     "applicationCode": "G600",
     "sourceUrl": "https://www.birmingham.ac.uk/undergraduate/courses/computer-science/computer-science-software-engineering-bsc",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; A in Maths required."
+    "notes": "Listed in UCAS 2026; A in Maths required."
   },
   {
     "name": "University of Glasgow",
@@ -93,7 +93,7 @@
     "applicationCode": "G600",
     "sourceUrl": "https://www.gla.ac.uk/undergraduate/degrees/softwareengineering/",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; Maths A required."
+    "notes": "Listed in UCAS 2026; Maths A required."
   },
   {
     "name": "Heriot-Watt University",
@@ -109,7 +109,7 @@
     "applicationCode": "G600",
     "sourceUrl": "https://www.hw.ac.uk/uk/study/undergraduate/software-engineering.htm",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; strong industry partnerships, optional year in industry."
+    "notes": "Listed in UCAS 2026; strong industry partnerships, optional year in industry."
   },
   {
     "name": "Aston University",
@@ -125,7 +125,7 @@
     "applicationCode": "G600",
     "sourceUrl": "https://www.aston.ac.uk/study/courses/software-engineering-bsc",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; integrated placement year recognised in salary uplift."
+    "notes": "Listed in UCAS 2026; integrated placement year recognised in salary uplift."
   },
   {
     "name": "Coventry University",
@@ -141,7 +141,7 @@
     "applicationCode": "G600",
     "sourceUrl": "https://www.coventry.ac.uk/course-structure/ug/2026-27/eec/software-engineering-bsc-hons/",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; sandwich placement available."
+    "notes": "Listed in UCAS 2026; sandwich placement available."
   },
   {
     "name": "Lancaster University",
@@ -189,7 +189,7 @@
     "applicationCode": "G601",
     "sourceUrl": "https://www.ncl.ac.uk/undergraduate/degrees/g601/",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; Maths required at A."
+    "notes": "Listed in UCAS 2026; Maths required at A."
   },
   {
     "name": "University of Sussex",
@@ -205,7 +205,7 @@
     "applicationCode": "G600",
     "sourceUrl": "https://www.sussex.ac.uk/study/undergraduate/courses/software-engineering-bsc",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; Maths preferred but not essential at A."
+    "notes": "Listed in UCAS 2026; Maths preferred but not essential at A."
   },
   {
     "name": "University of Hull",
@@ -221,7 +221,7 @@
     "applicationCode": "G600",
     "sourceUrl": "https://www.hull.ac.uk/courses/undergraduate/software-engineering-bsc",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; placement year available."
+    "notes": "Listed in UCAS 2026; placement year available."
   },
   {
     "name": "University of Surrey",
@@ -237,6 +237,6 @@
     "applicationCode": "G601",
     "sourceUrl": "https://www.surrey.ac.uk/undergraduate/computer-science-software-engineering",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; strong placement record with London tech employers."
+    "notes": "Listed in UCAS 2026; strong placement record with London tech employers."
   }
 ]

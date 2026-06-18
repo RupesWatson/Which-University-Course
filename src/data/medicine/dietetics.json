@@ -13,7 +13,7 @@
     "applicationCode": "B400",
     "sourceUrl": "https://www.kcl.ac.uk/study/undergraduate/courses/nutrition-and-dietetics-bsc",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; HCPC/BDA accredited."
+    "notes": "Listed in UCAS 2026; HCPC/BDA accredited."
   },
   {
     "name": "University of Surrey",
@@ -29,7 +29,7 @@
     "applicationCode": "B400",
     "sourceUrl": "https://www.surrey.ac.uk/undergraduate/nutrition-and-dietetics",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; HCPC/BDA accredited."
+    "notes": "Listed in UCAS 2026; HCPC/BDA accredited."
   },
   {
     "name": "University of Leeds",
@@ -45,7 +45,7 @@
     "applicationCode": "B400",
     "sourceUrl": "https://courses.leeds.ac.uk/i166/dietetics-bsc",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; HCPC/BDA accredited."
+    "notes": "Listed in UCAS 2026; HCPC/BDA accredited."
   },
   {
     "name": "University of Nottingham",
@@ -61,7 +61,7 @@
     "applicationCode": "B400",
     "sourceUrl": "https://www.nottingham.ac.uk/ugstudy/course/Nutrition-and-Dietetics-BSc",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; HCPC/BDA accredited."
+    "notes": "Listed in UCAS 2026; HCPC/BDA accredited."
   },
   {
     "name": "Queen Margaret University",
@@ -77,7 +77,7 @@
     "applicationCode": "B400",
     "sourceUrl": "https://www.qmu.ac.uk/study-here/undergraduate-study/2026-undergraduate-courses/dietetics-bsc-hons/",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; HCPC/BDA accredited."
+    "notes": "Listed in UCAS 2026; HCPC/BDA accredited."
   },
   {
     "name": "Cardiff Metropolitan University",
@@ -93,7 +93,7 @@
     "applicationCode": "B400",
     "sourceUrl": "https://www.cardiffmet.ac.uk/health/courses/Pages/human-nutrition-and-dietetics-bsc-hons-degree.aspx",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; HCPC/BDA accredited."
+    "notes": "Listed in UCAS 2026; HCPC/BDA accredited."
   },
   {
     "name": "University of Plymouth",
@@ -109,6 +109,6 @@
     "applicationCode": "B400",
     "sourceUrl": "https://www.plymouth.ac.uk/courses/undergraduate/bsc-dietetics",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; HCPC/BDA accredited."
+    "notes": "Listed in UCAS 2026; HCPC/BDA accredited."
   }
 ]

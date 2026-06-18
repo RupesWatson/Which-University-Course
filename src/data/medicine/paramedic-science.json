@@ -13,7 +13,7 @@
     "applicationCode": "B780",
     "sourceUrl": "https://www.sgul.ac.uk/study/undergraduate/paramedic-science-bsc",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; HCPC-approved; placements with London Ambulance Service."
+    "notes": "Listed in UCAS 2026; HCPC-approved; placements with London Ambulance Service."
   },
   {
     "name": "Coventry University",
@@ -29,7 +29,7 @@
     "applicationCode": "B780",
     "sourceUrl": "https://www.coventry.ac.uk/course-structure/ug/2026-27/hls/paramedic-science-bsc-hons/",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; HCPC-approved."
+    "notes": "Listed in UCAS 2026; HCPC-approved."
   },
   {
     "name": "University of Plymouth",
@@ -45,7 +45,7 @@
     "applicationCode": "B780",
     "sourceUrl": "https://www.plymouth.ac.uk/courses/undergraduate/bsc-paramedic-practitioner",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; HCPC-approved."
+    "notes": "Listed in UCAS 2026; HCPC-approved."
   },
   {
     "name": "Anglia Ruskin University",
@@ -61,7 +61,7 @@
     "applicationCode": "B780",
     "sourceUrl": "https://www.aru.ac.uk/study/undergraduate/paramedic-science",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; HCPC-approved."
+    "notes": "Listed in UCAS 2026; HCPC-approved."
   },
   {
     "name": "University of Cumbria",
@@ -77,7 +77,7 @@
     "applicationCode": "B780",
     "sourceUrl": "https://www.cumbria.ac.uk/study/courses/undergraduate/paramedic-practice/",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; HCPC-approved."
+    "notes": "Listed in UCAS 2026; HCPC-approved."
   },
   {
     "name": "Liverpool John Moores University",
@@ -93,7 +93,7 @@
     "applicationCode": "B780",
     "sourceUrl": "https://www.ljmu.ac.uk/study/courses/undergraduates/paramedic-practice-bsc",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; HCPC-approved."
+    "notes": "Listed in UCAS 2026; HCPC-approved."
   },
   {
     "name": "University of Brighton",
@@ -109,7 +109,7 @@
     "applicationCode": "B780",
     "sourceUrl": "https://www.brighton.ac.uk/courses/study/paramedic-practice-bsc-hons.aspx",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; HCPC-approved."
+    "notes": "Listed in UCAS 2026; HCPC-approved."
   },
   {
     "name": "University of Hertfordshire",
@@ -125,6 +125,6 @@
     "applicationCode": "B780",
     "sourceUrl": "https://www.herts.ac.uk/courses/undergraduate/paramedic-science",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; HCPC-approved."
+    "notes": "Listed in UCAS 2026; HCPC-approved."
   }
 ]

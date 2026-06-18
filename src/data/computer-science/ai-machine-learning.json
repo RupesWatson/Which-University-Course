@@ -13,7 +13,7 @@
     "applicationCode": "G700",
     "sourceUrl": "https://www.ed.ac.uk/studying/undergraduate/degrees/index.php?action=programme&code=G700",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; Edinburgh is the UK's leading centre for AI research (home of the original AI department). Maths A required."
+    "notes": "Listed in UCAS 2026; Edinburgh is the UK's leading centre for AI research (home of the original AI department). Maths A required."
   },
   {
     "name": "Imperial College London",
@@ -29,7 +29,7 @@
     "applicationCode": "G401",
     "sourceUrl": "https://www.imperial.ac.uk/study/courses/2026/computing-ai-ml-meng/",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; four-year MEng. A* in Maths required."
+    "notes": "Listed in UCAS 2026; four-year MEng. A* in Maths required."
   },
   {
     "name": "University College London",
@@ -61,7 +61,7 @@
     "applicationCode": "G700",
     "sourceUrl": "https://www.manchester.ac.uk/study/undergraduate/courses/2026/00524/bsc-artificial-intelligence/",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; A* in Maths required."
+    "notes": "Listed in UCAS 2026; A* in Maths required."
   },
   {
     "name": "University of Southampton",
@@ -77,7 +77,7 @@
     "applicationCode": "G700",
     "sourceUrl": "https://www.southampton.ac.uk/courses/artificial-intelligence-degree-bsc",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; Maths required at A."
+    "notes": "Listed in UCAS 2026; Maths required at A."
   },
   {
     "name": "University of Birmingham",
@@ -93,7 +93,7 @@
     "applicationCode": "GG74",
     "sourceUrl": "https://www.birmingham.ac.uk/undergraduate/courses/computer-science/computer-science-artificial-intelligence-bsc",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; A in Maths required."
+    "notes": "Listed in UCAS 2026; A in Maths required."
   },
   {
     "name": "University of Leeds",
@@ -109,7 +109,7 @@
     "applicationCode": "G700",
     "sourceUrl": "https://courses.leeds.ac.uk/c089/artificial-intelligence-bsc",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; Maths A required."
+    "notes": "Listed in UCAS 2026; Maths A required."
   },
   {
     "name": "University of Sheffield",
@@ -125,7 +125,7 @@
     "applicationCode": "G701",
     "sourceUrl": "https://www.sheffield.ac.uk/undergraduate/courses/2026/artificial-intelligence-and-computer-science-bsc",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; Maths required at A or above."
+    "notes": "Listed in UCAS 2026; Maths required at A or above."
   },
   {
     "name": "Queen Mary University of London",
@@ -141,7 +141,7 @@
     "applicationCode": "GG7C",
     "sourceUrl": "https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2026/computer-science-with-artificial-intelligence-bsc/",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; Maths A required."
+    "notes": "Listed in UCAS 2026; Maths A required."
   },
   {
     "name": "University of Bristol",
@@ -173,7 +173,7 @@
     "applicationCode": "G700",
     "sourceUrl": "https://www.abdn.ac.uk/study/undergraduate/degree-programmes/3092/artificial-intelligence/",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; first AI degree in Europe (1987). Maths preferred."
+    "notes": "Listed in UCAS 2026; first AI degree in Europe (1987). Maths preferred."
   },
   {
     "name": "City, University of London",
@@ -189,7 +189,7 @@
     "applicationCode": "G7C0",
     "sourceUrl": "https://www.city.ac.uk/prospective-students/courses/undergraduate/computer-science-with-artificial-intelligence",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; strong London tech employer pipeline."
+    "notes": "Listed in UCAS 2026; strong London tech employer pipeline."
   },
   {
     "name": "University of Sussex",
@@ -205,7 +205,7 @@
     "applicationCode": "G700",
     "sourceUrl": "https://www.sussex.ac.uk/study/undergraduate/courses/artificial-intelligence-bsc",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; cognitive science integration."
+    "notes": "Listed in UCAS 2026; cognitive science integration."
   },
   {
     "name": "Royal Holloway, University of London",
@@ -221,7 +221,7 @@
     "applicationCode": "G701",
     "sourceUrl": "https://www.royalholloway.ac.uk/studying-here/undergraduate/computer-science/computer-science-artificial-intelligence/",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; strong ML research group."
+    "notes": "Listed in UCAS 2026; strong ML research group."
   },
   {
     "name": "University of Essex",
@@ -237,6 +237,6 @@
     "applicationCode": "G700",
     "sourceUrl": "https://www.essex.ac.uk/courses/ug00018/1/bsc-artificial-intelligence",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; CSEE robotics labs."
+    "notes": "Listed in UCAS 2026; CSEE robotics labs."
   }
 ]

@@ -15,19 +15,19 @@ export default function ExpandedRow({ university, course, colSpan }) {
   const entryGrades = university.entryGrades || university.aLevelGrades;
   const rankText = course?.rankingScope === 'official'
     ? `#${university.subjectRank} in the CUG 2026 subject ranking`
-    : `#${university.subjectRank} in the current verified comparison set`;
+    : `#${university.subjectRank} in this comparison set`;
 
   const fields = [
-    { label: 'Verified Course', value: <LinkValue href={university.sourceUrl}>{university.courseName}</LinkValue> },
+    { label: 'Course Title', value: <LinkValue href={university.sourceUrl}>{university.courseName}</LinkValue> },
     { label: 'UCAS Code', value: university.applicationCode || 'N/A' },
-    { label: 'Match Type', value: university.matchType === 'exact' ? 'Exact course title' : 'Close course variant' },
+    { label: 'Course Type', value: university.matchType === 'exact' ? 'Exact course title' : 'Close course variant' },
     { label: 'Typical Offer', value: university.typicalOffer },
     {
       label: rankLabel,
       value: university.subjectRank != null ? rankText : 'No current table position',
     },
     { label: 'Graduate Prospects', value: `${university.gradProspects} in graduate-level employment` },
-    { label: 'Audit Status', value: university.notes },
+    { label: 'Highlights', value: university.notes },
   ];
 
   return (

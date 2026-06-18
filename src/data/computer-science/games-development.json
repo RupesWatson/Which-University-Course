@@ -13,7 +13,7 @@
     "applicationCode": "G450",
     "sourceUrl": "https://www.abertay.ac.uk/course-search/undergraduate/computer-game-applications-development/",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; Abertay is the UK's most established games university — Dundee games industry hub."
+    "notes": "Listed in UCAS 2026; Abertay is the UK's most established games university — Dundee games industry hub."
   },
   {
     "name": "University of Sheffield",
@@ -29,7 +29,7 @@
     "applicationCode": "G450",
     "sourceUrl": "https://www.sheffield.ac.uk/undergraduate/courses/2026/computer-science-with-computer-games-bsc",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; A in Maths required."
+    "notes": "Listed in UCAS 2026; A in Maths required."
   },
   {
     "name": "Goldsmiths, University of London",
@@ -45,7 +45,7 @@
     "applicationCode": "G451",
     "sourceUrl": "https://www.gold.ac.uk/ug/bsc-games-programming/",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; strong creative-coding tradition."
+    "notes": "Listed in UCAS 2026; strong creative-coding tradition."
   },
   {
     "name": "Falmouth University",
@@ -61,7 +61,7 @@
     "applicationCode": "G460",
     "sourceUrl": "https://www.falmouth.ac.uk/study/undergraduate/computing-games",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; renowned games academy."
+    "notes": "Listed in UCAS 2026; renowned games academy."
   },
   {
     "name": "Teesside University",
@@ -77,7 +77,7 @@
     "applicationCode": "I610",
     "sourceUrl": "https://www.tees.ac.uk/undergraduate_courses/Computing/BSc_(Hons)_Computer_Games_Programming.cfm",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; established route into Northeast/Newcastle games studios."
+    "notes": "Listed in UCAS 2026; established route into Northeast/Newcastle games studios."
   },
   {
     "name": "De Montfort University",
@@ -93,7 +93,7 @@
     "applicationCode": "G450",
     "sourceUrl": "https://www.dmu.ac.uk/study/courses/undergraduate-courses/computer-games-programming-bsc-hons-degree/computer-games-programming.aspx",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; Unreal Engine and Unity authorised academic partner."
+    "notes": "Listed in UCAS 2026; Unreal Engine and Unity authorised academic partner."
   },
   {
     "name": "Sheffield Hallam University",
@@ -109,7 +109,7 @@
     "applicationCode": "G611",
     "sourceUrl": "https://www.shu.ac.uk/courses/computing/bsc-honours-games-software-development",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; Sumo Digital industry partnerships."
+    "notes": "Listed in UCAS 2026; Sumo Digital industry partnerships."
   },
   {
     "name": "University of Lincoln",
@@ -125,7 +125,7 @@
     "applicationCode": "G450",
     "sourceUrl": "https://www.lincoln.ac.uk/course/gcobsbun/games-computing/",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; placement year available."
+    "notes": "Listed in UCAS 2026; placement year available."
   },
   {
     "name": "Bournemouth University",
@@ -141,7 +141,7 @@
     "applicationCode": "G450",
     "sourceUrl": "https://www.bournemouth.ac.uk/study/courses/bsc-hons-games-technology",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; strong VFX/games industry pipeline."
+    "notes": "Listed in UCAS 2026; strong VFX/games industry pipeline."
   },
   {
     "name": "Staffordshire University",
@@ -157,7 +157,7 @@
     "applicationCode": "G612",
     "sourceUrl": "https://www.staffs.ac.uk/course/computer-games-programming-bsc",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; established games academy."
+    "notes": "Listed in UCAS 2026; established games academy."
   },
   {
     "name": "Brunel University London",
@@ -173,7 +173,7 @@
     "applicationCode": "W291",
     "sourceUrl": "https://www.brunel.ac.uk/study/undergraduate/Games-Design-BSc",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; covers design + programming pipeline."
+    "notes": "Listed in UCAS 2026; covers design + programming pipeline."
   },
   {
     "name": "University of Westminster",
@@ -189,6 +189,6 @@
     "applicationCode": "G450",
     "sourceUrl": "https://www.westminster.ac.uk/computer-science-and-engineering-courses/2026-27/september/full-time/computer-games-development-bsc-honours",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; central London location."
+    "notes": "Listed in UCAS 2026; central London location."
   }
 ]

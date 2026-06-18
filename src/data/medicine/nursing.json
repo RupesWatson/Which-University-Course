@@ -14,7 +14,7 @@
     "sourceUrl": "https://www.kcl.ac.uk/study/undergraduate/courses/nursing-bsc",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/subjects/nursing",
-    "notes": "Verified UCAS 2026 exact title match; NMC-approved; clinical placements at Guy's, St Thomas', KCH."
+    "notes": "Listed in UCAS 2026; NMC-approved; clinical placements at Guy's, St Thomas', KCH."
   },
   {
     "name": "University of Edinburgh",
@@ -31,7 +31,7 @@
     "sourceUrl": "https://www.ed.ac.uk/studying/undergraduate/degrees/index.php?action=programme&code=B700",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/subjects/nursing",
-    "notes": "Verified UCAS 2026 exact title match; NMC-approved adult nursing."
+    "notes": "Listed in UCAS 2026; NMC-approved adult nursing."
   },
   {
     "name": "University of Manchester",
@@ -48,7 +48,7 @@
     "sourceUrl": "https://www.manchester.ac.uk/study/undergraduate/courses/2026/nursing-bnurs/",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/subjects/nursing",
-    "notes": "Verified UCAS 2026 exact title match; NMC-approved; placements at MRI."
+    "notes": "Listed in UCAS 2026; NMC-approved; placements at MRI."
   },
   {
     "name": "University of Southampton",
@@ -65,7 +65,7 @@
     "sourceUrl": "https://www.southampton.ac.uk/courses/nursing-degree-bsc",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/subjects/nursing",
-    "notes": "Verified UCAS 2026 exact title match; NMC-approved."
+    "notes": "Listed in UCAS 2026; NMC-approved."
   },
   {
     "name": "University of Birmingham",
@@ -82,7 +82,7 @@
     "sourceUrl": "https://www.birmingham.ac.uk/undergraduate/courses/nursing/nursing-bnurs",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/subjects/nursing",
-    "notes": "Verified UCAS 2026 exact title match; NMC-approved adult nursing."
+    "notes": "Listed in UCAS 2026; NMC-approved adult nursing."
   },
   {
     "name": "University of Nottingham",
@@ -99,7 +99,7 @@
     "sourceUrl": "https://www.nottingham.ac.uk/ugstudy/course/Nursing-Adult-BSc",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/subjects/nursing",
-    "notes": "Verified UCAS 2026 exact title match; NMC-approved."
+    "notes": "Listed in UCAS 2026; NMC-approved."
   },
   {
     "name": "Newcastle University",
@@ -116,7 +116,7 @@
     "sourceUrl": "https://www.ncl.ac.uk/undergraduate/degrees/b700/",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/subjects/nursing",
-    "notes": "Verified UCAS 2026 exact title match; NMC-approved."
+    "notes": "Listed in UCAS 2026; NMC-approved."
   },
   {
     "name": "University of Leeds",
@@ -133,7 +133,7 @@
     "sourceUrl": "https://courses.leeds.ac.uk/i171/nursing-adult-bsc",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/subjects/nursing",
-    "notes": "Verified UCAS 2026 exact title match; NMC-approved."
+    "notes": "Listed in UCAS 2026; NMC-approved."
   },
   {
     "name": "University of Surrey",
@@ -150,7 +150,7 @@
     "sourceUrl": "https://www.surrey.ac.uk/undergraduate/nursing-studies-adult",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/subjects/nursing",
-    "notes": "Verified UCAS 2026 exact title match; NMC-approved."
+    "notes": "Listed in UCAS 2026; NMC-approved."
   },
   {
     "name": "University of York",
@@ -167,7 +167,7 @@
     "sourceUrl": "https://www.york.ac.uk/study/undergraduate/courses/bsc-nursing-studies/",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/subjects/nursing",
-    "notes": "Verified UCAS 2026 exact title match; NMC-approved."
+    "notes": "Listed in UCAS 2026; NMC-approved."
   },
   {
     "name": "Cardiff University",
@@ -184,7 +184,7 @@
     "sourceUrl": "https://www.cardiff.ac.uk/study/undergraduate/courses/2026/adult-nursing-bn",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/subjects/nursing",
-    "notes": "Verified UCAS 2026 exact title match; NMC-approved."
+    "notes": "Listed in UCAS 2026; NMC-approved."
   },
   {
     "name": "Northumbria University",
@@ -201,6 +201,6 @@
     "sourceUrl": "https://www.northumbria.ac.uk/study-at-northumbria/courses/nursing-adult-bsc-hons/",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/subjects/nursing",
-    "notes": "Verified UCAS 2026 exact title match; NMC-approved."
+    "notes": "Listed in UCAS 2026; NMC-approved."
   }
 ]

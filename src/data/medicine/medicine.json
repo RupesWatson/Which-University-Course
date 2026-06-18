@@ -14,7 +14,7 @@
     "sourceUrl": "https://www.medsci.ox.ac.uk/study/medicine/medicine-bmbch",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/subjects/medicine",
-    "notes": "Verified UCAS 2026 exact title match; UCAT required (cut-off ~2730); interviews at colleges; strong preclinical-clinical split, 6-year course."
+    "notes": "Listed in UCAS 2026; UCAT required (cut-off ~2730); interviews at colleges; strong preclinical-clinical split, 6-year course."
   },
   {
     "name": "University of Cambridge",
@@ -31,7 +31,7 @@
     "sourceUrl": "https://www.undergraduate.study.cam.ac.uk/courses/medicine",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/subjects/medicine",
-    "notes": "Verified UCAS 2026 exact title match; UCAT required from 2024 entry; College interviews. Two A*s plus an A required. 6-year course with intercalated BA in Year 3."
+    "notes": "Listed in UCAS 2026; UCAT required from 2024 entry; College interviews. Two A*s plus an A required. 6-year course with intercalated BA in Year 3."
   },
   {
     "name": "Imperial College London",
@@ -48,7 +48,7 @@
     "sourceUrl": "https://www.imperial.ac.uk/study/courses/2026/medicine-mbbs-bsc/",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/subjects/medicine",
-    "notes": "Verified UCAS 2026 exact title match; UCAT required; 6-year programme including intercalated BSc."
+    "notes": "Listed in UCAS 2026; UCAT required; 6-year programme including intercalated BSc."
   },
   {
     "name": "University College London",
@@ -65,7 +65,7 @@
     "sourceUrl": "https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/medicine-mbbs",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/subjects/medicine",
-    "notes": "Verified UCAS 2026 exact title match; UCAT required; integrated 6-year MBBS with iBSc."
+    "notes": "Listed in UCAS 2026; UCAT required; integrated 6-year MBBS with iBSc."
   },
   {
     "name": "King's College London",
@@ -82,7 +82,7 @@
     "sourceUrl": "https://www.kcl.ac.uk/study/undergraduate/courses/medicine-mbbs",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/subjects/medicine",
-    "notes": "Verified UCAS 2026 exact title match; UCAT required; one of UK's largest medical schools."
+    "notes": "Listed in UCAS 2026; UCAT required; one of UK's largest medical schools."
   },
   {
     "name": "University of Edinburgh",
@@ -99,7 +99,7 @@
     "sourceUrl": "https://www.ed.ac.uk/studying/undergraduate/degrees/index.php?action=programme&code=A100",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/subjects/medicine",
-    "notes": "Verified UCAS 2026 exact title match; UCAT required; 6-year integrated programme with research year."
+    "notes": "Listed in UCAS 2026; UCAT required; 6-year integrated programme with research year."
   },
   {
     "name": "University of Glasgow",
@@ -116,7 +116,7 @@
     "sourceUrl": "https://www.gla.ac.uk/undergraduate/degrees/medicine/",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/subjects/medicine",
-    "notes": "Verified UCAS 2026 exact title match; UCAT required; PBL-led curriculum."
+    "notes": "Listed in UCAS 2026; UCAT required; PBL-led curriculum."
   },
   {
     "name": "University of Manchester",
@@ -133,7 +133,7 @@
     "sourceUrl": "https://www.manchester.ac.uk/study/undergraduate/courses/2026/medicine-mbchb/",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/subjects/medicine",
-    "notes": "Verified UCAS 2026 exact title match; UCAT required; PBL-led, integrated 5-year course."
+    "notes": "Listed in UCAS 2026; UCAT required; PBL-led, integrated 5-year course."
   },
   {
     "name": "University of Newcastle",
@@ -150,7 +150,7 @@
     "sourceUrl": "https://www.ncl.ac.uk/undergraduate/degrees/a100/",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/subjects/medicine",
-    "notes": "Verified UCAS 2026 exact title match; UCAT required; 5-year integrated course."
+    "notes": "Listed in UCAS 2026; UCAT required; 5-year integrated course."
   },
   {
     "name": "University of Birmingham",
@@ -167,7 +167,7 @@
     "sourceUrl": "https://www.birmingham.ac.uk/undergraduate/courses/medicine/medicine-mbchb",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/subjects/medicine",
-    "notes": "Verified UCAS 2026 exact title match; UCAT required."
+    "notes": "Listed in UCAS 2026; UCAT required."
   },
   {
     "name": "University of Bristol",
@@ -184,7 +184,7 @@
     "sourceUrl": "https://www.bristol.ac.uk/study/undergraduate/2026/medicine-mb-chb/",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/subjects/medicine",
-    "notes": "Verified UCAS 2026 exact title match; UCAT required; 5-year integrated."
+    "notes": "Listed in UCAS 2026; UCAT required; 5-year integrated."
   },
   {
     "name": "University of Nottingham",
@@ -201,7 +201,7 @@
     "sourceUrl": "https://www.nottingham.ac.uk/ugstudy/course/Medicine-and-Surgery-BMBS-BMedSci",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/subjects/medicine",
-    "notes": "Verified UCAS 2026 exact title match; UCAT required; integrated BMedSci."
+    "notes": "Listed in UCAS 2026; UCAT required; integrated BMedSci."
   },
   {
     "name": "University of Leeds",
@@ -218,7 +218,7 @@
     "sourceUrl": "https://courses.leeds.ac.uk/i153/medicine-mbchb",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/subjects/medicine",
-    "notes": "Verified UCAS 2026 exact title match; UCAT required."
+    "notes": "Listed in UCAS 2026; UCAT required."
   },
   {
     "name": "University of Sheffield",
@@ -235,7 +235,7 @@
     "sourceUrl": "https://www.sheffield.ac.uk/undergraduate/courses/2026/medicine-mbchb",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/subjects/medicine",
-    "notes": "Verified UCAS 2026 exact title match; UCAT required."
+    "notes": "Listed in UCAS 2026; UCAT required."
   },
   {
     "name": "University of Liverpool",
@@ -252,7 +252,7 @@
     "sourceUrl": "https://www.liverpool.ac.uk/courses/2026/medicine-and-surgery-mbchb",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/subjects/medicine",
-    "notes": "Verified UCAS 2026 exact title match; UCAT required."
+    "notes": "Listed in UCAS 2026; UCAT required."
   },
   {
     "name": "St George's, University of London",
@@ -269,7 +269,7 @@
     "sourceUrl": "https://www.sgul.ac.uk/study/undergraduate/medicine-mbbs",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/subjects/medicine",
-    "notes": "Verified UCAS 2026 exact title match; UCAT required; UK's only standalone medical school."
+    "notes": "Listed in UCAS 2026; UCAT required; UK's only standalone medical school."
   },
   {
     "name": "Brighton and Sussex Medical School",
@@ -285,6 +285,6 @@
     "applicationCode": "A100",
     "sourceUrl": "https://www.bsms.ac.uk/undergraduate/medicine.aspx",
     "matchType": "exact",
-    "notes": "Verified UCAS 2026 exact title match; UCAT required; joint Sussex/Brighton school."
+    "notes": "Listed in UCAS 2026; UCAT required; joint Sussex/Brighton school."
   }
 ]
