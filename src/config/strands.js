@@ -8,6 +8,7 @@ import { COURSES as socialSciencesCourses } from '../data/socialsciences/courses
 import { COURSES as computerScienceCourses } from '../data/computer-science/courses';
 import { COURSES as medicineCourses } from '../data/medicine/courses';
 import { COURSES as biologyCourses } from '../data/biology/courses';
+import { COURSES as businessCourses } from '../data/business/courses';
 
 export const STRANDS = {
   biochemistry: {
@@ -32,11 +33,11 @@ export const STRANDS = {
   },
   finance: {
     id: 'finance',
-    label: 'Finance & Business',
-    tagline: 'Explore finance, accounting and business courses for 2026 entry',
+    label: 'Finance & Accounting',
+    tagline: 'Explore finance, accounting and fintech courses for 2026 entry',
     headerEyebrow: 'UCAS 2026 Course Finder',
     headerTitleStart: 'Find Your Finance & ',
-    headerTitleAccent: 'Business Course',
+    headerTitleAccent: 'Accounting Course',
     headerSubtitle:
       'Explore 2026 undergraduate options across Russell Group and other leading UK universities. ' +
       'Course data is drawn from UCAS 2026.',
@@ -195,6 +196,30 @@ export const STRANDS = {
       { label: 'Geography & Conservation', ids: ['geography', 'forestry'] },
     ],
     courses: biologyCourses,
+  },
+  business: {
+    id: 'business',
+    label: 'Business & Management',
+    tagline: 'Explore business, management, marketing and property courses for 2026 entry',
+    headerEyebrow: 'UCAS 2026 Course Finder',
+    headerTitleStart: 'Find Your Business & ',
+    headerTitleAccent: 'Management Course',
+    headerSubtitle:
+      'Explore 2026 undergraduate options across Russell Group and other leading UK universities. ' +
+      'Entry requirements are taken from each university’s own course page where they could be ' +
+      'verified, with rankings from the Complete University Guide 2027 subject tables.',
+    footerNote:
+      'Business & Management, Accounting & Management, Marketing, Real Estate & Property and ' +
+      'Hospitality & Tourism use CUG 2027 subject tables; other tables show table position within ' +
+      'this comparison set. Rows marked Indicative were not confirmed against the university’s ' +
+      'own page — always check grades and UCAS codes before applying.',
+    courseGroups: [
+      { label: 'Core Business & Management', ids: ['businessManagement', 'internationalBusiness', 'economicsManagement', 'accountingManagement'] },
+      { label: 'Marketing, People & Enterprise', ids: ['marketing', 'hrm', 'entrepreneurship'] },
+      { label: 'Analytics & Operations', ids: ['businessAnalytics', 'supplyChain'] },
+      { label: 'Specialist Routes', ids: ['businessLanguages', 'realEstate', 'hospitalityTourism'] },
+    ],
+    courses: businessCourses,
   },
   socialsciences: {
     id: 'socialsciences',

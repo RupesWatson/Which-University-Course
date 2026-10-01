@@ -1,0 +1,1342 @@
+{
+  "businessManagement": {
+    "id": "businessManagement",
+    "title": "Business & Management",
+    "duration": "3 years (BSc/BA) / 4 years (with placement, year abroad, or Scottish MA)",
+    "overview": "Business and Management is the broadest degree in the business family. Years 1–2 cover the functions of an organisation — accounting, marketing, operations, organisational behaviour, strategy, economics and business statistics — so you leave with a working knowledge of every department rather than a single specialism. Year 3 is usually heavily optional, letting you weight towards finance, marketing, HR, analytics, strategy or entrepreneurship, plus a dissertation or consultancy project with a real client. Most UK business schools offer a four-year variant with a paid year in industry, and the better-placed schools treat that placement as the main route into graduate schemes. Teaching is case-study and group-work heavy; assessment mixes exams, group reports and presentations. Note that Oxford has no standalone business degree — Economics and Management is the equivalent route — and Cambridge offers Management Studies only as a one-year Part II add-on.",
+    "yearByYear": [
+      {
+        "year": 1,
+        "focus": "The functions of a business",
+        "modules": [
+          "Introduction to Management & Organisational Behaviour",
+          "Financial Accounting",
+          "Principles of Marketing",
+          "Economics for Business",
+          "Business Statistics & Data Handling"
+        ]
+      },
+      {
+        "year": 2,
+        "focus": "Core disciplines in depth",
+        "modules": [
+          "Strategic Management",
+          "Operations & Process Management",
+          "Management Accounting",
+          "Human Resource Management",
+          "Research Methods for Business"
+        ]
+      },
+      {
+        "year": 3,
+        "focus": "Placement year (four-year route)",
+        "modules": [
+          "Paid industrial placement, typically 9–12 months",
+          "Placement portfolio and reflective report",
+          "Assessed by employer and academic tutor"
+        ]
+      },
+      {
+        "year": 4,
+        "focus": "Specialism and dissertation",
+        "modules": [
+          "Optional pathway modules (Finance, Marketing, HR, Analytics, Strategy, Entrepreneurship)",
+          "Dissertation or live client consultancy project",
+          "Corporate Governance & Business Ethics",
+          "International Business Strategy"
+        ]
+      }
+    ],
+    "skills": [
+      "Framing an unstructured commercial problem and defending a recommendation",
+      "Reading and interrogating financial statements",
+      "Quantitative analysis in Excel, and increasingly SQL, Power BI or Tableau",
+      "Group work under deadline — the dominant assessment format",
+      "Presenting to a non-specialist audience"
+    ],
+    "professionalBodies": [
+      {
+        "name": "Chartered Management Institute (CMI)",
+        "benefit": "Many UK business degrees are CMI dual-accredited, so you graduate with a CMI Level 5 or 6 diploma alongside the degree and a route to Chartered Manager (CMgr)"
+      },
+      {
+        "name": "AACSB / EQUIS / AMBA",
+        "benefit": "School-level accreditation rather than course-level. A 'triple crown' school (Warwick, Bath, Lancaster, Manchester, Durham, Cranfield among others) signals international recognition to employers"
+      }
+    ],
+    "careers": [
+      {
+        "role": "Graduate Management Scheme (retail, FMCG, industry)",
+        "salary": "£28,000–£34,000 starting / £45,000–£70,000 at 5 years",
+        "demand": "Very High"
+      },
+      {
+        "role": "Management Consultant",
+        "salary": "£35,000–£50,000 starting / £70,000–£110,000 senior",
+        "demand": "High"
+      },
+      {
+        "role": "Marketing / Brand Manager",
+        "salary": "£26,000–£32,000 starting / £45,000–£65,000 senior",
+        "demand": "High"
+      },
+      {
+        "role": "Operations / Supply Chain Manager",
+        "salary": "£27,000–£33,000 starting / £45,000–£65,000 senior",
+        "demand": "High"
+      },
+      {
+        "role": "Business Analyst",
+        "salary": "£28,000–£35,000 starting / £50,000–£75,000 senior",
+        "demand": "Very High"
+      }
+    ],
+    "topEmployers": [
+      "Deloitte",
+      "PwC",
+      "EY",
+      "KPMG",
+      "Accenture",
+      "Unilever",
+      "Procter & Gamble",
+      "Aldi",
+      "Tesco",
+      "Amazon",
+      "NHS Graduate Management Scheme",
+      "Civil Service Fast Stream"
+    ],
+    "employerPerspective": "Business and Management is one of the largest undergraduate cohorts in the UK, which means the degree title alone does not differentiate you — the business school's reputation, your placement year and your numeracy do. Recruiters at the Big Four, the consultancies and the FMCG schemes screen heavily on the placement or internship record; a four-year route with a strong placement is often worth more than a point of degree classification. Graduates from the triple-crown schools compete directly with economics and finance applicants for front-office and consulting roles. The weakest outcomes cluster where a student treated the degree as broad and never built a quantitative or sector specialism.",
+    "entryRequirements": "Typical offers range from A*AA at Oxford, LSE, Warwick, King's and Durham down to BBB–ABB at the post-92 business schools. No specific A-level subjects are required at most universities, but LSE requires A-level Maths at grade A and Warwick, Leeds and Manchester expect GCSE Maths at 7/A. Business Studies A-level is accepted everywhere but preferred nowhere — LSE explicitly favours traditional academic subjects. Oxford's Economics and Management route requires A-level Maths at A or A* plus the TSA admissions test.",
+    "furtherStudy": "Most graduates go straight into employment rather than a Masters. Where a Masters helps: MSc Management or MSc Marketing to pivot specialism, MSc Business Analytics to add a quantitative edge, or an MBA after five or more years of experience (not immediately after graduating — top MBA programmes require work experience).",
+    "isItForYou": [
+      "Study this if you want to understand how whole organisations work and keep your options open across functions and sectors",
+      "Study this if you learn well from cases, group projects and real client work rather than solitary problem sets",
+      "Think twice if you want a quantitative career — Economics, Maths or Finance are better signals for front-office and quant roles; and think twice if you'd avoid the placement year, since that is where most of the degree's employment advantage comes from"
+    ]
+  },
+  "internationalBusiness": {
+    "id": "internationalBusiness",
+    "title": "International Business",
+    "duration": "4 years (including a compulsory year abroad) / 3 years at some universities",
+    "overview": "International Business takes the standard management curriculum and adds cross-border trade, multinational strategy, international finance, and the cultural and institutional differences that make a strategy work in one market and fail in another. The defining feature is the year abroad — most UK courses make it compulsory, either studying at a partner business school or working in an overseas placement. Expect modules on global value chains, foreign market entry, exchange-rate exposure, trade policy and cross-cultural management. Some courses require or strongly encourage a language; others deliver everything in English and send you to an English-taught partner. The degree suits students who want a management degree with a genuine international dimension rather than a module or two of 'global' content.",
+    "yearByYear": [
+      {
+        "year": 1,
+        "focus": "Management foundations with an international lens",
+        "modules": [
+          "Introduction to International Business",
+          "Financial Accounting",
+          "Principles of Marketing",
+          "International Economic Environment",
+          "Cross-Cultural Management"
+        ]
+      },
+      {
+        "year": 2,
+        "focus": "Multinational strategy and finance",
+        "modules": [
+          "Multinational Strategy",
+          "International Finance & Exchange Rate Risk",
+          "Global Supply Chains",
+          "International Trade Policy & Institutions",
+          "Preparation for the Year Abroad"
+        ]
+      },
+      {
+        "year": 3,
+        "focus": "Year abroad",
+        "modules": [
+          "Study at a partner business school, or an overseas work placement",
+          "Host-institution modules, usually credit-bearing",
+          "Intercultural learning portfolio"
+        ]
+      },
+      {
+        "year": 4,
+        "focus": "Specialism and dissertation",
+        "modules": [
+          "Emerging Market Strategy",
+          "International Human Resource Management",
+          "Global Branding",
+          "Dissertation, often comparative across two countries"
+        ]
+      }
+    ],
+    "skills": [
+      "Analysing a foreign market entry decision end to end",
+      "Working across time zones, languages and business cultures",
+      "Reading country risk, trade policy and FX exposure",
+      "Adapting a proposition to local regulation and consumer behaviour",
+      "Independence — a year living and working abroad is its own training"
+    ],
+    "professionalBodies": [
+      {
+        "name": "Chartered Management Institute (CMI)",
+        "benefit": "Dual accreditation on many courses, giving a CMI diploma alongside the degree"
+      },
+      {
+        "name": "Institute of Export & International Trade",
+        "benefit": "Student membership and routes into trade-compliance and export qualifications"
+      }
+    ],
+    "careers": [
+      {
+        "role": "International Graduate Scheme (FMCG, logistics, manufacturing)",
+        "salary": "£29,000–£35,000 starting / £50,000–£75,000 at 5 years",
+        "demand": "High"
+      },
+      {
+        "role": "Export / Trade Compliance Manager",
+        "salary": "£27,000–£33,000 starting / £45,000–£65,000 senior",
+        "demand": "Medium"
+      },
+      {
+        "role": "Global Category / Procurement Manager",
+        "salary": "£30,000–£36,000 starting / £55,000–£85,000 senior",
+        "demand": "High"
+      },
+      {
+        "role": "Market Entry / Strategy Consultant",
+        "salary": "£33,000–£45,000 starting / £65,000–£100,000 senior",
+        "demand": "High"
+      }
+    ],
+    "topEmployers": [
+      "Unilever",
+      "Diageo",
+      "Maersk",
+      "DHL",
+      "Shell",
+      "Reckitt",
+      "GSK",
+      "Department for Business and Trade",
+      "EY",
+      "Accenture"
+    ],
+    "employerPerspective": "Employers read International Business as evidence of mobility and adaptability more than as a distinct technical skill set — the year abroad is the credential. Multinationals with rotational schemes (Unilever, Diageo, Maersk, DHL) value it directly, and procurement and category management are strong, under-applied destinations. A language genuinely moves the needle here in a way it rarely does for general management. The risk is the inverse: if you take the English-taught route with no language and no overseas work, the degree can read as general management with extra travel.",
+    "entryRequirements": "Typical offers run from A*AA at Warwick and King's through AAA at Bath, Leeds, Manchester and Edinburgh to ABB at Aston, Reading and Sussex. Warwick requires GCSE Maths at 7/A and English Language at 6/B. Where a named language is part of the title, an A-level in that language at grade B or above is usually required; ab-initio language routes exist at several universities.",
+    "furtherStudy": "MSc International Business or MSc International Management to deepen the specialism, MSc Supply Chain Management for the operations route, or a language-conversion year. Many graduates skip a Masters and move internally into an overseas posting instead.",
+    "isItForYou": [
+      "Study this if you genuinely intend to work across borders and want the year abroad built into the degree rather than bolted on",
+      "Study this if you already have, or will build, a second language",
+      "Think twice if you'd rather not spend a year away from your UK cohort and support network, or if your interest is finance specifically — International Finance sits in the Finance strand and is the better fit"
+    ]
+  },
+  "economicsManagement": {
+    "id": "economicsManagement",
+    "title": "Economics & Management",
+    "duration": "3 years (BA/BSc) / 4 years (with placement or Scottish MA)",
+    "overview": "Economics and Management splits the degree between economic theory and the practice of running a firm. You take the economics core — micro, macro, econometrics — alongside management modules in accounting, strategy, marketing and organisational behaviour. The attraction is that economics gives you the analytical machinery (incentives, market structure, regression) while management gives you the institutional context in which decisions actually get made. Oxford's Economics and Management is the best-known version and among the most competitive courses in the UK; variants elsewhere carry names like Business Economics, Industrial Economics, or Management with Economics, and the balance between the two halves varies a lot. Check the module split before applying: some courses are three-quarters economics, others three-quarters management.",
+    "yearByYear": [
+      {
+        "year": 1,
+        "focus": "Economic theory and management foundations",
+        "modules": [
+          "Microeconomics",
+          "Macroeconomics",
+          "Mathematics & Statistics for Economists",
+          "Financial Accounting",
+          "Introduction to Management"
+        ]
+      },
+      {
+        "year": 2,
+        "focus": "Intermediate economics and the firm",
+        "modules": [
+          "Intermediate Microeconomics",
+          "Econometrics",
+          "Industrial Organisation",
+          "Strategic Management",
+          "Management Accounting"
+        ]
+      },
+      {
+        "year": 3,
+        "focus": "Applied specialisms and dissertation",
+        "modules": [
+          "Game Theory & Competitive Strategy",
+          "Behavioural Economics",
+          "Corporate Finance",
+          "Optional economics or management pathway",
+          "Dissertation"
+        ]
+      }
+    ],
+    "skills": [
+      "Econometric modelling and interpreting regression output honestly",
+      "Applying micro theory to pricing, competition and incentive design",
+      "Financial statement analysis and corporate valuation basics",
+      "Writing a quantitative argument for a non-technical reader",
+      "Stata, R or Python for applied economics work"
+    ],
+    "professionalBodies": [
+      {
+        "name": "Royal Economic Society",
+        "benefit": "Free student membership, conference access and the economics research network"
+      },
+      {
+        "name": "Chartered Management Institute (CMI)",
+        "benefit": "Available on the management-weighted variants that carry dual accreditation"
+      }
+    ],
+    "careers": [
+      {
+        "role": "Economic / Strategy Consultant",
+        "salary": "£35,000–£50,000 starting / £75,000–£120,000 senior",
+        "demand": "High"
+      },
+      {
+        "role": "Government Economic Service / Civil Service Fast Stream",
+        "salary": "£32,000–£38,000 starting / £55,000–£80,000 senior",
+        "demand": "High"
+      },
+      {
+        "role": "Investment Banking / Asset Management Analyst",
+        "salary": "£50,000–£65,000 starting (plus bonus) / £100,000+ senior",
+        "demand": "Medium"
+      },
+      {
+        "role": "Corporate Strategy / Commercial Analyst",
+        "salary": "£30,000–£38,000 starting / £55,000–£85,000 senior",
+        "demand": "High"
+      }
+    ],
+    "topEmployers": [
+      "Oxera",
+      "Frontier Economics",
+      "NERA",
+      "McKinsey & Company",
+      "Boston Consulting Group",
+      "Bank of England",
+      "Government Economic Service",
+      "Goldman Sachs",
+      "Deloitte",
+      "Competition and Markets Authority"
+    ],
+    "employerPerspective": "This is the strongest-signalling degree in the business family for consulting, economic consultancy and the Government Economic Service, because it certifies quantitative capability that a general management degree does not. Oxford E&M graduates compete directly for front-office banking and top-tier strategy roles. The caveat is that the economics half must be real: competition economics and GES roles screen for econometrics and intermediate micro, so a variant that is mostly management with one economics module a year will not open those doors. Check that the course includes econometrics before you count on the economics route.",
+    "entryRequirements": "Oxford requires A*AA with Maths at A or A* plus the TSA admissions test. Elsewhere, expect AAA at Leeds, Manchester and Edinburgh, AAB at Loughborough and Nottingham, and ABB–BBB at Reading, Aston, Leicester, Kent, Swansea and Hull. A-level Maths is required or strongly preferred almost everywhere — this is the one course in the business family where you should assume Maths is mandatory.",
+    "furtherStudy": "MSc Economics is the standard next step for GES and economic consultancy (and is often required for senior analyst grades); MSc Finance or MSc Management to specialise; PhD Economics for research and central-bank careers.",
+    "isItForYou": [
+      "Study this if you enjoy A-level Maths and want the analytical rigour of economics with commercial application",
+      "Study this if economic consultancy, the Government Economic Service or strategy consulting appeal",
+      "Think twice if you dislike mathematical formalism — the economics half is harder and less forgiving than the management half; and check the module split, because 'Economics and Management' means very different things at different universities"
+    ]
+  },
+  "accountingManagement": {
+    "id": "accountingManagement",
+    "title": "Accounting & Management",
+    "duration": "3 years (BSc) / 4 years (with placement)",
+    "overview": "Accounting and Management is the management-school route into the accountancy profession. You cover financial accounting and reporting, management accounting, audit, tax and financial management, set inside a broader management curriculum of strategy, operations and organisational behaviour. The commercial draw is exemption: an accredited degree can remove up to nine of the fifteen ICAEW ACA exams, or a comparable block for ACCA and CIMA, cutting a year or more off the time to qualification. The distinction from the Accounting & Finance degrees in the Finance strand is emphasis — this route keeps more general management and less capital-markets content, which suits students aiming at industry finance, audit and advisory rather than markets. Check each university's exemption table directly, because exemptions are negotiated course by course and change between cohorts.",
+    "yearByYear": [
+      {
+        "year": 1,
+        "focus": "Accounting foundations",
+        "modules": [
+          "Financial Accounting",
+          "Management Accounting",
+          "Business Law",
+          "Economics for Business",
+          "Quantitative Methods"
+        ]
+      },
+      {
+        "year": 2,
+        "focus": "Reporting, audit and control",
+        "modules": [
+          "Financial Reporting (IFRS)",
+          "Auditing & Assurance",
+          "Taxation",
+          "Financial Management",
+          "Management Control Systems"
+        ]
+      },
+      {
+        "year": 3,
+        "focus": "Advanced practice and dissertation",
+        "modules": [
+          "Advanced Financial Reporting",
+          "Corporate Governance & Ethics",
+          "Strategic Management Accounting",
+          "Optional modules (Forensic Accounting, Public Sector, Sustainability Reporting)",
+          "Dissertation"
+        ]
+      }
+    ],
+    "skills": [
+      "Preparing and interpreting IFRS-compliant financial statements",
+      "Audit sampling, testing and professional scepticism",
+      "Costing, budgeting and variance analysis",
+      "Tax computation for companies and individuals",
+      "Advanced Excel modelling and accounting systems"
+    ],
+    "professionalBodies": [
+      {
+        "name": "ICAEW",
+        "benefit": "Accredited degrees give credit for up to nine of the fifteen ACA exams, the main route to Chartered Accountant"
+      },
+      {
+        "name": "ACCA",
+        "benefit": "Up to nine Applied Knowledge and Applied Skills exemptions on accredited programmes"
+      },
+      {
+        "name": "CIMA",
+        "benefit": "Exemptions across the Operational and Management levels for management-accounting-weighted degrees"
+      },
+      {
+        "name": "CIPFA",
+        "benefit": "Exemptions for the public-sector accountancy route"
+      }
+    ],
+    "careers": [
+      {
+        "role": "Audit Graduate (Big Four / mid-tier)",
+        "salary": "£28,000–£34,000 starting / £55,000–£80,000 post-qualification",
+        "demand": "Very High"
+      },
+      {
+        "role": "Management Accountant (industry)",
+        "salary": "£27,000–£33,000 starting / £50,000–£75,000 senior",
+        "demand": "Very High"
+      },
+      {
+        "role": "Tax Adviser",
+        "salary": "£28,000–£34,000 starting / £55,000–£85,000 senior",
+        "demand": "High"
+      },
+      {
+        "role": "Transaction Services / Corporate Finance Advisory",
+        "salary": "£32,000–£40,000 starting / £70,000–£110,000 senior",
+        "demand": "High"
+      },
+      {
+        "role": "Financial Controller / Finance Director track",
+        "salary": "£35,000 post-qualification / £80,000–£150,000 at director level",
+        "demand": "High"
+      }
+    ],
+    "topEmployers": [
+      "PwC",
+      "Deloitte",
+      "EY",
+      "KPMG",
+      "BDO",
+      "Grant Thornton",
+      "Unilever",
+      "Rolls-Royce",
+      "NHS finance",
+      "National Audit Office"
+    ],
+    "employerPerspective": "Accountancy is the most reliably recruited destination in the whole business family — the Big Four and mid-tier firms take very large graduate intakes every year, and demand is structural rather than cyclical. Exemptions are the degree's hard commercial value: qualifying a year earlier is a year earlier onto the post-qualification salary step. Employers do not require an accounting degree (the Big Four recruit from every discipline), so the degree's advantage is specifically the exemptions plus the technical head start in the first two years. Industry finance roles increasingly also want data skills — Power BI, SQL — which most accounting degrees still cover lightly.",
+    "entryRequirements": "Typical offers run from A*AA at Bath, Durham and King's through AAA at Leeds and Manchester to ABB at Aston, Surrey, Lancaster and Dundee. A-level Maths is required at Bath and strongly preferred at Warwick, Manchester and Leeds; GCSE Maths at 6/B or above is a near-universal condition. Accounting A-level is accepted but not required anywhere.",
+    "furtherStudy": "Most graduates go directly into a training contract and qualify on the job — a Masters is usually unnecessary and sometimes counterproductive. Where it helps: MSc Accounting and Finance to convert from a non-accounting degree, or MSc Taxation and the CTA route for tax specialists.",
+    "isItForYou": [
+      "Study this if you want a clear, well-trodden professional route with high and stable graduate demand",
+      "Study this if you are comfortable with rules-based detail — reporting standards and tax law reward precision over flair",
+      "Think twice if you want markets or deal-making specifically (look at Finance & Accounting), or if rules-heavy technical study would bore you — the first two years are demanding and unglamorous"
+    ]
+  },
+  "marketing": {
+    "id": "marketing",
+    "title": "Marketing",
+    "duration": "3 years (BSc/BA) / 4 years (with placement)",
+    "overview": "Marketing degrees study how demand is understood, created and measured. The core runs through consumer behaviour (psychology applied to buying decisions), market research methods, brand and product strategy, pricing, and the increasingly dominant digital side — search, paid social, CRM, marketing analytics and attribution. The modern version of this degree is far more quantitative than its reputation suggests: expect statistics, A/B testing, dashboards and campaign measurement alongside the creative and strategic work. Most courses include a live client brief or agency project, and the four-year placement route is common and valuable because marketing recruitment leans heavily on demonstrable campaign experience. A degree titled Marketing is distinct from a Business Management degree with a marketing pathway — the former goes deeper, the latter keeps more functional breadth.",
+    "yearByYear": [
+      {
+        "year": 1,
+        "focus": "Foundations of marketing and the consumer",
+        "modules": [
+          "Principles of Marketing",
+          "Consumer Behaviour",
+          "Marketing Research Methods",
+          "Introduction to Management",
+          "Business Statistics"
+        ]
+      },
+      {
+        "year": 2,
+        "focus": "Brand, digital and measurement",
+        "modules": [
+          "Brand Management",
+          "Digital & Social Media Marketing",
+          "Marketing Analytics",
+          "Integrated Marketing Communications",
+          "Services & Relationship Marketing"
+        ]
+      },
+      {
+        "year": 3,
+        "focus": "Placement year (four-year route)",
+        "modules": [
+          "Paid placement in an agency or in-house marketing team",
+          "Campaign portfolio",
+          "Placement report"
+        ]
+      },
+      {
+        "year": 4,
+        "focus": "Strategy, specialism and dissertation",
+        "modules": [
+          "Strategic Marketing Management",
+          "International & Global Marketing",
+          "Optional modules (Luxury, B2B, Retail, Sustainability Marketing)",
+          "Live client project or agency brief",
+          "Dissertation"
+        ]
+      }
+    ],
+    "skills": [
+      "Designing and running primary market research, qualitative and quantitative",
+      "Campaign planning, budgeting and post-campaign measurement",
+      "Google Analytics, CRM platforms, paid social managers and SQL basics",
+      "Segmentation and positioning backed by data rather than assertion",
+      "Pitching creative work and defending it commercially"
+    ],
+    "professionalBodies": [
+      {
+        "name": "Chartered Institute of Marketing (CIM)",
+        "benefit": "CIM-accredited degrees give exemptions from CIM professional qualifications and a route to Chartered Marketer status"
+      },
+      {
+        "name": "Institute of Practitioners in Advertising (IPA)",
+        "benefit": "Student access, the IPA Effectiveness case library and agency-side recruitment routes"
+      },
+      {
+        "name": "Market Research Society (MRS)",
+        "benefit": "Accreditation on research-weighted courses and the Certified Member route"
+      }
+    ],
+    "careers": [
+      {
+        "role": "Brand / Product Marketing Manager (FMCG, tech)",
+        "salary": "£27,000–£33,000 starting / £50,000–£75,000 senior",
+        "demand": "High"
+      },
+      {
+        "role": "Digital Marketing / Performance Marketing Executive",
+        "salary": "£25,000–£31,000 starting / £45,000–£70,000 senior",
+        "demand": "Very High"
+      },
+      {
+        "role": "Marketing Analyst / Insight Analyst",
+        "salary": "£28,000–£34,000 starting / £50,000–£75,000 senior",
+        "demand": "Very High"
+      },
+      {
+        "role": "Account Manager (agency side)",
+        "salary": "£24,000–£29,000 starting / £45,000–£65,000 senior",
+        "demand": "High"
+      },
+      {
+        "role": "Market Researcher / Consumer Insight",
+        "salary": "£25,000–£30,000 starting / £45,000–£65,000 senior",
+        "demand": "Medium"
+      }
+    ],
+    "topEmployers": [
+      "Unilever",
+      "Procter & Gamble",
+      "Mars",
+      "Google",
+      "Ogilvy",
+      "WPP",
+      "Publicis",
+      "Kantar",
+      "Sky",
+      "L'Oréal"
+    ],
+    "employerPerspective": "Marketing recruitment rewards evidence over credentials: a placement year, a live client project, a measurable campaign or a side project with real numbers attached will beat a higher classification without them. The clearest shift over the last decade is the premium on measurement — performance and analytics roles pay better and recruit harder than brand roles, and candidates who can write SQL or build an attribution model are scarce. Agency-side entry salaries are notably lower than in-house or FMCG, though progression can be faster. Applicants should be aware that this is a competitive, oversubscribed field at the glamorous end and quietly short-staffed at the analytical end.",
+    "entryRequirements": "Typical offers run from A*AA at Durham and AAA at Bath and Leeds through AAB at Southampton, Loughborough, Birmingham, Lancaster and Newcastle to ABB–BBB at Aston, Surrey, Sussex and Kent. Specific subjects are rarely required; GCSE Maths at 5/B or above is the common condition. Strathclyde requires English or a humanities subject.",
+    "furtherStudy": "MSc Marketing or MSc Digital Marketing to deepen or pivot, MSc Business Analytics for the measurement route, or CIM professional qualifications alongside work — which employers often fund and which carry more weight than a second degree.",
+    "isItForYou": [
+      "Study this if you are interested in why people buy and want to combine creative judgement with hard measurement",
+      "Study this if you will take the placement year — it is the single biggest determinant of outcome in this field",
+      "Think twice if you expected a purely creative degree; modern marketing is statistics, dashboards and attribution as much as campaigns, and the best-paid roles are the most quantitative"
+    ]
+  },
+  "hrm": {
+    "id": "hrm",
+    "title": "Human Resource Management",
+    "duration": "3 years (BSc/BA) / 4 years (with placement)",
+    "overview": "Human Resource Management studies how organisations recruit, develop, reward, govern and sometimes part with their people. The curriculum draws on organisational psychology (motivation, teams, leadership), employment law (contracts, discrimination, dismissal, TUPE), reward and pensions, learning and development, employee relations and negotiation, and increasingly people analytics. It is a more technical degree than its reputation implies — employment law is detailed and consequential, and reward modelling is numerical. The key credential is CIPD: an accredited degree gives Associate membership on graduation and progress towards Chartered status, which is effectively the licence to practise in senior UK HR roles. Most courses offer a placement year, and HR placements are comparatively easy to secure because every medium-sized organisation has a people function.",
+    "yearByYear": [
+      {
+        "year": 1,
+        "focus": "People and organisations",
+        "modules": [
+          "Introduction to Human Resource Management",
+          "Organisational Behaviour",
+          "Introduction to Employment Law",
+          "Business Economics",
+          "Academic & Professional Skills"
+        ]
+      },
+      {
+        "year": 2,
+        "focus": "The HR toolkit",
+        "modules": [
+          "Resourcing & Talent Management",
+          "Reward Management",
+          "Learning & Development",
+          "Employment Law in Practice",
+          "Employee Relations & Negotiation"
+        ]
+      },
+      {
+        "year": 3,
+        "focus": "Strategic HR and dissertation",
+        "modules": [
+          "Strategic HRM",
+          "People Analytics",
+          "Equality, Diversity & Inclusion",
+          "International HRM",
+          "Dissertation or applied consultancy project"
+        ]
+      }
+    ],
+    "skills": [
+      "Applying UK employment law to a live case without needing a lawyer for every question",
+      "Designing reward, grading and benefits structures",
+      "Structured interviewing, assessment-centre design and selection validity",
+      "Handling grievance, disciplinary and redundancy processes",
+      "People analytics — turnover, absence and engagement data"
+    ],
+    "professionalBodies": [
+      {
+        "name": "Chartered Institute of Personnel and Development (CIPD)",
+        "benefit": "CIPD-accredited degrees confer Associate membership (Assoc CIPD) on graduation and count towards Chartered Member status — the standard requirement for senior UK HR roles"
+      },
+      {
+        "name": "Chartered Management Institute (CMI)",
+        "benefit": "Dual accreditation on some courses, adding a management diploma alongside the degree"
+      }
+    ],
+    "careers": [
+      {
+        "role": "HR Graduate Scheme / HR Advisor",
+        "salary": "£25,000–£31,000 starting / £45,000–£65,000 senior",
+        "demand": "High"
+      },
+      {
+        "role": "Reward & Benefits Analyst",
+        "salary": "£28,000–£34,000 starting / £55,000–£85,000 senior",
+        "demand": "High"
+      },
+      {
+        "role": "Talent Acquisition / Recruitment Partner",
+        "salary": "£25,000–£32,000 starting (often plus commission) / £50,000–£80,000 senior",
+        "demand": "Very High"
+      },
+      {
+        "role": "Learning & Development Manager",
+        "salary": "£26,000–£32,000 starting / £45,000–£70,000 senior",
+        "demand": "Medium"
+      },
+      {
+        "role": "HR Business Partner / People Director track",
+        "salary": "£40,000 at partner level / £90,000–£150,000 at director level",
+        "demand": "High"
+      }
+    ],
+    "topEmployers": [
+      "NHS",
+      "Civil Service",
+      "Unilever",
+      "Deloitte",
+      "Aon",
+      "Mercer",
+      "Tesco",
+      "BAE Systems",
+      "Local authorities",
+      "Hays"
+    ],
+    "employerPerspective": "HR is a dependable graduate destination with a clear professional ladder, and the CIPD route gives it a credential structure closer to accountancy than to general management. Reward, pensions and people analytics are the best-paid specialisms and the hardest to staff — numerate HR graduates are genuinely scarce, and the consultancies (Aon, Mercer, WTW) recruit for them directly. Generalist HR advisor roles are plentiful but start lower than most business-family alternatives, and progression to business partner usually takes five or more years. Employers consistently note that the graduates who move fastest are those comfortable with employment law detail and with data, not those drawn to HR for the people-facing aspect alone.",
+    "entryRequirements": "Typical offers run from AAA at Leeds through ABB at Lancaster, Strathclyde and Aston to BBB–CCC at Keele, Northumbria, Lincoln, Westminster, Hull and Edinburgh Napier. No specific subjects are required; GCSE Maths and English at 4/C or above are standard. Verify CIPD accreditation on the course page — it is the single most important thing to check and it is not universal.",
+    "furtherStudy": "MSc Human Resource Management (CIPD Advanced level) for accelerated Chartered status, MSc Occupational Psychology for assessment and selection work, or the CIPD Level 7 diploma studied part-time while employed — frequently employer-funded.",
+    "isItForYou": [
+      "Study this if you want to work on how organisations are run through their people, and want a clear professional credential (CIPD) attached to the degree",
+      "Study this if you can engage with employment law detail and with workforce data, not just with people",
+      "Think twice if you want the highest starting salaries in the business family — generalist HR starts lower than finance, consulting or analytics; and confirm the course is CIPD-accredited before accepting an offer"
+    ]
+  },
+  "entrepreneurship": {
+    "id": "entrepreneurship",
+    "title": "Entrepreneurship & Innovation",
+    "duration": "3 years (BSc/BA) / 4 years (with placement or incubator year)",
+    "overview": "Entrepreneurship and Innovation degrees teach the process of identifying an opportunity, testing it cheaply, financing it and scaling it — plus how established firms innovate without being disrupted. Expect new venture creation, business modelling and unit economics, early-stage finance (bootstrapping, angels, venture capital, grants), intellectual property, and innovation management inside large organisations. The best versions are practical: you build and pitch a real venture, often with seed funding, incubator space and mentors, and are assessed on the business and the reflection rather than only on an exam. Be clear-eyed about the proposition — the degree does not make a business succeed, and most graduates take conventional jobs first. Its genuine value is a venture-building skill set, a network, and credibility for innovation and strategy roles inside firms.",
+    "yearByYear": [
+      {
+        "year": 1,
+        "focus": "Business foundations and opportunity",
+        "modules": [
+          "Introduction to Entrepreneurship",
+          "Opportunity Recognition & Idea Validation",
+          "Financial Accounting",
+          "Principles of Marketing",
+          "Business Economics"
+        ]
+      },
+      {
+        "year": 2,
+        "focus": "Building and financing a venture",
+        "modules": [
+          "New Venture Creation",
+          "Entrepreneurial Finance & Valuation",
+          "Innovation Management",
+          "Intellectual Property & Commercialisation",
+          "Digital Business Models"
+        ]
+      },
+      {
+        "year": 3,
+        "focus": "Scaling, specialism and the venture project",
+        "modules": [
+          "Scaling & Growth Management",
+          "Corporate Venturing & Intrapreneurship",
+          "Social Enterprise & Impact",
+          "Live venture project with pitch to investors",
+          "Dissertation or business plan"
+        ]
+      }
+    ],
+    "skills": [
+      "Validating demand before building — customer discovery and lean experiments",
+      "Unit economics, cash runway and a defensible financial model",
+      "Pitching to investors and handling due diligence questions",
+      "Reading a term sheet and understanding dilution",
+      "Operating with incomplete information and limited resources"
+    ],
+    "professionalBodies": [
+      {
+        "name": "Chartered Management Institute (CMI)",
+        "benefit": "Dual accreditation on several courses, adding a management diploma"
+      },
+      {
+        "name": "Institute of Enterprise and Entrepreneurs (IOEE)",
+        "benefit": "Student membership, mentoring networks and small-business support routes"
+      }
+    ],
+    "careers": [
+      {
+        "role": "Founder / Co-founder",
+        "salary": "Highly variable — often below market pay for 2–3 years",
+        "demand": "N/A"
+      },
+      {
+        "role": "Early Employee at a Start-up or Scale-up",
+        "salary": "£28,000–£38,000 starting (sometimes with equity) / £60,000–£90,000 senior",
+        "demand": "High"
+      },
+      {
+        "role": "Innovation / New Product Manager (corporate)",
+        "salary": "£30,000–£36,000 starting / £55,000–£85,000 senior",
+        "demand": "High"
+      },
+      {
+        "role": "Venture Capital / Accelerator Analyst",
+        "salary": "£32,000–£45,000 starting / £70,000–£120,000 senior",
+        "demand": "Low (very competitive)"
+      },
+      {
+        "role": "Business Development Manager",
+        "salary": "£27,000–£33,000 plus commission / £55,000–£90,000 senior",
+        "demand": "High"
+      }
+    ],
+    "topEmployers": [
+      "Entrepreneur First",
+      "Seedcamp",
+      "Octopus Ventures",
+      "Innovate UK",
+      "Monzo",
+      "Revolut",
+      "Ocado Technology",
+      "Unilever Foundry",
+      "Techstars",
+      "Local growth hubs"
+    ],
+    "employerPerspective": "Employers treat this degree as a signal of initiative rather than as a technical qualification, so what you actually built matters far more than the title. Scale-ups and corporate innovation teams value graduates who have run something real — revenue, users, a funded prototype — and will overlook classification for it. Venture capital is a frequently stated goal and a very small, very competitive market that mostly recruits from banking, consulting or operating experience rather than straight from an entrepreneurship degree. The honest framing is that this degree is a good environment for starting something and a reasonable route into innovation roles, but a weaker default signal than Economics, Accounting or Analytics if you end up wanting a conventional graduate scheme.",
+    "entryRequirements": "Typical offers run from AAA at Manchester and Leeds through AAB at Nottingham and ABB at Lancaster, Strathclyde and Aston to BBC–BCC at Brighton, Lincoln, Plymouth, Coventry and Bournemouth. No specific subjects required. Where a course advertises an incubator, seed fund or placement, check whether access is competitive or guaranteed.",
+    "furtherStudy": "MSc Entrepreneurship or MSc Innovation Management, MSc Management for a broader base, or an accelerator programme instead of a Masters — for founders, time and capital usually beat another degree.",
+    "isItForYou": [
+      "Study this if you want to start a business and would benefit from doing it inside a structure with mentors, funding and a cohort",
+      "Study this if you are drawn to innovation and new-product roles in established companies, not only to founding",
+      "Think twice if you want the safest graduate-scheme signal — a broader business, economics or accounting degree travels further; and treat any course that promises entrepreneurial success rather than entrepreneurial method with scepticism"
+    ]
+  },
+  "businessAnalytics": {
+    "id": "businessAnalytics",
+    "title": "Business Analytics",
+    "duration": "3 years (BSc) / 4 years (with placement)",
+    "overview": "Business Analytics sits deliberately between management and computer science: the point is to make commercial decisions from data. The core is statistics and modelling (regression, forecasting, optimisation, increasingly machine learning), the tooling to work at scale (SQL, Python or R, Power BI or Tableau), and the business context to know which question is worth answering. Courses differ considerably in how technical they are — some are management degrees with analytics modules, others are close to applied statistics with a business framing — so compare the module lists carefully. This is currently the strongest-demand specialism in the business family: almost every large organisation has more data than it can interpret, and graduates who can bridge the analyst-to-decision-maker gap are scarce. Placement years are common and well paid.",
+    "yearByYear": [
+      {
+        "year": 1,
+        "focus": "Statistics, programming and business foundations",
+        "modules": [
+          "Statistics for Business",
+          "Introduction to Programming (Python or R)",
+          "Databases & SQL",
+          "Financial Accounting",
+          "Introduction to Management"
+        ]
+      },
+      {
+        "year": 2,
+        "focus": "Modelling and visualisation",
+        "modules": [
+          "Predictive Analytics & Regression Modelling",
+          "Data Visualisation & Business Intelligence",
+          "Operations Research & Optimisation",
+          "Marketing Analytics",
+          "Data Management & Governance"
+        ]
+      },
+      {
+        "year": 3,
+        "focus": "Placement year (four-year route)",
+        "modules": [
+          "Paid analytics placement",
+          "Applied project with the host organisation",
+          "Placement report"
+        ]
+      },
+      {
+        "year": 4,
+        "focus": "Advanced methods and capstone",
+        "modules": [
+          "Machine Learning for Business",
+          "Forecasting & Time Series",
+          "Simulation & Decision Modelling",
+          "Data Ethics & Responsible AI",
+          "Capstone analytics project with a client"
+        ]
+      }
+    ],
+    "skills": [
+      "SQL fluency — the single most-requested technical skill in analyst job adverts",
+      "Python or R for data wrangling, modelling and reproducible analysis",
+      "Dashboard design in Power BI or Tableau that a director will actually use",
+      "Statistical judgement — knowing when a result is noise",
+      "Translating a model's output into a decision and a recommendation"
+    ],
+    "professionalBodies": [
+      {
+        "name": "Royal Statistical Society (RSS)",
+        "benefit": "Student membership and a route to Graduate Statistician (GradStat) status on quantitatively accredited degrees"
+      },
+      {
+        "name": "Operational Research Society",
+        "benefit": "Student membership, the OR network and accreditation on optimisation-weighted courses"
+      },
+      {
+        "name": "Chartered Management Institute (CMI)",
+        "benefit": "Dual accreditation where the course sits in a business school"
+      }
+    ],
+    "careers": [
+      {
+        "role": "Business / Data Analyst",
+        "salary": "£29,000–£36,000 starting / £55,000–£80,000 senior",
+        "demand": "Very High"
+      },
+      {
+        "role": "Data Scientist",
+        "salary": "£33,000–£42,000 starting / £70,000–£110,000 senior",
+        "demand": "Very High"
+      },
+      {
+        "role": "Analytics Consultant",
+        "salary": "£32,000–£42,000 starting / £70,000–£110,000 senior",
+        "demand": "High"
+      },
+      {
+        "role": "Pricing / Revenue Management Analyst",
+        "salary": "£30,000–£37,000 starting / £60,000–£90,000 senior",
+        "demand": "High"
+      },
+      {
+        "role": "Supply Chain / Operations Analyst",
+        "salary": "£28,000–£34,000 starting / £50,000–£75,000 senior",
+        "demand": "High"
+      }
+    ],
+    "topEmployers": [
+      "Accenture",
+      "Deloitte",
+      "Capgemini",
+      "Amazon",
+      "Tesco",
+      "Sky",
+      "Lloyds Banking Group",
+      "ASOS",
+      "Office for National Statistics",
+      "Dunnhumby"
+    ],
+    "employerPerspective": "Analytics is where business-school recruitment demand is currently strongest and supply is thinnest, and it shows in starting salaries — typically £3,000–£6,000 above a general management graduate at the same institution. Employers screen on demonstrable tooling: SQL first, then Python or R, then a BI tool, and a portfolio or placement project beats a transcript. The common disappointment runs the other way: graduates of analytics-badged courses that were light on real technical content struggle against computer science and statistics applicants for the better-paid data science roles. Check how much programming and statistics the course actually contains before you rely on the title.",
+    "entryRequirements": "Typical offers run from A*AA at UCL and AAA at Leeds through AAB at Exeter, Manchester, Loughborough, Southampton, Nottingham and Cardiff to ABB–BBB at Surrey, Aston and Kent. A-level Maths is required or strongly preferred almost everywhere and is effectively mandatory for the more technical courses; Further Maths helps at UCL.",
+    "furtherStudy": "MSc Business Analytics or MSc Data Science to deepen technically — a common and well-regarded step, particularly for graduates of less technical undergraduate courses. MSc Operational Research for optimisation and logistics specialisms.",
+    "isItForYou": [
+      "Study this if you like A-level Maths and want the best-paid, highest-demand route in the business family",
+      "Study this if you want to be the person who turns data into a decision rather than only producing the chart",
+      "Think twice if you dislike programming and statistics — the credible versions of this degree are genuinely technical; and if you want pure machine-learning research, Computer Science or Mathematics is the stronger base"
+    ]
+  },
+  "supplyChain": {
+    "id": "supplyChain",
+    "title": "Supply Chain & Logistics",
+    "duration": "3 years (BSc/BA) / 4 years (with placement)",
+    "overview": "Supply Chain and Logistics studies how goods and services actually move: procurement and supplier strategy, inventory and demand planning, warehousing and distribution, transport modes and freight, and the operations management that ties them together. It is one of the more quantitative business routes — forecasting, inventory optimisation, network design and simulation are standard — and one of the most visibly consequential, as the disruptions of recent years made plain. Courses commonly include supplier site visits, simulation software and a placement year, and content increasingly covers sustainability: emissions in freight, circular supply chains, and modern slavery and due-diligence obligations. Graduate demand is strong and persistently under-served, because far fewer students apply here than to marketing or general management.",
+    "yearByYear": [
+      {
+        "year": 1,
+        "focus": "Operations and business foundations",
+        "modules": [
+          "Introduction to Operations Management",
+          "Principles of Supply Chain Management",
+          "Business Statistics",
+          "Financial Accounting",
+          "Introduction to Management"
+        ]
+      },
+      {
+        "year": 2,
+        "focus": "Planning, procurement and transport",
+        "modules": [
+          "Demand Planning & Forecasting",
+          "Procurement & Supplier Management",
+          "Inventory & Warehouse Management",
+          "Transport & Freight Systems",
+          "Quality & Lean Operations"
+        ]
+      },
+      {
+        "year": 3,
+        "focus": "Placement year (four-year route)",
+        "modules": [
+          "Paid placement in logistics, procurement or planning",
+          "Applied improvement project",
+          "Placement report"
+        ]
+      },
+      {
+        "year": 4,
+        "focus": "Network design, risk and dissertation",
+        "modules": [
+          "Supply Chain Network Design & Optimisation",
+          "Supply Chain Risk & Resilience",
+          "Sustainable & Circular Supply Chains",
+          "Global Sourcing & Trade Compliance",
+          "Dissertation or consultancy project"
+        ]
+      }
+    ],
+    "skills": [
+      "Demand forecasting and inventory policy (safety stock, reorder points, EOQ)",
+      "Network and route optimisation, including simulation tools",
+      "Negotiating and managing supplier contracts",
+      "Lean and Six Sigma process improvement",
+      "ERP systems — SAP or equivalent — and operational data analysis"
+    ],
+    "professionalBodies": [
+      {
+        "name": "Chartered Institute of Logistics and Transport (CILT)",
+        "benefit": "Accredited degrees give exemptions and a route to Chartered Member (CMILT) status"
+      },
+      {
+        "name": "Chartered Institute of Procurement & Supply (CIPS)",
+        "benefit": "CIPS-accredited courses give exemptions from the professional diploma and a route to MCIPS, the standard procurement credential"
+      },
+      {
+        "name": "Chartered Management Institute (CMI)",
+        "benefit": "Dual accreditation on several business-school courses"
+      }
+    ],
+    "careers": [
+      {
+        "role": "Supply Chain Graduate Scheme",
+        "salary": "£29,000–£35,000 starting / £55,000–£80,000 at 5 years",
+        "demand": "Very High"
+      },
+      {
+        "role": "Procurement / Category Manager",
+        "salary": "£28,000–£34,000 starting / £55,000–£90,000 senior",
+        "demand": "Very High"
+      },
+      {
+        "role": "Demand / Supply Planner",
+        "salary": "£27,000–£33,000 starting / £50,000–£70,000 senior",
+        "demand": "High"
+      },
+      {
+        "role": "Logistics / Distribution Manager",
+        "salary": "£28,000–£34,000 starting / £50,000–£75,000 senior",
+        "demand": "High"
+      },
+      {
+        "role": "Supply Chain Consultant",
+        "salary": "£32,000–£42,000 starting / £70,000–£110,000 senior",
+        "demand": "High"
+      }
+    ],
+    "topEmployers": [
+      "Maersk",
+      "DHL",
+      "Amazon Operations",
+      "Tesco",
+      "Aldi",
+      "Unilever",
+      "Jaguar Land Rover",
+      "Rolls-Royce",
+      "NHS Supply Chain",
+      "Ministry of Defence"
+    ],
+    "employerPerspective": "This is one of the best supply-and-demand positions in the business family: large structured graduate schemes at the retailers, manufacturers and freight operators, and far fewer applicants than marketing or general management attract. Procurement in particular is chronically short of graduate talent and pays well early. Employers screen for numeracy and for placement experience, and value CIPS or CILT accreditation because it shortens the path to a recognised professional credential. The main reason students overlook the field is image rather than substance — the work is analytical, international and visible to the board, and progression to operations director is a well-worn path.",
+    "entryRequirements": "Typical offers run from AAB at Cardiff, Loughborough and Liverpool through ABB at Lancaster and Aston to BBB–BBC at Heriot-Watt, Northumbria, Hull, Sheffield Hallam, Coventry, Plymouth and Lincoln. A-level Maths is preferred and sometimes required on the more quantitative courses; GCSE Maths at 5/B or above is standard. Check for CILT or CIPS accreditation, which is common but not universal.",
+    "furtherStudy": "MSc Supply Chain Management or MSc Logistics to specialise, MSc Operational Research for the optimisation route, or CIPS Level 4–6 studied part-time while employed — usually employer-funded.",
+    "isItForYou": [
+      "Study this if you want a quantitative, operationally real business degree with strong and under-subscribed graduate demand",
+      "Study this if you like the idea of being responsible for something physical that visibly works or fails",
+      "Think twice if you want a client-facing or creative role, or a London-centric career — much of the best early experience is at distribution centres, ports and plants outside major cities"
+    ]
+  },
+  "businessLanguages": {
+    "id": "businessLanguages",
+    "title": "Business with Languages",
+    "duration": "4 years (including a compulsory year abroad)",
+    "overview": "Business with a Modern Language pairs a full management curriculum with language study to near-professional level, and almost always includes a compulsory year abroad studying or working in the target language. French, Spanish, German, Italian, Mandarin and Japanese are the common options, and most universities offer both post-A-level and ab-initio (beginner) routes — so you can start a new language from scratch at degree level. The language half is taught as applied and business language, not literature: negotiation, correspondence, presentations and the commercial culture of the target region. The combination is rarer and more differentiated than general management, and it tends to produce confident graduates: four years including one lived abroad in another language leaves a visible mark on how people handle unfamiliar situations.",
+    "yearByYear": [
+      {
+        "year": 1,
+        "focus": "Management foundations and language core",
+        "modules": [
+          "Introduction to Management",
+          "Financial Accounting",
+          "Principles of Marketing",
+          "Target Language — Core (post-A-level or ab initio)",
+          "Business Culture of the Target Region"
+        ]
+      },
+      {
+        "year": 2,
+        "focus": "Core business and advanced language",
+        "modules": [
+          "Strategic Management",
+          "Operations Management",
+          "International Business",
+          "Advanced Target Language — Business Context",
+          "Translation & Interpreting for Business"
+        ]
+      },
+      {
+        "year": 3,
+        "focus": "Year abroad",
+        "modules": [
+          "Study at a partner university, or a work placement in the target country",
+          "Host-institution modules taught in the target language",
+          "Year-abroad project or extended report"
+        ]
+      },
+      {
+        "year": 4,
+        "focus": "Specialism, language mastery and dissertation",
+        "modules": [
+          "International Marketing or International HRM",
+          "Cross-Cultural Negotiation",
+          "Target Language — Professional Level",
+          "Dissertation, often on the target market"
+        ]
+      }
+    ],
+    "skills": [
+      "Professional working proficiency in a second language",
+      "Negotiating and presenting in a language that is not your first",
+      "The full management toolkit — accounting, marketing, strategy, operations",
+      "Cultural fluency in a specific market rather than generic 'global awareness'",
+      "Resilience built from a year living and working abroad"
+    ],
+    "professionalBodies": [
+      {
+        "name": "Chartered Management Institute (CMI)",
+        "benefit": "Dual accreditation on many business-school versions of this degree"
+      },
+      {
+        "name": "Chartered Institute of Linguists (CIOL)",
+        "benefit": "Student membership and a route to professional linguist credentials if you move towards translation or interpreting"
+      }
+    ],
+    "careers": [
+      {
+        "role": "International Graduate Scheme",
+        "salary": "£29,000–£36,000 starting / £55,000–£80,000 at 5 years",
+        "demand": "High"
+      },
+      {
+        "role": "Export Sales / International Business Development",
+        "salary": "£27,000–£33,000 plus commission / £55,000–£90,000 senior",
+        "demand": "High"
+      },
+      {
+        "role": "Global Procurement / Category Manager",
+        "salary": "£30,000–£36,000 starting / £55,000–£85,000 senior",
+        "demand": "High"
+      },
+      {
+        "role": "Diplomatic Service / International Civil Service",
+        "salary": "£32,000–£40,000 starting / £60,000–£90,000 senior",
+        "demand": "Medium"
+      },
+      {
+        "role": "Localisation / International Marketing Manager",
+        "salary": "£27,000–£33,000 starting / £50,000–£75,000 senior",
+        "demand": "Medium"
+      }
+    ],
+    "topEmployers": [
+      "Foreign, Commonwealth & Development Office",
+      "Department for Business and Trade",
+      "Unilever",
+      "Diageo",
+      "Airbus",
+      "Siemens",
+      "L'Oréal",
+      "Bosch",
+      "European institutions",
+      "Maersk"
+    ],
+    "employerPerspective": "The language is the differentiator, and employers who need it pay for it: export sales, international procurement, localisation and the diplomatic service all treat working proficiency as a hard requirement rather than a nice-to-have. For employers who do not need the language, the degree reads as a solid management degree with a year abroad — no penalty, but no premium either. The practical advice from recruiters is consistent: pick a language with commercial depth in the markets you care about, keep it genuinely at working level after graduation, and treat the year abroad as a work placement rather than a study break where possible, because the combination of language plus overseas work experience is what commands the premium.",
+    "entryRequirements": "Typical offers run from A*AA at Durham and AAA at Bath, Leeds and Manchester through AAB at Exeter, Sheffield, Newcastle and Cardiff to ABB–BBC at Aston, Strathclyde, Heriot-Watt and Northumbria. Post-A-level routes require the target language at A-level, usually at grade B or above; ab-initio routes require no prior study of that language but often expect an A-level in another language or strong GCSE evidence of language aptitude.",
+    "furtherStudy": "MSc International Business or MSc Management to specialise further, MA Translation or Interpreting to professionalise the language, or a Masters taught entirely in the target language at an overseas partner — a common and cost-effective option.",
+    "isItForYou": [
+      "Study this if you enjoy languages and want them to be commercially useful rather than purely academic",
+      "Study this if a compulsory four-year structure with a year abroad appeals rather than deters",
+      "Think twice if you are not committed to maintaining the language after graduation — an unused language fades fast and the degree then offers little over general management; and note that four years means an extra year of fees and living costs"
+    ]
+  },
+  "realEstate": {
+    "id": "realEstate",
+    "title": "Real Estate & Property",
+    "duration": "3 years (BSc) / 4 years (with placement or Scottish/Cambridge route)",
+    "overview": "Real Estate degrees train property professionals: valuation, investment appraisal, landlord and tenant law, planning, development appraisal, building construction and property management. The decisive feature is RICS accreditation — an accredited degree is the normal route to the Assessment of Professional Competence and Chartered Surveyor (MRICS) status, which is effectively the licence to practise in commercial property. The work is more numerical than students expect: discounted cash flow, yield analysis and development residuals are core. Cambridge's Land Economy is the outlier, a broader law-economics-land degree that is prestigious but not a direct surveying qualification. Graduate demand is consistently strong and the field is small enough that accredited courses have unusually high employment rates.",
+    "yearByYear": [
+      {
+        "year": 1,
+        "focus": "Property, law and economics foundations",
+        "modules": [
+          "Introduction to Real Estate",
+          "Property Law",
+          "Economics of Land & Property",
+          "Building Construction & Technology",
+          "Valuation Principles"
+        ]
+      },
+      {
+        "year": 2,
+        "focus": "Valuation, investment and planning",
+        "modules": [
+          "Applied Valuation",
+          "Property Investment Appraisal",
+          "Landlord & Tenant Law",
+          "Planning & Urban Policy",
+          "Property Management"
+        ]
+      },
+      {
+        "year": 3,
+        "focus": "Development, markets and dissertation",
+        "modules": [
+          "Development Appraisal & Finance",
+          "International Real Estate Markets",
+          "Sustainability & Building Performance",
+          "Professional Practice & Ethics (RICS)",
+          "Dissertation"
+        ]
+      }
+    ],
+    "skills": [
+      "Valuing commercial and residential property by investment and comparable methods",
+      "Discounted cash flow and development residual appraisal",
+      "Reading leases and advising on landlord and tenant issues",
+      "Navigating the planning system",
+      "Argus, Excel modelling and property data platforms"
+    ],
+    "professionalBodies": [
+      {
+        "name": "Royal Institution of Chartered Surveyors (RICS)",
+        "benefit": "An RICS-accredited degree is the standard entry to the APC and Chartered Surveyor (MRICS) status — the credential commercial property employers require"
+      },
+      {
+        "name": "Investment Property Forum (IPF)",
+        "benefit": "Student membership and access to the UK property investment research network"
+      },
+      {
+        "name": "Central Association of Agricultural Valuers (CAAV)",
+        "benefit": "Relevant to the rural and agricultural property route"
+      }
+    ],
+    "careers": [
+      {
+        "role": "Graduate Surveyor (commercial agency / valuation)",
+        "salary": "£28,000–£35,000 starting / £55,000–£90,000 post-MRICS",
+        "demand": "Very High"
+      },
+      {
+        "role": "Property Investment Analyst",
+        "salary": "£30,000–£38,000 starting / £65,000–£110,000 senior",
+        "demand": "High"
+      },
+      {
+        "role": "Development Manager",
+        "salary": "£30,000–£37,000 starting / £65,000–£100,000 senior",
+        "demand": "High"
+      },
+      {
+        "role": "Property / Asset Manager",
+        "salary": "£27,000–£33,000 starting / £50,000–£80,000 senior",
+        "demand": "High"
+      },
+      {
+        "role": "Rural Practice / Estate Surveyor",
+        "salary": "£26,000–£32,000 starting / £45,000–£70,000 senior",
+        "demand": "Medium"
+      }
+    ],
+    "topEmployers": [
+      "CBRE",
+      "JLL",
+      "Savills",
+      "Knight Frank",
+      "Cushman & Wakefield",
+      "Colliers",
+      "British Land",
+      "Landsec",
+      "Valuation Office Agency",
+      "Strutt & Parker"
+    ],
+    "employerPerspective": "Real estate is a small, credential-driven profession with strong and stable graduate recruitment: the big agencies (CBRE, JLL, Savills, Knight Frank) run structured graduate schemes that take accredited-degree holders and support them through the APC. Accreditation is close to decisive — a non-accredited property degree means a conversion Masters before you can qualify, so verify RICS status before accepting any offer. The best-paid routes are investment and development rather than agency or management, and both reward numerical confidence. The field is also notably relationship-driven; placements and summer vacation schemes are the usual way in and are worth pursuing from the first year.",
+    "entryRequirements": "Reading, the UK's top-ranked course, asks AAB with IB 34. Cambridge Land Economy asks A*AA. Aberdeen asks around AAB, and the specialist providers — Sheffield Hallam, Liverpool John Moores, Westminster, Harper Adams — typically ask BBB–BBC. No specific A-level subjects are usually required, though Maths, Geography and Economics are useful; GCSE Maths at 5/B or above is standard.",
+    "furtherStudy": "An RICS-accredited conversion MSc (Real Estate, Real Estate Finance or Surveying) if your first degree was not accredited — the standard route for graduates entering property from another discipline. MSc Real Estate Finance for the investment route.",
+    "isItForYou": [
+      "Study this if you want a clearly defined profession with a recognised chartership and strong, steady graduate demand",
+      "Study this if you are comfortable with valuation maths and with law, and interested in the built environment as an asset as well as a place",
+      "Think twice if you want a large, varied graduate market — property is a small sector that moves with the economic cycle; and never accept a place on a property degree without checking its RICS accreditation"
+    ]
+  },
+  "hospitalityTourism": {
+    "id": "hospitalityTourism",
+    "title": "Hospitality & Tourism",
+    "duration": "3 years (BA/BSc) / 4 years (with placement — common and often compulsory)",
+    "overview": "Hospitality and Tourism Management is a vocational management degree aimed at one of the UK's largest employment sectors. The curriculum covers hotel and resort operations, revenue management and pricing, food and beverage, events, destination marketing, tourism policy and the sustainability pressures now central to the industry. Revenue management in particular is seriously quantitative — yield, occupancy and dynamic pricing — and is the specialism that pays best. The defining structural feature is the placement: most of the credible courses include a compulsory industry year, often in a branded hotel group or international resort, and the sector recruits overwhelmingly on operational experience. Surrey is the long-standing UK leader. Be realistic about pay: entry salaries are the lowest in the business family, but progression into management can be quick for people who perform operationally.",
+    "yearByYear": [
+      {
+        "year": 1,
+        "focus": "Sector foundations and operations",
+        "modules": [
+          "Introduction to Hospitality & Tourism",
+          "Food & Beverage Operations",
+          "Accounting for Hospitality",
+          "Principles of Marketing",
+          "Customer Experience Management"
+        ]
+      },
+      {
+        "year": 2,
+        "focus": "Revenue, people and destinations",
+        "modules": [
+          "Revenue & Yield Management",
+          "Hotel & Resort Operations Management",
+          "Destination Marketing",
+          "Human Resource Management in Service Industries",
+          "Events Management"
+        ]
+      },
+      {
+        "year": 3,
+        "focus": "Industry placement",
+        "modules": [
+          "Paid placement, frequently with an international hotel group",
+          "Operational rotation across departments",
+          "Placement portfolio and reflective report"
+        ]
+      },
+      {
+        "year": 4,
+        "focus": "Strategy, sustainability and dissertation",
+        "modules": [
+          "Strategic Management for Hospitality & Tourism",
+          "Sustainable & Responsible Tourism",
+          "International Hospitality Development",
+          "Optional modules (Luxury, Aviation, Cruise, Festivals)",
+          "Dissertation or industry consultancy project"
+        ]
+      }
+    ],
+    "skills": [
+      "Running a service operation to standard under live pressure",
+      "Revenue management — yield, occupancy, segmentation and dynamic pricing",
+      "Event planning, logistics and supplier coordination",
+      "Managing large, young, high-turnover teams",
+      "Property-level P&L, cost control and forecasting"
+    ],
+    "professionalBodies": [
+      {
+        "name": "Institute of Hospitality",
+        "benefit": "Accredited courses give student and then professional membership, with a route to MIH status"
+      },
+      {
+        "name": "Tourism Management Institute (TMI)",
+        "benefit": "Recognition for destination-management and tourism-policy careers"
+      },
+      {
+        "name": "Chartered Institute of Marketing (CIM)",
+        "benefit": "Available where the course carries a substantial destination-marketing component"
+      }
+    ],
+    "careers": [
+      {
+        "role": "Hotel Graduate Management Programme",
+        "salary": "£24,000–£29,000 starting / £45,000–£70,000 at general-manager level",
+        "demand": "High"
+      },
+      {
+        "role": "Revenue Manager",
+        "salary": "£27,000–£33,000 starting / £50,000–£80,000 senior",
+        "demand": "Very High"
+      },
+      {
+        "role": "Events Manager",
+        "salary": "£23,000–£28,000 starting / £40,000–£60,000 senior",
+        "demand": "High"
+      },
+      {
+        "role": "Destination / Tourism Development Officer",
+        "salary": "£24,000–£29,000 starting / £38,000–£55,000 senior",
+        "demand": "Medium"
+      },
+      {
+        "role": "Airline or Cruise Commercial Management",
+        "salary": "£26,000–£32,000 starting / £50,000–£80,000 senior",
+        "demand": "Medium"
+      }
+    ],
+    "topEmployers": [
+      "Marriott International",
+      "Hilton",
+      "InterContinental Hotels Group",
+      "Accor",
+      "Four Seasons",
+      "TUI",
+      "Jet2holidays",
+      "Compass Group",
+      "VisitBritain",
+      "Royal Caribbean"
+    ],
+    "employerPerspective": "Hospitality recruits on operational track record above all else, which makes the placement year the most valuable part of the degree — graduates who performed well on placement are frequently offered a graduate management role by the same group. Revenue management is the standout specialism: analytical, transferable to airlines and travel platforms, and much better paid than operations. The honest caveats are pay and conditions at entry — starting salaries are the lowest in the business family, hours are unsocial, and early progression often requires relocation and willingness to work weekends and holidays. Those who stay reach property general management or regional commercial roles faster than equivalent-age peers in other sectors.",
+    "entryRequirements": "Surrey, the top-ranked course, asks BCC–CCC with IB 30–29. Strathclyde asks ABB–BBB and Stirling around BBB; most other providers ask BBC–CCC. This is the most accessible subject area in the business family by entry grades. No specific subjects are required; GCSE Maths and English at 4/C are typical conditions. Check whether the placement year is compulsory and whether the university arranges it or you must find your own.",
+    "furtherStudy": "MSc International Hospitality Management or MSc Tourism Management to accelerate towards senior roles, MSc Revenue Management for the commercial route, or an MBA later in a career moving towards ownership or asset management.",
+    "isItForYou": [
+      "Study this if you want a vocational degree in a large sector, learn by doing, and will commit to the placement year",
+      "Study this if revenue management or international hotel operations appeal — these are the routes with the best pay and mobility",
+      "Think twice if starting salary is your main criterion, or if unsocial hours, weekend work and relocation would not suit you — the sector asks a lot early and repays it later"
+    ]
+  }
+}

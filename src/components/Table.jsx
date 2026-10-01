@@ -196,7 +196,10 @@ export default function Table({ universities, course, strandId, gradeType = 'aLe
 
               {uni.courseName && (
                 <div className="mt-3">
-                  <div className="mb-1 text-[9px] font-semibold uppercase tracking-widest text-blue-400/60">Verified Course</div>
+                  {/* Only claim "verified" when the row carries a source link. */}
+                  <div className="mb-1 text-[9px] font-semibold uppercase tracking-widest text-blue-400/60">
+                    {uni.sourceUrl ? 'Verified Course' : 'Course Title'}
+                  </div>
                   {courseLink(uni)}
                 </div>
               )}
