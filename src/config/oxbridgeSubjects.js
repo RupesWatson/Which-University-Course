@@ -265,7 +265,7 @@ export const OXBRIDGE_SUBJECTS = {
       cambridge: 'At Cambridge, economics has its own Tripos; management is available only as a one-year Part II add-on.',
     },
   },
-  accountingManagement: { oxford: null, cambridge: null },
+  accounting: { oxford: null, cambridge: null },
   marketing: { oxford: null, cambridge: null },
   hrm: { oxford: null, cambridge: null },
   entrepreneurship: { oxford: null, cambridge: null },

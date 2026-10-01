@@ -209,12 +209,12 @@ export const STRANDS = {
       'Entry requirements are taken from each university’s own course page where they could be ' +
       'verified, with rankings from the Complete University Guide 2027 subject tables.',
     footerNote:
-      'Business & Management, Accounting & Management, Marketing, Real Estate & Property and ' +
+      'Business & Management, Accounting, Marketing, Real Estate & Property and ' +
       'Hospitality & Tourism use CUG 2027 subject tables; other tables show table position within ' +
       'this comparison set. Rows marked Indicative were not confirmed against the university’s ' +
       'own page — always check grades and UCAS codes before applying.',
     courseGroups: [
-      { label: 'Core Business & Management', ids: ['businessManagement', 'internationalBusiness', 'economicsManagement', 'accountingManagement'] },
+      { label: 'Core Business & Management', ids: ['businessManagement', 'internationalBusiness', 'economicsManagement', 'accounting'] },
       { label: 'Marketing, People & Enterprise', ids: ['marketing', 'hrm', 'entrepreneurship'] },
       { label: 'Analytics & Operations', ids: ['businessAnalytics', 'supplyChain'] },
       { label: 'Specialist Routes', ids: ['businessLanguages', 'realEstate', 'hospitalityTourism'] },

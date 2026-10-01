@@ -1,7 +1,7 @@
 import businessManagementData  from './business-management.json';
 import internationalBusinessData from './international-business.json';
 import economicsManagementData  from './economics-management.json';
-import accountingManagementData from './accounting-management.json';
+import accountingData          from './accounting.json';
 import marketingData            from './marketing.json';
 import hrmData                  from './human-resource-management.json';
 import entrepreneurshipData     from './entrepreneurship.json';
@@ -38,13 +38,13 @@ export const COURSES = [
     data: economicsManagementData,
   },
   {
-    id: 'accountingManagement',
-    label: 'Accounting & Management',
+    id: 'accounting',
+    label: 'Accounting',
     rankLabel: 'Subject Rank',
-    description: 'Explore Accounting and Management courses — the management-school route to ICAEW, ACCA and CIMA',
+    description: 'Explore Accounting, Accounting and Finance and Accountancy courses — the route to ICAEW, ACCA and CIMA',
     rankingScope: 'official',
     rankingYear: 2027,
-    data: accountingManagementData,
+    data: accountingData,
   },
   {
     id: 'marketing',

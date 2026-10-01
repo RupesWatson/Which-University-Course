@@ -322,11 +322,11 @@
       "Think twice if you dislike mathematical formalism — the economics half is harder and less forgiving than the management half; and check the module split, because 'Economics and Management' means very different things at different universities"
     ]
   },
-  "accountingManagement": {
-    "id": "accountingManagement",
-    "title": "Accounting & Management",
+  "accounting": {
+    "id": "accounting",
+    "title": "Accounting",
     "duration": "3 years (BSc) / 4 years (with placement)",
-    "overview": "Accounting and Management is the management-school route into the accountancy profession. You cover financial accounting and reporting, management accounting, audit, tax and financial management, set inside a broader management curriculum of strategy, operations and organisational behaviour. The commercial draw is exemption: an accredited degree can remove up to nine of the fifteen ICAEW ACA exams, or a comparable block for ACCA and CIMA, cutting a year or more off the time to qualification. The distinction from the Accounting & Finance degrees in the Finance strand is emphasis — this route keeps more general management and less capital-markets content, which suits students aiming at industry finance, audit and advisory rather than markets. Check each university's exemption table directly, because exemptions are negotiated course by course and change between cohorts.",
+    "overview": "Accounting degrees are the management-school route into the accountancy profession. You cover financial accounting and reporting, management accounting, audit, tax and financial management, usually set inside a broader business curriculum of strategy, operations and organisational behaviour. The commercial draw is exemption: an accredited degree can remove up to nine of the fifteen ICAEW ACA exams, or a comparable block for ACCA and CIMA, cutting a year or more off the time to qualification. Course titles vary a lot and are worth reading carefully — most universities here offer Accounting and Finance, some offer Accounting and Management (a broader management mix), and Scottish providers award a BAcc or MAcc. The Finance & Accounting strand covers the markets-facing side of the same subject. Check each university's exemption table directly, because exemptions are negotiated course by course and change between cohorts.",
     "yearByYear": [
       {
         "year": 1,
@@ -432,7 +432,7 @@
     "isItForYou": [
       "Study this if you want a clear, well-trodden professional route with high and stable graduate demand",
       "Study this if you are comfortable with rules-based detail — reporting standards and tax law reward precision over flair",
-      "Think twice if you want markets or deal-making specifically (look at Finance & Accounting), or if rules-heavy technical study would bore you — the first two years are demanding and unglamorous"
+      "Think twice if you want markets or deal-making specifically (the Finance & Accounting strand is the better fit), or if rules-heavy technical study would bore you — the first two years are demanding and unglamorous"
     ]
   },
   "marketing": {

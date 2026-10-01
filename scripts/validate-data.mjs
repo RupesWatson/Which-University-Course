@@ -84,7 +84,7 @@ const BUSINESS_FILES = [
   'business-management.json',
   'international-business.json',
   'economics-management.json',
-  'accounting-management.json',
+  'accounting.json',
   'marketing.json',
   'human-resource-management.json',
   'entrepreneurship.json',
