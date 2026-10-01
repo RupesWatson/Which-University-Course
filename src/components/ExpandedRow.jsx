@@ -13,9 +13,22 @@ function LinkValue({ href, children }) {
 export default function ExpandedRow({ university, course, colSpan }) {
   const rankLabel = course?.rankLabel || 'Table Position';
   const entryGrades = university.entryGrades || university.aLevelGrades;
+  // Strands added at different times cite different CUG editions, so the year
+  // comes from the course rather than being fixed here.
+  const rankingYear = course?.rankingYear ?? 2026;
   const rankText = course?.rankingScope === 'official'
-    ? `#${university.subjectRank} in the CUG 2026 subject ranking`
+    ? `#${university.subjectRank} in the CUG ${rankingYear} subject ranking`
     : `#${university.subjectRank} in this comparison set`;
+
+  // Strands that record per-row provenance say so here. Strands that don't set
+  // the field are unaffected — the row simply omits it.
+  const provenanceText = {
+    verified: `Offer and course title confirmed against the university's own 2026 entry page${
+      university.ibSource === 'derived' ? '. That page publishes no IB offer, so the IB figure is an equivalent' : ''}.`,
+    indicative: `Not confirmed against the university's own page. Grades are indicative${
+      university.ibSource === 'derived' ? ' and the IB figure is derived from them' : ''
+    } — check both, and the UCAS code, before applying.`,
+  }[university.provenance];
 
   const fields = [
     { label: 'Course Title', value: <LinkValue href={university.sourceUrl}>{university.courseName}</LinkValue> },
@@ -28,6 +41,10 @@ export default function ExpandedRow({ university, course, colSpan }) {
     },
     { label: 'Graduate Prospects', value: `${university.gradProspects} in graduate-level employment` },
     { label: 'Highlights', value: university.notes },
+    ...(provenanceText ? [{
+      label: university.provenance === 'verified' ? 'Verified' : 'Not verified',
+      value: provenanceText,
+    }] : []),
   ];
 
   return (

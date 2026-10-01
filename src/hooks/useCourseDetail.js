@@ -8,6 +8,7 @@ import socialDetails        from '../data/socialsciences/course-details.json';
 import computerScienceDetails from '../data/computer-science/course-details.json';
 import medicineDetails        from '../data/medicine/course-details.json';
 import biologyDetails         from '../data/biology/course-details.json';
+import businessDetails        from '../data/business/course-details.json';
 
 const DETAILS = {
   finance:        financeDetails,
@@ -20,6 +21,7 @@ const DETAILS = {
   computerScience: computerScienceDetails,
   medicine:       medicineDetails,
   biology:        biologyDetails,
+  business:       businessDetails,
 };
 
 export function useCourseDetail(courseId, strandId) {

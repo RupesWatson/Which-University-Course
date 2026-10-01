@@ -244,6 +244,42 @@ export const OXBRIDGE_SUBJECTS = {
   behaviouralFinance: { oxford: null, cambridge: null },
   finInn: { oxford: null, cambridge: null },
 
+  // ── BUSINESS STRAND ────────────────────────────────────────────────────────
+  // Neither Oxford nor Cambridge offers a standalone undergraduate business
+  // degree. Oxford's route is Economics and Management; Cambridge offers only
+  // Land Economy and a one-year Management Studies Part II, neither of which is
+  // a college-level business subject, so both map to null.
+  businessManagement: {
+    oxford: 'economics-management',
+    cambridge: null,
+    aggregateNote: {
+      oxford: 'At Oxford, business is studied within Economics and Management (E&M) — there is no standalone Business degree.',
+    },
+  },
+  internationalBusiness: { oxford: null, cambridge: null },
+  economicsManagement: {
+    oxford: 'economics-management',
+    cambridge: 'economics',
+    aggregateNote: {
+      oxford: 'At Oxford, this is the Economics and Management (E&M) degree, taught jointly by the Department of Economics and the Saïd Business School.',
+      cambridge: 'At Cambridge, economics has its own Tripos; management is available only as a one-year Part II add-on.',
+    },
+  },
+  accounting: { oxford: null, cambridge: null },
+  marketing: { oxford: null, cambridge: null },
+  hrm: { oxford: null, cambridge: null },
+  entrepreneurship: { oxford: null, cambridge: null },
+  businessAnalytics: { oxford: null, cambridge: null },
+  businessLanguages: { oxford: null, cambridge: null },
+  realEstate: {
+    oxford: null,
+    cambridge: null,
+    aggregateNote: {
+      cambridge: 'At Cambridge, the nearest route is Land Economy, a combined law, economics and land-management tripos rather than a surveying degree.',
+    },
+  },
+  hospitalityTourism: { oxford: null, cambridge: null },
+
   // ── HUMANITIES STRAND ──────────────────────────────────────────────────────
   english: {
     oxford: 'english',
