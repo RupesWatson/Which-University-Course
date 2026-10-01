@@ -89,7 +89,6 @@ const BUSINESS_FILES = [
   'human-resource-management.json',
   'entrepreneurship.json',
   'business-analytics.json',
-  'supply-chain.json',
   'business-languages.json',
   'real-estate.json',
   'hospitality-tourism.json',

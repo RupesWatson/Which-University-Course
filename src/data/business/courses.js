@@ -6,7 +6,6 @@ import marketingData            from './marketing.json';
 import hrmData                  from './human-resource-management.json';
 import entrepreneurshipData     from './entrepreneurship.json';
 import businessAnalyticsData    from './business-analytics.json';
-import supplyChainData          from './supply-chain.json';
 import businessLanguagesData    from './business-languages.json';
 import realEstateData           from './real-estate.json';
 import hospitalityTourismData   from './hospitality-tourism.json';
@@ -78,14 +77,6 @@ export const COURSES = [
     description: 'Explore Business Analytics and Information Management courses — data-led decision making',
     rankingScope: 'comparison',
     data: businessAnalyticsData,
-  },
-  {
-    id: 'supplyChain',
-    label: 'Supply Chain & Logistics',
-    rankLabel: 'Table Position',
-    description: 'Explore Supply Chain, Logistics and Operations Management courses',
-    rankingScope: 'comparison',
-    data: supplyChainData,
   },
   {
     id: 'businessLanguages',

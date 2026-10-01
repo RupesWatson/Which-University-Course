@@ -270,7 +270,6 @@ export const OXBRIDGE_SUBJECTS = {
   hrm: { oxford: null, cambridge: null },
   entrepreneurship: { oxford: null, cambridge: null },
   businessAnalytics: { oxford: null, cambridge: null },
-  supplyChain: { oxford: null, cambridge: null },
   businessLanguages: { oxford: null, cambridge: null },
   realEstate: {
     oxford: null,

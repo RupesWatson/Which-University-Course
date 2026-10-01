@@ -216,8 +216,7 @@ export const STRANDS = {
     courseGroups: [
       { label: 'Core Business & Management', ids: ['businessManagement', 'internationalBusiness', 'economicsManagement', 'accounting'] },
       { label: 'Marketing, People & Enterprise', ids: ['marketing', 'hrm', 'entrepreneurship'] },
-      { label: 'Analytics & Operations', ids: ['businessAnalytics', 'supplyChain'] },
-      { label: 'Specialist Routes', ids: ['businessLanguages', 'realEstate', 'hospitalityTourism'] },
+      { label: 'Analytics & Specialist Routes', ids: ['businessAnalytics', 'businessLanguages', 'realEstate', 'hospitalityTourism'] },
     ],
     courses: businessCourses,
   },

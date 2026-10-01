@@ -353,24 +353,6 @@ const COURSES = [
     ],
   },
   {
-    file: 'supply-chain.json',
-    table: 'comparison',
-    rows: [
-      ['cardiff', 'Business Management (Logistics and Operations) (BA)', { grades: 'AAB', match: 'close', note: 'Cardiff’s logistics and operations group is one of the strongest in the UK.' }],
-      ['lancaster', 'Management and Supply Chain (BSc)', { grades: 'ABB' }],
-      ['loughborough', 'Management with Operations (BSc)', { grades: 'AAB', match: 'close' }],
-      ['liverpool', 'Business Management (Operations) (BA)', { grades: 'AAB', match: 'close' }],
-      ['aston', 'Business and Operations Management (BSc)', { grades: 'ABB' }],
-      ['heriotwatt', 'Business Management (Logistics) (BA)', { grades: 'BBB', match: 'close' }],
-      ['northumbria', 'Business with Logistics and Supply Chain Management (BA)', { grades: 'BBC' }],
-      ['hull', 'Logistics and Supply Chain Management (BSc)', { grades: 'BBC', note: 'Hull has a long-established logistics institute tied to the Humber ports.' }],
-      ['sheffieldhallam', 'Business and Logistics Management (BSc)', { grades: 'BBC' }],
-      ['coventry', 'International Logistics (BSc)', { grades: 'BBC' }],
-      ['plymouth', 'Business Management (Operations and Logistics) (BSc)', { grades: 'BBC', match: 'close' }],
-      ['lincoln', 'Business and Supply Chain Management (BA)', { grades: 'BBC' }],
-    ],
-  },
-  {
     file: 'business-languages.json',
     table: 'comparison',
     rows: [
