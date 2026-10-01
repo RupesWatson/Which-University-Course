@@ -233,12 +233,6 @@ const BUSINESS = {
     keyFacts: ['Ranked #1 in the UK for Tourism, Transport and Travel (CUG 2027)', 'Placement year available across most business degrees', '35 minutes by train from London Waterloo'],
     highlights: ['Surrey Hospitality Society', 'Surrey Business Society', 'Surrey Enterprise'],
   },
-  stirling: {
-    overview: 'Stirling Management School teaches a four-year Scottish degree with distinctive tourism, events and sports-business provision, set on a loch-side campus below the Ochil Hills.',
-    employers: ['Scottish Government', 'Diageo', 'VisitScotland', 'Standard Life', 'Historic Environment Scotland'],
-    keyFacts: ['Ranked #32 in the UK for Business & Management (CUG 2027)', 'Strong tourism, events and sports-business routes', 'Loch-side campus with national sports facilities'],
-    highlights: ['Stirling Business Society', 'Stirling Events Society', 'Stirling Enterprise'],
-  },
   aston: {
     overview: 'Aston Business School is triple-crown accredited and built around the placement year — Aston was one of the first UK universities to make a sandwich year standard, and its graduate outcomes reflect it.',
     employers: ['Deloitte', 'PwC', 'Jaguar Land Rover', 'Aldi', 'Mondelez'],
@@ -334,12 +328,6 @@ const BUSINESS = {
     employers: ['American Express', 'Legal & General', 'Brighton & Hove City Council', 'TUI', 'Hilton'],
     keyFacts: ['Ranked #20 in the UK for Tourism, Transport and Travel (CUG 2027)', '76% graduate prospects in tourism', 'Campuses across Brighton and Eastbourne'],
     highlights: ['Brighton Business Society', 'Brighton Tourism Society', 'Brighton Enterprise'],
-  },
-  coventry: {
-    overview: 'Coventry University Business School is large and placement-focused, with international logistics and hospitality management routes and strong links to the West Midlands automotive and distribution sectors.',
-    employers: ['Jaguar Land Rover', 'DHL', 'Severn Trent', 'Aldi', 'Deloitte'],
-    keyFacts: ['International Logistics degree supported by West Midlands distribution hubs', 'Large placement and sandwich-year programme', 'City-centre campus'],
-    highlights: ['Coventry Business Society', 'Coventry Logistics Society', 'Coventry Enterprise'],
   },
   plymouth: {
     overview: 'Plymouth Business School has applied strength in tourism, hospitality and maritime business, supported by the university’s marine and logistics research base and the city’s port economy.',
