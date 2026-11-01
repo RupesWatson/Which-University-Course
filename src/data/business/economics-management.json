@@ -15,7 +15,8 @@
     "applicationCode": "LN12",
     "sourceUrl": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/economics-and-management",
     "matchType": "exact",
-    "notes": "Maths required at A or A*; TSA admissions test. Among the most competitive courses in the UK."
+    "notes": "Maths required at A or A*; TSA admissions test. Among the most competitive courses in the UK.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -33,7 +34,8 @@
     "applicationCode": "L112",
     "sourceUrl": "https://courses.leeds.ac.uk/f835/business-economics-bsc",
     "matchType": "close",
-    "notes": "Leeds has no Economics and Management degree. Less mathematical than its straight Economics BSc; needs GCSE Maths at 7/A."
+    "notes": "Leeds has no Economics and Management degree. Less mathematical than its straight Economics BSc; needs GCSE Maths at 7/A.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -49,9 +51,10 @@
     "gradProspects": "77%",
     "courseName": "Management (International Business Economics) (BSc)",
     "applicationCode": "N246",
-    "sourceUrl": "https://www.manchester.ac.uk/study/undergraduate/courses/2026/03527/bsc-management-international-business-economics/",
+    "sourceUrl": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/03527/bsc-management-international-business-economics/",
     "matchType": "close",
-    "notes": "Contextual offer ABB-BBB."
+    "notes": "Contextual offer ABB-BBB.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -61,14 +64,16 @@
     "overallRank": 8,
     "subjectRank": 4,
     "entryGrades": "A*AA-AAA",
-    "ibGrades": "40 (766)-37 (666)",
+    "ibGrades": "40 (766)",
     "ucasPoints": "152",
     "typicalOffer": "A*AA-AAA",
     "gradProspects": "81%",
     "courseName": "Business and Economics (MA Hons)",
-    "sourceUrl": "https://study.ed.ac.uk/programmes/undergraduate/186-business-and-economics/entry-requirements",
+    "applicationCode": "NL11",
+    "sourceUrl": "https://study.ed.ac.uk/programmes/undergraduate/186-business-and-economics",
     "matchType": "exact",
-    "notes": "Four-year Scottish MA. Requires Maths at B (or AS Maths at A) and HL Maths at 5. The entry-requirements page publishes no UCAS code."
+    "notes": "Four-year Scottish MA. Requires Maths at B (or AS Maths at A) and HL Maths at 5. The entry-requirements page publishes no UCAS code.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -86,7 +91,8 @@
     "applicationCode": "LN12",
     "sourceUrl": "https://www.lboro.ac.uk/study/undergraduate/courses/economics-and-management/",
     "matchType": "exact",
-    "notes": "LN12 is the three-year route; LN1F is the four-year placement route."
+    "notes": "LN12 is the three-year route; LN1F is the four-year placement route.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -102,9 +108,10 @@
     "gradProspects": "80%",
     "courseName": "Industrial Economics (BSc)",
     "applicationCode": "L1N2",
-    "sourceUrl": "https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/2026/Industrial-Economics-BSc-Hons.html",
+    "sourceUrl": "https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/Industrial-Economics-BSc-Hons.html",
     "matchType": "close",
-    "notes": "Nottingham describes this as the UK’s only dedicated Industrial Economics degree. A*AB and A*A*C also accepted."
+    "notes": "Nottingham describes this as the UK’s only dedicated Industrial Economics degree. A*AB and A*A*C also accepted.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -122,7 +129,8 @@
     "applicationCode": "L113",
     "sourceUrl": "https://www.reading.ac.uk/ready-to-study/study/subject-area/economics-ug/bsc-business-economics",
     "matchType": "exact",
-    "notes": "IB needs 5 in Maths at SL. Published cycle is 2027 entry."
+    "notes": "IB needs 5 in Maths at SL.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -136,11 +144,12 @@
     "ucasPoints": "120",
     "typicalOffer": "BBB",
     "gradProspects": "75%",
-    "courseName": "Business Economics (BSc)",
+    "courseName": "Business Economics BSc (Hons)",
     "applicationCode": "LN10",
-    "sourceUrl": "https://www.aston.ac.uk/study/courses/economics-and-management-bsc",
+    "sourceUrl": "https://www.aston.ac.uk/study/courses/business-economics-bsc",
     "matchType": "exact",
-    "notes": "Four years with a compulsory integrated placement year; shared first year with the Economics degree. Contextual offer BBC."
+    "notes": "Four years with a compulsory integrated placement year; shared first year with the Economics degree. Contextual offer BBC.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -149,34 +158,36 @@
     "tier": "Other Universities",
     "overallRank": 34,
     "subjectRank": 9,
-    "entryGrades": "BBB-BBC",
-    "ibGrades": "32",
+    "entryGrades": "BBB-BCC",
+    "ibGrades": "30",
     "ucasPoints": "120",
-    "typicalOffer": "BBB-BBC",
+    "typicalOffer": "BBB-BCC",
     "gradProspects": "75%",
     "courseName": "Economics and Business (BSc)",
     "applicationCode": "L112",
     "sourceUrl": "https://www.swansea.ac.uk/undergraduate/courses/social-sciences/economics/bsc-economics-business/",
     "matchType": "close",
-    "notes": "Taught in the School of Social Sciences rather than the School of Management. Year-abroad and year-in-industry routes are L1W3 and L1W2."
+    "notes": "Taught in the School of Social Sciences rather than the School of Management. Year-abroad and year-in-industry routes are L1W3 and L1W2.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
-    "ibSource": "derived",
+    "ibSource": "published",
     "name": "University of Leicester",
     "tier": "Other Universities",
     "overallRank": 28,
     "subjectRank": 10,
     "entryGrades": "ABB",
-    "ibGrades": "32",
+    "ibGrades": "30",
     "ucasPoints": "128",
     "typicalOffer": "ABB",
     "gradProspects": "73%",
     "courseName": "Business Economics (BSc)",
     "applicationCode": "LN11",
-    "sourceUrl": "https://le.ac.uk/courses/economics-and-business-bsc/2026",
+    "sourceUrl": "https://le.ac.uk/courses/economics-and-business-bsc/2027",
     "matchType": "close",
-    "notes": "Needs GCSE Maths at 5/B. Year-abroad and year-in-industry routes share the code. The page publishes no IB total, so the IB figure here is the A-level equivalent. Published cycle is 2027 entry."
+    "notes": "Needs GCSE Maths at 5/B. Year-abroad and year-in-industry routes share the code. The page publishes no IB total, so the IB figure here is the A-level equivalent.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -185,33 +196,35 @@
     "tier": "Other Universities",
     "overallRank": 60,
     "subjectRank": 11,
-    "entryGrades": "BBB",
-    "ibGrades": "30",
-    "ucasPoints": "120",
-    "typicalOffer": "BBB",
+    "entryGrades": "BBC",
+    "ibGrades": "28",
+    "ucasPoints": "112",
+    "typicalOffer": "BBC",
     "gradProspects": "70%",
     "courseName": "Economics and Management (BSc)",
     "applicationCode": "LN12",
     "sourceUrl": "https://www.kent.ac.uk/courses/undergraduate/1941/economics-and-management",
     "matchType": "exact",
-    "notes": "BBC accepted with A-level Maths. Kent also quotes 120 UCAS tariff points."
+    "notes": "BBC accepted with A-level Maths. Kent also quotes 120 UCAS tariff points.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
-    "ibSource": "derived",
+    "ibSource": "published",
     "name": "University of Hull",
     "tier": "Other Universities",
     "overallRank": 80,
     "subjectRank": 12,
     "entryGrades": "BBC",
-    "ibGrades": "29",
+    "ibGrades": "28",
     "ucasPoints": "112",
     "typicalOffer": "BBC",
     "gradProspects": "56%",
     "courseName": "Business Economics (BA)",
-    "applicationCode": "L013",
-    "sourceUrl": "https://www.hull.ac.uk/study/undergraduate/courses/business-economics-ba-hons",
+    "applicationCode": "L120",
+    "sourceUrl": "https://www.hull.ac.uk/study/undergraduate/courses/business-economics-ba-hons?option=standard-course&start=2027",
     "matchType": "close",
-    "notes": "Hull quotes a tariff range of 96-112 UCAS points rather than fixed grades, and publishes no IB total, so the IB figure here is the A-level equivalent."
+    "notes": "Hull quotes a tariff range of 96-112 UCAS points rather than fixed grades, and publishes no IB total, so the IB figure here is the A-level equivalent.",
+    "entryYear": "2027"
   }
 ]

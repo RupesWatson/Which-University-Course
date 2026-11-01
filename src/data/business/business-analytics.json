@@ -13,9 +13,10 @@
     "gradProspects": "92%",
     "courseName": "Information Management for Business (BSc)",
     "applicationCode": "P1N1",
-    "sourceUrl": "https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/information-management-business-bsc-2026",
+    "sourceUrl": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/information-management-business-bsc",
     "matchType": "close",
-    "notes": "UCL’s business-technology degree; science or social science A-levels preferred. No IB subject below 5."
+    "notes": "UCL’s business-technology degree; science or social science A-levels preferred. No IB subject below 5.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -33,7 +34,8 @@
     "applicationCode": "N300",
     "sourceUrl": "https://www.exeter.ac.uk/undergraduate-degrees/bsc-business-analytics/",
     "matchType": "exact",
-    "notes": "Needs GCSE Maths at 5/B. N301 is the industrial-experience route and N302 the year abroad. Contextual offer BBB / IB 30."
+    "notes": "Needs GCSE Maths at 5/B. N301 is the industrial-experience route and N302 the year abroad. Contextual offer BBB / IB 30.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -51,7 +53,8 @@
     "applicationCode": "N1I4",
     "sourceUrl": "https://courses.leeds.ac.uk/k239/business-and-intelligent-technologies-bsc",
     "matchType": "close",
-    "notes": "Leeds has no undergraduate Business Analytics degree; this is the equivalent route. A-levels must include Maths, and HL Maths at 4 is required."
+    "notes": "Leeds has no undergraduate Business Analytics degree; this is the equivalent route. A-levels must include Maths, and HL Maths at 4 is required.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -67,9 +70,10 @@
     "gradProspects": "77%",
     "courseName": "Information Technology Management for Business (BSc)",
     "applicationCode": "GN51",
-    "sourceUrl": "https://www.manchester.ac.uk/study/undergraduate/courses/2026/06246/bsc-information-technology-management-for-business/",
+    "sourceUrl": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/06246/bsc-information-technology-management-for-business/",
     "matchType": "close",
-    "notes": "Designed with over 40 blue-chip employers. Contextual offer ABB-BBB."
+    "notes": "Designed with over 40 blue-chip employers. Contextual offer ABB-BBB.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -87,7 +91,8 @@
     "applicationCode": "GN52",
     "sourceUrl": "https://www.lboro.ac.uk/study/undergraduate/courses/information-technology-management-for-business-bsc/",
     "matchType": "close",
-    "notes": "GN52 is the three-year route; GN51 is the four-year placement route."
+    "notes": "GN52 is the three-year route; GN51 is the four-year placement route.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -103,9 +108,10 @@
     "gradProspects": "85%",
     "courseName": "Management and Digital Technologies (BSc)",
     "applicationCode": "GN51",
-    "sourceUrl": "https://www.lancaster.ac.uk/study/undergraduate/courses/management-and-information-technology-bsc-hons-gn51/2026/",
+    "sourceUrl": "https://www.lancaster.ac.uk/study/undergraduate/courses/management-and-information-technology-bsc-hons-gn51/2027/",
     "matchType": "close",
-    "notes": "Formerly Management and Information Technology; blends LUMS and computing modules."
+    "notes": "Formerly Management and Information Technology; blends LUMS and computing modules.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -123,7 +129,8 @@
     "applicationCode": "N100",
     "sourceUrl": "https://www.southampton.ac.uk/courses/business-analytics-degree-bsc",
     "matchType": "exact",
-    "notes": "Needs GCSE Maths at grade 5 or above. N101 is the placement route and N110 the study-abroad route."
+    "notes": "Needs GCSE Maths at grade 5 or above. N101 is the placement route and N110 the study-abroad route.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -141,7 +148,8 @@
     "applicationCode": "N400",
     "sourceUrl": "https://www.surrey.ac.uk/undergraduate/business-management-business-analytics",
     "matchType": "close",
-    "notes": "Optional Professional Training placement year. IB total is Surrey’s published business-school figure; the course page lists A-levels only. Published cycle is 2027 entry."
+    "notes": "Optional Professional Training placement year. IB total is Surrey’s published business-school figure; the course page lists A-levels only.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -150,16 +158,17 @@
     "tier": "Other Universities",
     "overallRank": 60,
     "subjectRank": 9,
-    "entryGrades": "ABB",
-    "ibGrades": "32 (16 HL)",
-    "ucasPoints": "128",
-    "typicalOffer": "ABB",
+    "entryGrades": "BBB",
+    "ibGrades": "30",
+    "ucasPoints": "120",
+    "typicalOffer": "BBB",
     "gradProspects": "70%",
     "courseName": "Business Analytics and Management (BSc)",
     "applicationCode": "N201",
     "sourceUrl": "https://www.kent.ac.uk/courses/undergraduate/5092/business-analytics-management",
     "matchType": "exact",
-    "notes": "IB needs Maths at 4, HL or SL. Kent also quotes 112-128 UCAS tariff points."
+    "notes": "IB needs Maths at 4, HL or SL. Kent also quotes 112-128 UCAS tariff points.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -177,6 +186,7 @@
     "applicationCode": "NG12",
     "sourceUrl": "https://www.aston.ac.uk/study/courses/business-analytics-bsc",
     "matchType": "exact",
-    "notes": "Four years with a compulsory integrated placement year; needs SL Maths at 5. Contextual offer BBC."
+    "notes": "Four years with a compulsory integrated placement year; needs SL Maths at 5. Contextual offer BBC.",
+    "entryYear": "2027"
   }
 ]

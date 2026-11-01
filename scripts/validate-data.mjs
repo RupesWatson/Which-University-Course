@@ -4,71 +4,13 @@ import { OXFORD_SUBJECT_KEYS, CAMBRIDGE_SUBJECT_KEYS } from '../src/config/oxbri
 
 const DATA_DIR = new URL('../src/data/', import.meta.url);
 
-// Each strand has its own folder of subject row files. Meta files
-// (course-details.json, university-details.json) and the courses.js
-// barrel are excluded from row-level validation.
-const STRANDS = {
-  biochemistry: [
-    'biochemistry.json',
-    'chemistry.json',
-    'natural-sciences.json',
-    'biomedical-sciences.json',
-    'pharmacology.json',
-    'molecular-biology.json',
-    'medicinal-chemistry.json',
-    'genetics.json',
-    'microbiology.json',
-    'biochemistry-with-industry.json',
-  ],
-  finance: [
-    'universities.json',
-    'economics-finance.json',
-    'financial-maths.json',
-    'banking-finance.json',
-    'actuarial.json',
-    'fintech.json',
-    'applied-ai.json',
-    'data-science.json',
-    'tech-management.json',
-    'investment-banking.json',
-    'venture-capital.json',
-    'international-finance.json',
-    'esg-finance.json',
-    'finance-law.json',
-    'behavioural-finance.json',
-    'finance-innovation.json',
-  ],
-  humanities: [
-    'english-literature.json',
-    'history.json',
-    'philosophy.json',
-    'classics.json',
-    'french.json',
-    'spanish.json',
-    'german.json',
-    'modern-languages.json',
-    'linguistics.json',
-    'art-history.json',
-    'music.json',
-    'english-creative-writing.json',
-    'drama-theatre.json',
-  ],
-  socialsciences: [
-    'politics.json',
-    'law.json',
-    'economics.json',
-    'psychology.json',
-    'sociology.json',
-    'ppe.json',
-    'criminology.json',
-    'international-relations.json',
-    'politics-economics.json',
-    'social-policy.json',
-    'social-anthropology.json',
-    'forensic-psychology.json',
-    'international-development.json',
-  ],
-};
+// Every strand folder except colleges has a courses.js barrel; the row files
+// are whatever JSON it imports, so a new course table is validated as soon as
+// it is wired into the site. business keeps its own stricter checks below.
+async function strandRowFiles(strand) {
+  const barrel = await fs.readFile(new URL(`${strand}/courses.js`, DATA_DIR), 'utf8');
+  return [...barrel.matchAll(/^import \w+\s+from '\.\/([\w.-]+\.json)'/gm)].map(m => m[1]);
+}
 
 function fail(message) {
   throw new Error(message);
@@ -208,42 +150,83 @@ async function validateBusiness() {
   console.log(`  ${Object.keys(uniDetails).length} university profiles, ${declaredIds.length} courses`);
 }
 
+// ── all other strands ───────────────────────────────────────────────────────
+// Entry requirements were re-checked against each university's own course page
+// for 2027 entry. The invented digital.ucas.com links the rows used to carry are
+// gone; a row either cites the page it was verified against or says it is
+// indicative and carries no source or UCAS code.
+async function validateStrand(strand) {
+  console.log(`\n=== ${strand} ===`);
+  for (const file of await strandRowFiles(strand)) {
+    const rows = JSON.parse(await fs.readFile(new URL(`${strand}/${file}`, DATA_DIR), 'utf8'));
+    const seen = new Set();
+    let verified = 0;
+
+    rows.forEach((row, index) => {
+      const label = `${strand}/${file} row ${index + 1} (${row.name})`;
+
+      if (!row.name) fail(`${label}: missing university name`);
+      if (seen.has(row.name)) fail(`${label}: duplicate university`);
+      seen.add(row.name);
+
+      if (!row.courseName) fail(`${label}: missing courseName`);
+      if (!['exact', 'close'].includes(row.matchType)) fail(`${label}: invalid matchType`);
+      if (row.overallRank == null) fail(`${label}: missing overallRank`);
+      if (!row.gradProspects) fail(`${label}: missing gradProspects`);
+      if (!row.entryGrades) fail(`${label}: missing entryGrades`);
+      if (!row.typicalOffer) fail(`${label}: missing typicalOffer`);
+
+      if (row.aLevelGrades != null && row.aLevelGrades !== row.entryGrades) {
+        fail(`${label}: aLevelGrades ${row.aLevelGrades} disagrees with entryGrades ${row.entryGrades}`);
+      }
+
+      // Graduate-entry medicine asks for a degree and conservatoires audition, so
+      // those rows carry no A-level points and (graduate) no IB figure. The
+      // exemption must be declared and must match what the row actually says.
+      if (row.entryBasis != null) {
+        if (!['degree', 'audition'].includes(row.entryBasis)) fail(`${label}: invalid entryBasis`);
+        if (row.entryBasis === 'degree' && !/degree/i.test(row.entryGrades)) fail(`${label}: entryBasis degree but entryGrades does not name a degree`);
+        if (row.entryBasis === 'audition' && !/audition/i.test(row.entryGrades)) fail(`${label}: entryBasis audition but entryGrades does not name an audition`);
+        if (row.ucasPoints != null) fail(`${label}: ${row.entryBasis}-based entry must not carry UCAS points`);
+        if (row.ibGrades != null && Number.isNaN(parseInt(row.ibGrades, 10))) fail(`${label}: ibGrades must be a total or null`);
+      } else {
+        const expected = expectedUcasPoints(row.entryGrades);
+        if (row.ucasPoints !== expected) {
+          fail(`${label}: ucasPoints ${row.ucasPoints} does not match entryGrades ${row.entryGrades} (expected ${expected})`);
+        }
+        const ibTotal = parseInt(row.ibGrades, 10);
+        if (Number.isNaN(ibTotal) || ibTotal < 24 || ibTotal > 45) {
+          fail(`${label}: ibGrades "${row.ibGrades}" must lead with an IB total between 24 and 45`);
+        }
+        if (!['published', 'derived'].includes(row.ibSource)) fail(`${label}: invalid ibSource`);
+      }
+
+      if (/(^|\.)ucas\.com\//.test(row.sourceUrl || '')) fail(`${label}: sourceUrl must be the university's own page, not UCAS`);
+      if (row.entryYear != null && !/^20\d\d$/.test(row.entryYear)) fail(`${label}: invalid entryYear`);
+
+      if (row.provenance === 'verified') {
+        verified += 1;
+        if (!row.sourceUrl?.startsWith('https://')) fail(`${label}: verified row without an https sourceUrl`);
+      } else if (row.provenance === 'indicative') {
+        if (row.sourceUrl) fail(`${label}: indicative row must not cite a source`);
+        if (row.applicationCode) fail(`${label}: indicative row must not carry a UCAS code`);
+      } else {
+        fail(`${label}: provenance must be 'verified' or 'indicative'`);
+      }
+    });
+
+    console.log(`  ${file.padEnd(36)} ${String(rows.length).padStart(3)} rows validated (${verified} verified)`);
+  }
+}
+
 async function main() {
   await validateBusiness();
 
-  for (const [strand, files] of Object.entries(STRANDS)) {
-    console.log(`\n=== ${strand} ===`);
-    for (const file of files) {
-      const fullPath = new URL(`${strand}/${file}`, DATA_DIR);
-      const rows = JSON.parse(await fs.readFile(fullPath, 'utf8'));
-      const seen = new Set();
-
-      rows.forEach((row, index) => {
-        const label = `${strand}/${file} row ${index + 1} (${row.name})`;
-
-        if (!row.name) fail(`${label}: missing university name`);
-        if (seen.has(row.name)) fail(`${label}: duplicate university`);
-        seen.add(row.name);
-
-        if (!row.courseName) fail(`${label}: missing verified courseName`);
-        if (!row.sourceUrl?.startsWith('https://digital.ucas.com/explore/courses/')) {
-          fail(`${label}: invalid sourceUrl`);
-        }
-        if (!row.cugSourceUrl?.startsWith('https://www.thecompleteuniversityguide.co.uk/universities/')) {
-          fail(`${label}: invalid cugSourceUrl`);
-        }
-        if (!row.applicationCode) fail(`${label}: missing UCAS applicationCode`);
-        if (!['exact', 'close'].includes(row.matchType)) fail(`${label}: invalid matchType`);
-        if (!row.notes?.startsWith('Verified UCAS 2026')) fail(`${label}: missing audit note`);
-        if (row.overallRank == null) fail(`${label}: missing overallRank`);
-        if (!row.gradProspects) fail(`${label}: missing gradProspects`);
-        if (!row.entryGrades) fail(`${label}: missing entryGrades`);
-        if (!row.typicalOffer) fail(`${label}: missing typicalOffer`);
-      });
-
-      console.log(`  ${path.basename(file)}: ${rows.length} rows validated`);
-    }
-  }
+  const strands = (await fs.readdir(DATA_DIR, { withFileTypes: true }))
+    .filter(d => d.isDirectory() && !['business', 'colleges'].includes(d.name))
+    .map(d => d.name)
+    .sort();
+  for (const strand of strands) await validateStrand(strand);
   await validateColleges();
 }
 

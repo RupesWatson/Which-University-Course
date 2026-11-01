@@ -15,7 +15,8 @@
     "applicationCode": "LN12",
     "sourceUrl": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/economics-and-management",
     "matchType": "close",
-    "notes": "Maths required at A or A*; TSA admissions test. Oxford has no standalone Business degree — Economics and Management is the route."
+    "notes": "Maths required at A or A*; TSA admissions test. Oxford has no standalone Business degree — Economics and Management is the route.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -29,11 +30,12 @@
     "ucasPoints": "152",
     "typicalOffer": "A*AA",
     "gradProspects": "85%",
-    "courseName": "Business and Management (BSc)",
+    "courseName": "Business and Management BSc",
     "applicationCode": "N200",
-    "sourceUrl": "https://warwick.ac.uk/study/undergraduate/courses/bsc-management/",
+    "sourceUrl": "https://warwick.ac.uk/study/undergraduate/courses/bsc-business-management/",
     "matchType": "exact",
-    "notes": "Warwick Business School; no required A-level subjects, but GCSE Maths at 7/A."
+    "notes": "Warwick Business School; no required A-level subjects, but GCSE Maths at 7/A.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -51,7 +53,8 @@
     "applicationCode": "N200",
     "sourceUrl": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-management",
     "matchType": "exact",
-    "notes": "A-level Maths essential and HL Maths required at 6; the most quantitative of the big management degrees."
+    "notes": "A-level Maths essential and HL Maths required at 6; the most quantitative of the big management degrees.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -69,7 +72,8 @@
     "applicationCode": "N200",
     "sourceUrl": "https://www.st-andrews.ac.uk/subjects/management/management-ma/",
     "matchType": "exact",
-    "notes": "Scottish four-year MA — broad first two years before specialising. Minimum entry is ABB / IB 36 (655)."
+    "notes": "Scottish four-year MA — broad first two years before specialising. Minimum entry is ABB / IB 36 (655).",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -85,9 +89,10 @@
     "gradProspects": "92%",
     "courseName": "Management Science (BSc)",
     "applicationCode": "N991",
-    "sourceUrl": "https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/management-science-bsc-2026",
+    "sourceUrl": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/management-science-bsc",
     "matchType": "close",
-    "notes": "The A* must be in Maths, and HL Maths at 7. TARA admissions test required from the 2026 cycle. Taught at Canary Wharf; analytics-led rather than general business."
+    "notes": "The A* must be in Maths, and HL Maths at 7. TARA admissions test required from the 2026 cycle. Taught at Canary Wharf; analytics-led rather than general business.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -97,14 +102,16 @@
     "overallRank": 9,
     "subjectRank": 6,
     "entryGrades": "AAA or A*AB",
-    "ibGrades": "36 (666)",
+    "ibGrades": "36",
     "ucasPoints": "144",
     "typicalOffer": "AAA or A*AB",
     "gradProspects": "91%",
     "courseName": "Management (BSc)",
-    "sourceUrl": "https://www.bath.ac.uk/courses/undergraduate-2026/business-and-management/bsc-management/",
+    "applicationCode": "C140",
+    "sourceUrl": "https://www.bath.ac.uk/courses/undergraduate-2027/business-and-management/bsc-management/",
     "matchType": "exact",
-    "notes": "Bath expects one numerical and one essay-based subject. Placement variants available; the course page does not publish a UCAS code."
+    "notes": "Bath expects one numerical and one essay-based subject. Placement variants available; the course page does not publish a UCAS code.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -122,7 +129,8 @@
     "applicationCode": "N200",
     "sourceUrl": "https://www.kcl.ac.uk/study/undergraduate/courses/business-management-bsc/entry-requirements",
     "matchType": "exact",
-    "notes": "A-levels must include grade A in a humanities or social science subject (not a modern language); IB needs a 6 in one at HL. Contextual offer AAB / IB 35."
+    "notes": "A-levels must include grade A in a humanities or social science subject (not a modern language); IB needs a 6 in one at HL. Contextual offer AAB / IB 35.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -140,7 +148,8 @@
     "applicationCode": "N202",
     "sourceUrl": "https://www.exeter.ac.uk/undergraduate-degrees/bsc-business-and-management/",
     "matchType": "exact",
-    "notes": "Needs GCSE Maths at 5/B. NN12 is the industrial-experience route and N204 the year abroad."
+    "notes": "Needs GCSE Maths at 5/B. NN12 is the industrial-experience route and N204 the year abroad.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -158,7 +167,8 @@
     "applicationCode": "N200",
     "sourceUrl": "https://courses.leeds.ac.uk/i475/business-management-ba",
     "matchType": "exact",
-    "notes": "Leeds University Business School; GCSE Maths and English at 5/B."
+    "notes": "Leeds University Business School; GCSE Maths and English at 5/B.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -174,9 +184,10 @@
     "gradProspects": "84%",
     "courseName": "Business and Management (BSc)",
     "applicationCode": "N200",
-    "sourceUrl": "https://www.bristol.ac.uk/study/undergraduate/2026/business-and-management/bsc-business-and-management/",
+    "sourceUrl": "https://www.bristol.ac.uk/study/undergraduate/2027/business-and-management/bsc-business-and-management/",
     "matchType": "exact",
-    "notes": "Taught at the new Temple Quarter campus; contextual offer ABB."
+    "notes": "Taught at the new Temple Quarter campus; contextual offer ABB.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -186,15 +197,16 @@
     "overallRank": 23,
     "subjectRank": 11,
     "entryGrades": "AAB",
-    "ibGrades": "32 (665)",
+    "ibGrades": "32",
     "ucasPoints": "136",
     "typicalOffer": "AAB",
     "gradProspects": "86%",
-    "courseName": "Business Management (BSc)",
+    "courseName": "Business Management BSc",
     "applicationCode": "N200",
-    "sourceUrl": "https://www.birmingham.ac.uk/undergraduate/courses/business/business-management",
+    "sourceUrl": "https://www.birmingham.ac.uk/study/undergraduate/subjects/business-and-management-courses/business-management-bsc",
     "matchType": "exact",
-    "notes": "Birmingham Business School; placement and year-abroad variants."
+    "notes": "Birmingham Business School; placement and year-abroad variants.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -210,9 +222,10 @@
     "gradProspects": "77%",
     "courseName": "Management (BSc)",
     "applicationCode": "N201",
-    "sourceUrl": "https://www.manchester.ac.uk/study/undergraduate/courses/2026/03519/bsc-management/",
+    "sourceUrl": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/03519/bsc-management/",
     "matchType": "exact",
-    "notes": "Alliance Manchester Business School. Will not accept Maths + Further Maths + a native language."
+    "notes": "Alliance Manchester Business School. Will not accept Maths + Further Maths + a native language.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -222,14 +235,16 @@
     "overallRank": 8,
     "subjectRank": 13,
     "entryGrades": "A*AA-AAA",
-    "ibGrades": "40 (766)-37 (666)",
+    "ibGrades": "40 (766)",
     "ucasPoints": "152",
     "typicalOffer": "A*AA-AAA",
     "gradProspects": "81%",
     "courseName": "Business Management (MA Hons)",
-    "sourceUrl": "https://study.ed.ac.uk/programmes/undergraduate/182-business-management/entry-requirements",
+    "applicationCode": "N100",
+    "sourceUrl": "https://study.ed.ac.uk/programmes/undergraduate/182-business-management",
     "matchType": "exact",
-    "notes": "Four-year Scottish MA. No A-level subjects required; GCSE Maths at 6/B. The entry-requirements page publishes no UCAS code."
+    "notes": "Four-year Scottish MA. No A-level subjects required; GCSE Maths at 6/B. The entry-requirements page publishes no UCAS code.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -245,9 +260,10 @@
     "gradProspects": "86%",
     "courseName": "Business and Management (BSc)",
     "applicationCode": "N202",
-    "sourceUrl": "https://www.lboro.ac.uk/study/undergraduate/courses/management/",
+    "sourceUrl": "https://www.lboro.ac.uk/study/undergraduate/courses/business-management/",
     "matchType": "exact",
-    "notes": "N202 is the three-year route; N200 is the four-year placement route."
+    "notes": "N202 is the three-year route; N200 is the four-year placement route.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -263,9 +279,10 @@
     "gradProspects": "85%",
     "courseName": "Business and Management (BA)",
     "applicationCode": "N201",
-    "sourceUrl": "https://www.durham.ac.uk/business/courses/business-and-management-n201/september-2026/",
+    "sourceUrl": "https://www.durham.ac.uk/business/courses/business-and-management-n201/september-2027/",
     "matchType": "exact",
-    "notes": "IB must include Maths at HL, or SL Maths at 5. Contextual offer BBB/ABC."
+    "notes": "IB must include Maths at HL, or SL Maths at 5. Contextual offer BBB/ABC.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -274,16 +291,17 @@
     "tier": "Russell Group",
     "overallRank": 20,
     "subjectRank": 16,
-    "entryGrades": "AAB-BBB",
-    "ibGrades": "36 (665)",
+    "entryGrades": "AAB",
+    "ibGrades": "36",
     "ucasPoints": "136",
-    "typicalOffer": "AAB-BBB",
+    "typicalOffer": "AAB",
     "gradProspects": "82%",
     "courseName": "Business and Management (MA SocSci)",
     "applicationCode": "N200",
-    "sourceUrl": "https://www.gla.ac.uk/undergraduate/degrees/businessmanagement/",
+    "sourceUrl": "https://www.gla.ac.uk/feeds/apex/ugEntryRequirements/253/N200",
     "matchType": "exact",
-    "notes": "Requires A-level English or a humanities subject. No prior business study needed."
+    "notes": "Requires A-level English or a humanities subject. No prior business study needed.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -301,7 +319,8 @@
     "applicationCode": "N190",
     "sourceUrl": "https://www.strath.ac.uk/courses/undergraduate/businessenterprise/",
     "matchType": "close",
-    "notes": "Strathclyde Business School; IB requires no subject below 5 including English and Maths at SL5."
+    "notes": "Strathclyde Business School; IB requires no subject below 5 including English and Maths at SL5.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -317,9 +336,10 @@
     "gradProspects": "75%",
     "courseName": "Business Management (BSc)",
     "applicationCode": "N102",
-    "sourceUrl": "https://www.bayes.citystgeorges.ac.uk/study/undergraduate/courses/business-management/2025",
+    "sourceUrl": "https://www.bayes.citystgeorges.ac.uk/study/undergraduate/courses/business-management/2027",
     "matchType": "exact",
-    "notes": "Bayes Business School; N121 is the professional-placement route. Needs GCSE Maths at 6/B."
+    "notes": "Bayes Business School; N121 is the professional-placement route. Needs GCSE Maths at 6/B.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -329,7 +349,7 @@
     "overallRank": 18,
     "subjectRank": 19,
     "entryGrades": "AAB-BBB",
-    "ibGrades": "34-31 (666-665)",
+    "ibGrades": "34 (665)",
     "ucasPoints": "136",
     "typicalOffer": "AAB-BBB",
     "gradProspects": "79%",
@@ -337,7 +357,8 @@
     "applicationCode": "N201",
     "sourceUrl": "https://www.cardiff.ac.uk/study/undergraduate/courses/course/business-management-bsc",
     "matchType": "exact",
-    "notes": "The grade range spans Cardiff’s standard and contextual offers. Grade A in the EPQ typically lowers the offer by one grade."
+    "notes": "The grade range spans Cardiff’s standard and contextual offers. Grade A in the EPQ typically lowers the offer by one grade.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -353,9 +374,10 @@
     "gradProspects": "85%",
     "courseName": "Business Management (BSc)",
     "applicationCode": "N102",
-    "sourceUrl": "https://www.lancaster.ac.uk/study/undergraduate/courses/business-management-bsc-hons-n102/2026/",
+    "sourceUrl": "https://www.lancaster.ac.uk/study/undergraduate/courses/business-management-bsc-hons-n102/2027/",
     "matchType": "exact",
-    "notes": "Lancaster University Management School; study-abroad and industry variants under separate codes."
+    "notes": "Lancaster University Management School; study-abroad and industry variants under separate codes.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -371,9 +393,10 @@
     "gradProspects": "71%",
     "courseName": "Business Management (BA)",
     "applicationCode": "N200",
-    "sourceUrl": "https://sheffield.ac.uk/undergraduate/courses/2026/business-management-ba",
+    "sourceUrl": "https://sheffield.ac.uk/undergraduate/courses/2027/business-management-ba",
     "matchType": "exact",
-    "notes": "IB 33 accepted with an A in a social-science extended essay. Access Sheffield offer is ABB / IB 33."
+    "notes": "IB 33 accepted with an A in a social-science extended essay. Access Sheffield offer is ABB / IB 33.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -383,15 +406,16 @@
     "overallRank": 24,
     "subjectRank": 22,
     "entryGrades": "AAB",
-    "ibGrades": "34 (665)",
+    "ibGrades": "34",
     "ucasPoints": "136",
     "typicalOffer": "AAB",
     "gradProspects": "80%",
     "courseName": "Business Management (BA)",
     "applicationCode": "N100",
-    "sourceUrl": "https://www.liverpool.ac.uk/courses/2026/business-management-ba-hons",
+    "sourceUrl": "https://www.liverpool.ac.uk/courses/business-management-ba-hons",
     "matchType": "exact",
-    "notes": "IB accepted as 34 overall with nothing below 4, or the Diploma plus 665 at HL."
+    "notes": "IB accepted as 34 overall with nothing below 4, or the Diploma plus 665 at HL.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -409,7 +433,8 @@
     "applicationCode": "N200",
     "sourceUrl": "https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/Business-and-Management-BSc-Hons.html",
     "matchType": "exact",
-    "notes": "A*AB and A*A*C also accepted. Needs GCSE Maths at 6/B."
+    "notes": "A*AB and A*A*C also accepted. Needs GCSE Maths at 6/B.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -427,7 +452,8 @@
     "applicationCode": "N202",
     "sourceUrl": "https://www.qub.ac.uk/courses/undergraduate/business-management-placement-bsc-n202/",
     "matchType": "exact",
-    "notes": "Queen’s Business School now lists only the four-year placement route. Needs GCSE Maths at 6/B. Published cycle is 2027/28 entry."
+    "notes": "Queen’s Business School now lists only the four-year placement route. Needs GCSE Maths at 6/B.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -445,7 +471,8 @@
     "applicationCode": "N202",
     "sourceUrl": "https://www.southampton.ac.uk/courses/business-management-degree-bsc",
     "matchType": "exact",
-    "notes": "GCSE Maths at 6/B, or 5 with a B in a quantitative A-level. N203 is the placement route."
+    "notes": "GCSE Maths at 6/B, or 5 with a B in a quantitative A-level. N203 is the placement route.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -463,7 +490,8 @@
     "applicationCode": "N202",
     "sourceUrl": "https://www.york.ac.uk/study/undergraduate/courses/bsc-business-management/",
     "matchType": "exact",
-    "notes": "School for Business and Society; needs GCSE Maths at 5/B. Optional placement year."
+    "notes": "School for Business and Society; needs GCSE Maths at 5/B. Optional placement year.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -473,7 +501,7 @@
     "overallRank": 32,
     "subjectRank": 27,
     "entryGrades": "BBC",
-    "ibGrades": "32 (555)",
+    "ibGrades": "30 (544)",
     "ucasPoints": "112",
     "typicalOffer": "BBC",
     "gradProspects": "80%",
@@ -481,7 +509,8 @@
     "applicationCode": "N200",
     "sourceUrl": "https://www.abdn.ac.uk/study/undergraduate/degree-programmes/474/N200/business-management/",
     "matchType": "exact",
-    "notes": "Four-year Scottish MA, and the most accessible entry band in this table. Widening-access offer CCC."
+    "notes": "Four-year Scottish MA, and the most accessible entry band in this table. Widening-access offer CCC.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -499,7 +528,8 @@
     "applicationCode": "N200",
     "sourceUrl": "https://www.ncl.ac.uk/undergraduate/degrees/n200/",
     "matchType": "exact",
-    "notes": "Newcastle University Business School."
+    "notes": "Newcastle University Business School.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -517,7 +547,8 @@
     "applicationCode": "N100",
     "sourceUrl": "https://www.reading.ac.uk/ready-to-study/study/subject-area/business-and-management-accounting-and-finance-ug/bsc-business-and-management",
     "matchType": "exact",
-    "notes": "Henley Business School. IB needs 4 in Maths and English at SL. Published cycle is 2027/28 entry."
+    "notes": "Henley Business School. IB needs 4 in Maths and English at SL.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -535,7 +566,8 @@
     "applicationCode": "N200",
     "sourceUrl": "https://www.surrey.ac.uk/undergraduate/business-management",
     "matchType": "exact",
-    "notes": "Surrey Business School; placement variant at the same grades. IB needs English and Maths at HL4/SL4. Published cycle is 2027 entry."
+    "notes": "Surrey Business School; placement variant at the same grades. IB needs English and Maths at HL4/SL4.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -551,8 +583,9 @@
     "gradProspects": "75%",
     "courseName": "Business and Management (BSc)",
     "applicationCode": "NN12",
-    "sourceUrl": "https://www.aston.ac.uk/study/courses/business-and-management-bsc/september-2026",
+    "sourceUrl": "https://www.aston.ac.uk/study/courses/business-and-management-bsc/september-2027",
     "matchType": "exact",
-    "notes": "The placement year is compulsory, making this a four-year degree. Contextual offer BBC."
+    "notes": "The placement year is compulsory, making this a four-year degree. Contextual offer BBC.",
+    "entryYear": "2027"
   }
 ]

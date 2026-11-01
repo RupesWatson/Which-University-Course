@@ -225,7 +225,7 @@ export default function Table({ universities, course, strandId, gradeType = 'aLe
         })}
         {sorted.length === 0 && (
           <div className="rounded-xl border border-blue-900/40 py-12 text-center text-sm text-slate-500">
-            No verified UCAS 2026 undergraduate matches.
+            No verified undergraduate matches.
           </div>
         )}
       </div>
@@ -322,7 +322,7 @@ export default function Table({ universities, course, strandId, gradeType = 'aLe
             {sorted.length === 0 && (
               <tr>
                 <td colSpan={columns.length + 2} className="px-4 py-12 text-center text-slate-500">
-                  No verified UCAS 2026 undergraduate matches for this subject area in the current comparison set.
+                  No verified undergraduate matches for this subject area in the current comparison set.
                 </td>
               </tr>
             )}

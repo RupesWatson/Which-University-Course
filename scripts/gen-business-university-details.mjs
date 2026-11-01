@@ -365,12 +365,8 @@ const BUSINESS = {
     keyFacts: ['Ranked #41 in the UK for Business & Management (CUG 2027)', 'Campuses in Dubai and Malaysia for study abroad', 'Strong logistics and languages combinations'],
     highlights: ['Heriot-Watt Business Society', 'Logistics Society', 'Heriot-Watt Enterprise'],
   },
-  aberystwyth: {
-    overview: 'Aberystwyth Business School offers tourism and business management degrees on the Welsh coast, with very low living costs and consistently high scores for student experience.',
-    employers: ['Welsh Government', 'Visit Wales', 'NFU Cymru', 'HSBC', 'Principality'],
-    keyFacts: ['Ranked #4 in the UK for Tourism, Transport and Travel (CUG 2027)', 'Among the lowest living costs in the UK', 'Coastal campus overlooking Cardigan Bay'],
-    highlights: ['Aberystwyth Business Society', 'Tourism Society', 'AberEnterprise'],
-  },
+  // Aberystwyth's only business row was Tourism Management, withdrawn for 2027
+  // entry, so it has no business profile.
 };
 
 // Fields in a base profile that describe the *source strand's* subject rather

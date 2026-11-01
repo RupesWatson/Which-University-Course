@@ -19,7 +19,7 @@ export default function Landing() {
           <div className="mb-3 flex items-center justify-center gap-3">
             <div className="h-px w-16 bg-gradient-to-r from-transparent to-blue-800/40" />
             <span className="text-[10px] font-semibold uppercase tracking-[0.25em] text-blue-400/70">
-              UCAS 2026 Course Finder
+              2027 Entry Course Finder
             </span>
             <div className="h-px w-16 bg-gradient-to-l from-transparent to-blue-800/40" />
           </div>
@@ -33,7 +33,7 @@ export default function Landing() {
             </span>
           </h1>
           <p className="mx-auto max-w-2xl text-sm leading-relaxed text-slate-400 md:text-base">
-            Find the right UK undergraduate degree for you. Explore 2026 course options,
+            Find the right UK undergraduate degree for you. Explore 2027-entry course options,
             check entry requirements against your predicted grades, compare graduate prospects,
             and dive into detailed profiles for Russell Group and other leading universities.
           </p>

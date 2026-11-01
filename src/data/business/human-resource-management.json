@@ -15,7 +15,8 @@
     "applicationCode": "8H67",
     "sourceUrl": "https://courses.leeds.ac.uk/k251/business-management-and-human-resources-ba",
     "matchType": "exact",
-    "notes": "Confers eligibility for CIPD Associate membership on graduation."
+    "notes": "Confers eligibility for CIPD Associate membership on graduation.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -25,7 +26,7 @@
     "overallRank": 38,
     "subjectRank": 2,
     "entryGrades": "ABB-BBB",
-    "ibGrades": "32-30",
+    "ibGrades": "32",
     "ucasPoints": "128",
     "typicalOffer": "ABB-BBB",
     "gradProspects": "81%",
@@ -33,7 +34,8 @@
     "applicationCode": "N600",
     "sourceUrl": "https://www.strath.ac.uk/courses/undergraduate/humanresourcemanagement/",
     "matchType": "exact",
-    "notes": "Four-year Scottish degree at a triple-crown accredited business school."
+    "notes": "Four-year Scottish degree at a triple-crown accredited business school.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -49,9 +51,10 @@
     "gradProspects": "85%",
     "courseName": "Business and Human Resource Management (BSc)",
     "applicationCode": "N600",
-    "sourceUrl": "https://www.lancaster.ac.uk/study/undergraduate/courses/business-and-human-resource-management-bsc-hons-n600/2026/",
+    "sourceUrl": "https://www.lancaster.ac.uk/study/undergraduate/courses/business-and-human-resource-management-bsc-hons-n600/2027/",
     "matchType": "exact",
-    "notes": "CIPD-aligned content; industry variant under a separate code."
+    "notes": "CIPD-aligned content; industry variant under a separate code.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -69,42 +72,46 @@
     "applicationCode": "N600",
     "sourceUrl": "https://www.aston.ac.uk/study/courses/human-resources-and-business-management-bsc",
     "matchType": "exact",
-    "notes": "Four years with a compulsory integrated placement year. Contextual offer BBC."
+    "notes": "Four years with a compulsory integrated placement year. Contextual offer BBC.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
-    "ibSource": "derived",
+    "ibSource": "published",
     "name": "Keele University",
     "tier": "Other Universities",
     "overallRank": 35,
     "subjectRank": 5,
-    "entryGrades": "BBB",
-    "ibGrades": "30",
-    "ucasPoints": "120",
-    "typicalOffer": "BBB",
+    "entryGrades": "BBC",
+    "ibGrades": "29 (554)",
+    "ucasPoints": "112",
+    "typicalOffer": "BBC",
     "gradProspects": "64%",
-    "courseName": "Business Management and Human Resources (BSc)",
+    "courseName": "Business Management with Human Resources BA (Hons)",
     "applicationCode": "NN69",
-    "sourceUrl": "https://www.keele.ac.uk/study/undergraduate/undergraduatecourses/businessandhumanresourcemanagement/",
+    "sourceUrl": "https://www.keele.ac.uk/study/undergraduate/undergraduatecourses/businessmanagementwithhumanresources/",
     "matchType": "exact",
-    "notes": "Keele also runs a BA Business Management with Human Resources at BBC under the same UCAS code. The page publishes no IB total, so the IB figure here is the A-level equivalent."
+    "notes": "Keele also runs a BA Business Management with Human Resources at BBC under the same UCAS code. The page publishes no IB total, so the IB figure here is the A-level equivalent.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
-    "ibSource": "derived",
+    "ibSource": "published",
     "name": "University of Hull",
     "tier": "Other Universities",
     "overallRank": 80,
     "subjectRank": 6,
     "entryGrades": "BBC",
-    "ibGrades": "29",
+    "ibGrades": "28",
     "ucasPoints": "112",
     "typicalOffer": "BBC",
     "gradProspects": "56%",
     "courseName": "Business Management with Human Resource Management (BA)",
-    "sourceUrl": "https://www.hull.ac.uk/study/undergraduate/courses/business-management-with-human-resource-management-ba-hons",
+    "applicationCode": "N600",
+    "sourceUrl": "https://www.hull.ac.uk/study/undergraduate/courses/business-management-with-human-resource-management-ba-hons?option=standard-course&start=2027",
     "matchType": "exact",
-    "notes": "Hull quotes a UCAS tariff range rather than fixed grades (112 points equals BBC) and publishes no UCAS code or IB total on the page, so the IB figure here is the A-level equivalent."
+    "notes": "Hull quotes a UCAS tariff range rather than fixed grades (112 points equals BBC) and publishes no UCAS code or IB total on the page, so the IB figure here is the A-level equivalent.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -122,7 +129,8 @@
     "applicationCode": "N206",
     "sourceUrl": "https://www.mmu.ac.uk/study/undergraduate/course/ba-human-resource-management-and-business",
     "matchType": "close",
-    "notes": "Manchester Met quotes 104-112 UCAS tariff points; 112 equals BBC. The page publishes no IB total, so the IB figure here is the A-level equivalent."
+    "notes": "Manchester Met quotes 104-112 UCAS tariff points; 112 equals BBC. The page publishes no IB total, so the IB figure here is the A-level equivalent. The university quotes 104–112 UCAS tariff points rather than grades; BBC is the equivalent of 112.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -140,7 +148,8 @@
     "applicationCode": "N110",
     "sourceUrl": "https://www.northumbria.ac.uk/study-at-northumbria/courses/ba-hons-business-and-human-resource-management-uusbrm1/",
     "matchType": "exact",
-    "notes": "Newcastle Business School quotes 96-112 UCAS tariff points; 112 equals BBC. No subject requirements. The page publishes no IB total, so the IB figure here is the A-level equivalent."
+    "notes": "Newcastle Business School quotes 96-112 UCAS tariff points; 112 equals BBC. No subject requirements. The page publishes no IB total, so the IB figure here is the A-level equivalent. The university quotes 112 UCAS tariff points rather than grades; BBC is the equivalent of 112.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -156,9 +165,10 @@
     "gradProspects": "62%",
     "courseName": "Business Management (Human Resource Management) (BA)",
     "applicationCode": "NN26",
-    "sourceUrl": "https://www.westminster.ac.uk/business-and-management-courses/2026-27/september/full-time/business-management-human-resource-management-ba-honours",
+    "sourceUrl": "https://www.westminster.ac.uk/business-and-management-courses/2027-28/september/full-time/business-management-human-resource-management-ba-honours",
     "matchType": "exact",
-    "notes": "Westminster quotes 112 UCAS tariff points for both A-levels and the IB, so the IB figure here is the A-level equivalent."
+    "notes": "Westminster quotes 112 UCAS tariff points for both A-levels and the IB, so the IB figure here is the A-level equivalent.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -168,7 +178,7 @@
     "overallRank": 75,
     "subjectRank": 10,
     "entryGrades": "BCC",
-    "ibGrades": "28 (654)",
+    "ibGrades": "28",
     "ucasPoints": "104",
     "typicalOffer": "BCC",
     "gradProspects": "58%",
@@ -176,6 +186,7 @@
     "applicationCode": "N2NP",
     "sourceUrl": "https://www.napier.ac.uk/courses/ba-hons-business-management-with-human-resource-management-undergraduate-fulltime",
     "matchType": "exact",
-    "notes": "Four-year Scottish degree with Year 2 and Year 3 entry available from HNC and HND qualifications."
+    "notes": "Four-year Scottish degree with Year 2 and Year 3 entry available from HNC and HND qualifications.",
+    "entryYear": "2027"
   }
 ]

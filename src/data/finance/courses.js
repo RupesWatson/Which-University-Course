@@ -1,4 +1,5 @@
 import afRawData from './universities.json';
+import financeData from './finance.json';
 import econFinData from './economics-finance.json';
 import fintechData from './fintech.json';
 import finMathData from './financial-maths.json';
@@ -29,6 +30,14 @@ export const COURSES = [
     description: 'Explore courses; official A&F ranking retained here',
     rankingScope: 'official',
     data: afData,
+  },
+  {
+    id: 'finance',
+    label: 'Finance',
+    rankLabel: 'Table Position',
+    description: 'Explore single-honours Finance degrees (BSc, BA, BFin) and Finance-led variants',
+    rankingScope: 'comparison',
+    data: financeData,
   },
   {
     id: 'econFin',
@@ -74,7 +83,7 @@ export const COURSES = [
     id: 'appliedAI',
     label: 'Finance & Applied AI',
     rankLabel: 'Table Position',
-    description: 'No verified UCAS 2026 matches in the current university set',
+    description: 'No verified matches in the current university set',
     rankingScope: 'comparison',
     data: appliedAIData,
   },
@@ -90,7 +99,7 @@ export const COURSES = [
     id: 'techManagement',
     label: 'Finance & Technology Management',
     rankLabel: 'Table Position',
-    description: 'No verified UCAS 2026 matches in the current university set',
+    description: 'No verified matches in the current university set',
     rankingScope: 'comparison',
     data: techManagementData,
   },
@@ -106,7 +115,7 @@ export const COURSES = [
     id: 'ventureCapital',
     label: 'Venture Capital & Private Equity',
     rankLabel: 'Table Position',
-    description: 'No verified UCAS 2026 matches in the current university set',
+    description: 'No verified matches in the current university set',
     rankingScope: 'comparison',
     data: ventureCapitalData,
   },
@@ -130,7 +139,7 @@ export const COURSES = [
     id: 'financeLaw',
     label: 'Finance & Law',
     rankLabel: 'Table Position',
-    description: 'No verified UCAS 2026 matches in the current university set',
+    description: 'No verified matches in the current university set',
     rankingScope: 'comparison',
     data: financeLawData,
   },
@@ -138,7 +147,7 @@ export const COURSES = [
     id: 'behaviouralFinance',
     label: 'Behavioural Finance',
     rankLabel: 'Table Position',
-    description: 'No verified UCAS 2026 matches in the current university set',
+    description: 'No verified matches in the current university set',
     rankingScope: 'comparison',
     data: behaviouralFinanceData,
   },
@@ -146,7 +155,7 @@ export const COURSES = [
     id: 'finInn',
     label: 'Finance & Innovation',
     rankLabel: 'Table Position',
-    description: 'No verified UCAS 2026 matches in the current university set',
+    description: 'No verified matches in the current university set',
     rankingScope: 'comparison',
     data: finInnData,
   },

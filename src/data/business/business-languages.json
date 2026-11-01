@@ -7,14 +7,16 @@
     "overallRank": 8,
     "subjectRank": 1,
     "entryGrades": "A*AA-AAA",
-    "ibGrades": "40 (766)-37 (666)",
+    "ibGrades": "40 (766)",
     "ucasPoints": "152",
     "typicalOffer": "A*AA-AAA",
     "gradProspects": "81%",
     "courseName": "International Business with French (MA Hons)",
-    "sourceUrl": "https://study.ed.ac.uk/programmes/undergraduate/609-international-business-with-french/entry-requirements",
+    "applicationCode": "N1R1",
+    "sourceUrl": "https://study.ed.ac.uk/programmes/undergraduate/609-international-business-with-french",
     "matchType": "exact",
-    "notes": "Four-year Scottish MA. Needs a language other than English at B and GCSE French at 6/B, or SL French at 5. German and Spanish run as separate programmes. The entry-requirements page publishes no UCAS code."
+    "notes": "Four-year Scottish MA. Needs a language other than English at B and GCSE French at 6/B, or SL French at 5. German and Spanish run as separate programmes. The entry-requirements page publishes no UCAS code.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -24,14 +26,16 @@
     "overallRank": 9,
     "subjectRank": 2,
     "entryGrades": "AAB",
-    "ibGrades": "36 (665)",
+    "ibGrades": "36",
     "ucasPoints": "136",
     "typicalOffer": "AAB",
     "gradProspects": "91%",
     "courseName": "International Management and Modern Languages (Spanish) (BSc)",
-    "sourceUrl": "https://www.bath.ac.uk/courses/undergraduate-2026/business-and-management/bsc-international-management-and-modern-languages-spanish-with-study-or-work-abroad/",
+    "applicationCode": "B120",
+    "sourceUrl": "https://www.bath.ac.uk/courses/undergraduate-2027/business-and-management/bsc-international-management-and-modern-languages-spanish-with-study-or-work-abroad/",
     "matchType": "exact",
-    "notes": "Needs B in A-level Spanish, or 5 at HL. Four years with a compulsory year abroad. German runs as a separate programme. The course page publishes no UCAS code."
+    "notes": "Needs B in A-level Spanish, or 5 at HL. Four years with a compulsory year abroad. German runs as a separate programme. The course page publishes no UCAS code.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -49,7 +53,8 @@
     "applicationCode": "N1R1",
     "sourceUrl": "https://courses.leeds.ac.uk/j037/modern-languages-and-business-ba",
     "matchType": "close",
-    "notes": "Four years across ten languages including Arabic, Chinese, Japanese and Thai, at beginner or advanced level. Needs GCSE Maths at 5/B."
+    "notes": "Four years across ten languages including Arabic, Chinese, Japanese and Thai, at beginner or advanced level. Needs GCSE Maths at 5/B.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -59,15 +64,16 @@
     "overallRank": 23,
     "subjectRank": 4,
     "entryGrades": "AAB",
-    "ibGrades": "32 (665)",
+    "ibGrades": "32",
     "ucasPoints": "136",
     "typicalOffer": "AAB",
     "gradProspects": "86%",
-    "courseName": "International Business with Language (BSc)",
-    "applicationCode": "N1R9",
-    "sourceUrl": "https://www.birmingham.ac.uk/study/undergraduate/subjects/business-and-management-courses/international-business-with-language-bsc",
+    "courseName": "Modern Languages with Business Management BA",
+    "applicationCode": "R9N1",
+    "sourceUrl": "https://www.birmingham.ac.uk/study/undergraduate/subjects/modern-languages-courses/modern-languages-with-business-management-ba",
     "matchType": "exact",
-    "notes": "French, Spanish and German at advanced level, Chinese from beginner. Advanced routes need B in the language at A-level and 5 at HL."
+    "notes": "French, Spanish and German at advanced level, Chinese from beginner. Advanced routes need B in the language at A-level and 5 at HL.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -83,9 +89,10 @@
     "gradProspects": "71%",
     "courseName": "Business Management and Modern Languages & Cultures (BA)",
     "applicationCode": "RN50",
-    "sourceUrl": "https://sheffield.ac.uk/undergraduate/courses/2026/business-management-and-modern-languages-cultures-ba",
+    "sourceUrl": "https://sheffield.ac.uk/undergraduate/courses/2027/business-management-and-modern-languages-cultures-ba",
     "matchType": "exact",
-    "notes": "Eight languages including Dutch, Czech and Catalan, with a year abroad. Other evidence of language aptitude is considered if you are not taking a language A-level."
+    "notes": "Eight languages including Dutch, Czech and Catalan, with a year abroad. Other evidence of language aptitude is considered if you are not taking a language A-level.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -103,7 +110,8 @@
     "applicationCode": "TN92",
     "sourceUrl": "https://www.ncl.ac.uk/undergraduate/degrees/tn92/",
     "matchType": "close",
-    "notes": "One or two languages to near-native fluency, with an optional year abroad or UK placement."
+    "notes": "One or two languages to near-native fluency, with an optional year abroad or UK placement.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -113,7 +121,7 @@
     "overallRank": 18,
     "subjectRank": 7,
     "entryGrades": "AAB-BBB",
-    "ibGrades": "34-31 (666-665)",
+    "ibGrades": "34 (665)",
     "ucasPoints": "136",
     "typicalOffer": "AAB-BBB",
     "gradProspects": "79%",
@@ -121,7 +129,8 @@
     "applicationCode": "NQ26",
     "sourceUrl": "https://www.cardiff.ac.uk/study/undergraduate/courses/course/business-management-with-welsh-bsc",
     "matchType": "exact",
-    "notes": "Requires Welsh as a first language; second-language Welsh students are not eligible, though equivalent skills are assessed case by case."
+    "notes": "Requires Welsh as a first language; second-language Welsh students are not eligible, though equivalent skills are assessed case by case.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -131,7 +140,7 @@
     "overallRank": 38,
     "subjectRank": 8,
     "entryGrades": "ABB-BBB",
-    "ibGrades": "32-30",
+    "ibGrades": "32",
     "ucasPoints": "128",
     "typicalOffer": "ABB-BBB",
     "gradProspects": "81%",
@@ -139,7 +148,8 @@
     "applicationCode": "NR19",
     "sourceUrl": "https://www.strath.ac.uk/courses/undergraduate/internationalbusinesswithamodernlanguage/",
     "matchType": "exact",
-    "notes": "A five-year integrated masters in French or Spanish, needing B in the language at A-level and a year abroad."
+    "notes": "A five-year integrated masters in French or Spanish, needing B in the language at A-level and a year abroad.",
+    "entryYear": "2026"
   },
   {
     "provenance": "verified",
@@ -157,6 +167,7 @@
     "applicationCode": "N2ML",
     "sourceUrl": "https://www.hw.ac.uk/study/undergraduate/international-business-management-with-a-modern-language",
     "matchType": "exact",
-    "notes": "French or Spanish, needing B in the language at A-level or 5 at HL."
+    "notes": "French or Spanish, needing B in the language at A-level or 5 at HL.",
+    "entryYear": "2027"
   }
 ]
