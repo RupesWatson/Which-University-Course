@@ -1,8 +1,15 @@
 const ALEVEL_SCORE = { 'A*': 56, A: 48, B: 40, C: 32, D: 24, E: 16 };
 
+// An offer may be a band ("AAB-BBB") or an alternative ("AAA or A*AB"). Score
+// only the first set, the standard offer, as ucasPoints and the table sort do.
+// Spaces are not a separator, so a typed "A* A A" stays one set.
+const SET_SEPARATOR = /\s*(?:[-–—/;]|\bor\b|\bto\b)\s*/i;
+
 function scoreALevel(grade) {
-  const tokens = String(grade || '').match(/A\*|[A-E]/g);
-  if (!tokens?.length) return null;
+  const first = String(grade || '').split(SET_SEPARATOR)[0].replace(/\s+/g, '');
+  // A set is grades only; anything else ("N/A") is not an offer.
+  if (!/^(?:A\*|[A-E])+$/.test(first)) return null;
+  const tokens = first.match(/A\*|[A-E]/g);
   return tokens.reduce((sum, t) => sum + (ALEVEL_SCORE[t] || 0), 0);
 }
 

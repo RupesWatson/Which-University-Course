@@ -1489,5 +1489,106 @@
       "Study this if you want to work in a growing and differentiated area of finance that spans investment management, regulation, public policy and consumer finance",
       "Think twice if you want the highest-paying front-office finance career straight out of university — investment banking, quant finance or private equity will be more accessible from a more technically focused degree; behavioural finance is a powerful specialisation but tends to lead to advisory, research and policy roles rather than trading or deal-making"
     ]
+  },
+
+  "finance": {
+    "id": "finance",
+    "title": "Finance",
+    "duration": "3 years / 4 years (with placement or year abroad); 4 years in Scotland",
+    "overview": "A single-honours Finance degree puts financial theory and practice at the centre from the first year rather than sharing the timetable with accounting or economics. You study corporate finance, investments and portfolio management, financial markets and institutions, derivatives and risk, alongside the quantitative methods and econometrics needed to test financial ideas against data. Many programmes add financial technology, sustainable finance or data analytics options in the later years, and most offer a placement year in industry.",
+    "yearByYear": [
+      {
+        "year": 1,
+        "focus": "Foundations",
+        "modules": [
+          "Principles of Finance",
+          "Financial Markets & Institutions",
+          "Quantitative Methods for Finance",
+          "Introductory Economics",
+          "Financial Accounting"
+        ]
+      },
+      {
+        "year": 2,
+        "focus": "Core finance",
+        "modules": [
+          "Corporate Finance",
+          "Investments & Portfolio Theory",
+          "Financial Econometrics",
+          "Derivatives",
+          "Banking & Financial Intermediation"
+        ]
+      },
+      {
+        "year": 3,
+        "focus": "Advanced options & dissertation",
+        "modules": [
+          "Risk Management",
+          "Behavioural Finance",
+          "Financial Technology",
+          "Sustainable Finance",
+          "Dissertation / Final Project"
+        ]
+      }
+    ],
+    "skills": [
+      "Valuation of companies, bonds and derivatives",
+      "Portfolio construction and investment risk analysis",
+      "Financial modelling in spreadsheets and a programming language such as Python or R",
+      "Econometric testing of financial data",
+      "Clear written and spoken communication of financial analysis"
+    ],
+    "professionalBodies": [
+      {
+        "name": "CFA Institute",
+        "benefit": "Many Finance degrees are CFA University Affiliation Program partners, covering much of the Level I syllabus and offering scholarships for the exam"
+      },
+      {
+        "name": "ACCA / CIMA",
+        "benefit": "Some programmes carry exemptions from early professional papers; check each course page, as Finance degrees usually carry fewer than Accounting & Finance"
+      },
+      {
+        "name": "Chartered Institute for Securities & Investment (CISI)",
+        "benefit": "Several universities are CISI accredited centres, letting students take the Investment Operations or Fundamentals certificates alongside the degree"
+      }
+    ],
+    "careers": [
+      {
+        "role": "Investment Banking Analyst",
+        "salary": "Varies widely by firm and location",
+        "demand": "High"
+      },
+      {
+        "role": "Asset Management / Investment Analyst",
+        "salary": "Varies widely by firm and location",
+        "demand": "High"
+      },
+      {
+        "role": "Corporate Finance / Financial Analyst",
+        "salary": "Varies widely by firm and location",
+        "demand": "High"
+      },
+      {
+        "role": "Risk Analyst",
+        "salary": "Varies widely by firm and location",
+        "demand": "High"
+      }
+    ],
+    "topEmployers": [
+      "Investment banks",
+      "Asset managers",
+      "The Big Four accountancy firms",
+      "Retail and commercial banks",
+      "Insurers",
+      "Financial regulators"
+    ],
+    "employerPerspective": "Employers in banking, asset management and corporate finance recruit Finance graduates for their technical grounding in valuation, markets and risk. Internships in the penultimate year carry a great deal of weight in graduate recruitment, so a placement year or summer internship matters as much as the degree classification.",
+    "entryRequirements": "Offers in this table run from A*AA (London School of Economics and Political Science) to CCC (University of Dundee); the middle of the table asks for about ABB-BCC. Many universities want Maths at GCSE grade 6/B or above, and the most selective ask for A-level Maths. Each row links to the university's own 2027-entry page — check it for subject requirements and contextual offers.",
+    "furtherStudy": "MSc Finance, MSc Investment Management, MSc Financial Engineering or Quantitative Finance, and professional qualifications such as the CFA, CAIA or FRM.",
+    "isItForYou": [
+      "Study this if you want finance itself as your main subject from the first year, not shared with accounting or economics",
+      "Study this if you enjoy numbers and want to understand how markets price companies, bonds and risk",
+      "Think twice if you want to qualify as a chartered accountant — Accounting & Finance usually carries more professional exemptions"
+    ]
   }
 }

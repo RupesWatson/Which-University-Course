@@ -7,7 +7,7 @@
     "overallRank": 27,
     "subjectRank": 1,
     "entryGrades": "BCC-CCC",
-    "ibGrades": "30-29",
+    "ibGrades": "30",
     "ucasPoints": "104",
     "typicalOffer": "BCC-CCC",
     "gradProspects": "58%",
@@ -15,7 +15,8 @@
     "applicationCode": "N230",
     "sourceUrl": "https://www.surrey.ac.uk/undergraduate/international-hospitality-and-tourism-management",
     "matchType": "exact",
-    "notes": "Ranked first in the UK for the subject; N231 is the placement route."
+    "notes": "Ranked first in the UK for the subject; N231 is the placement route.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -25,7 +26,7 @@
     "overallRank": 38,
     "subjectRank": 2,
     "entryGrades": "ABB-BBB",
-    "ibGrades": "32-30",
+    "ibGrades": "32",
     "ucasPoints": "128",
     "typicalOffer": "ABB-BBB",
     "gradProspects": "68%",
@@ -33,25 +34,8 @@
     "applicationCode": "N890",
     "sourceUrl": "https://www.strath.ac.uk/courses/undergraduate/hospitalitytourismmanagement/",
     "matchType": "exact",
-    "notes": "Four-year Scottish degree; IB needs no subject below 5 plus SL5 English and Maths. Joint routes with accounting, marketing, law and languages."
-  },
-  {
-    "provenance": "verified",
-    "ibSource": "published",
-    "name": "Aberystwyth University",
-    "tier": "Other Universities",
-    "overallRank": 46,
-    "subjectRank": 4,
-    "entryGrades": "BBB-CCC",
-    "ibGrades": "30-26",
-    "ucasPoints": "120",
-    "typicalOffer": "BBB-CCC",
-    "gradProspects": "57%",
-    "courseName": "Tourism Management (BSc)",
-    "applicationCode": "N800",
-    "sourceUrl": "https://courses.aber.ac.uk/undergraduate/tourism-management-degree/",
-    "matchType": "exact",
-    "notes": "Aberystwyth quotes 96-120 UCAS tariff points. Needs GCSE English or Welsh and Maths at 4/C."
+    "notes": "Four-year Scottish degree; IB needs no subject below 5 plus SL5 English and Maths. Joint routes with accounting, marketing, law and languages.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -60,25 +44,27 @@
     "tier": "Other Universities",
     "overallRank": 65,
     "subjectRank": 8,
-    "entryGrades": "BBC-BCC",
+    "entryGrades": "BBC",
     "ibGrades": "29",
     "ucasPoints": "112",
-    "typicalOffer": "BBC-BCC",
+    "typicalOffer": "BBC",
     "gradProspects": "62%",
     "courseName": "International Hospitality and Tourism Business Management (BSc)",
+    "applicationCode": "IHT1",
     "sourceUrl": "https://www.mmu.ac.uk/study/undergraduate/course/bsc-international-hospitality-and-tourism-business-management",
     "matchType": "close",
-    "notes": "Manchester Met quotes 104-112 UCAS tariff points. The page publishes no UCAS code or IB total, so the IB figure here is the A-level equivalent."
+    "notes": "Manchester Met quotes 104-112 UCAS tariff points. The page publishes no UCAS code or IB total, so the IB figure here is the A-level equivalent. The university quotes 104–112 UCAS tariff points rather than grades; BBC is the equivalent of 112.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
-    "ibSource": "derived",
+    "ibSource": "published",
     "name": "University of Plymouth",
     "tier": "Other Universities",
     "overallRank": 65,
     "subjectRank": 10,
     "entryGrades": "BCC",
-    "ibGrades": "28",
+    "ibGrades": "26",
     "ucasPoints": "104",
     "typicalOffer": "BCC",
     "gradProspects": "54%",
@@ -86,7 +72,8 @@
     "applicationCode": "N841",
     "sourceUrl": "https://www.plymouth.ac.uk/courses/undergraduate/bsc-international-tourism-management",
     "matchType": "exact",
-    "notes": "Plymouth quotes 104 UCAS tariff points from at least two A-levels. The page publishes no IB total, so the IB figure here is the A-level equivalent."
+    "notes": "Plymouth quotes 104 UCAS tariff points from at least two A-levels. The page publishes no IB total, so the IB figure here is the A-level equivalent. The university quotes 104 UCAS tariff points rather than grades; BCC is the equivalent of 104.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -101,26 +88,30 @@
     "typicalOffer": "BBC",
     "gradProspects": "50%",
     "courseName": "Tourism and Events Management (BA)",
+    "applicationCode": "N805",
     "sourceUrl": "https://www.northumbria.ac.uk/study-at-northumbria/courses/ba-hons-tourism-and-events-management-uusten1/",
     "matchType": "exact",
-    "notes": "Northumbria quotes 96-112 UCAS tariff points and needs Maths and English at 4/C. The page publishes no UCAS code or IB total."
+    "notes": "Northumbria quotes 96-112 UCAS tariff points and needs Maths and English at 4/C. The page publishes no UCAS code or IB total. The university quotes 112 UCAS tariff points rather than grades; BBC is the equivalent of 112.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
-    "ibSource": "derived",
+    "ibSource": "published",
     "name": "Bournemouth University",
     "tier": "Other Universities",
     "overallRank": 75,
     "subjectRank": 18,
     "entryGrades": "ABB-BBC",
-    "ibGrades": "32",
+    "ibGrades": "31",
     "ucasPoints": "128",
     "typicalOffer": "ABB-BBC",
     "gradProspects": "62%",
     "courseName": "International Tourism and Hospitality Management (BA)",
+    "applicationCode": "N840",
     "sourceUrl": "https://www.bournemouth.ac.uk/study/courses/ba-hons-international-tourism-hospitality-management-0",
     "matchType": "exact",
-    "notes": "Bournemouth quotes 112-128 UCAS tariff points for 2027 entry (104-120 for 2026). The page publishes no UCAS code or IB total."
+    "notes": "Bournemouth quotes 112-128 UCAS tariff points for 2027 entry (104-120 for 2026). The page publishes no UCAS code or IB total.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -129,34 +120,36 @@
     "tier": "Other Universities",
     "overallRank": 60,
     "subjectRank": 19,
-    "entryGrades": "BCC-CCC",
+    "entryGrades": "BCC",
     "ibGrades": "28",
     "ucasPoints": "104",
-    "typicalOffer": "BCC-CCC",
+    "typicalOffer": "BCC",
     "gradProspects": "60%",
     "courseName": "International Tourism Management (BA)",
     "applicationCode": "N800",
     "sourceUrl": "https://www.lincoln.ac.uk/course/intobsub/",
     "matchType": "exact",
-    "notes": "Lincoln quotes 96-104 UCAS tariff points from at least two A-levels."
+    "notes": "Lincoln quotes 96-104 UCAS tariff points from at least two A-levels.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
-    "ibSource": "derived",
+    "ibSource": "published",
     "name": "University of Brighton",
     "tier": "Other Universities",
     "overallRank": 70,
     "subjectRank": 20,
-    "entryGrades": "BBB-BCC",
-    "ibGrades": "30",
-    "ucasPoints": "120",
-    "typicalOffer": "BBB-BCC",
+    "entryGrades": "ABB-BCC",
+    "ibGrades": "27",
+    "ucasPoints": "128",
+    "typicalOffer": "ABB-BCC",
     "gradProspects": "76%",
     "courseName": "Business Management with Tourism (BSc)",
     "applicationCode": "NN81",
     "sourceUrl": "https://www.brighton.ac.uk/courses/study/business-management-with-tourism-bsc-hons.aspx",
     "matchType": "close",
-    "notes": "Brighton has no standalone tourism degree; this is the equivalent route, quoted at 104-120 UCAS tariff points. The page publishes no IB total."
+    "notes": "Brighton has no standalone tourism degree; this is the equivalent route, quoted at 104-120 UCAS tariff points. The page publishes no IB total.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -171,9 +164,11 @@
     "typicalOffer": "BCC",
     "gradProspects": "52%",
     "courseName": "International Hospitality, Tourism and Events Management (BA)",
-    "sourceUrl": "https://www.qmu.ac.uk/study-here/undergraduate-study/2026/ba-hons-international-hospitality-tourism-and-events-management-2026-entry",
+    "applicationCode": "N890",
+    "sourceUrl": "https://www.qmu.ac.uk/study-here/undergraduate-study/2027/ba-hons-international-hospitality-tourism-and-events-management-2027-entry",
     "matchType": "exact",
-    "notes": "Maths and English at National 5 or GCSE grade C/4 preferred. The page publishes no UCAS code."
+    "notes": "Maths and English at National 5 or GCSE grade C/4 preferred. The page publishes no UCAS code.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -183,14 +178,16 @@
     "overallRank": 75,
     "subjectRank": 30,
     "entryGrades": "CCC",
-    "ibGrades": "27 (654)",
+    "ibGrades": "27",
     "ucasPoints": "96",
     "typicalOffer": "CCC",
     "gradProspects": "58%",
     "courseName": "International Tourism & Airline Management (BA)",
+    "applicationCode": "N893",
     "sourceUrl": "https://www.napier.ac.uk/courses/ba-hons-international-tourism-and-airline-management-undergraduate-fulltime",
     "matchType": "exact",
-    "notes": "Advanced entry to Year 2 and Year 3 available from HNC and HND qualifications. The page publishes no UCAS code."
+    "notes": "Advanced entry to Year 2 and Year 3 available from HNC and HND qualifications. The page publishes no UCAS code.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -205,9 +202,11 @@
     "typicalOffer": "CCC",
     "gradProspects": "58%",
     "courseName": "International Tourism Management (BA)",
+    "applicationCode": "N801",
     "sourceUrl": "https://www.cardiffmet.ac.uk/courses/undergraduate/ba-international-tourism-management/",
     "matchType": "exact",
-    "notes": "Cardiff Met quotes 112 tariff points alongside a CCC profile from three A-levels; no specific subjects required. The page publishes no UCAS code or IB total."
+    "notes": "Cardiff Met quotes 112 tariff points alongside a CCC profile from three A-levels; no specific subjects required. The page publishes no UCAS code or IB total.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -222,9 +221,11 @@
     "typicalOffer": "CCC",
     "gradProspects": "50%",
     "courseName": "Tourism Management (BA)",
-    "sourceUrl": "https://www.westminster.ac.uk/tourism-and-events-management-courses/2026-27/september/full-time/tourism-management-ba-honours",
+    "applicationCode": "NK80",
+    "sourceUrl": "https://www.westminster.ac.uk/tourism-and-events-management-courses/2027-28/september/full-time/tourism-management-ba-honours",
     "matchType": "exact",
-    "notes": "Westminster quotes 96 UCAS tariff points for both A-levels and the IB, so the IB figure here is the A-level equivalent. The page publishes no UCAS code."
+    "notes": "Westminster quotes 96 UCAS tariff points for both A-levels and the IB, so the IB figure here is the A-level equivalent. The page publishes no UCAS code.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -239,6 +240,7 @@
     "typicalOffer": "CCC",
     "gradProspects": "42%",
     "courseName": "International Tourism Management (BA)",
+    "applicationCode": "N840",
     "sourceUrl": "https://www.rgu.ac.uk/study/courses/ba-hons-international-tourism-management",
     "matchType": "exact",
     "notes": "Widening-access Year 1 entry is CCC at Scottish Higher. The page publishes no UCAS code."

@@ -7,14 +7,16 @@
     "overallRank": 9,
     "subjectRank": 1,
     "entryGrades": "AAA or A*AB",
-    "ibGrades": "36 (666)",
+    "ibGrades": "36",
     "ucasPoints": "144",
     "typicalOffer": "AAA or A*AB",
     "gradProspects": "91%",
     "courseName": "Management with Marketing (BSc)",
+    "applicationCode": "C161",
     "sourceUrl": "https://www.bath.ac.uk/courses/undergraduate-2027/business-and-management/bsc-management-with-marketing/",
     "matchType": "exact",
-    "notes": "IB alternative is 765 at HL; contextual offer ABB. The course page publishes no UCAS code, and the published cycle is 2027 entry."
+    "notes": "IB alternative is 765 at HL; contextual offer ABB. The course page publishes no UCAS code, and the published cycle is 2027 entry.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -32,7 +34,8 @@
     "applicationCode": "N2N5",
     "sourceUrl": "https://www.exeter.ac.uk/undergraduate-degrees/bsc-marketing-and-management/",
     "matchType": "exact",
-    "notes": "Exeter titles this Marketing and Management rather than a Business and Management marketing pathway."
+    "notes": "Exeter titles this Marketing and Management rather than a Business and Management marketing pathway.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -50,7 +53,8 @@
     "applicationCode": "N501",
     "sourceUrl": "https://www.southampton.ac.uk/courses/marketing-degree-bsc",
     "matchType": "exact",
-    "notes": "Needs GCSE Maths at grade 5 or above."
+    "notes": "Needs GCSE Maths at grade 5 or above.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -68,7 +72,8 @@
     "applicationCode": "N2N5",
     "sourceUrl": "https://courses.leeds.ac.uk/i476/business-management-with-marketing-ba",
     "matchType": "exact",
-    "notes": "Optional placement and study-abroad routes; marketing sits alongside analytics and enterprise pathways."
+    "notes": "Optional placement and study-abroad routes; marketing sits alongside analytics and enterprise pathways.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -78,15 +83,16 @@
     "overallRank": 24,
     "subjectRank": 5,
     "entryGrades": "AAB",
-    "ibGrades": "34 (665)",
+    "ibGrades": "34",
     "ucasPoints": "136",
     "typicalOffer": "AAB",
     "gradProspects": "84%",
     "courseName": "Marketing (BA)",
     "applicationCode": "N500",
-    "sourceUrl": "https://www.liverpool.ac.uk/courses/2026/marketing-ba-hons",
+    "sourceUrl": "https://www.liverpool.ac.uk/courses/marketing-ba-hons",
     "matchType": "exact",
-    "notes": "CIM-accredited."
+    "notes": "CIM-accredited.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -96,7 +102,7 @@
     "overallRank": 38,
     "subjectRank": 6,
     "entryGrades": "ABB-BBB",
-    "ibGrades": "32-30",
+    "ibGrades": "32",
     "ucasPoints": "128",
     "typicalOffer": "ABB-BBB",
     "gradProspects": "86%",
@@ -104,7 +110,8 @@
     "applicationCode": "N500",
     "sourceUrl": "https://www.strath.ac.uk/courses/undergraduate/marketing/",
     "matchType": "exact",
-    "notes": "Strathclyde’s Marketing department is one of the oldest in the UK."
+    "notes": "Strathclyde’s Marketing department is one of the oldest in the UK.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -120,9 +127,10 @@
     "gradProspects": "85%",
     "courseName": "Marketing and Management (BSc)",
     "applicationCode": "N513",
-    "sourceUrl": "https://www.durham.ac.uk/business/courses/marketing-and-management-n513/",
+    "sourceUrl": "https://www.durham.ac.uk/business/courses/marketing-and-management-n513/september-2027/",
     "matchType": "exact",
-    "notes": "IB must include Maths at HL. Placement and study-abroad variants are N514 and N515."
+    "notes": "IB must include Maths at HL. Placement and study-abroad variants are N514 and N515.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -131,16 +139,17 @@
     "tier": "Russell Group",
     "overallRank": 11,
     "subjectRank": 8,
-    "entryGrades": "AAA",
+    "entryGrades": "AAA or A*AB",
     "ibGrades": "36 (18 HL)",
     "ucasPoints": "144",
-    "typicalOffer": "AAA",
+    "typicalOffer": "AAA or A*AB",
     "gradProspects": "84%",
     "courseName": "Marketing (BSc)",
     "applicationCode": "N500",
     "sourceUrl": "https://www.bristol.ac.uk/study/undergraduate/2027/marketing/bsc-marketing/",
     "matchType": "exact",
-    "notes": "A*AB also accepted; contextual offer ABB / IB 32. Accredited by CIM and the IDM. Published cycle is 2027 entry."
+    "notes": "A*AB also accepted; contextual offer ABB / IB 32. Accredited by CIM and the IDM.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -156,9 +165,10 @@
     "gradProspects": "86%",
     "courseName": "Marketing (BSc)",
     "applicationCode": "NN53",
-    "sourceUrl": "https://www.lboro.ac.uk/study/undergraduate/courses/marketing-and-management/",
+    "sourceUrl": "https://www.lboro.ac.uk/study/undergraduate/courses/marketing/",
     "matchType": "exact",
-    "notes": "NN53 is the three-year route; NN52 is the four-year placement route."
+    "notes": "NN53 is the three-year route; NN52 is the four-year placement route.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -168,15 +178,16 @@
     "overallRank": 23,
     "subjectRank": 10,
     "entryGrades": "AAB",
-    "ibGrades": "32 (665)",
+    "ibGrades": "32",
     "ucasPoints": "136",
     "typicalOffer": "AAB",
     "gradProspects": "86%",
-    "courseName": "Business Management with Marketing (BSc)",
-    "applicationCode": "N202",
-    "sourceUrl": "https://www.birmingham.ac.uk/study/undergraduate/subjects/business-and-management-courses/business-management-with-marketing-bsc",
+    "courseName": "Marketing BSc",
+    "applicationCode": "N500",
+    "sourceUrl": "https://www.birmingham.ac.uk/study/undergraduate/subjects/business-and-management-courses/marketing-bsc",
     "matchType": "close",
-    "notes": "Title, code and IB offer are from the course page, which publishes no A-level offer for the Birmingham campus; AAB is Birmingham’s Business Management offer."
+    "notes": "Title, code and IB offer are from the course page, which publishes no A-level offer for the Birmingham campus; AAB is Birmingham’s Business Management offer.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -192,9 +203,10 @@
     "gradProspects": "70%",
     "courseName": "Management (Marketing) (BSc)",
     "applicationCode": "N2N5",
-    "sourceUrl": "https://www.manchester.ac.uk/study/undergraduate/courses/2026/03528/bsc-management-marketing/",
+    "sourceUrl": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/03528/bsc-management-marketing/",
     "matchType": "close",
-    "notes": "Marketing is declared as a specialism within BSc Management; N2N6 is the placement route."
+    "notes": "Marketing is declared as a specialism within BSc Management; N2N6 is the placement route.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -210,9 +222,10 @@
     "gradProspects": "75%",
     "courseName": "Business with Marketing (BSc)",
     "applicationCode": "N1N5",
-    "sourceUrl": "https://www.bayes.citystgeorges.ac.uk/study/undergraduate/courses/business-with-marketing",
+    "sourceUrl": "https://www.bayes.citystgeorges.ac.uk/study/undergraduate/courses/business-with-marketing/2027",
     "matchType": "close",
-    "notes": "Bayes Business School; N151 is the professional-placement route. Needs GCSE Maths at 6/B."
+    "notes": "Bayes Business School; N151 is the professional-placement route. Needs GCSE Maths at 6/B.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -230,7 +243,8 @@
     "applicationCode": "N500",
     "sourceUrl": "https://www.york.ac.uk/study/undergraduate/courses/bsc-marketing/",
     "matchType": "exact",
-    "notes": "CIM-accredited; needs GCSE Maths at 5/B. Year-in-industry variant available."
+    "notes": "CIM-accredited; needs GCSE Maths at 5/B. Year-in-industry variant available.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -239,16 +253,17 @@
     "tier": "Other Universities",
     "overallRank": 11,
     "subjectRank": 14,
-    "entryGrades": "AAB",
-    "ibGrades": "35 (16 HL)",
-    "ucasPoints": "136",
-    "typicalOffer": "AAB",
+    "entryGrades": "ABB",
+    "ibGrades": "32 (16 HL)",
+    "ucasPoints": "128",
+    "typicalOffer": "ABB",
     "gradProspects": "78%",
     "courseName": "Marketing (BSc)",
     "applicationCode": "N500",
-    "sourceUrl": "https://www.lancaster.ac.uk/study/undergraduate/courses/marketing-management-bsc-hons-n500/2026/",
+    "sourceUrl": "https://www.lancaster.ac.uk/study/undergraduate/courses/marketing-management-bsc-hons-n500/2027/",
     "matchType": "exact",
-    "notes": "Lancaster University Management School; CIM-recognised content."
+    "notes": "Lancaster University Management School; CIM-recognised content.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -266,7 +281,8 @@
     "applicationCode": "NN25",
     "sourceUrl": "https://www.sussex.ac.uk/study/undergraduate/courses/marketing-and-management-bsc-hons",
     "matchType": "exact",
-    "notes": "CIM-accredited; professional placement year available."
+    "notes": "CIM-accredited; professional placement year available.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -284,7 +300,8 @@
     "applicationCode": "N494",
     "sourceUrl": "https://www.surrey.ac.uk/undergraduate/business-management-marketing",
     "matchType": "close",
-    "notes": "CIM-accredited. IB needs English and Maths at HL4/SL4. Published cycle is 2027 entry."
+    "notes": "CIM-accredited. IB needs English and Maths at HL4/SL4.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -302,7 +319,8 @@
     "applicationCode": "N500",
     "sourceUrl": "https://www.ncl.ac.uk/undergraduate/degrees/n500/",
     "matchType": "exact",
-    "notes": "Industry-led modules with placement and study-abroad options."
+    "notes": "Industry-led modules with placement and study-abroad options.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -320,25 +338,27 @@
     "applicationCode": "NN25",
     "sourceUrl": "https://www.reading.ac.uk/ready-to-study/study/subject-area/business-and-management-accounting-and-finance-ug/bsc-business-and-management-marketing",
     "matchType": "exact",
-    "notes": "Henley Business School. IB needs 4 in Maths and English at SL. Published cycle is 2027 entry."
+    "notes": "Henley Business School. IB needs 4 in Maths and English at SL.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
-    "ibSource": "derived",
+    "ibSource": "published",
     "name": "University of Kent",
     "tier": "Other Universities",
     "overallRank": 60,
     "subjectRank": 23,
-    "entryGrades": "ABB",
-    "ibGrades": "32",
-    "ucasPoints": "128",
-    "typicalOffer": "ABB",
+    "entryGrades": "BBB",
+    "ibGrades": "30",
+    "ucasPoints": "120",
+    "typicalOffer": "BBB",
     "gradProspects": "80%",
-    "courseName": "Business and Marketing (BSc)",
+    "courseName": "Digital Marketing BSc (Hons)",
     "applicationCode": "N500",
     "sourceUrl": "https://www.kent.ac.uk/courses/undergraduate/868/marketing-bsc",
     "matchType": "close",
-    "notes": "Kent now titles this Business and Marketing. It publishes IB as 128 tariff points (typically H5 H6 H6) rather than a total, so the IB figure here is the A-level equivalent."
+    "notes": "Kent now titles this Business and Marketing. It publishes IB as 128 tariff points (typically H5 H6 H6) rather than a total, so the IB figure here is the A-level equivalent.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -356,6 +376,7 @@
     "applicationCode": "N500",
     "sourceUrl": "https://www.aston.ac.uk/study/courses/marketing-bsc",
     "matchType": "exact",
-    "notes": "Four years with a compulsory integrated placement year. Contextual offer BBC."
+    "notes": "Four years with a compulsory integrated placement year. Contextual offer BBC.",
+    "entryYear": "2027"
   }
 ]

@@ -6695,5 +6695,876 @@
       "address": "University of Dundee, Nethergate, Dundee DD1 4HN",
       "openDayContact": "opendays@dundee.ac.uk"
     }
+  },
+  "queen-mary-university-of-london": {
+    "slug": "queen-mary-university-of-london",
+    "name": "Queen Mary University of London",
+    "city": "London",
+    "founded": 1885,
+    "totalStudents": 31000,
+    "internationalStudents": "49%",
+    "campusType": "East London (Mile End)",
+    "website": "https://www.qmul.ac.uk",
+    "overview": "Queen Mary University of London runs a single-honours Finance degree, Finance BSc (Econ) (Hons). The typical offer for 2027 entry is AAA, including Mathematics, or 36 in the IB.",
+    "rankings": {
+      "complete": 47,
+      "guardian": 50,
+      "qsWorld": 145,
+      "russellGroup": true,
+      "year": 2025
+    },
+    "fees": {
+      "homeUndergrad": "£9,535/year",
+      "internationalUndergrad": "£30,500/year",
+      "livingCostEstimate": "£17,000–£22,000/year (London)"
+    },
+    "employability": {
+      "graduateEmploymentRate": "82%"
+    },
+    "satisfaction": {
+      "nssOverall": 78,
+      "teachingQuality": 80,
+      "academicSupport": 76,
+      "learningResources": 82
+    },
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "Halls on Mile End campus.",
+      "avgWeeklyCost": "£170–£240",
+      "privateRentAreas": "Bow, Whitechapel"
+    },
+    "studentLife": {
+      "union": "QMSU",
+      "societiesCount": "200+",
+      "highlights": [
+        "QMUL Hackathon",
+        "Strong East London tech network"
+      ]
+    },
+    "cityLife": {
+      "description": "East London Mile End campus — close to Shoreditch tech scene.",
+      "transport": "Central Line Tube",
+      "highlights": [
+        "Mile End Park",
+        "Brick Lane nearby"
+      ]
+    },
+    "travelFromLondon": {
+      "trainTime": "Located in London",
+      "trainFromStation": "Mile End Tube",
+      "distanceMiles": "0 miles"
+    },
+    "keyFacts": []
+  },
+  "swansea": {
+    "slug": "swansea",
+    "name": "Swansea University",
+    "city": "Swansea",
+    "overview": "Swansea School of Management sits on the seafront Bay Campus and is strongest in accounting and business economics, with notably low living costs for a city university.",
+    "founded": 1920,
+    "totalStudents": 19000,
+    "internationalStudents": "24%",
+    "campusType": "Bay-side campus (Singleton, Bay)",
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "Swansea guarantees accommodation to all first-year students. Halls are available on both the Singleton Park and Swansea Bay campuses.",
+      "avgWeeklyCost": "£95–£145",
+      "halls": [
+        "Hendrefoilan Student Village",
+        "Preseli",
+        "Beck Hall",
+        "Horton"
+      ],
+      "privateRentAreas": "Brynmill, Uplands, Sketty, Mumbles"
+    },
+    "openDays": [
+      {
+        "date": "28 February 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "28 March 2026",
+        "type": "Undergraduate Open Day"
+      },
+      {
+        "date": "Summer/Autumn 2026 - dates TBC",
+        "type": "Undergraduate Open Day"
+      }
+    ],
+    "studentLife": {
+      "union": "Swansea SU — active and community-focused",
+      "societiesCount": "100+",
+      "sportsTeams": "40+",
+      "highlights": [
+        "Swansea Business Society",
+        "Swansea Enterprise",
+        "Swansea Accounting Society"
+      ]
+    },
+    "cityLife": {
+      "description": "Swansea is a coastal city in South Wales with a beautiful bay, close proximity to the Gower Peninsula (UK's first Area of Outstanding Natural Beauty) and a growing cultural scene. It offers exceptional value for money for students.",
+      "avgRentPerMonth": "£400–£550",
+      "costOfLiving": "Very Low",
+      "transport": "Swansea station (2h30 to London Paddington via Cardiff); good road links via M4",
+      "highlights": [
+        "Swansea Bay beach",
+        "Gower Peninsula walks",
+        "Dylan Thomas Trail",
+        "National Waterfront Museum"
+      ],
+      "nightlife": "Swansea has an active student nightlife scene centred on Wind Street and the city centre; the bay campus provides a beautiful evening setting."
+    },
+    "keyFacts": [
+      "Ranked #27 in the UK for Accounting & Finance (CUG 2027)",
+      "Bay Campus sits directly on the beach",
+      "Among the lowest living costs in the UK"
+    ],
+    "website": "https://www.swansea.ac.uk",
+    "prospectus": "https://www.swansea.ac.uk/undergraduate/",
+    "socials": {
+      "instagram": "https://www.instagram.com/swanseauniversity/",
+      "twitter": "https://twitter.com/SwanseaUni",
+      "youtube": "https://www.youtube.com/swanseauniversity",
+      "tiktok": "https://www.tiktok.com/@swanseauniversity",
+      "linkedin": "https://www.linkedin.com/school/swansea-university/"
+    },
+    "rankings": {
+      "complete": 45,
+      "guardian": 43,
+      "times": 44,
+      "qsWorld": 451,
+      "theWorld": 501,
+      "russellGroup": false,
+      "year": "2025"
+    },
+    "fees": {
+      "homeUndergrad": "£9,535/year",
+      "internationalUndergrad": "£17,000–£20,500/year",
+      "livingCostEstimate": "£9,500–£13,000/year (Swansea is one of the most affordable places to be a student in the UK)"
+    },
+    "funding": {
+      "scholarships": [
+        "Swansea Excellence Scholarship (£2,000 for high-achieving home students)",
+        "International Scholarship (fee reduction for international students)",
+        "Welsh Government Learning Grant (means-tested for Welsh-domiciled students)",
+        "Sports Scholarship (for elite athletes)"
+      ],
+      "bursaries": "Means-tested support via the Welsh Government Learning Grant for Welsh-domiciled students. University Hardship Fund available.",
+      "paymentPlan": "Fees paid in three termly instalments via the student portal."
+    },
+    "employability": {
+      "graduateEmploymentRate": "86%",
+      "topEmployers": [
+        "PwC",
+        "Admiral",
+        "Welsh Government",
+        "Deloitte",
+        "Tata Steel"
+      ]
+    },
+    "facilities": {
+      "sportsFacilities": "Sports Wales National Aquatics Centre (nearby), on-campus gym, sports hall and outdoor pitches. 50+ sports clubs. Surfing, paddleboarding and outdoor pursuits on the Gower Peninsula.",
+      "wellbeing": "Student Wellbeing Service provides counselling, mental health support and disability services. Togetherall (24/7). SU peer support and wellbeing ambassadors."
+    },
+    "satisfaction": {
+      "nssOverall": 82,
+      "teachingQuality": 85,
+      "academicSupport": 83,
+      "learningResources": 84
+    },
+    "travelFromLondon": {
+      "trainTime": "3h 00m (fastest Great Western Railway service)",
+      "trainFromStation": "London Paddington",
+      "trainToStation": "Swansea",
+      "coachTime": "4h 30m (National Express)",
+      "drivingTime": "3h 15m (M4, off-peak)",
+      "distanceMiles": "189 miles west of London",
+      "nearestAirport": "Cardiff Airport (1h by car; flights to 40+ destinations) or Bristol Airport (1h 30m by car)"
+    },
+    "accessibility": {
+      "disabilityService": "Disability Services provides support plans, exam adjustments and assistive technology. Self-refer via the student portal.",
+      "accessibleAccommodation": "Bay Campus has modern accessible accommodation. Accessibility requirements noted at application.",
+      "mentalHealthSupport": "Wellbeing counselling service, mental health practitioners, Togetherall (24/7), and SU peer support.",
+      "dyslexiaSupport": "SpLD assessment, study skills tuition, assistive technology and exam adjustments via Disability Services.",
+      "campusAccessibility": "Bay Campus is purpose-built and fully accessible. Singleton Park Campus is largely step-free. AccessAble guide available online."
+    },
+    "international": {
+      "visaSupport": "International Student Support provides Student Visa guidance, CAS letters and Graduate Route advice. Pre-arrival webinars and portal.",
+      "englishRequirements": "IELTS 6.0 overall (5.5 in each component) for most programmes.",
+      "orientationProgramme": "International Welcome Week before term: NHS registration, UK banking, campus tour and SU International welcome events. Welsh language taster sessions available.",
+      "internationalSocietiesCount": "35+ international and cultural societies",
+      "popularCountries": [
+        "China",
+        "India",
+        "Malaysia",
+        "Nigeria",
+        "United States",
+        "Pakistan",
+        "Saudi Arabia"
+      ]
+    },
+    "contact": {
+      "admissionsEmail": "admissions@swansea.ac.uk",
+      "admissionsPhone": "+44 (0)1792 295111",
+      "address": "Swansea University, Singleton Park, Swansea SA2 8PP",
+      "openDayContact": "opendays@swansea.ac.uk"
+    }
+  },
+  "essex": {
+    "slug": "essex",
+    "name": "University of Essex",
+    "city": "Colchester",
+    "founded": 1964,
+    "totalStudents": 16000,
+    "internationalStudents": "34%",
+    "campusType": "Self-contained campus",
+    "website": "https://www.essex.ac.uk",
+    "overview": "University of Essex runs a single-honours Finance degree, Finance BSc (Hons). The typical offer for 2027 entry is 112 UCAS tariff points, or 29 in the IB.",
+    "rankings": {
+      "complete": 42,
+      "guardian": 40,
+      "qsWorld": 416,
+      "russellGroup": false,
+      "year": 2025
+    },
+    "fees": {
+      "homeUndergrad": "£9,535/year",
+      "internationalUndergrad": "£21,700/year",
+      "livingCostEstimate": "£10,000–£13,000/year"
+    },
+    "employability": {
+      "graduateEmploymentRate": "82%"
+    },
+    "satisfaction": {
+      "nssOverall": 80,
+      "teachingQuality": 82,
+      "academicSupport": 79,
+      "learningResources": 84
+    },
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "First-year accommodation guaranteed on campus.",
+      "avgWeeklyCost": "£125–£175",
+      "privateRentAreas": "Colchester, Wivenhoe"
+    },
+    "studentLife": {
+      "union": "Essex SU",
+      "societiesCount": "180+",
+      "highlights": [
+        "Essex Robotics Society",
+        "EssexHack"
+      ]
+    },
+    "cityLife": {
+      "description": "Compact Colchester campus, 50 minutes by train to London Liverpool Street.",
+      "transport": "Train to London",
+      "highlights": [
+        "Colchester Castle",
+        "Mersea Island"
+      ]
+    },
+    "travelFromLondon": {
+      "trainTime": "50 min",
+      "trainFromStation": "London Liverpool Street",
+      "distanceMiles": "60 miles"
+    },
+    "keyFacts": []
+  },
+  "stirling": {
+    "slug": "stirling",
+    "name": "University of Stirling",
+    "city": "Stirling",
+    "founded": 1967,
+    "totalStudents": 14000,
+    "internationalStudents": "23%",
+    "campusType": "Parkland campus",
+    "website": "https://www.stir.ac.uk",
+    "overview": "University of Stirling runs a single-honours Finance degree, Finance BA (Hons). The typical offer for 2027 entry is BBB, Mathematics preferred (National 5 B / GCSE C/4 or equivalent), or 28 in the IB.",
+    "rankings": {
+      "complete": 45,
+      "guardian": 40,
+      "qsWorld": 481,
+      "russellGroup": false,
+      "year": 2025
+    },
+    "fees": {
+      "homeUndergrad": "£1,820/year (Scottish, SAAS) / £9,535/year (rUK)",
+      "internationalUndergrad": "£18,300/year",
+      "livingCostEstimate": "£10,000–£13,000/year"
+    },
+    "employability": {
+      "graduateEmploymentRate": "82%"
+    },
+    "satisfaction": {
+      "nssOverall": 80,
+      "teachingQuality": 82,
+      "academicSupport": 80,
+      "learningResources": 83
+    },
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "Modern halls on parkland campus with loch.",
+      "avgWeeklyCost": "£130–£175",
+      "privateRentAreas": "Stirling town"
+    },
+    "studentLife": {
+      "union": "Stirling SU",
+      "societiesCount": "100+",
+      "highlights": [
+        "Stirling Marine Society"
+      ]
+    },
+    "cityLife": {
+      "description": "Beautiful campus with on-site loch and Wallace Monument views.",
+      "transport": "Buses to campus",
+      "highlights": [
+        "Loch Lomond nearby",
+        "Stirling Castle"
+      ]
+    },
+    "travelFromLondon": {
+      "trainTime": "5h",
+      "trainFromStation": "London Euston",
+      "distanceMiles": "395 miles"
+    },
+    "keyFacts": []
+  },
+  "heriot-watt": {
+    "slug": "heriot-watt",
+    "name": "Heriot-Watt University",
+    "city": "Edinburgh",
+    "founded": 1821,
+    "totalStudents": 30000,
+    "internationalStudents": "28%",
+    "campusType": "Self-contained parkland campus",
+    "website": "https://www.hw.ac.uk",
+    "overview": "Heriot-Watt’s Edinburgh Business School offers international business, logistics and language-combined routes, with campuses in Dubai and Malaysia that make intra-institution study abroad straightforward.",
+    "rankings": {
+      "complete": 50,
+      "guardian": 35,
+      "qsWorld": 281,
+      "russellGroup": false,
+      "year": 2025
+    },
+    "fees": {
+      "homeUndergrad": "£1,820/year (Scottish, SAAS) / £9,535/year (rUK)",
+      "internationalUndergrad": "£23,160/year",
+      "livingCostEstimate": "£11,000–£14,000/year"
+    },
+    "employability": {
+      "graduateEmploymentRate": "85%",
+      "topEmployers": [
+        "Shell",
+        "Standard Life",
+        "Baillie Gifford",
+        "DHL",
+        "Scottish Power"
+      ]
+    },
+    "satisfaction": {
+      "nssOverall": 79,
+      "teachingQuality": 81,
+      "academicSupport": 78,
+      "learningResources": 83
+    },
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "First-year accommodation guaranteed on campus.",
+      "avgWeeklyCost": "£130–£175",
+      "privateRentAreas": "Currie, Balerno"
+    },
+    "studentLife": {
+      "union": "Heriot-Watt SU",
+      "societiesCount": "100+",
+      "highlights": [
+        "Heriot-Watt Business Society",
+        "Logistics Society",
+        "Heriot-Watt Enterprise"
+      ]
+    },
+    "cityLife": {
+      "description": "Self-contained parkland campus on edge of Edinburgh — bus to city centre.",
+      "transport": "Buses to Edinburgh",
+      "highlights": [
+        "Edinburgh 20 min",
+        "Pentland Hills"
+      ]
+    },
+    "travelFromLondon": {
+      "trainTime": "4h 20m (Edinburgh)",
+      "trainFromStation": "London Kings Cross",
+      "distanceMiles": "400 miles"
+    },
+    "keyFacts": [
+      "Ranked #41 in the UK for Business & Management (CUG 2027)",
+      "Campuses in Dubai and Malaysia for study abroad",
+      "Strong logistics and languages combinations"
+    ]
+  },
+  "northumbria": {
+    "slug": "northumbria",
+    "name": "Northumbria University",
+    "city": "Newcastle",
+    "founded": 1969,
+    "totalStudents": 31000,
+    "internationalStudents": "22%",
+    "campusType": "City centre campus",
+    "website": "https://www.northumbria.ac.uk",
+    "overview": "Newcastle Business School at Northumbria is AACSB-accredited and among the largest business schools in the UK, with strong marketing (26th nationally, 78% graduate prospects) and extensive placement provision.",
+    "rankings": {
+      "complete": 55,
+      "guardian": 47,
+      "qsWorld": 651,
+      "russellGroup": false,
+      "year": 2025
+    },
+    "fees": {
+      "homeUndergrad": "£9,535/year",
+      "internationalUndergrad": "£20,500/year",
+      "livingCostEstimate": "£10,000–£12,500/year"
+    },
+    "employability": {
+      "graduateEmploymentRate": "78%",
+      "topEmployers": [
+        "Sage",
+        "Accenture",
+        "Greggs",
+        "Barclays",
+        "Nissan"
+      ]
+    },
+    "satisfaction": {
+      "nssOverall": 78,
+      "teachingQuality": 80,
+      "academicSupport": 78,
+      "learningResources": 82
+    },
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "Halls in central Newcastle.",
+      "avgWeeklyCost": "£120–£170",
+      "privateRentAreas": "Jesmond, Heaton"
+    },
+    "studentLife": {
+      "union": "Northumbria SU",
+      "societiesCount": "120+",
+      "highlights": [
+        "Northumbria Business Society",
+        "Northumbria Marketing Society",
+        "Northumbria Enterprise"
+      ]
+    },
+    "cityLife": {
+      "description": "Central Newcastle — same vibrant student scene as Newcastle Uni.",
+      "transport": "Metro and bus",
+      "highlights": [
+        "Quayside"
+      ]
+    },
+    "travelFromLondon": {
+      "trainTime": "2h 50m",
+      "trainFromStation": "London Kings Cross",
+      "distanceMiles": "275 miles"
+    },
+    "keyFacts": [
+      "Ranked #26 in the UK for Marketing (CUG 2027)",
+      "AACSB-accredited and one of the largest UK business schools",
+      "City-centre campus in Newcastle"
+    ]
+  },
+  "brighton": {
+    "slug": "brighton",
+    "name": "University of Brighton",
+    "city": "Brighton",
+    "founded": 1859,
+    "totalStudents": 18000,
+    "internationalStudents": "12%",
+    "campusType": "Multi-site (Brighton + Hastings)",
+    "website": "https://www.brighton.ac.uk",
+    "overview": "University of Brighton Business School offers applied tourism, events and business management degrees with 76% graduate prospects in tourism — the strongest outcome figure among the mid-table providers.",
+    "rankings": {
+      "complete": 70,
+      "guardian": 65,
+      "qsWorld": 801,
+      "russellGroup": false,
+      "year": 2025
+    },
+    "fees": {
+      "homeUndergrad": "£9,535/year",
+      "internationalUndergrad": "£16,950/year",
+      "livingCostEstimate": "£12,000–£15,000/year"
+    },
+    "employability": {
+      "graduateEmploymentRate": "88%",
+      "topEmployers": [
+        "American Express",
+        "Legal & General",
+        "Brighton & Hove City Council",
+        "TUI",
+        "Hilton"
+      ]
+    },
+    "satisfaction": {
+      "nssOverall": 77,
+      "teachingQuality": 79,
+      "academicSupport": 76,
+      "learningResources": 80
+    },
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "Halls in Brighton.",
+      "avgWeeklyCost": "£155–£210",
+      "privateRentAreas": "Brighton, Hove"
+    },
+    "studentLife": {
+      "union": "Brighton SU",
+      "societiesCount": "100+",
+      "highlights": [
+        "Brighton Business Society",
+        "Brighton Tourism Society",
+        "Brighton Enterprise"
+      ]
+    },
+    "cityLife": {
+      "description": "Brighton — vibrant seaside city.",
+      "transport": "Train",
+      "highlights": [
+        "Brighton beach",
+        "Lanes"
+      ]
+    },
+    "travelFromLondon": {
+      "trainTime": "1h",
+      "trainFromStation": "London Victoria",
+      "distanceMiles": "55 miles"
+    },
+    "keyFacts": [
+      "Ranked #20 in the UK for Tourism, Transport and Travel (CUG 2027)",
+      "76% graduate prospects in tourism",
+      "Campuses across Brighton and Eastbourne"
+    ]
+  },
+  "coventry": {
+    "slug": "coventry",
+    "name": "Coventry University",
+    "city": "Coventry",
+    "founded": 1843,
+    "totalStudents": 30000,
+    "internationalStudents": "31%",
+    "campusType": "City centre campus",
+    "website": "https://www.coventry.ac.uk",
+    "overview": "Coventry University runs a single-honours Finance degree, Finance and Investment BSc (Hons). The typical offer for 2027 entry is BBC, or 24 in the IB.",
+    "rankings": {
+      "complete": 70,
+      "guardian": 50,
+      "qsWorld": 561,
+      "russellGroup": false,
+      "year": 2025
+    },
+    "fees": {
+      "homeUndergrad": "£9,535/year",
+      "internationalUndergrad": "£19,200/year",
+      "livingCostEstimate": "£10,000–£12,500/year"
+    },
+    "employability": {
+      "graduateEmploymentRate": "82%"
+    },
+    "satisfaction": {
+      "nssOverall": 79,
+      "teachingQuality": 81,
+      "academicSupport": 79,
+      "learningResources": 83
+    },
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "First-year accommodation guaranteed on campus.",
+      "avgWeeklyCost": "£115–£160",
+      "privateRentAreas": "City centre, Earlsdon"
+    },
+    "studentLife": {
+      "union": "Coventry SU",
+      "societiesCount": "150+",
+      "highlights": [
+        "CovHack",
+        "Ethical Hacking Society"
+      ]
+    },
+    "cityLife": {
+      "description": "Compact, affordable city with strong automotive engineering history.",
+      "transport": "Excellent train links to Birmingham/London",
+      "highlights": [
+        "Coventry Cathedral",
+        "Warwick Castle nearby"
+      ]
+    },
+    "travelFromLondon": {
+      "trainTime": "1h 5m",
+      "trainFromStation": "London Euston",
+      "distanceMiles": "100 miles"
+    },
+    "keyFacts": []
+  },
+  "bournemouth": {
+    "slug": "bournemouth",
+    "name": "Bournemouth University",
+    "city": "Bournemouth",
+    "founded": 1976,
+    "totalStudents": 17000,
+    "campusType": "Two campuses (Talbot and Lansdowne)",
+    "website": "https://www.bournemouth.ac.uk",
+    "overview": "Bournemouth University Business School has long-standing strength in tourism, hospitality and events management, drawing on the town’s position as a major UK resort destination, with placement years standard.",
+    "rankings": {
+      "complete": 75,
+      "guardian": 60,
+      "qsWorld": null,
+      "russellGroup": false,
+      "year": 2025
+    },
+    "fees": {
+      "homeUndergrad": "£9,535/year",
+      "internationalUndergrad": "£18,500/year",
+      "livingCostEstimate": "£11,000–£14,000/year"
+    },
+    "employability": {
+      "graduateEmploymentRate": "85%",
+      "topEmployers": [
+        "TUI",
+        "Hilton",
+        "Jet2holidays",
+        "JP Morgan Bournemouth",
+        "Merlin Entertainments"
+      ]
+    },
+    "satisfaction": {
+      "nssOverall": 78,
+      "teachingQuality": 80,
+      "academicSupport": 76,
+      "learningResources": 81
+    },
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "First-year accommodation in halls on Talbot Campus and city.",
+      "avgWeeklyCost": "£130–£180",
+      "privateRentAreas": "Winton, Charminster"
+    },
+    "studentLife": {
+      "union": "Bournemouth SUBU",
+      "societiesCount": "150+",
+      "highlights": [
+        "Bournemouth Tourism Society",
+        "BU Business Society",
+        "BU Enterprise"
+      ]
+    },
+    "cityLife": {
+      "description": "Bournemouth's beaches and pier are 10 minutes from campus — a relaxed seaside student city.",
+      "transport": "Buses; train to Southampton/London",
+      "highlights": [
+        "Bournemouth Beach",
+        "Jurassic Coast nearby"
+      ]
+    },
+    "travelFromLondon": {
+      "trainTime": "2h",
+      "trainFromStation": "London Waterloo",
+      "distanceMiles": "105 miles"
+    },
+    "keyFacts": [
+      "Ranked #18 in the UK for Tourism, Transport and Travel (CUG 2027)",
+      "Placement year standard on tourism and hospitality routes",
+      "Coastal resort location supports sector placements"
+    ]
+  },
+  "anglia-ruskin": {
+    "slug": "anglia-ruskin",
+    "name": "Anglia Ruskin University",
+    "city": "Cambridge + Chelmsford + Peterborough",
+    "founded": 1858,
+    "totalStudents": 30000,
+    "internationalStudents": "16%",
+    "campusType": "Multi-site",
+    "website": "https://www.aru.ac.uk",
+    "overview": "Anglia Ruskin University runs a single-honours Finance degree, Finance with Economics BSc (Hons). The typical offer for 2027 entry is 104–120 UCAS tariff points.",
+    "rankings": {
+      "complete": 90,
+      "guardian": 80,
+      "qsWorld": null,
+      "russellGroup": false,
+      "year": 2025
+    },
+    "fees": {
+      "homeUndergrad": "£9,535/year",
+      "internationalUndergrad": "£17,000/year",
+      "livingCostEstimate": "£10,500–£13,500/year"
+    },
+    "employability": {
+      "graduateEmploymentRate": "90%"
+    },
+    "satisfaction": {
+      "nssOverall": 76,
+      "teachingQuality": 78,
+      "academicSupport": 76,
+      "learningResources": 80
+    },
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "Halls on campuses.",
+      "avgWeeklyCost": "£120–£175",
+      "privateRentAreas": "Local"
+    },
+    "studentLife": {
+      "union": "ARU SU",
+      "societiesCount": "80+",
+      "highlights": [
+        "Paramedic Society"
+      ]
+    },
+    "cityLife": {
+      "description": "Multi-campus across East England.",
+      "transport": "Trains between sites",
+      "highlights": [
+        "Cambridge",
+        "Chelmsford"
+      ]
+    },
+    "travelFromLondon": {
+      "trainTime": "47 min (Cambridge)",
+      "trainFromStation": "London Kings Cross",
+      "distanceMiles": "60 miles"
+    },
+    "keyFacts": []
+  },
+  "de-montfort": {
+    "slug": "de-montfort",
+    "name": "De Montfort University",
+    "city": "Leicester",
+    "founded": 1870,
+    "totalStudents": 25000,
+    "internationalStudents": "20%",
+    "campusType": "City centre campus",
+    "website": "https://www.dmu.ac.uk",
+    "overview": "De Montfort University runs a single-honours Finance degree, Finance and Investment BSc (Hons). The typical offer for 2027 entry is BBC, or 28 in the IB.",
+    "rankings": {
+      "complete": 90,
+      "guardian": 65,
+      "qsWorld": 801,
+      "russellGroup": false,
+      "year": 2025
+    },
+    "fees": {
+      "homeUndergrad": "£9,535/year",
+      "internationalUndergrad": "£17,750/year",
+      "livingCostEstimate": "£10,000–£12,500/year"
+    },
+    "employability": {
+      "graduateEmploymentRate": "78%"
+    },
+    "satisfaction": {
+      "nssOverall": 76,
+      "teachingQuality": 78,
+      "academicSupport": 76,
+      "learningResources": 82
+    },
+    "accommodation": {
+      "firstYearGuarantee": true,
+      "description": "Halls on or near campus in central Leicester.",
+      "avgWeeklyCost": "£110–£155",
+      "privateRentAreas": "City centre, Clarendon Park"
+    },
+    "studentLife": {
+      "union": "DSU",
+      "societiesCount": "120+",
+      "highlights": [
+        "DMU Games Society",
+        "Strong cyber society"
+      ]
+    },
+    "cityLife": {
+      "description": "Leicester is one of UK's most multicultural cities, affordable for students.",
+      "transport": "Compact city, train links",
+      "highlights": [
+        "Curve Theatre",
+        "Richard III burial site"
+      ]
+    },
+    "travelFromLondon": {
+      "trainTime": "1h 15m",
+      "trainFromStation": "London St Pancras",
+      "distanceMiles": "100 miles"
+    },
+    "keyFacts": []
+  },
+  "westminster": {
+    "slug": "westminster",
+    "name": "University of Westminster",
+    "city": "London",
+    "founded": 1838,
+    "totalStudents": 19000,
+    "internationalStudents": "30%",
+    "campusType": "Central London",
+    "website": "https://www.westminster.ac.uk",
+    "overview": "Westminster Business School sits in central London with RICS-accredited real estate provision — sixth nationally with 92% graduate prospects — and strong tourism and events management routes.",
+    "rankings": {
+      "complete": 90,
+      "guardian": 80,
+      "qsWorld": 851,
+      "russellGroup": false,
+      "year": 2025
+    },
+    "fees": {
+      "homeUndergrad": "£9,535/year",
+      "internationalUndergrad": "£17,000/year",
+      "livingCostEstimate": "£17,000–£22,000/year (London)"
+    },
+    "employability": {
+      "graduateEmploymentRate": "74%",
+      "topEmployers": [
+        "CBRE",
+        "Knight Frank",
+        "Transport for London",
+        "Hilton",
+        "Savills"
+      ]
+    },
+    "satisfaction": {
+      "nssOverall": 74,
+      "teachingQuality": 76,
+      "academicSupport": 72,
+      "learningResources": 78
+    },
+    "accommodation": {
+      "firstYearGuarantee": false,
+      "description": "Halls available in London but not guaranteed.",
+      "avgWeeklyCost": "£180–£240",
+      "privateRentAreas": "Acton, Harlesden"
+    },
+    "studentLife": {
+      "union": "Westminster SU",
+      "societiesCount": "80+",
+      "highlights": [
+        "Westminster Property Society",
+        "Westminster Business Society",
+        "Westminster Enterprise"
+      ]
+    },
+    "cityLife": {
+      "description": "Central London Regent Street campus.",
+      "transport": "Multiple Tube lines",
+      "highlights": [
+        "Regent Street",
+        "Soho",
+        "Hyde Park"
+      ]
+    },
+    "travelFromLondon": {
+      "trainTime": "Located in London",
+      "trainFromStation": "Oxford Circus",
+      "distanceMiles": "0 miles"
+    },
+    "keyFacts": [
+      "Ranked #6 in the UK for Land & Property Management (CUG 2027)",
+      "92% graduate prospects in property",
+      "Marylebone and Regent Street campuses in central London"
+    ]
   }
 }

@@ -23,7 +23,8 @@ export default function ExpandedRow({ university, course, colSpan }) {
   // Strands that record per-row provenance say so here. Strands that don't set
   // the field are unaffected — the row simply omits it.
   const provenanceText = {
-    verified: `Offer and course title confirmed against the university's own 2026 entry page${
+    verified: `Offer and course title confirmed against the university's own ${
+      university.entryYear ? `${university.entryYear} entry page` : 'course page'}${
       university.ibSource === 'derived' ? '. That page publishes no IB offer, so the IB figure is an equivalent' : ''}.`,
     indicative: `Not confirmed against the university's own page. Grades are indicative${
       university.ibSource === 'derived' ? ' and the IB figure is derived from them' : ''

@@ -1,53 +1,97 @@
 # Data Sources Review
 
-This project compares chemistry, biochemistry and related life-science
-undergraduate courses across top UK universities.
+The site compares UK undergraduate courses across eleven strands (Chemistry &
+Biochemistry, Finance & Accounting, Physics, Mathematics, Engineering,
+Humanities, Social Sciences, Computer Science, Medicine & Healthcare, Biology &
+Earth Sciences, Business & Management).
 
-## What is verified per row
+## 2027-entry re-verification (November 2026)
 
-- Undergraduate course availability for the subject area
-- Exact or close course title match for each university/course table entry
-- UCAS application code for each row
-- Direct per-row source link to the UCAS course page
-- A-level offer grades (`entryGrades` / `typicalOffer`)
-- Overall university rank (`overallRank`)
-- Graduate-prospects outcome percentage (`gradProspects`)
+Every row in every strand was re-checked against **the university's own course
+page for 2027 entry** — the current UCAS cycle. This replaced the original
+generated data, which turned out to be unreliable:
 
-## Primary sources
+| Problem found | Rows |
+|---|---|
+| A-level offer different on the live page | 779 of 1,216 kept rows (407 higher, 277 lower, the rest a different band or wording) |
+| UCAS code wrong or not published | 589 |
+| IB figure not an IB total (e.g. "6", "6-6-6 (18/21)") | 868 |
+| Course does not exist as listed (dropped) | 183 of 1,399 |
+| `sourceUrl` an invented `digital.ucas.com` link that returned 404 | every one of the 825 UCAS links |
 
-- UCAS 2026 undergraduate course search and course detail pages on
-  `digital.ucas.com`
-- Complete University Guide (CUG) 2026 university profile pages on
-  `thecompleteuniversityguide.co.uk`
-- University open day dates from each institution's official website and UCAS
-  events listings
+### How each row was checked
 
-## Subject areas covered
+1. A checker agent per university found the real course page and recorded the
+   standard (not contextual) A-level offer, the IB total, the UCAS code, the
+   entry year, and a **verbatim quote** of the offer lines.
+2. Code, not the agent, then re-fetched every cited page with headless Chromium
+   and confirmed that the quotes, the grades in them, the IB total and the UCAS
+   code really occur on the page. Sites that block headless browsers (UCL,
+   Oxford, Leicester, Cardiff, Manchester Met, Bournemouth) were confirmed the
+   same way by a same-origin fetch from a real browser tab; Edinburgh, whose
+   offers sit behind a dropdown, by an independent re-capture with the dropdown
+   selected.
+3. Every judgement call — a course that has been renamed, merged or withdrawn —
+   was reviewed against one rule: a replacement stays only if it is the table's
+   subject, a named route or variant of it, or (for placement tables) the parent
+   degree with an optional placement year. A plain parent degree or a sibling
+   subject (Mathematics for Applied Mathematics, Genetics for Molecular Biology,
+   Nutrition for Dietetics) is dropped rather than shown as a match.
 
-| Subject | Ranking basis | Notes |
-|---|---|---|
-| Biochemistry | CUG 2026 subject ranking | Oxford MBiochem flagship; Cambridge via Natural Sciences |
-| Chemistry | CUG 2026 subject ranking | BSc (F100) and MChem (F103) variants |
-| Natural Sciences | Comparison-set position | Cambridge flagship; interdisciplinary route |
-| Biomedical Sciences | Comparison-set position | UCAS code B940/B941 |
-| Pharmacology | Comparison-set position | Many BPS-accredited (B210) |
-| Molecular Biology | Comparison-set position | BSc and MBiol titles |
-| Medicinal Chemistry | Comparison-set position | F118 / F153 variants |
-| Genetics | Comparison-set position | UCAS code C400 |
-| Microbiology | Comparison-set position | UCAS code C500 |
-| Biochemistry with Placement | Comparison-set position | Mandatory/optional industrial year (C702/C704/C706) |
+UCAS's own course search serves a CAPTCHA to automated browsers, so no row is
+sourced from UCAS; the university's page is the source of truth.
 
-## How the tables work
+### What each row now carries
 
-- A university appears in a subject table only if a verified UCAS undergraduate
-  course was found for that subject area.
-- The app shows the actual verified course title for each university.
-- Rows are tagged either `exact` or `close`:
-  - `exact`: the UCAS course title clearly matches the selected subject area.
-  - `close`: a nearby variant that still belongs in the subject area. The most
-    common case is Cambridge, which does not offer standalone Biochemistry /
-    Chemistry / Genetics at undergraduate level — students apply to **Natural
-    Sciences** and specialise from Year 2.
+- `sourceUrl` — the university page the offer was read from
+- `entryYear` — the cycle that page states (2027 for all but a handful that
+  still publish only 2026; those say so)
+- `provenance: 'verified'` — shown in the expanded row as "Verified"
+- `entryGrades` / `typicalOffer` — the standard offer; a band is stored
+  top-first ("AAB-BBB"), and `typicalOffer` adds the subject requirements
+- `ucasPoints` — always computed from the first grade set of `entryGrades`
+- `ibGrades` + `ibSource` — the published IB total (with the HL requirement),
+  or, where a page publishes none, the A-level equivalent marked `derived`
+- `applicationCode` — only where the page publishes a UCAS code
+
+**Tariff-only offers.** Some universities quote UCAS points instead of grades
+("104–112 UCAS points"). Those rows take the top of the band, convert it to the
+equivalent three grades (112 → BBC), keep the points band in `typicalOffer`, and
+say so in the note — the same convention the Business strand already used.
+
+**Graduate-entry and audition courses.** Graduate-entry Medicine asks for a
+degree (e.g. "2:1 degree, any subject") and conservatoires audition. Those rows
+carry `entryBasis: 'degree' | 'audition'`, no UCAS points and (graduate) no IB
+figure, so the grade filter does not pretend to score them.
+
+### Thin tables
+
+Several course tables are subjects UK universities rarely run as a named
+undergraduate degree, so verification left them short: Computational Physics
+(1 row), Human-Computer Interaction (2), Operational Research (2),
+Biotechnology (3) and Forestry & Countryside (3). They are kept, not removed;
+deciding whether to keep each is a product call.
+
+## Finance table (added November 2026)
+
+The Finance strand has a new **Finance** table: single-honours Finance degrees
+(BSc, BA, BFin, MA) and Finance-led variants such as Finance and Investment. All
+82 institutions on the site were checked; 31 run one and are listed, ordered by
+overall university rank. Accounting & Finance, Economics & Finance, Banking &
+Finance and Financial Mathematics are excluded because other tables cover them,
+as are online-only and top-up routes. Aberdeen's Finance page publishes no
+grades, so it is left out rather than guessed. Universities new to the Finance
+strand reuse their factual profile from another strand, with subject-specific
+copy dropped, and take their graduate-prospects figure from the CUG 2027
+**Accounting & Finance** table (the closest published subject table), not from
+whatever subject another strand happened to list.
+
+## Russell Group tags corrected (November 2026)
+
+46 rows carried the wrong tier: Warwick, York, Southampton, Exeter and Queen's
+Belfast were tagged "Other Universities" in some tables, and Bath, Leicester and
+Reading "Russell Group" in others. Every row now follows the 24-member Russell
+Group list, as the Business generator already did.
 
 ## University tiers
 
@@ -58,11 +102,15 @@ Sussex, Leicester, Reading, Keele, Surrey, Aberystwyth).
 
 ## Caveats
 
-- Subject ordering for non-Biochemistry/Chemistry tables is comparison-set
-  position, not an external published subject ranking.
+- Rankings and graduate prospects were **not** re-checked in this pass; they are
+  still the CUG figures each strand was built with.
+- Subject ordering for most tables is comparison-set position, not an external
+  published subject ranking.
 - Long-form course-detail copy in `course-details.json` and university profile
   copy in `university-details.json` are hand-authored and indicative.
 - Open day dates are indicative — always confirm on the official university site.
+- Offers change every cycle. Re-run the check each autumn when universities
+  publish the next cycle.
 
 ---
 
@@ -169,10 +217,10 @@ The strand is now **11 courses and 152 rows**, down from 12 and 180.
 
 ## Cycle drift
 
-Several universities have already rolled their published cycle forward to
-2027/28 (Queen's, Reading, Surrey, Bath, Bristol, Leicester, UCL's default view
-and others). Where the cited offer is for a later cycle, the row's note says so.
-This is worth re-checking each admissions year.
+The strand was first verified on 2026-10-01, mostly against 2026-entry pages.
+In November 2026 every row was re-checked against the 2027-entry page (see the
+re-verification section at the top) and now carries `entryYear`; the generator
+passes it through from each row's `year` option. Re-check each admissions year.
 
 ## Generated, not hand-edited
 

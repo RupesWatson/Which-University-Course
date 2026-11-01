@@ -15,7 +15,8 @@
     "applicationCode": "NN34",
     "sourceUrl": "https://www.kcl.ac.uk/study/undergraduate/courses/accounting-finance-bsc/entry-requirements",
     "matchType": "close",
-    "notes": "A-levels must include grade A in Maths, and the IB a 6 in HL Maths. Accredited by ACCA, ICAEW, ICAS and CIMA."
+    "notes": "A-levels must include grade A in Maths, and the IB a 6 in HL Maths. Accredited by ACCA, ICAEW, ICAS and CIMA.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -25,14 +26,16 @@
     "overallRank": 9,
     "subjectRank": 3,
     "entryGrades": "AAA or A*AB",
-    "ibGrades": "36 (666)",
+    "ibGrades": "36",
     "ucasPoints": "144",
     "typicalOffer": "AAA or A*AB",
     "gradProspects": "88%",
     "courseName": "Accounting and Management (BSc)",
-    "sourceUrl": "https://www.bath.ac.uk/courses/undergraduate-2026/accounting-and-finance/bsc-accounting-and-management/",
+    "applicationCode": "C170",
+    "sourceUrl": "https://www.bath.ac.uk/courses/undergraduate-2027/accounting-and-finance/bsc-accounting-and-management/",
     "matchType": "exact",
-    "notes": "IB alternative is 765 at HL. The course page publishes no UCAS code."
+    "notes": "IB alternative is 765 at HL. The course page publishes no UCAS code.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -48,9 +51,10 @@
     "gradProspects": "92%",
     "courseName": "Advanced Accounting with Placement (MAcc)",
     "applicationCode": "N400",
-    "sourceUrl": "https://www.qub.ac.uk/courses/undergraduate/2026/advanced-accounting-placement-macc-n400/",
+    "sourceUrl": "https://www.qub.ac.uk/courses/undergraduate/advanced-accounting-placement-macc-n400/",
     "matchType": "close",
-    "notes": "Four-year integrated masters; Queen’s no longer lists a three-year Accounting BSc. Needs GCSE Maths at 6/B."
+    "notes": "Four-year integrated masters; Queen’s no longer lists a three-year Accounting BSc. Needs GCSE Maths at 6/B.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -68,7 +72,8 @@
     "applicationCode": "N420",
     "sourceUrl": "https://courses.leeds.ac.uk/f834/accounting-and-finance-bsc",
     "matchType": "close",
-    "notes": "Leeds has no Accounting and Management degree; this is the equivalent route."
+    "notes": "Leeds has no Accounting and Management degree; this is the equivalent route.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -84,9 +89,10 @@
     "gradProspects": "86%",
     "courseName": "Accounting (BSc)",
     "applicationCode": "N408",
-    "sourceUrl": "https://www.durham.ac.uk/business/courses/accounting-n408/",
+    "sourceUrl": "https://www.durham.ac.uk/business/courses/accounting-n408/september-2027/",
     "matchType": "exact",
-    "notes": "Needs GCSE Maths at 6/B if Maths is not taken at A-level. Placement and year-abroad variants are N409 and N410."
+    "notes": "Needs GCSE Maths at 6/B if Maths is not taken at A-level. Placement and year-abroad variants are N409 and N410.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -96,7 +102,7 @@
     "overallRank": 23,
     "subjectRank": 8,
     "entryGrades": "AAA",
-    "ibGrades": "32 (666)",
+    "ibGrades": "32",
     "ucasPoints": "144",
     "typicalOffer": "AAA",
     "gradProspects": "77%",
@@ -104,7 +110,8 @@
     "applicationCode": "N400",
     "sourceUrl": "https://www.birmingham.ac.uk/study/undergraduate/subjects/accounting-and-finance-courses/accounting-and-finance-bsc",
     "matchType": "close",
-    "notes": "Needs GCSE Maths at 6. Birmingham offers no Accounting and Management degree."
+    "notes": "Needs GCSE Maths at 6. Birmingham offers no Accounting and Management degree.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -122,7 +129,8 @@
     "applicationCode": "NN41",
     "sourceUrl": "https://www.exeter.ac.uk/undergraduate-degrees/bsc-accounting-and-business/",
     "matchType": "exact",
-    "notes": "Four-year variants available with industrial experience or a year abroad."
+    "notes": "Four-year variants available with industrial experience or a year abroad.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -140,7 +148,8 @@
     "applicationCode": "N400",
     "sourceUrl": "https://www.strath.ac.uk/courses/undergraduate/accounting/",
     "matchType": "exact",
-    "notes": "Requires A-level Maths at A; IB needs HL5 Maths and SL5 English. Triple-crown accredited."
+    "notes": "Requires A-level Maths at A; IB needs HL5 Maths and SL5 English. Triple-crown accredited.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -158,7 +167,8 @@
     "applicationCode": "N400",
     "sourceUrl": "https://www.lboro.ac.uk/study/undergraduate/courses/accounting-and-finance-bsc/",
     "matchType": "close",
-    "notes": "N400 is the three-year route; NN34 is the four-year placement route."
+    "notes": "N400 is the three-year route; NN34 is the four-year placement route.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -174,9 +184,10 @@
     "gradProspects": "77%",
     "courseName": "Management (Accounting and Finance) (BSc)",
     "applicationCode": "NN24",
-    "sourceUrl": "https://www.manchester.ac.uk/study/undergraduate/courses/2026/03520/bsc-management-accounting-and-finance/",
+    "sourceUrl": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/03520/bsc-management-accounting-and-finance/",
     "matchType": "close",
-    "notes": "Accredited route towards ICAEW and ACCA exemptions."
+    "notes": "Accredited route towards ICAEW and ACCA exemptions.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -194,7 +205,8 @@
     "applicationCode": "N420",
     "sourceUrl": "https://sheffield.ac.uk/undergraduate/courses/2027/accounting-and-financial-management-ba",
     "matchType": "exact",
-    "notes": "A BA, not a BSc. IB 33 accepted with an A in a social-science extended essay. Needs GCSE Maths at 6/B."
+    "notes": "A BA, not a BSc. IB 33 accepted with an A in a social-science extended essay. Needs GCSE Maths at 6/B.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -210,9 +222,10 @@
     "gradProspects": "79%",
     "courseName": "Accounting and Management (BSc)",
     "applicationCode": "NN24",
-    "sourceUrl": "https://www.lancaster.ac.uk/study/undergraduate/courses/accounting-and-management-bsc-hons-nn24/2026/",
+    "sourceUrl": "https://www.lancaster.ac.uk/study/undergraduate/courses/accounting-and-management-bsc-hons-nn24/2027/",
     "matchType": "exact",
-    "notes": "Needs GCSE Maths at 6/B and English at 4/C."
+    "notes": "Needs GCSE Maths at 6/B and English at 4/C.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -230,7 +243,8 @@
     "applicationCode": "N400",
     "sourceUrl": "https://www.southampton.ac.uk/courses/accounting-finance-degree-bsc",
     "matchType": "close",
-    "notes": "Requires GCSE Maths at grade 5 or above."
+    "notes": "Requires GCSE Maths at grade 5 or above.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -248,7 +262,8 @@
     "applicationCode": "N400",
     "sourceUrl": "https://www.ncl.ac.uk/undergraduate/degrees/n400/",
     "matchType": "close",
-    "notes": "Professionally accredited with exemptions from several professional bodies."
+    "notes": "Professionally accredited with exemptions from several professional bodies.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -258,7 +273,7 @@
     "overallRank": 18,
     "subjectRank": 24,
     "entryGrades": "AAB-BBB",
-    "ibGrades": "34-31 (666-665)",
+    "ibGrades": "34 (665)",
     "ucasPoints": "136",
     "typicalOffer": "AAB-BBB",
     "gradProspects": "66%",
@@ -266,7 +281,8 @@
     "applicationCode": "N490",
     "sourceUrl": "https://www.cardiff.ac.uk/study/undergraduate/courses/course/accounting-and-finance-bsc",
     "matchType": "close",
-    "notes": "The grade range spans Cardiff’s standard and contextual offers."
+    "notes": "The grade range spans Cardiff’s standard and contextual offers.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -284,7 +300,8 @@
     "applicationCode": "NN34",
     "sourceUrl": "https://www.surrey.ac.uk/undergraduate/accounting-and-finance",
     "matchType": "close",
-    "notes": "Accredited by five professional bodies, giving exemptions from selected exams."
+    "notes": "Accredited by five professional bodies, giving exemptions from selected exams.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -302,7 +319,8 @@
     "applicationCode": "N420",
     "sourceUrl": "https://www.aston.ac.uk/study/courses/accounting-and-finance-bsc",
     "matchType": "close",
-    "notes": "Four years with a compulsory integrated placement year. Contextual offer BBC."
+    "notes": "Four years with a compulsory integrated placement year. Contextual offer BBC.",
+    "entryYear": "2027"
   },
   {
     "provenance": "verified",
@@ -312,14 +330,15 @@
     "overallRank": 42,
     "subjectRank": 21,
     "entryGrades": "CCC",
-    "ibGrades": "28 (554)",
+    "ibGrades": "28",
     "ucasPoints": "96",
     "typicalOffer": "CCC",
     "gradProspects": "81%",
     "courseName": "Accountancy (BAcc Hons)",
     "applicationCode": "N400",
-    "sourceUrl": "https://www.dundee.ac.uk/undergraduate/accountancy-bacc-hons",
+    "sourceUrl": "https://www.dundee.ac.uk/undergraduate/accountancy-bacc-hons/entry-requirements/all",
     "matchType": "close",
-    "notes": "Four-year Scottish degree starting at Level 1; three-year Level 2 entry needs IB 30. Accredited by ICAS, ACCA, CIMA, AIA and CAI."
+    "notes": "Four-year Scottish degree starting at Level 1; three-year Level 2 entry needs IB 30. Accredited by ICAS, ACCA, CIMA, AIA and CAI.",
+    "entryYear": "2027"
   }
 ]
